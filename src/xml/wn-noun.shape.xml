@@ -30,7 +30,7 @@
       <Lemma writtenForm="bottleneck" partOfSpeech="n"/>
       <Sense id="ewn-bottleneck__1_25_00__" n="0" synset="ewn-13936007-n">
         <SenseRelation relType="derivation" target="ewn-bottleneck__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pentagram-n">
       <Lemma writtenForm="pentagram" partOfSpeech="n"/>
@@ -40,7 +40,7 @@
       <Lemma writtenForm="funnel" partOfSpeech="n"/>
       <Sense id="ewn-funnel__1_25_00__" n="0" synset="ewn-13895461-n">
         <SenseRelation relType="derivation" target="ewn-funnel__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-view_angle-n">
       <Lemma writtenForm="view angle" partOfSpeech="n"/>
@@ -68,7 +68,7 @@
       </Lemma>
       <Sense id="ewn-cast__1_25_00__" n="2" synset="ewn-13936581-n">
         <SenseRelation relType="derivation" target="ewn-cast__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-square-n">
       <Lemma writtenForm="square" partOfSpeech="n">
@@ -77,7 +77,7 @@
       </Lemma>
       <Sense id="ewn-square__1_25_00__" n="0" synset="ewn-13901273-n">
         <SenseRelation relType="derivation" target="ewn-square__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-square__1_25_01__" n="3" synset="ewn-13901590-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-convex_shape-n">
@@ -115,7 +115,7 @@
       <Sense id="ewn-block__1_25_01__" n="2" synset="ewn-13937623-n">
         <SenseRelation relType="derivation" target="ewn-blocky__5_00_00_cubic_00"/>
         <SenseRelation relType="derivation" target="ewn-block__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-conoid-n">
       <Lemma writtenForm="conoid" partOfSpeech="n"/>
@@ -127,7 +127,7 @@
         <SenseRelation relType="derivation" target="ewn-roll__2_30_10__"/>
         <SenseRelation relType="derivation" target="ewn-roll__2_35_05__"/>
         <SenseRelation relType="derivation" target="ewn-roll__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-radius-n">
       <Lemma writtenForm="radius" partOfSpeech="n">
@@ -136,7 +136,7 @@
       <Form writtenForm="radii"/>
       <Sense id="ewn-radius__1_25_00__" n="1" synset="ewn-13894177-n">
         <SenseRelation relType="derivation" target="ewn-radial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-recession-n">
       <Lemma writtenForm="recession" partOfSpeech="n">
@@ -151,7 +151,7 @@
       </Lemma>
       <Sense id="ewn-conic__1_25_00__" n="0" synset="ewn-13895614-n">
         <SenseRelation relType="derivation" target="ewn-conic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-prominence-n">
       <Lemma writtenForm="prominence" partOfSpeech="n"/>
@@ -167,7 +167,7 @@
       </Lemma>
       <Sense id="ewn-prism__1_25_00__" n="0" synset="ewn-13907168-n">
         <SenseRelation relType="derivation" target="ewn-prismatic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-notch-n">
       <Lemma writtenForm="notch" partOfSpeech="n">
@@ -176,7 +176,7 @@
       </Lemma>
       <Sense id="ewn-notch__1_25_00__" n="0" synset="ewn-13928281-n">
         <SenseRelation relType="derivation" target="ewn-notch__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Cupid-ap-s_bow-n">
       <Lemma writtenForm="Cupid&apos;s bow" partOfSpeech="n"/>
@@ -189,7 +189,7 @@
       </Lemma>
       <Sense id="ewn-column__1_25_02__" n="3" synset="ewn-13923115-n">
         <SenseRelation relType="derivation" target="ewn-columnar__5_00_02_columned_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-knot-n">
       <Lemma writtenForm="knot" partOfSpeech="n"/>
@@ -197,7 +197,7 @@
         <SenseRelation relType="derivation" target="ewn-knotty__5_00_00_tangled_00"/>
         <SenseRelation relType="derivation" target="ewn-knot__2_35_02__"/>
         <SenseRelation relType="derivation" target="ewn-knot__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-camber-n">
       <Lemma writtenForm="camber" partOfSpeech="n">
@@ -206,7 +206,7 @@
       </Lemma>
       <Sense id="ewn-camber__1_25_00__" n="0" synset="ewn-13887044-n">
         <SenseRelation relType="derivation" target="ewn-camber__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-droop-n">
       <Lemma writtenForm="droop" partOfSpeech="n">
@@ -217,13 +217,13 @@
         <SenseRelation relType="derivation" target="ewn-droop__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-droop__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-droop__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-crook-n">
       <Lemma writtenForm="crook" partOfSpeech="n"/>
       <Sense id="ewn-crook__1_25_00__" n="1" synset="ewn-13891966-n">
         <SenseRelation relType="derivation" target="ewn-crook__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ramification-n">
       <Lemma writtenForm="ramification" partOfSpeech="n">
@@ -233,7 +233,7 @@
       <Sense id="ewn-ramification__1_25_00__" n="1" synset="ewn-13936864-n">
         <SenseRelation relType="derivation" target="ewn-ramify__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-ramify__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nub-n">
       <Lemma writtenForm="nub" partOfSpeech="n">
@@ -241,7 +241,7 @@
       </Lemma>
       <Sense id="ewn-nub__1_25_00__" n="0" synset="ewn-13918315-n">
         <SenseRelation relType="derivation" target="ewn-nubby__5_00_00_rough_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-complex_plane-n">
       <Lemma writtenForm="complex plane" partOfSpeech="n"/>
@@ -259,7 +259,7 @@
       <Lemma writtenForm="rhombohedron" partOfSpeech="n"/>
       <Sense id="ewn-rhombohedron__1_25_00__" n="0" synset="ewn-13938450-n">
         <SenseRelation relType="derivation" target="ewn-rhombohedral__5_00_00_symmetrical_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-groove-n">
       <Lemma writtenForm="groove" partOfSpeech="n">
@@ -269,7 +269,7 @@
       <Sense id="ewn-groove__1_25_00__" n="0" synset="ewn-13916479-n">
         <SenseRelation relType="derivation" target="ewn-groove__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-groove__2_35_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tip-n">
       <Lemma writtenForm="tip" partOfSpeech="n"/>
@@ -287,7 +287,7 @@
       </Lemma>
       <Sense id="ewn-score__1_25_00__" n="7" synset="ewn-13928411-n">
         <SenseRelation relType="derivation" target="ewn-score__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trapezoid-n">
       <Lemma writtenForm="trapezoid" partOfSpeech="n">
@@ -295,7 +295,7 @@
       </Lemma>
       <Sense id="ewn-trapezoid__1_25_00__" n="0" synset="ewn-13904169-n">
         <SenseRelation relType="derivation" target="ewn-trapezoidal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-epicycle-n">
       <Lemma writtenForm="epicycle" partOfSpeech="n">
@@ -304,7 +304,7 @@
       <Sense id="ewn-epicycle__1_25_00__" n="0" synset="ewn-13932311-n">
         <SenseRelation relType="derivation" target="ewn-epicyclic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-epicyclical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ruck-n">
       <Lemma writtenForm="ruck" partOfSpeech="n">
@@ -312,7 +312,7 @@
       </Lemma>
       <Sense id="ewn-ruck__1_25_00__" n="1" synset="ewn-13930861-n">
         <SenseRelation relType="derivation" target="ewn-ruck__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-line_of_heart-n">
       <Lemma writtenForm="line of heart" partOfSpeech="n"/>
@@ -329,7 +329,7 @@
       <Form writtenForm="trapezia"/>
       <Sense id="ewn-trapezium__1_25_00__" n="0" synset="ewn-13904038-n">
         <SenseRelation relType="antonym" target="ewn-parallelogram__1_25_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-prismatoid-n">
       <Lemma writtenForm="prismatoid" partOfSpeech="n"/>
@@ -357,7 +357,7 @@
       </Lemma>
       <Sense id="ewn-fringe__1_25_00__" n="0" synset="ewn-13926582-n">
         <SenseRelation relType="derivation" target="ewn-fringy__5_00_00_peripheral_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-simple_closed_curve-n">
       <Lemma writtenForm="simple closed curve" partOfSpeech="n"/>
@@ -405,7 +405,7 @@
       <Lemma writtenForm="semicircle" partOfSpeech="n"/>
       <Sense id="ewn-semicircle__1_25_00__" n="0" synset="ewn-13896890-n">
         <SenseRelation relType="derivation" target="ewn-semicircular__5_00_00_curved_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-crow-ap-s_foot-n">
       <Lemma writtenForm="crow&apos;s foot" partOfSpeech="n"/>
@@ -421,7 +421,7 @@
       </Lemma>
       <Sense id="ewn-tube__1_25_00__" n="2" synset="ewn-13924014-n">
         <SenseRelation relType="derivation" target="ewn-tube__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-turn-n">
       <Lemma writtenForm="turn" partOfSpeech="n"/>
@@ -444,7 +444,7 @@
       <Sense id="ewn-rut__1_25_00__" n="0" synset="ewn-13916847-n">
         <SenseRelation relType="derivation" target="ewn-rutty__5_00_00_furrowed_00"/>
         <SenseRelation relType="derivation" target="ewn-rut__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-knob-n">
       <Lemma writtenForm="knob" partOfSpeech="n">
@@ -453,7 +453,7 @@
       </Lemma>
       <Sense id="ewn-knob__1_25_00__" n="2" synset="ewn-13918679-n">
         <SenseRelation relType="derivation" target="ewn-knobby__5_00_00_unshapely_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pentacle-n">
       <Lemma writtenForm="pentacle" partOfSpeech="n">
@@ -465,7 +465,7 @@
       <Lemma writtenForm="oblique triangle" partOfSpeech="n"/>
       <Sense id="ewn-oblique_triangle__1_25_00__" n="0" synset="ewn-13902952-n">
         <SenseRelation relType="antonym" target="ewn-right_triangle__1_25_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-critical_angle-n">
       <Lemma writtenForm="critical angle" partOfSpeech="n"/>
@@ -475,7 +475,7 @@
       <Lemma writtenForm="right angle" partOfSpeech="n"/>
       <Sense id="ewn-right_angle__1_25_00__" n="0" synset="ewn-13914930-n">
         <SenseRelation relType="antonym" target="ewn-oblique_angle__1_25_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-whirl-n">
       <Lemma writtenForm="whirl" partOfSpeech="n">
@@ -485,7 +485,7 @@
       <Sense id="ewn-whirl__1_25_00__" n="1" synset="ewn-13900751-n">
         <SenseRelation relType="derivation" target="ewn-whirl__2_38_04__"/>
         <SenseRelation relType="derivation" target="ewn-whirl__2_38_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-orb-n">
       <Lemma writtenForm="orb" partOfSpeech="n"/>
@@ -497,14 +497,14 @@
       </Lemma>
       <Sense id="ewn-quadrangle__1_25_00__" n="0" synset="ewn-13901783-n">
         <SenseRelation relType="derivation" target="ewn-quadrangular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kink-n">
       <Lemma writtenForm="kink" partOfSpeech="n"/>
       <Sense id="ewn-kink__1_25_00__" n="1" synset="ewn-13900557-n">
         <SenseRelation relType="derivation" target="ewn-kink__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-kink__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-life_line-n">
       <Lemma writtenForm="life line" partOfSpeech="n"/>
@@ -538,7 +538,7 @@
         <SenseRelation relType="derivation" target="ewn-distortionist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-distort__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-distort__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-twirl-n">
       <Lemma writtenForm="twirl" partOfSpeech="n">
@@ -550,10 +550,10 @@
       <Lemma writtenForm="toroid" partOfSpeech="n"/>
       <Sense id="ewn-toroid__1_25_01__" n="0" synset="ewn-13922980-n">
         <SenseRelation relType="derivation" target="ewn-toroidal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-toroid__1_25_00__" n="1" synset="ewn-13922781-n">
         <SenseRelation relType="derivation" target="ewn-toroidal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cardioid-n">
       <Lemma writtenForm="cardioid" partOfSpeech="n"/>
@@ -564,7 +564,7 @@
       <Sense id="ewn-bound__1_25_00__" n="0" synset="ewn-13926085-n">
         <SenseRelation relType="derivation" target="ewn-bound__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-bound__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-angle_of_inclination-n">
       <Lemma writtenForm="angle of inclination" partOfSpeech="n"/>
@@ -591,19 +591,19 @@
       <Lemma writtenForm="crimp" partOfSpeech="n"/>
       <Sense id="ewn-crimp__1_25_00__" n="0" synset="ewn-13930429-n">
         <SenseRelation relType="derivation" target="ewn-crimp__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-forking-n">
       <Lemma writtenForm="forking" partOfSpeech="n"/>
       <Sense id="ewn-forking__1_25_00__" n="0" synset="ewn-13909417-n">
         <SenseRelation relType="derivation" target="ewn-fork__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-prick-n">
       <Lemma writtenForm="prick" partOfSpeech="n"/>
       <Sense id="ewn-prick__1_25_00__" n="1" synset="ewn-13927849-n">
         <SenseRelation relType="derivation" target="ewn-prick__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ellipsoid_of_revolution-n">
       <Lemma writtenForm="ellipsoid of revolution" partOfSpeech="n"/>
@@ -635,10 +635,10 @@
       <Sense id="ewn-arc__1_25_00__" n="1" synset="ewn-13897023-n">
         <SenseRelation relType="derivation" target="ewn-arc__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-arcuate__5_00_00_curved_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-arc__1_25_01__" n="2" synset="ewn-13918793-n">
         <SenseRelation relType="derivation" target="ewn-arc__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-line_of_life-n">
       <Lemma writtenForm="line of life" partOfSpeech="n"/>
@@ -710,7 +710,7 @@
         <SenseRelation relType="derivation" target="ewn-loopy__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-loop__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-loop__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-thickening-n">
       <Lemma writtenForm="thickening" partOfSpeech="n"/>
@@ -738,7 +738,7 @@
         <SenseRelation relType="derivation" target="ewn-joint__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-joint__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-joint__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-decagon-n">
       <Lemma writtenForm="decagon" partOfSpeech="n">
@@ -761,7 +761,7 @@
       <Lemma writtenForm="warp" partOfSpeech="n"/>
       <Sense id="ewn-warp__1_25_00__" n="1" synset="ewn-13908393-n">
         <SenseRelation relType="derivation" target="ewn-warp__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-facet-n">
       <Lemma writtenForm="facet" partOfSpeech="n">
@@ -784,7 +784,7 @@
       <Lemma writtenForm="ray" partOfSpeech="n"/>
       <Sense id="ewn-ray__1_25_00__" n="2" synset="ewn-13936442-n">
         <SenseRelation relType="derivation" target="ewn-ray__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plane_figure-n">
       <Lemma writtenForm="plane figure" partOfSpeech="n"/>
@@ -801,7 +801,7 @@
       </Lemma>
       <Sense id="ewn-oval__1_25_00__" n="0" synset="ewn-13900945-n">
         <SenseRelation relType="derivation" target="ewn-oval__5_00_00_rounded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-midplane-n">
       <Lemma writtenForm="midplane" partOfSpeech="n"/>
@@ -817,7 +817,7 @@
       </Lemma>
       <Sense id="ewn-asymptote__1_25_00__" n="0" synset="ewn-13893574-n">
         <SenseRelation relType="derivation" target="ewn-asymptotic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cube-n">
       <Lemma writtenForm="cube" partOfSpeech="n">
@@ -829,14 +829,14 @@
         <SenseRelation relType="derivation" target="ewn-cubical__5_00_00_cubic_00"/>
         <SenseRelation relType="derivation" target="ewn-cube__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-cubic__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cube__1_25_01__" n="1" synset="ewn-13937623-n">
         <SenseRelation relType="derivation" target="ewn-cuboidal__5_00_00_cubic_00"/>
         <SenseRelation relType="derivation" target="ewn-cubical__5_00_00_cubic_00"/>
         <SenseRelation relType="derivation" target="ewn-cube__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-cubic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-cubic__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-balance-n">
       <Lemma writtenForm="balance" partOfSpeech="n">
@@ -850,7 +850,7 @@
       </Lemma>
       <Sense id="ewn-corrugation__1_25_00__" n="0" synset="ewn-13924922-n">
         <SenseRelation relType="derivation" target="ewn-corrugate__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-prolate_cycloid-n">
       <Lemma writtenForm="prolate cycloid" partOfSpeech="n"/>
@@ -863,7 +863,7 @@
       <Sense id="ewn-incision__1_25_00__" n="0" synset="ewn-13927849-n">
         <SenseRelation relType="derivation" target="ewn-incisive__5_00_00_sharp_00"/>
         <SenseRelation relType="derivation" target="ewn-incise__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stemma-n">
       <Lemma writtenForm="stemma" partOfSpeech="n"/>
@@ -888,13 +888,13 @@
       <Lemma writtenForm="spheroid" partOfSpeech="n"/>
       <Sense id="ewn-spheroid__1_25_00__" n="0" synset="ewn-13921338-n">
         <SenseRelation relType="derivation" target="ewn-spheroidal__5_00_00_rounded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-campana-n">
       <Lemma writtenForm="campana" partOfSpeech="n"/>
       <Sense id="ewn-campana__1_25_00__" n="0" synset="ewn-13908953-n">
         <SenseRelation relType="derivation" target="ewn-campanular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-regular_polygon-n">
       <Lemma writtenForm="regular polygon" partOfSpeech="n"/>
@@ -908,7 +908,7 @@
       <Lemma writtenForm="fork" partOfSpeech="n"/>
       <Sense id="ewn-fork__1_25_00__" n="2" synset="ewn-13937280-n">
         <SenseRelation relType="derivation" target="ewn-fork__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-laugh_line-n">
       <Lemma writtenForm="laugh line" partOfSpeech="n"/>
@@ -930,7 +930,7 @@
         <SenseRelation relType="derivation" target="ewn-dot__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-dot__2_32_00__"/>
         <SenseRelation relType="derivation" target="ewn-dot__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sac-n">
       <Lemma writtenForm="sac" partOfSpeech="n"/>
@@ -947,13 +947,13 @@
       <Form writtenForm="striae"/>
       <Sense id="ewn-stria__1_25_00__" n="0" synset="ewn-13931362-n">
         <SenseRelation relType="derivation" target="ewn-striate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pit-n">
       <Lemma writtenForm="pit" partOfSpeech="n"/>
       <Sense id="ewn-pit__1_25_00__" n="1" synset="ewn-13894850-n">
         <SenseRelation relType="derivation" target="ewn-pit__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dodecahedron-n">
       <Lemma writtenForm="dodecahedron" partOfSpeech="n">
@@ -978,7 +978,7 @@
       </Lemma>
       <Sense id="ewn-boundary__1_25_00__" n="1" synset="ewn-13926085-n">
         <SenseRelation relType="derivation" target="ewn-bound__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pentangle-n">
       <Lemma writtenForm="pentangle" partOfSpeech="n"/>
@@ -988,7 +988,7 @@
       <Lemma writtenForm="hyperboloid" partOfSpeech="n"/>
       <Sense id="ewn-hyperboloid__1_25_00__" n="0" synset="ewn-13919547-n">
         <SenseRelation relType="derivation" target="ewn-hyperboloidal__5_00_00_rounded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-line_roulette-n">
       <Lemma writtenForm="line roulette" partOfSpeech="n"/>
@@ -999,7 +999,7 @@
       <Sense id="ewn-coil__1_25_00__" n="1" synset="ewn-13898609-n">
         <SenseRelation relType="derivation" target="ewn-coil__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-coil__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fissure-n">
       <Lemma writtenForm="fissure" partOfSpeech="n">
@@ -1008,7 +1008,7 @@
       </Lemma>
       <Sense id="ewn-fissure__1_25_00__" n="0" synset="ewn-13930286-n">
         <SenseRelation relType="derivation" target="ewn-fissure__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pyramid-n">
       <Lemma writtenForm="pyramid" partOfSpeech="n">
@@ -1018,7 +1018,7 @@
         <SenseRelation relType="derivation" target="ewn-pyramidal__5_00_00_pointed_00"/>
         <SenseRelation relType="derivation" target="ewn-pyramidical__5_00_00_pointed_00"/>
         <SenseRelation relType="derivation" target="ewn-pyramid__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-angle_of_attack-n">
       <Lemma writtenForm="angle of attack" partOfSpeech="n"/>
@@ -1058,20 +1058,20 @@
         <SenseRelation relType="derivation" target="ewn-symmetric__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-symmetrize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-symmetrise__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sinuosity-n">
       <Lemma writtenForm="sinuosity" partOfSpeech="n"/>
       <Sense id="ewn-sinuosity__1_25_00__" n="0" synset="ewn-13907864-n">
         <SenseRelation relType="derivation" target="ewn-sinuous__5_00_00_curved_00"/>
         <SenseRelation relType="derivation" target="ewn-sinuous__5_00_00_graceful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wedge-n">
       <Lemma writtenForm="wedge" partOfSpeech="n"/>
       <Sense id="ewn-wedge__1_25_00__" n="0" synset="ewn-13942580-n">
         <SenseRelation relType="derivation" target="ewn-wedge__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-parallelogram-n">
       <Lemma writtenForm="parallelogram" partOfSpeech="n">
@@ -1079,7 +1079,7 @@
       </Lemma>
       <Sense id="ewn-parallelogram__1_25_00__" n="0" synset="ewn-13903832-n">
         <SenseRelation relType="antonym" target="ewn-trapezium__1_25_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hexagram-n">
       <Lemma writtenForm="hexagram" partOfSpeech="n">
@@ -1097,7 +1097,7 @@
       </Lemma>
       <Sense id="ewn-sinusoid__1_25_00__" n="1" synset="ewn-13932205-n">
         <SenseRelation relType="derivation" target="ewn-sinusoidal__5_00_00_curved_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ball-n">
       <Lemma writtenForm="ball" partOfSpeech="n"/>
@@ -1113,26 +1113,26 @@
       </Lemma>
       <Sense id="ewn-geodesic__1_25_00__" n="0" synset="ewn-13893053-n">
         <SenseRelation relType="derivation" target="ewn-geodesic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spur-n">
       <Lemma writtenForm="spur" partOfSpeech="n"/>
       <Sense id="ewn-spur__1_25_00__" n="1" synset="ewn-13935854-n">
         <SenseRelation relType="derivation" target="ewn-spur__2_35_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dent-n">
       <Lemma writtenForm="dent" partOfSpeech="n"/>
       <Sense id="ewn-dent__1_25_00__" n="1" synset="ewn-13927849-n">
         <SenseRelation relType="derivation" target="ewn-dent__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-protrusion-n">
       <Lemma writtenForm="protrusion" partOfSpeech="n"/>
       <Sense id="ewn-protrusion__1_25_00__" n="0" synset="ewn-13917127-n">
         <SenseRelation relType="derivation" target="ewn-protrude__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-protrude__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bowl-n">
       <Lemma writtenForm="bowl" partOfSpeech="n"/>
@@ -1150,7 +1150,7 @@
       <Lemma writtenForm="ovoid" partOfSpeech="n"/>
       <Sense id="ewn-ovoid__1_25_00__" n="0" synset="ewn-13938056-n">
         <SenseRelation relType="derivation" target="ewn-ovoid__5_00_00_rounded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-crow-ap-s_feet-n">
       <Lemma writtenForm="crow&apos;s feet" partOfSpeech="n"/>
@@ -1178,7 +1178,7 @@
       </Lemma>
       <Sense id="ewn-scotch__1_25_00__" n="0" synset="ewn-13928411-n">
         <SenseRelation relType="derivation" target="ewn-scotch__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-entasis-n">
       <Lemma writtenForm="entasis" partOfSpeech="n">
@@ -1208,7 +1208,7 @@
       <Lemma writtenForm="convexity" partOfSpeech="n"/>
       <Sense id="ewn-convexity__1_25_00__" n="1" synset="ewn-13886774-n">
         <SenseRelation relType="derivation" target="ewn-convex__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-emptiness-n">
       <Lemma writtenForm="emptiness" partOfSpeech="n"/>
@@ -1220,13 +1220,13 @@
       </Lemma>
       <Sense id="ewn-scoop__1_25_00__" n="1" synset="ewn-13916999-n">
         <SenseRelation relType="derivation" target="ewn-scoop__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-oblique_angle-n">
       <Lemma writtenForm="oblique angle" partOfSpeech="n"/>
       <Sense id="ewn-oblique_angle__1_25_00__" n="0" synset="ewn-13915076-n">
         <SenseRelation relType="antonym" target="ewn-right_angle__1_25_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-parallelepipedon-n">
       <Lemma writtenForm="parallelepipedon" partOfSpeech="n"/>
@@ -1297,7 +1297,7 @@
       </Lemma>
       <Sense id="ewn-variation__1_25_00__" n="5" synset="ewn-13916003-n">
         <SenseRelation relType="derivation" target="ewn-vary__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bolus-n">
       <Lemma writtenForm="bolus" partOfSpeech="n">
@@ -1319,7 +1319,7 @@
       <Lemma writtenForm="arch" partOfSpeech="n"/>
       <Sense id="ewn-arch__1_25_00__" n="0" synset="ewn-13908826-n">
         <SenseRelation relType="derivation" target="ewn-arch__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-magnetic_inclination-n">
       <Lemma writtenForm="magnetic inclination" partOfSpeech="n"/>
@@ -1346,7 +1346,7 @@
       <Lemma writtenForm="taper" partOfSpeech="n"/>
       <Sense id="ewn-taper__1_25_00__" n="0" synset="ewn-13925486-n">
         <SenseRelation relType="derivation" target="ewn-taper__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-right-angled_triangle-n">
       <Lemma writtenForm="right-angled triangle" partOfSpeech="n"/>
@@ -1358,13 +1358,13 @@
       </Lemma>
       <Sense id="ewn-scratch__1_25_00__" n="1" synset="ewn-13927849-n">
         <SenseRelation relType="derivation" target="ewn-scratch__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-convex_polygon-n">
       <Lemma writtenForm="convex polygon" partOfSpeech="n"/>
       <Sense id="ewn-convex_polygon__1_25_00__" n="0" synset="ewn-13889247-n">
         <SenseRelation relType="antonym" target="ewn-concave_polygon__1_25_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-crescent-n">
       <Lemma writtenForm="crescent" partOfSpeech="n">
@@ -1373,7 +1373,7 @@
       </Lemma>
       <Sense id="ewn-crescent__1_25_00__" n="0" synset="ewn-13918910-n">
         <SenseRelation relType="derivation" target="ewn-crescent__5_00_00_rounded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-obtuse-angled_triangle-n">
       <Lemma writtenForm="obtuse-angled triangle" partOfSpeech="n"/>
@@ -1389,10 +1389,10 @@
       </Lemma>
       <Sense id="ewn-circle__1_25_00__" n="0" synset="ewn-13896141-n">
         <SenseRelation relType="derivation" target="ewn-circular__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-circle__1_25_01__" n="2" synset="ewn-13896556-n">
         <SenseRelation relType="derivation" target="ewn-circle__2_35_12__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vector-n">
       <Lemma writtenForm="vector" partOfSpeech="n">
@@ -1413,7 +1413,7 @@
       <Sense id="ewn-swirl__1_25_00__" n="0" synset="ewn-13900751-n">
         <SenseRelation relType="derivation" target="ewn-swirl__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-swirl__2_38_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-belly-n">
       <Lemma writtenForm="belly" partOfSpeech="n">
@@ -1438,7 +1438,7 @@
       </Lemma>
       <Sense id="ewn-dimple__1_25_00__" n="1" synset="ewn-13919388-n">
         <SenseRelation relType="derivation" target="ewn-dimple__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stamp-n">
       <Lemma writtenForm="stamp" partOfSpeech="n">
@@ -1447,7 +1447,7 @@
       <Sense id="ewn-stamp__1_25_00__" n="0" synset="ewn-13936581-n">
         <SenseRelation relType="derivation" target="ewn-stamp__2_36_00__"/>
         <SenseRelation relType="derivation" target="ewn-stamp__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-disproportion-n">
       <Lemma writtenForm="disproportion" partOfSpeech="n">
@@ -1455,7 +1455,7 @@
       </Lemma>
       <Sense id="ewn-disproportion__1_25_00__" n="0" synset="ewn-13921202-n">
         <SenseRelation relType="antonym" target="ewn-proportion__1_25_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-crotchet-n">
       <Lemma writtenForm="crotchet" partOfSpeech="n">
@@ -1500,7 +1500,7 @@
       <Lemma writtenForm="rim" partOfSpeech="n"/>
       <Sense id="ewn-rim__1_25_00__" n="0" synset="ewn-13925029-n">
         <SenseRelation relType="derivation" target="ewn-rim__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-regular_hexahedron-n">
       <Lemma writtenForm="regular hexahedron" partOfSpeech="n"/>
@@ -1524,7 +1524,7 @@
       </Lemma>
       <Sense id="ewn-eccentricity__1_25_00__" n="1" synset="ewn-13899768-n">
         <SenseRelation relType="derivation" target="ewn-eccentric__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-keel-n">
       <Lemma writtenForm="keel" partOfSpeech="n">
@@ -1538,7 +1538,7 @@
       </Lemma>
       <Sense id="ewn-edge__1_25_00__" n="1" synset="ewn-13926085-n">
         <SenseRelation relType="derivation" target="ewn-edge__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-scallop-n">
       <Lemma writtenForm="scallop" partOfSpeech="n">
@@ -1552,7 +1552,7 @@
       <Sense id="ewn-scallop__1_25_00__" n="0" synset="ewn-13897197-n">
         <SenseRelation relType="derivation" target="ewn-scallop__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-scallop__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-picture_plane-n">
       <Lemma writtenForm="picture plane" partOfSpeech="n"/>
@@ -1575,7 +1575,7 @@
         <SenseRelation relType="derivation" target="ewn-ridge__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-ridge__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-ridge__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-crenation-n">
       <Lemma writtenForm="crenation" partOfSpeech="n"/>
@@ -1601,7 +1601,7 @@
       <Lemma writtenForm="blob" partOfSpeech="n"/>
       <Sense id="ewn-blob__1_25_00__" n="0" synset="ewn-13933034-n">
         <SenseRelation relType="derivation" target="ewn-blob__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-junction-n">
       <Lemma writtenForm="junction" partOfSpeech="n">
@@ -1616,7 +1616,7 @@
       </Lemma>
       <Sense id="ewn-hexagon__1_25_00__" n="0" synset="ewn-13904933-n">
         <SenseRelation relType="derivation" target="ewn-hexagonal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cup-n">
       <Lemma writtenForm="cup" partOfSpeech="n">
@@ -1632,7 +1632,7 @@
       <Sense id="ewn-solid__1_25_00__" n="2" synset="ewn-13882990-n">
         <SenseRelation relType="derivation" target="ewn-solidify__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-solid__5_00_00_cubic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bifurcation-n">
       <Lemma writtenForm="bifurcation" partOfSpeech="n">
@@ -1642,10 +1642,10 @@
       <Sense id="ewn-bifurcation__1_25_01__" n="0" synset="ewn-13909749-n">
         <SenseRelation relType="derivation" target="ewn-bifurcate__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-bifurcate__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bifurcation__1_25_00__" n="1" synset="ewn-13909603-n">
         <SenseRelation relType="derivation" target="ewn-bifurcate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-regular_hexagon-n">
       <Lemma writtenForm="regular hexagon" partOfSpeech="n"/>
@@ -1656,13 +1656,13 @@
       <Sense id="ewn-gnarl__1_25_00__" n="0" synset="ewn-13908529-n">
         <SenseRelation relType="derivation" target="ewn-gnarly__5_00_00_crooked_01"/>
         <SenseRelation relType="derivation" target="ewn-gnarl__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tortuosity-n">
       <Lemma writtenForm="tortuosity" partOfSpeech="n"/>
       <Sense id="ewn-tortuosity__1_25_00__" n="0" synset="ewn-13908063-n">
         <SenseRelation relType="derivation" target="ewn-tortuous__5_00_00_crooked_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-jut-n">
       <Lemma writtenForm="jut" partOfSpeech="n">
@@ -1680,7 +1680,7 @@
       <Sense id="ewn-ellipsoid__1_25_00__" n="0" synset="ewn-13919891-n">
         <SenseRelation relType="derivation" target="ewn-ellipsoid__5_00_00_rounded_00"/>
         <SenseRelation relType="derivation" target="ewn-ellipsoidal__5_00_00_rounded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-octahedron-n">
       <Lemma writtenForm="octahedron" partOfSpeech="n"/>
@@ -1691,7 +1691,7 @@
       <Lemma writtenForm="shapelessness" partOfSpeech="n"/>
       <Sense id="ewn-shapelessness__1_25_00__" n="0" synset="ewn-13932904-n">
         <SenseRelation relType="derivation" target="ewn-shapeless__5_00_00_unformed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spherical_polygon-n">
       <Lemma writtenForm="spherical polygon" partOfSpeech="n"/>
@@ -1703,13 +1703,13 @@
         <SenseRelation relType="derivation" target="ewn-mold__2_36_01__"/>
         <SenseRelation relType="derivation" target="ewn-mold__2_36_00__"/>
         <SenseRelation relType="derivation" target="ewn-mold__2_36_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-right_triangle-n">
       <Lemma writtenForm="right triangle" partOfSpeech="n"/>
       <Sense id="ewn-right_triangle__1_25_00__" n="0" synset="ewn-13903208-n">
         <SenseRelation relType="antonym" target="ewn-oblique_triangle__1_25_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-complementary_angles-n">
       <Lemma writtenForm="complementary angles" partOfSpeech="n"/>
@@ -1722,7 +1722,7 @@
       <Sense id="ewn-sag__1_25_00__" n="0" synset="ewn-13928578-n">
         <SenseRelation relType="derivation" target="ewn-sag__2_38_01__"/>
         <SenseRelation relType="derivation" target="ewn-sag__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hemicycle-n">
       <Lemma writtenForm="hemicycle" partOfSpeech="n"/>
@@ -1734,7 +1734,7 @@
       </Lemma>
       <Sense id="ewn-hyperbola__1_25_00__" n="0" synset="ewn-13909268-n">
         <SenseRelation relType="derivation" target="ewn-hyperbolic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-line_of_destiny-n">
       <Lemma writtenForm="line of destiny" partOfSpeech="n"/>
@@ -1756,7 +1756,7 @@
         <SenseRelation relType="derivation" target="ewn-zigzag__5_00_00_crooked_01"/>
         <SenseRelation relType="derivation" target="ewn-zigzag__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-zig-zag__5_00_00_crooked_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-knife-n">
       <Lemma writtenForm="knife" partOfSpeech="n">
@@ -1771,7 +1771,7 @@
       </Lemma>
       <Sense id="ewn-cycloid__1_25_00__" n="0" synset="ewn-13931791-n">
         <SenseRelation relType="derivation" target="ewn-cycloidal__5_00_00_rounded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-space-n">
       <Lemma writtenForm="space" partOfSpeech="n">
@@ -1779,7 +1779,7 @@
       </Lemma>
       <Sense id="ewn-space__1_25_00__" n="1" synset="ewn-13933399-n">
         <SenseRelation relType="derivation" target="ewn-space__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-delta-n">
       <Lemma writtenForm="delta" partOfSpeech="n">
@@ -1801,14 +1801,14 @@
       </Lemma>
       <Sense id="ewn-azimuth__1_25_00__" n="0" synset="ewn-13916195-n">
         <SenseRelation relType="derivation" target="ewn-azimuthal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plane-n">
       <Lemma writtenForm="plane" partOfSpeech="n"/>
       <Sense id="ewn-plane__1_25_00__" n="1" synset="ewn-13883265-n">
         <SenseRelation relType="derivation" target="ewn-plane__5_00_00_even_01"/>
         <SenseRelation relType="derivation" target="ewn-planar__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hypocycloid-n">
       <Lemma writtenForm="hypocycloid" partOfSpeech="n"/>
@@ -1841,7 +1841,7 @@
       </Lemma>
       <Sense id="ewn-twist__1_25_00__" n="5" synset="ewn-13900557-n">
         <SenseRelation relType="derivation" target="ewn-twist__2_35_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-twist__1_25_01__" n="6" synset="ewn-13891966-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-concave_shape-n">
@@ -1855,7 +1855,7 @@
       <Sense id="ewn-slit__1_25_00__" n="2" synset="ewn-13927849-n">
         <SenseRelation relType="derivation" target="ewn-slit__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-slit__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-parabola-n">
       <Lemma writtenForm="parabola" partOfSpeech="n">
@@ -1864,7 +1864,7 @@
       <Sense id="ewn-parabola__1_25_00__" n="0" synset="ewn-13909064-n">
         <SenseRelation relType="derivation" target="ewn-parabolic__5_00_00_rounded_00"/>
         <SenseRelation relType="derivation" target="ewn-parabolical__5_00_00_rounded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-convex_polyhedron-n">
       <Lemma writtenForm="convex polyhedron" partOfSpeech="n"/>
@@ -1884,7 +1884,7 @@
       </Lemma>
       <Sense id="ewn-acantha__1_25_00__" n="0" synset="ewn-13935854-n">
         <SenseRelation relType="derivation" target="ewn-acanthous__5_00_00_pointed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-perigon-n">
       <Lemma writtenForm="perigon" partOfSpeech="n"/>
@@ -1898,7 +1898,7 @@
       <Lemma writtenForm="conglobation" partOfSpeech="n"/>
       <Sense id="ewn-conglobation__1_25_00__" n="0" synset="ewn-13888407-n">
         <SenseRelation relType="derivation" target="ewn-conglobate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bulge-n">
       <Lemma writtenForm="bulge" partOfSpeech="n">
@@ -1911,7 +1911,7 @@
         <SenseRelation relType="derivation" target="ewn-bulge__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-bulge__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-bulge__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-line_of_Saturn-n">
       <Lemma writtenForm="line of Saturn" partOfSpeech="n"/>
@@ -1942,7 +1942,7 @@
       <Sense id="ewn-dip__1_25_01__" n="0" synset="ewn-13927512-n">
         <SenseRelation relType="derivation" target="ewn-dip__2_38_02__"/>
         <SenseRelation relType="derivation" target="ewn-dip__2_30_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-dip__1_25_00__" n="1" synset="ewn-13915590-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-branch-n">
@@ -1953,7 +1953,7 @@
       <Sense id="ewn-branch__1_25_00__" n="2" synset="ewn-13936864-n">
         <SenseRelation relType="derivation" target="ewn-branchy__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-branch__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-counterbalance-n">
       <Lemma writtenForm="counterbalance" partOfSpeech="n">
@@ -1969,7 +1969,7 @@
       <Sense id="ewn-curve__1_25_00__" n="0" synset="ewn-13890262-n">
         <SenseRelation relType="antonym" target="ewn-straight_line__1_25_00__"/>
         <SenseRelation relType="derivation" target="ewn-curve__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-circlet-n">
       <Lemma writtenForm="circlet" partOfSpeech="n">
@@ -1987,7 +1987,7 @@
       <Lemma writtenForm="tortuousness" partOfSpeech="n"/>
       <Sense id="ewn-tortuousness__1_25_00__" n="0" synset="ewn-13908063-n">
         <SenseRelation relType="derivation" target="ewn-tortuous__5_00_00_crooked_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-internal_angle-n">
       <Lemma writtenForm="internal angle" partOfSpeech="n"/>
@@ -2016,7 +2016,7 @@
       <Sense id="ewn-void__1_25_00__" n="1" synset="ewn-13933131-n">
         <SenseRelation relType="derivation" target="ewn-void__5_00_00_empty_00"/>
         <SenseRelation relType="derivation" target="ewn-void__2_30_04__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wave_angle-n">
       <Lemma writtenForm="wave angle" partOfSpeech="n"/>
@@ -2030,7 +2030,7 @@
       <Lemma writtenForm="oblong" partOfSpeech="n"/>
       <Sense id="ewn-oblong__1_25_00__" n="0" synset="ewn-13896000-n">
         <SenseRelation relType="derivation" target="ewn-oblong__5_00_00_long_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rhombus-n">
       <Lemma writtenForm="rhombus" partOfSpeech="n">
@@ -2040,7 +2040,7 @@
       <Form writtenForm="rhombi"/>
       <Sense id="ewn-rhombus__1_25_00__" n="0" synset="ewn-13905618-n">
         <SenseRelation relType="derivation" target="ewn-rhombic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tetragon-n">
       <Lemma writtenForm="tetragon" partOfSpeech="n">
@@ -2049,7 +2049,7 @@
       </Lemma>
       <Sense id="ewn-tetragon__1_25_00__" n="0" synset="ewn-13901783-n">
         <SenseRelation relType="derivation" target="ewn-tetragonal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ringlet-n">
       <Lemma writtenForm="ringlet" partOfSpeech="n"/>
@@ -2065,7 +2065,7 @@
         <SenseRelation relType="derivation" target="ewn-triangular__5_00_00_angular_00"/>
         <SenseRelation relType="derivation" target="ewn-triangulate__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-triangulate__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-triangle__1_25_01__" n="1" synset="ewn-13902291-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-crenature-n">
@@ -2080,7 +2080,7 @@
       </Lemma>
       <Sense id="ewn-border__1_25_00__" n="1" synset="ewn-13926393-n">
         <SenseRelation relType="derivation" target="ewn-border__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-flank-n">
       <Lemma writtenForm="flank" partOfSpeech="n">
@@ -2088,13 +2088,13 @@
       </Lemma>
       <Sense id="ewn-flank__1_25_00__" n="1" synset="ewn-13920070-n">
         <SenseRelation relType="derivation" target="ewn-flank__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-buckle-n">
       <Lemma writtenForm="buckle" partOfSpeech="n"/>
       <Sense id="ewn-buckle__1_25_00__" n="1" synset="ewn-13908393-n">
         <SenseRelation relType="derivation" target="ewn-buckle__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cranny-n">
       <Lemma writtenForm="cranny" partOfSpeech="n"/>
@@ -2104,7 +2104,7 @@
       <Lemma writtenForm="angularity" partOfSpeech="n"/>
       <Sense id="ewn-angularity__1_25_00__" n="0" synset="ewn-13887384-n">
         <SenseRelation relType="derivation" target="ewn-angular__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quadrilateral-n">
       <Lemma writtenForm="quadrilateral" partOfSpeech="n">
@@ -2121,13 +2121,13 @@
         <SenseRelation relType="derivation" target="ewn-curl__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-curl__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-curl__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gibbousness-n">
       <Lemma writtenForm="gibbousness" partOfSpeech="n"/>
       <Sense id="ewn-gibbousness__1_25_00__" n="0" synset="ewn-13917127-n">
         <SenseRelation relType="derivation" target="ewn-gibbous__5_00_00_unfit_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hypotenuse-n">
       <Lemma writtenForm="hypotenuse" partOfSpeech="n">
@@ -2147,7 +2147,7 @@
         <SenseRelation relType="derivation" target="ewn-wrinkle__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-wrinkle__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-wrinkle__2_30_10__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-proportion-n">
       <Lemma writtenForm="proportion" partOfSpeech="n">
@@ -2157,7 +2157,7 @@
       <Sense id="ewn-proportion__1_25_00__" n="2" synset="ewn-13921008-n">
         <SenseRelation relType="antonym" target="ewn-disproportion__1_25_00__"/>
         <SenseRelation relType="derivation" target="ewn-proportion__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ring-n">
       <Lemma writtenForm="ring" partOfSpeech="n"/>
@@ -2180,7 +2180,7 @@
       <Lemma writtenForm="concave polygon" partOfSpeech="n"/>
       <Sense id="ewn-concave_polygon__1_25_00__" n="0" synset="ewn-13889448-n">
         <SenseRelation relType="antonym" target="ewn-convex_polygon__1_25_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spherical_angle-n">
       <Lemma writtenForm="spherical angle" partOfSpeech="n"/>
@@ -2205,7 +2205,7 @@
       <Lemma writtenForm="nubble" partOfSpeech="n"/>
       <Sense id="ewn-nubble__1_25_00__" n="0" synset="ewn-13918315-n">
         <SenseRelation relType="derivation" target="ewn-nubbly__5_00_00_rough_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-centerline-n">
       <Lemma writtenForm="centerline" partOfSpeech="n"/>
@@ -2225,18 +2225,18 @@
       <Lemma writtenForm="paraboloid" partOfSpeech="n"/>
       <Sense id="ewn-paraboloid__1_25_00__" n="0" synset="ewn-13919695-n">
         <SenseRelation relType="derivation" target="ewn-paraboloidal__5_00_00_rounded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-point-n">
       <Lemma writtenForm="point" partOfSpeech="n"/>
       <Sense id="ewn-point__1_25_00__" n="7" synset="ewn-13925175-n">
         <SenseRelation relType="derivation" target="ewn-point__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-point__1_25_02__" n="8" synset="ewn-13934887-n">
         <SenseRelation relType="derivation" target="ewn-point__2_35_12__"/>
         <SenseRelation relType="derivation" target="ewn-point__2_35_11__"/>
         <SenseRelation relType="derivation" target="ewn-point__2_35_13__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-margin-n">
       <Lemma writtenForm="margin" partOfSpeech="n">
@@ -2245,13 +2245,13 @@
       </Lemma>
       <Sense id="ewn-margin__1_25_00__" n="0" synset="ewn-13926393-n">
         <SenseRelation relType="derivation" target="ewn-marginal__5_00_00_peripheral_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hump-n">
       <Lemma writtenForm="hump" partOfSpeech="n"/>
       <Sense id="ewn-hump__1_25_00__" n="0" synset="ewn-13917127-n">
         <SenseRelation relType="derivation" target="ewn-hump__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-flair-n">
       <Lemma writtenForm="flair" partOfSpeech="n">
@@ -2274,7 +2274,7 @@
       <Form writtenForm="polyhedra"/>
       <Sense id="ewn-polyhedron__1_25_00__" n="0" synset="ewn-13906542-n">
         <SenseRelation relType="derivation" target="ewn-polyhedral__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spherical_triangle-n">
       <Lemma writtenForm="spherical triangle" partOfSpeech="n"/>
@@ -2284,7 +2284,7 @@
       <Lemma writtenForm="fold" partOfSpeech="n"/>
       <Sense id="ewn-fold__1_25_00__" n="0" synset="ewn-13930429-n">
         <SenseRelation relType="derivation" target="ewn-fold__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-concavity-n">
       <Lemma writtenForm="concavity" partOfSpeech="n">
@@ -2292,13 +2292,13 @@
       </Lemma>
       <Sense id="ewn-concavity__1_25_00__" n="0" synset="ewn-13887586-n">
         <SenseRelation relType="derivation" target="ewn-concave__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-furcation-n">
       <Lemma writtenForm="furcation" partOfSpeech="n"/>
       <Sense id="ewn-furcation__1_25_00__" n="0" synset="ewn-13909417-n">
         <SenseRelation relType="derivation" target="ewn-furcate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-periphery-n">
       <Lemma writtenForm="periphery" partOfSpeech="n">
@@ -2306,7 +2306,7 @@
       </Lemma>
       <Sense id="ewn-periphery__1_25_00__" n="0" synset="ewn-13926582-n">
         <SenseRelation relType="derivation" target="ewn-peripheral__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hexahedron-n">
       <Lemma writtenForm="hexahedron" partOfSpeech="n">
@@ -2318,19 +2318,19 @@
       <Lemma writtenForm="drop" partOfSpeech="n"/>
       <Sense id="ewn-drop__1_25_00__" n="0" synset="ewn-13924278-n">
         <SenseRelation relType="derivation" target="ewn-droplet__1_23_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-straight_line-n">
       <Lemma writtenForm="straight line" partOfSpeech="n"/>
       <Sense id="ewn-straight_line__1_25_00__" n="0" synset="ewn-13892630-n">
         <SenseRelation relType="antonym" target="ewn-curve__1_25_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-isogon-n">
       <Lemma writtenForm="isogon" partOfSpeech="n"/>
       <Sense id="ewn-isogon__1_25_00__" n="0" synset="ewn-13889136-n">
         <SenseRelation relType="derivation" target="ewn-isogonic__5_00_00_angular_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-crenelle-n">
       <Lemma writtenForm="crenelle" partOfSpeech="n"/>
@@ -2364,7 +2364,7 @@
       </Lemma>
       <Sense id="ewn-juncture__1_25_00__" n="2" synset="ewn-13934166-n">
         <SenseRelation relType="derivation" target="ewn-join__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-base-n">
       <Lemma writtenForm="base" partOfSpeech="n"/>
@@ -2383,11 +2383,11 @@
       <Sense id="ewn-bend__1_25_02__" n="0" synset="ewn-13891966-n">
         <SenseRelation relType="derivation" target="ewn-bend__2_38_01__"/>
         <SenseRelation relType="derivation" target="ewn-bend__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bend__1_25_01__" n="3" synset="ewn-13930429-n">
         <SenseRelation relType="derivation" target="ewn-bend__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-bend__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pentahedron-n">
       <Lemma writtenForm="pentahedron" partOfSpeech="n">
@@ -2413,7 +2413,7 @@
       <Sense id="ewn-pucker__1_25_00__" n="0" synset="ewn-13930861-n">
         <SenseRelation relType="derivation" target="ewn-pucker__2_35_02__"/>
         <SenseRelation relType="derivation" target="ewn-pucker__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-funnel_shape-n">
       <Lemma writtenForm="funnel shape" partOfSpeech="n"/>
@@ -2427,20 +2427,20 @@
       <Lemma writtenForm="gibbosity" partOfSpeech="n"/>
       <Sense id="ewn-gibbosity__1_25_00__" n="0" synset="ewn-13917127-n">
         <SenseRelation relType="derivation" target="ewn-gibbous__5_00_00_unfit_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hollow-n">
       <Lemma writtenForm="hollow" partOfSpeech="n"/>
       <Sense id="ewn-hollow__1_25_02__" n="0" synset="ewn-13933910-n">
         <SenseRelation relType="derivation" target="ewn-hollow__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-incurvation-n">
       <Lemma writtenForm="incurvation" partOfSpeech="n"/>
       <Sense id="ewn-incurvation__1_25_00__" n="0" synset="ewn-13887586-n">
         <SenseRelation relType="derivation" target="ewn-incurvate__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-incurvate__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cladogram-n">
       <Lemma writtenForm="cladogram" partOfSpeech="n"/>
@@ -2459,7 +2459,7 @@
         <SenseRelation relType="derivation" target="ewn-equilibrate__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-equilibrate__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-equilibrize__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-HA-n">
       <Lemma writtenForm="HA" partOfSpeech="n"/>
@@ -2481,7 +2481,7 @@
       <Sense id="ewn-protuberance__1_25_00__" n="0" synset="ewn-13917127-n">
         <SenseRelation relType="derivation" target="ewn-protuberant__5_00_00_protrusive_00"/>
         <SenseRelation relType="derivation" target="ewn-protuberate__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vacancy-n">
       <Lemma writtenForm="vacancy" partOfSpeech="n">
@@ -2489,7 +2489,7 @@
       </Lemma>
       <Sense id="ewn-vacancy__1_25_00__" n="1" synset="ewn-13933131-n">
         <SenseRelation relType="derivation" target="ewn-vacant__5_00_01_empty_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-concave_polyhedron-n">
       <Lemma writtenForm="concave polyhedron" partOfSpeech="n"/>
@@ -2515,7 +2515,7 @@
       <Sense id="ewn-quadrate__1_25_02__" n="0" synset="ewn-13940055-n"/>
       <Sense id="ewn-quadrate__1_25_01__" n="1" synset="ewn-13901688-n">
         <SenseRelation relType="derivation" target="ewn-quadratic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hoodoo-n">
       <Lemma writtenForm="hoodoo" partOfSpeech="n"/>
@@ -2532,14 +2532,14 @@
         <SenseRelation relType="derivation" target="ewn-angle__2_38_01__"/>
         <SenseRelation relType="derivation" target="ewn-angle__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-angulate__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pore-n">
       <Lemma writtenForm="pore" partOfSpeech="n"/>
       <Sense id="ewn-pore__1_25_00__" n="0" synset="ewn-13935130-n">
         <SenseRelation relType="derivation" target="ewn-porous__5_00_00_leaky_00"/>
         <SenseRelation relType="derivation" target="ewn-poriferous__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lemniscate-n">
       <Lemma writtenForm="lemniscate" partOfSpeech="n">
@@ -2561,7 +2561,7 @@
       <Sense id="ewn-bead__1_25_00__" n="1" synset="ewn-13924278-n">
         <SenseRelation relType="derivation" target="ewn-beady__5_00_00_bright_00"/>
         <SenseRelation relType="derivation" target="ewn-bead__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-curved_shape-n">
       <Lemma writtenForm="curved shape" partOfSpeech="n"/>
@@ -2578,18 +2578,18 @@
       </Lemma>
       <Sense id="ewn-sphere__1_25_00__" n="4" synset="ewn-13921893-n">
         <SenseRelation relType="derivation" target="ewn-spheric__5_00_00_round_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-sphere__1_25_01__" n="5" synset="ewn-13921592-n">
         <SenseRelation relType="derivation" target="ewn-spherical__5_00_00_round_00"/>
         <SenseRelation relType="derivation" target="ewn-spheric__5_00_00_round_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rhomboid-n">
       <Lemma writtenForm="rhomboid" partOfSpeech="n"/>
       <Sense id="ewn-rhomboid__1_25_00__" n="0" synset="ewn-13905790-n">
         <SenseRelation relType="derivation" target="ewn-rhomboid__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-rhomboidal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-perpendicular-n">
       <Lemma writtenForm="perpendicular" partOfSpeech="n">
@@ -2598,7 +2598,7 @@
       </Lemma>
       <Sense id="ewn-perpendicular__1_25_00__" n="0" synset="ewn-13893319-n">
         <SenseRelation relType="derivation" target="ewn-perpendicular__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vertical_angle-n">
       <Lemma writtenForm="vertical angle" partOfSpeech="n"/>
@@ -2626,7 +2626,7 @@
         <SenseRelation relType="derivation" target="ewn-crease__2_30_10__"/>
         <SenseRelation relType="derivation" target="ewn-crease__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-crease__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-disk-n">
       <Lemma writtenForm="disk" partOfSpeech="n">
@@ -2644,7 +2644,7 @@
       </Lemma>
       <Sense id="ewn-bight__1_25_01__" n="0" synset="ewn-13898523-n">
         <SenseRelation relType="derivation" target="ewn-bight__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bight__1_25_00__" n="1" synset="ewn-13892535-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-crinkle-n">
@@ -2655,13 +2655,13 @@
         <SenseRelation relType="derivation" target="ewn-crinkly__5_00_00_uneven_00"/>
         <SenseRelation relType="derivation" target="ewn-crinkle__2_30_10__"/>
         <SenseRelation relType="derivation" target="ewn-crinkle__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-striation-n">
       <Lemma writtenForm="striation" partOfSpeech="n"/>
       <Sense id="ewn-striation__1_25_00__" n="0" synset="ewn-13931362-n">
         <SenseRelation relType="derivation" target="ewn-striate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-diameter-n">
       <Lemma writtenForm="diameter" partOfSpeech="n">
@@ -2672,7 +2672,7 @@
         <SenseRelation relType="derivation" target="ewn-diametral__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-diametric__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-diametrical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-intersection-n">
       <Lemma writtenForm="intersection" partOfSpeech="n">
@@ -2705,7 +2705,7 @@
       <Sense id="ewn-equator__1_25_00__" n="1" synset="ewn-13896712-n">
         <SenseRelation relType="derivation" target="ewn-equatorial__3_01_02__"/>
         <SenseRelation relType="derivation" target="ewn-equate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-curlicue-n">
       <Lemma writtenForm="curlicue" partOfSpeech="n"/>
@@ -2715,7 +2715,7 @@
       <Lemma writtenForm="salient angle" partOfSpeech="n"/>
       <Sense id="ewn-salient_angle__1_25_00__" n="0" synset="ewn-13912919-n">
         <SenseRelation relType="antonym" target="ewn-reentrant_angle__1_25_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-obtuse_triangle-n">
       <Lemma writtenForm="obtuse triangle" partOfSpeech="n"/>
@@ -2739,7 +2739,7 @@
       <Sense id="ewn-snag__1_25_00__" n="0" synset="ewn-13918438-n">
         <SenseRelation relType="derivation" target="ewn-snag__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-snag__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-figure_8-n">
       <Lemma writtenForm="figure 8" partOfSpeech="n"/>
@@ -2750,7 +2750,7 @@
       <Sense id="ewn-sinuousness__1_25_00__" n="0" synset="ewn-13907864-n">
         <SenseRelation relType="derivation" target="ewn-sinuous__5_00_00_curved_00"/>
         <SenseRelation relType="derivation" target="ewn-sinuous__5_00_00_graceful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sheet-n">
       <Lemma writtenForm="sheet" partOfSpeech="n">
@@ -2768,7 +2768,7 @@
       <Sense id="ewn-contortion__1_25_00__" n="1" synset="ewn-13908063-n">
         <SenseRelation relType="derivation" target="ewn-contortionist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-contort__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-diagonal-n">
       <Lemma writtenForm="diagonal" partOfSpeech="n">
@@ -2776,10 +2776,10 @@
       </Lemma>
       <Sense id="ewn-diagonal__1_25_01__" n="0" synset="ewn-13927331-n">
         <SenseRelation relType="derivation" target="ewn-diagonal__5_00_02_oblique_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-diagonal__1_25_00__" n="1" synset="ewn-13927170-n">
         <SenseRelation relType="derivation" target="ewn-diagonal__5_00_00_inclined_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-node-n">
       <Lemma writtenForm="node" partOfSpeech="n"/>
@@ -2806,7 +2806,7 @@
       <Lemma writtenForm="reentrant angle" partOfSpeech="n"/>
       <Sense id="ewn-reentrant_angle__1_25_00__" n="0" synset="ewn-13912757-n">
         <SenseRelation relType="antonym" target="ewn-salient_angle__1_25_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-love_line-n">
       <Lemma writtenForm="love line" partOfSpeech="n"/>
@@ -2816,7 +2816,7 @@
       <Lemma writtenForm="incisure" partOfSpeech="n"/>
       <Sense id="ewn-incisure__1_25_00__" n="0" synset="ewn-13928127-n">
         <SenseRelation relType="derivation" target="ewn-incise__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-reentrant_polygon-n">
       <Lemma writtenForm="reentrant polygon" partOfSpeech="n"/>
@@ -2833,7 +2833,7 @@
       </Lemma>
       <Sense id="ewn-furrow__1_25_00__" n="1" synset="ewn-13928798-n">
         <SenseRelation relType="derivation" target="ewn-furrow__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-subfigure-n">
       <Lemma writtenForm="subfigure" partOfSpeech="n"/>
@@ -2849,7 +2849,7 @@
       </Lemma>
       <Sense id="ewn-rectangle__1_25_00__" n="0" synset="ewn-13906003-n">
         <SenseRelation relType="derivation" target="ewn-rectangular__5_00_00_angular_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plication-n">
       <Lemma writtenForm="plication" partOfSpeech="n">
@@ -2857,7 +2857,7 @@
       </Lemma>
       <Sense id="ewn-plication__1_25_00__" n="0" synset="ewn-13930429-n">
         <SenseRelation relType="derivation" target="ewn-plicate__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-catenary-n">
       <Lemma writtenForm="catenary" partOfSpeech="n"/>
@@ -2898,7 +2898,7 @@
       <Lemma writtenForm="flexure" partOfSpeech="n"/>
       <Sense id="ewn-flexure__1_25_00__" n="1" synset="ewn-13930429-n">
         <SenseRelation relType="derivation" target="ewn-flex__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-orbital_plane-n">
       <Lemma writtenForm="orbital plane" partOfSpeech="n"/>
@@ -2911,7 +2911,7 @@
       </Lemma>
       <Sense id="ewn-flare__1_25_00__" n="0" synset="ewn-13885247-n">
         <SenseRelation relType="derivation" target="ewn-flare__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-articulation-n">
       <Lemma writtenForm="articulation" partOfSpeech="n">
@@ -2920,7 +2920,7 @@
       </Lemma>
       <Sense id="ewn-articulation__1_25_00__" n="1" synset="ewn-13934166-n">
         <SenseRelation relType="derivation" target="ewn-articulate__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-magnetic_declination-n">
       <Lemma writtenForm="magnetic declination" partOfSpeech="n"/>
@@ -2952,7 +2952,7 @@
       <Sense id="ewn-recess__1_25_00__" n="1" synset="ewn-13895060-n">
         <SenseRelation relType="derivation" target="ewn-recess__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-recess__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-secant-n">
       <Lemma writtenForm="secant" partOfSpeech="n">
@@ -2975,7 +2975,7 @@
       </Lemma>
       <Sense id="ewn-hemisphere__1_25_00__" n="1" synset="ewn-13921802-n">
         <SenseRelation relType="derivation" target="ewn-hemispherical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-corner-n">
       <Lemma writtenForm="corner" partOfSpeech="n">
@@ -2984,14 +2984,14 @@
       </Lemma>
       <Sense id="ewn-corner__1_25_00__" n="5" synset="ewn-13895060-n">
         <SenseRelation relType="derivation" target="ewn-corner__2_38_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cleft-n">
       <Lemma writtenForm="cleft" partOfSpeech="n"/>
       <Sense id="ewn-cleft__1_25_00__" n="0" synset="ewn-13931215-n">
         <SenseRelation relType="derivation" target="ewn-cleave__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-cleave__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-prismoid-n">
       <Lemma writtenForm="prismoid" partOfSpeech="n"/>
@@ -3001,7 +3001,7 @@
       <Lemma writtenForm="figure of eight" partOfSpeech="n"/>
       <Sense id="ewn-figure_of_eight__1_25_00__" n="0" synset="ewn-13925916-n">
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-line_of_fate-n">
       <Lemma writtenForm="line of fate" partOfSpeech="n"/>
@@ -3016,7 +3016,7 @@
       <Sense id="ewn-line__1_25_00__" n="3" synset="ewn-13886392-n"/>
       <Sense id="ewn-line__1_25_01__" n="11" synset="ewn-13928798-n">
         <SenseRelation relType="derivation" target="ewn-line__2_35_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-excrescence-n">
       <Lemma writtenForm="excrescence" partOfSpeech="n">
@@ -3024,7 +3024,7 @@
       </Lemma>
       <Sense id="ewn-excrescence__1_25_00__" n="0" synset="ewn-13917127-n">
         <SenseRelation relType="derivation" target="ewn-excrescent__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nonagon-n">
       <Lemma writtenForm="nonagon" partOfSpeech="n">
@@ -3039,7 +3039,7 @@
       </Lemma>
       <Sense id="ewn-spine__1_25_00__" n="1" synset="ewn-13935854-n">
         <SenseRelation relType="derivation" target="ewn-spinous__5_00_00_pointed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-seam-n">
       <Lemma writtenForm="seam" partOfSpeech="n"/>
@@ -3064,7 +3064,7 @@
       <Form writtenForm="icosahedra"/>
       <Sense id="ewn-icosahedron__1_25_00__" n="0" synset="ewn-13938916-n">
         <SenseRelation relType="derivation" target="ewn-icosahedral__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trigon-n">
       <Lemma writtenForm="trigon" partOfSpeech="n">
@@ -3076,7 +3076,7 @@
       <Lemma writtenForm="verge" partOfSpeech="n"/>
       <Sense id="ewn-verge__1_25_00__" n="0" synset="ewn-13926744-n">
         <SenseRelation relType="derivation" target="ewn-verge__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bulb-n">
       <Lemma writtenForm="bulb" partOfSpeech="n">
@@ -3084,7 +3084,7 @@
       </Lemma>
       <Sense id="ewn-bulb__1_25_00__" n="3" synset="ewn-13886656-n">
         <SenseRelation relType="derivation" target="ewn-bulblike__5_00_00_round_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chap-n">
       <Lemma writtenForm="chap" partOfSpeech="n"/>
@@ -3119,10 +3119,10 @@
       <Sense id="ewn-spiral__1_25_00__" n="0" synset="ewn-13899010-n">
         <SenseRelation relType="derivation" target="ewn-spiral__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-spiral__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-spiral__1_25_01__" n="1" synset="ewn-13899200-n">
         <SenseRelation relType="derivation" target="ewn-spiral__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hour_angle-n">
       <Lemma writtenForm="hour angle" partOfSpeech="n"/>
@@ -3132,7 +3132,7 @@
       <Lemma writtenForm="constriction" partOfSpeech="n"/>
       <Sense id="ewn-constriction__1_25_00__" n="0" synset="ewn-13936007-n">
         <SenseRelation relType="derivation" target="ewn-constrict__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-inclination-n">
       <Lemma writtenForm="inclination" partOfSpeech="n">
@@ -3140,13 +3140,13 @@
       </Lemma>
       <Sense id="ewn-inclination__1_25_02__" n="1" synset="ewn-13912536-n">
         <SenseRelation relType="derivation" target="ewn-incline__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-inclination__1_25_01__" n="2" synset="ewn-13912295-n">
         <SenseRelation relType="derivation" target="ewn-incline__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-inclination__1_25_00__" n="3" synset="ewn-13915590-n">
         <SenseRelation relType="derivation" target="ewn-incline__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tangent-n">
       <Lemma writtenForm="tangent" partOfSpeech="n">
@@ -3155,7 +3155,7 @@
       <Sense id="ewn-tangent__1_25_00__" n="0" synset="ewn-13893773-n">
         <SenseRelation relType="derivation" target="ewn-tangential__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-tangency__1_26_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gooseneck-n">
       <Lemma writtenForm="gooseneck" partOfSpeech="n"/>
@@ -3206,7 +3206,7 @@
       </Lemma>
       <Sense id="ewn-altitude__1_25_00__" n="1" synset="ewn-13920350-n">
         <SenseRelation relType="derivation" target="ewn-altitudinal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cylinder-n">
       <Lemma writtenForm="cylinder" partOfSpeech="n">
@@ -3215,10 +3215,10 @@
       </Lemma>
       <Sense id="ewn-cylinder__1_25_02__" n="0" synset="ewn-13887919-n">
         <SenseRelation relType="derivation" target="ewn-cylindric__5_00_00_rounded_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cylinder__1_25_00__" n="1" synset="ewn-13922497-n">
         <SenseRelation relType="derivation" target="ewn-cylindric__5_00_00_rounded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cone-n">
       <Lemma writtenForm="cone" partOfSpeech="n">
@@ -3229,7 +3229,7 @@
         <SenseRelation relType="derivation" target="ewn-conic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-conical__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-cone__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-angular_distance-n">
       <Lemma writtenForm="angular distance" partOfSpeech="n"/>
@@ -3241,7 +3241,7 @@
       </Lemma>
       <Sense id="ewn-sector__1_25_00__" n="0" synset="ewn-13897666-n">
         <SenseRelation relType="derivation" target="ewn-sectorial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pellet-n">
       <Lemma writtenForm="pellet" partOfSpeech="n">
@@ -3270,7 +3270,7 @@
       <Sense id="ewn-ellipse__1_25_00__" n="0" synset="ewn-13900945-n">
         <SenseRelation relType="derivation" target="ewn-elliptic__5_00_00_rounded_00"/>
         <SenseRelation relType="derivation" target="ewn-elliptical__5_00_00_rounded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-globe-n">
       <Lemma writtenForm="globe" partOfSpeech="n">
@@ -3281,7 +3281,7 @@
         <SenseRelation relType="derivation" target="ewn-globular__5_00_00_round_00"/>
         <SenseRelation relType="derivation" target="ewn-global__5_00_00_round_00"/>
         <SenseRelation relType="derivation" target="ewn-conglobate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-imbalance-n">
       <Lemma writtenForm="imbalance" partOfSpeech="n"/>
@@ -3409,7 +3409,7 @@
       </Lemma>
       <Sense id="ewn-tower__1_25_00__" n="1" synset="ewn-13923115-n">
         <SenseRelation relType="derivation" target="ewn-tower__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lead-n-1">
       <Lemma writtenForm="lead" partOfSpeech="n">

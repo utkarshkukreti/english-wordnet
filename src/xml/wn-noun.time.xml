@@ -24,7 +24,7 @@
       <Lemma writtenForm="flash" partOfSpeech="n"/>
       <Sense id="ewn-flash__1_28_00__" n="4" synset="ewn-15271921-n">
         <SenseRelation relType="derivation" target="ewn-flash__2_39_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Tevet-n">
       <Lemma writtenForm="Tevet" partOfSpeech="n"/>
@@ -96,7 +96,7 @@
         <SenseRelation relType="derivation" target="ewn-summery__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-summerize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-summer__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-summer__1_28_01__" n="1" synset="ewn-15169972-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-yesterday-n">
@@ -135,7 +135,7 @@
       <Sense id="ewn-majority__1_28_00__" n="2" synset="ewn-15177022-n">
         <SenseRelation relType="antonym" target="ewn-minority__1_28_00__"/>
         <SenseRelation relType="derivation" target="ewn-major__3_00_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-June_23-n">
       <Lemma writtenForm="June 23" partOfSpeech="n"/>
@@ -152,10 +152,10 @@
       </Lemma>
       <Sense id="ewn-month__1_28_01__" n="0" synset="ewn-15234209-n">
         <SenseRelation relType="derivation" target="ewn-monthly__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-month__1_28_00__" n="1" synset="ewn-15231092-n">
         <SenseRelation relType="derivation" target="ewn-monthly__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-millennium-n">
       <Lemma writtenForm="millennium" partOfSpeech="n">
@@ -166,14 +166,14 @@
         <SenseRelation relType="derivation" target="ewn-millennial__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-millenary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-millennian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-millennium__1_28_01__" n="1" synset="ewn-15288094-n">
         <SenseRelation relType="derivation" target="ewn-millenary__3_01_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-millennium__1_28_02__" n="2" synset="ewn-15276957-n">
         <SenseRelation relType="derivation" target="ewn-millennial__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-millenary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mid-thirties-n">
       <Lemma writtenForm="mid-thirties" partOfSpeech="n"/>
@@ -283,7 +283,7 @@
       <Sense id="ewn-prehistory__1_28_00__" n="0" synset="ewn-15279361-n">
         <SenseRelation relType="derivation" target="ewn-prehistoric__5_00_00_past_00"/>
         <SenseRelation relType="derivation" target="ewn-prehistoric__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Jyaistha-n">
       <Lemma writtenForm="Jyaistha" partOfSpeech="n"/>
@@ -327,7 +327,7 @@
       <Lemma writtenForm="off-season" partOfSpeech="n"/>
       <Sense id="ewn-off-season__1_28_00__" n="0" synset="ewn-15263558-n">
         <SenseRelation relType="antonym" target="ewn-high_season__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Three_Kings-ap-_Day-n">
       <Lemma writtenForm="Three Kings&apos; Day" partOfSpeech="n"/>
@@ -369,7 +369,7 @@
         <SenseRelation relType="derivation" target="ewn-close__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-close__2_41_01__"/>
         <SenseRelation relType="derivation" target="ewn-close__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-metronome_marking-n">
       <Lemma writtenForm="metronome marking" partOfSpeech="n"/>
@@ -395,7 +395,7 @@
       <Sense id="ewn-minority__1_28_00__" n="2" synset="ewn-15177221-n">
         <SenseRelation relType="antonym" target="ewn-majority__1_28_00__"/>
         <SenseRelation relType="derivation" target="ewn-minor__3_00_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Upper_Carboniferous-n">
       <Lemma writtenForm="Upper Carboniferous" partOfSpeech="n"/>
@@ -462,7 +462,7 @@
       <Sense id="ewn-gestation__1_28_00__" n="0" synset="ewn-15251010-n">
         <SenseRelation relType="derivation" target="ewn-gestational__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-gestate__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-life_sentence-n">
       <Lemma writtenForm="life sentence" partOfSpeech="n"/>
@@ -531,7 +531,7 @@
       </Lemma>
       <Sense id="ewn-attendance__1_28_00__" n="1" synset="ewn-15310217-n">
         <SenseRelation relType="derivation" target="ewn-attendant__5_00_00_present_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Mesozoic-n">
       <Lemma writtenForm="Mesozoic" partOfSpeech="n"/>
@@ -564,14 +564,14 @@
       </Lemma>
       <Sense id="ewn-cease__1_28_00__" n="0" synset="ewn-15293068-n">
         <SenseRelation relType="derivation" target="ewn-cease__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sleep-n">
       <Lemma writtenForm="sleep" partOfSpeech="n"/>
       <Sense id="ewn-sleep__1_28_00__" n="2" synset="ewn-15298612-n">
         <SenseRelation relType="derivation" target="ewn-sleep__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-sleep__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bissextile_day-n">
       <Lemma writtenForm="bissextile day" partOfSpeech="n"/>
@@ -605,7 +605,7 @@
       <Sense id="ewn-occupation__1_28_00__" n="4" synset="ewn-15166446-n">
         <SenseRelation relType="derivation" target="ewn-occupy__2_42_01__"/>
         <SenseRelation relType="derivation" target="ewn-occupy__2_40_08__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Thammuz-n">
       <Lemma writtenForm="Thammuz" partOfSpeech="n"/>
@@ -624,7 +624,7 @@
       </Lemma>
       <Sense id="ewn-incipiency__1_28_00__" n="0" synset="ewn-15167972-n">
         <SenseRelation relType="derivation" target="ewn-incipient__5_00_00_early_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Guy_Fawkes_Day-n">
       <Lemma writtenForm="Guy Fawkes Day" partOfSpeech="n"/>
@@ -640,7 +640,7 @@
       </Lemma>
       <Sense id="ewn-sunrise__1_28_00__" n="0" synset="ewn-15193837-n">
         <SenseRelation relType="antonym" target="ewn-sunset__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-feast_day-n">
       <Lemma writtenForm="feast day" partOfSpeech="n"/>
@@ -676,7 +676,7 @@
       <Lemma writtenForm="misdating" partOfSpeech="n"/>
       <Sense id="ewn-misdating__1_28_00__" n="0" synset="ewn-15205157-n">
         <SenseRelation relType="derivation" target="ewn-misdate__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Jewish_calendar_month-n">
       <Lemma writtenForm="Jewish calendar month" partOfSpeech="n"/>
@@ -712,7 +712,7 @@
       </Lemma>
       <Sense id="ewn-incumbency__1_28_00__" n="0" synset="ewn-15316734-n">
         <SenseRelation relType="derivation" target="ewn-incumbent__5_00_00_current_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sabbatical-n">
       <Lemma writtenForm="sabbatical" partOfSpeech="n"/>
@@ -756,7 +756,7 @@
       </Lemma>
       <Sense id="ewn-incubation__1_28_00__" n="1" synset="ewn-15312814-n">
         <SenseRelation relType="derivation" target="ewn-incubate__2_30_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dusk-n">
       <Lemma writtenForm="dusk" partOfSpeech="n">
@@ -764,7 +764,7 @@
       </Lemma>
       <Sense id="ewn-dusk__1_28_00__" n="0" synset="ewn-15194468-n">
         <SenseRelation relType="derivation" target="ewn-dusky__5_00_00_dark_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-latency_stage-n">
       <Lemma writtenForm="latency stage" partOfSpeech="n"/>
@@ -783,7 +783,7 @@
       <Sense id="ewn-play__1_28_00__" n="8" synset="ewn-15281726-n">
         <SenseRelation relType="derivation" target="ewn-play__2_33_02__"/>
         <SenseRelation relType="derivation" target="ewn-play__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-theatrical_season-n">
       <Lemma writtenForm="theatrical season" partOfSpeech="n"/>
@@ -823,20 +823,20 @@
       </Lemma>
       <Sense id="ewn-time__1_28_05__" n="1" synset="ewn-15295388-n">
         <SenseRelation relType="derivation" target="ewn-time__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-time__1_28_00__" n="2" synset="ewn-15147173-n">
         <SenseRelation relType="derivation" target="ewn-time__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-time__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-time__1_28_06__" n="3" synset="ewn-15270326-n">
         <SenseRelation relType="derivation" target="ewn-timely__5_00_00_opportune_00"/>
         <SenseRelation relType="derivation" target="ewn-time__2_30_06__"/>
         <SenseRelation relType="derivation" target="ewn-time__2_31_01__"/>
         <SenseRelation relType="derivation" target="ewn-time__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-time__1_28_03__" n="6" synset="ewn-15154879-n">
         <SenseRelation relType="derivation" target="ewn-time__2_30_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-time__1_28_04__" n="7" synset="ewn-15160774-n"/>
       <Sense id="ewn-time__1_28_01__" n="9" synset="ewn-15249488-n"/>
     </LexicalEntry>
@@ -882,7 +882,7 @@
       <Lemma writtenForm="Archaeozoic" partOfSpeech="n"/>
       <Sense id="ewn-archaeozoic__1_28_00__" n="0" synset="ewn-15154172-n">
         <SenseRelation relType="derivation" target="ewn-archaeozoic__5_00_00_early_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-times-n">
       <Lemma writtenForm="times" partOfSpeech="n">
@@ -897,7 +897,7 @@
       </Lemma>
       <Sense id="ewn-dawning__1_28_00__" n="0" synset="ewn-15193837-n">
         <SenseRelation relType="derivation" target="ewn-dawn__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kph-n">
       <Lemma writtenForm="kph" partOfSpeech="n"/>
@@ -972,7 +972,7 @@
       </Lemma>
       <Sense id="ewn-prohibition__1_28_00__" n="2" synset="ewn-15319625-n">
         <SenseRelation relType="derivation" target="ewn-prohibitionist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Heshvan-n">
       <Lemma writtenForm="Heshvan" partOfSpeech="n"/>
@@ -1054,7 +1054,7 @@
       </Lemma>
       <Sense id="ewn-furlough__1_28_00__" n="0" synset="ewn-15164392-n">
         <SenseRelation relType="derivation" target="ewn-furlough__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Wed-n">
       <Lemma writtenForm="Wed" partOfSpeech="n"/>
@@ -1151,7 +1151,7 @@
       <Sense id="ewn-bimillennium__1_28_01__" n="0" synset="ewn-15277111-n"/>
       <Sense id="ewn-bimillennium__1_28_00__" n="1" synset="ewn-15166335-n">
         <SenseRelation relType="derivation" target="ewn-bimillenial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spacing-n">
       <Lemma writtenForm="spacing" partOfSpeech="n"/>
@@ -1177,7 +1177,7 @@
       <Lemma writtenForm="midweek" partOfSpeech="n"/>
       <Sense id="ewn-midweek__1_28_00__" n="0" synset="ewn-15161294-n">
         <SenseRelation relType="derivation" target="ewn-midweekly__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-one-way_light_time-n">
       <Lemma writtenForm="one-way light time" partOfSpeech="n"/>
@@ -1372,7 +1372,7 @@
       <Lemma writtenForm="Cretaceous" partOfSpeech="n"/>
       <Sense id="ewn-cretaceous__1_28_00__" n="0" synset="ewn-15151313-n">
         <SenseRelation relType="derivation" target="ewn-cretaceous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-maidenhood-n">
       <Lemma writtenForm="maidenhood" partOfSpeech="n">
@@ -1380,7 +1380,7 @@
       </Lemma>
       <Sense id="ewn-maidenhood__1_28_00__" n="0" synset="ewn-15172290-n">
         <SenseRelation relType="derivation" target="ewn-maiden__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-high_noon-n">
       <Lemma writtenForm="high noon" partOfSpeech="n"/>
@@ -1438,7 +1438,7 @@
       <Lemma writtenForm="retardation" partOfSpeech="n"/>
       <Sense id="ewn-retardation__1_28_00__" n="1" synset="ewn-15300584-n">
         <SenseRelation relType="derivation" target="ewn-retard__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Devonian-n">
       <Lemma writtenForm="Devonian" partOfSpeech="n"/>
@@ -1486,14 +1486,14 @@
       </Lemma>
       <Sense id="ewn-blossom__1_28_00__" n="1" synset="ewn-15320288-n">
         <SenseRelation relType="derivation" target="ewn-blossom__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-adulthood-n">
       <Lemma writtenForm="adulthood" partOfSpeech="n"/>
       <Sense id="ewn-adulthood__1_28_00__" n="0" synset="ewn-15177777-n">
         <SenseRelation relType="derivation" target="ewn-adult__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-adult__1_05_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-UT1-n">
       <Lemma writtenForm="UT1" partOfSpeech="n"/>
@@ -1528,11 +1528,11 @@
       </Lemma>
       <Sense id="ewn-semester__1_28_01__" n="0" synset="ewn-15250593-n">
         <SenseRelation relType="derivation" target="ewn-semestral__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-semester__1_28_02__" n="1" synset="ewn-15229281-n">
         <SenseRelation relType="derivation" target="ewn-semestrial__5_00_00_periodic_00"/>
         <SenseRelation relType="derivation" target="ewn-semestral__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Tues-n">
       <Lemma writtenForm="Tues" partOfSpeech="n"/>
@@ -1615,13 +1615,13 @@
       <Sense id="ewn-pause__1_28_00__" n="0" synset="ewn-15295994-n">
         <SenseRelation relType="derivation" target="ewn-pause__2_32_01__"/>
         <SenseRelation relType="derivation" target="ewn-pause__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rainy_season-n">
       <Lemma writtenForm="rainy season" partOfSpeech="n"/>
       <Sense id="ewn-rainy_season__1_28_00__" n="0" synset="ewn-15263692-n">
         <SenseRelation relType="antonym" target="ewn-dry_season__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-February-n">
       <Lemma writtenForm="February" partOfSpeech="n"/>
@@ -1633,12 +1633,12 @@
       </Lemma>
       <Sense id="ewn-day__1_28_00__" n="0" synset="ewn-15180180-n">
         <SenseRelation relType="derivation" target="ewn-daily__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-day__1_28_03__" n="1" synset="ewn-15148032-n"/>
       <Sense id="ewn-day__1_28_01__" n="2" synset="ewn-15182185-n"/>
       <Sense id="ewn-day__1_28_02__" n="3" synset="ewn-15190004-n">
         <SenseRelation relType="antonym" target="ewn-night__1_28_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-day__1_28_04__" n="4" synset="ewn-15161405-n"/>
       <Sense id="ewn-day__1_28_05__" n="5" synset="ewn-15274047-n"/>
       <Sense id="ewn-day__1_28_07__" n="6" synset="ewn-15233336-n"/>
@@ -1751,7 +1751,7 @@
       </Lemma>
       <Sense id="ewn-acceleration__1_28_00__" n="2" synset="ewn-15300837-n">
         <SenseRelation relType="antonym" target="ewn-deceleration__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Earth-received_time-n">
       <Lemma writtenForm="Earth-received time" partOfSpeech="n"/>
@@ -1761,14 +1761,14 @@
       <Lemma writtenForm="centenary" partOfSpeech="n"/>
       <Sense id="ewn-centenary__1_28_00__" n="0" synset="ewn-15276147-n">
         <SenseRelation relType="derivation" target="ewn-centenary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-beginning-n">
       <Lemma writtenForm="beginning" partOfSpeech="n"/>
       <Sense id="ewn-beginning__1_28_00__" n="1" synset="ewn-15290329-n">
         <SenseRelation relType="antonym" target="ewn-middle__1_28_00__"/>
         <SenseRelation relType="antonym" target="ewn-end__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-refractory_period-n">
       <Lemma writtenForm="refractory period" partOfSpeech="n"/>
@@ -1799,7 +1799,7 @@
       <Sense id="ewn-letup__1_28_00__" n="0" synset="ewn-15299427-n">
         <SenseRelation relType="derivation" target="ewn-let_up__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-let_up__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fortnight-n">
       <Lemma writtenForm="fortnight" partOfSpeech="n">
@@ -1808,7 +1808,7 @@
       </Lemma>
       <Sense id="ewn-fortnight__1_28_00__" n="0" synset="ewn-15195378-n">
         <SenseRelation relType="derivation" target="ewn-fortnightly__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Atlantic_Time-n">
       <Lemma writtenForm="Atlantic Time" partOfSpeech="n"/>
@@ -1856,7 +1856,7 @@
       <Lemma writtenForm="Archean" partOfSpeech="n"/>
       <Sense id="ewn-archean__1_28_00__" n="0" synset="ewn-15154172-n">
         <SenseRelation relType="derivation" target="ewn-archean__5_00_00_early_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-unit_of_time-n">
       <Lemma writtenForm="unit of time" partOfSpeech="n"/>
@@ -1882,7 +1882,7 @@
       <Lemma writtenForm="Transfiguration" partOfSpeech="n"/>
       <Sense id="ewn-transfiguration__1_28_00__" n="0" synset="ewn-15324610-n">
         <SenseRelation relType="derivation" target="ewn-transfigure__2_30_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-suppertime-n">
       <Lemma writtenForm="suppertime" partOfSpeech="n"/>
@@ -1954,7 +1954,7 @@
         <SenseRelation relType="derivation" target="ewn-culminate__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-culminate__2_30_03__"/>
         <SenseRelation relType="derivation" target="ewn-culminate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-golden_wedding_anniversary-n">
       <Lemma writtenForm="golden wedding anniversary" partOfSpeech="n"/>
@@ -1965,7 +1965,7 @@
       <Sense id="ewn-instant__1_28_01__" n="0" synset="ewn-15271921-n"/>
       <Sense id="ewn-instant__1_28_00__" n="1" synset="ewn-15269461-n">
         <SenseRelation relType="derivation" target="ewn-instantaneous__5_00_00_fast_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-infant_mortality_rate-n">
       <Lemma writtenForm="infant mortality rate" partOfSpeech="n"/>
@@ -1994,7 +1994,7 @@
       <Sense id="ewn-anachronism__1_28_00__" n="0" synset="ewn-15205157-n">
         <SenseRelation relType="derivation" target="ewn-anachronistic__5_00_00_asynchronous_00"/>
         <SenseRelation relType="derivation" target="ewn-anachronic__5_00_00_asynchronous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Dhu-ap-l-Hijjah-n">
       <Lemma writtenForm="Dhu&apos;l-Hijjah" partOfSpeech="n"/>
@@ -2040,7 +2040,7 @@
         <SenseRelation relType="derivation" target="ewn-lapse__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-lapse__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-lapse__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Arbor_Day-n">
       <Lemma writtenForm="Arbor Day" partOfSpeech="n"/>
@@ -2060,7 +2060,7 @@
       <Sense id="ewn-delay__1_28_00__" n="0" synset="ewn-15297015-n">
         <SenseRelation relType="derivation" target="ewn-delay__2_30_05__"/>
         <SenseRelation relType="derivation" target="ewn-delay__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vespers-n">
       <Lemma writtenForm="vespers" partOfSpeech="n"/>
@@ -2100,7 +2100,7 @@
       <Sense id="ewn-middle__1_28_00__" n="3" synset="ewn-15291496-n">
         <SenseRelation relType="antonym" target="ewn-end__1_28_00__"/>
         <SenseRelation relType="antonym" target="ewn-beginning__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-split_second-n">
       <Lemma writtenForm="split second" partOfSpeech="n"/>
@@ -2168,7 +2168,7 @@
       <Lemma writtenForm="time off" partOfSpeech="n"/>
       <Sense id="ewn-time_off__1_28_00__" n="0" synset="ewn-15143395-n">
         <SenseRelation relType="antonym" target="ewn-work_time__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bissextile_year-n">
       <Lemma writtenForm="bissextile year" partOfSpeech="n"/>
@@ -2186,7 +2186,7 @@
       <Lemma writtenForm="mo" partOfSpeech="n"/>
       <Sense id="ewn-mo__1_28_00__" n="0" synset="ewn-15271664-n">
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-meantime-n">
       <Lemma writtenForm="meantime" partOfSpeech="n">
@@ -2205,7 +2205,7 @@
       </Lemma>
       <Sense id="ewn-calendar__1_28_00__" n="0" synset="ewn-15198526-n">
         <SenseRelation relType="derivation" target="ewn-calendric__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-1760s-n">
       <Lemma writtenForm="1760s" partOfSpeech="n"/>
@@ -2267,7 +2267,7 @@
       </Lemma>
       <Sense id="ewn-administration__1_28_00__" n="3" synset="ewn-15291076-n">
         <SenseRelation relType="derivation" target="ewn-administer__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hours-n">
       <Lemma writtenForm="hours" partOfSpeech="n">
@@ -2299,7 +2299,7 @@
       </Lemma>
       <Sense id="ewn-history__1_28_00__" n="0" synset="ewn-15146348-n">
         <SenseRelation relType="derivation" target="ewn-historic__5_00_00_past_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-history__1_28_02__" n="3" synset="ewn-15148913-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-1530s-n">
@@ -2376,7 +2376,7 @@
       </Lemma>
       <Sense id="ewn-deceleration__1_28_00__" n="1" synset="ewn-15301157-n">
         <SenseRelation relType="antonym" target="ewn-acceleration__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-OWLT-n">
       <Lemma writtenForm="OWLT" partOfSpeech="n"/>
@@ -2410,7 +2410,7 @@
       </Lemma>
       <Sense id="ewn-boyhood__1_28_00__" n="0" synset="ewn-15172464-n">
         <SenseRelation relType="derivation" target="ewn-boy__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Platonic_year-n">
       <Lemma writtenForm="Platonic year" partOfSpeech="n"/>
@@ -2422,7 +2422,7 @@
       </Lemma>
       <Sense id="ewn-rhythm__1_28_00__" n="2" synset="ewn-15313066-n">
         <SenseRelation relType="derivation" target="ewn-rhythmic__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-last-n">
       <Lemma writtenForm="last" partOfSpeech="n"/>
@@ -2441,7 +2441,7 @@
       <Sense id="ewn-continuum__1_28_00__" n="0" synset="ewn-15148671-n">
         <SenseRelation relType="derivation" target="ewn-continuous__3_00_02__"/>
         <SenseRelation relType="derivation" target="ewn-continuous__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dose_rate-n">
       <Lemma writtenForm="dose rate" partOfSpeech="n"/>
@@ -2496,7 +2496,7 @@
       <Lemma writtenForm="maidhood" partOfSpeech="n"/>
       <Sense id="ewn-maidhood__1_28_00__" n="0" synset="ewn-15172290-n">
         <SenseRelation relType="derivation" target="ewn-maid__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-life-n">
       <Lemma writtenForm="life" partOfSpeech="n">
@@ -2505,14 +2505,14 @@
       <Form writtenForm="lives"/>
       <Sense id="ewn-life__1_28_00__" n="4" synset="ewn-15165365-n">
         <SenseRelation relType="derivation" target="ewn-lifer__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-life__1_28_01__" n="5" synset="ewn-15165704-n"/>
       <Sense id="ewn-life__1_28_02__" n="6" synset="ewn-15165852-n">
         <SenseRelation relType="derivation" target="ewn-lifer__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-life__1_28_03__" n="13" synset="ewn-15249872-n">
         <SenseRelation relType="derivation" target="ewn-lifer__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rag_day-n">
       <Lemma writtenForm="rag day" partOfSpeech="n"/>
@@ -2562,16 +2562,16 @@
         <SenseRelation relType="derivation" target="ewn-date__2_31_01__"/>
         <SenseRelation relType="derivation" target="ewn-date__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-date__2_31_02__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-date__1_28_02__" n="3" synset="ewn-15145165-n"/>
       <Sense id="ewn-date__1_28_03__" n="4" synset="ewn-15185626-n">
         <SenseRelation relType="derivation" target="ewn-date__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-date__1_28_05__" n="5" synset="ewn-15184779-n">
         <SenseRelation relType="derivation" target="ewn-date__2_31_01__"/>
         <SenseRelation relType="derivation" target="ewn-date__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-date__2_31_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-small_hours-n">
       <Lemma writtenForm="small hours" partOfSpeech="n"/>
@@ -2608,7 +2608,7 @@
       <Form writtenForm="ephemerae"/>
       <Sense id="ewn-ephemera__1_28_00__" n="0" synset="ewn-15272221-n">
         <SenseRelation relType="derivation" target="ewn-ephemeral__5_00_00_impermanent_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vacation-n">
       <Lemma writtenForm="vacation" partOfSpeech="n">
@@ -2618,7 +2618,7 @@
       <Sense id="ewn-vacation__1_28_00__" n="0" synset="ewn-15162842-n">
         <SenseRelation relType="derivation" target="ewn-vacationist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-vacation__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-name_day-n">
       <Lemma writtenForm="name day" partOfSpeech="n"/>
@@ -2660,7 +2660,7 @@
       <Lemma writtenForm="vernal equinox" partOfSpeech="n"/>
       <Sense id="ewn-vernal_equinox__1_28_00__" n="0" synset="ewn-15248370-n">
         <SenseRelation relType="antonym" target="ewn-autumnal_equinox__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mid-November-n">
       <Lemma writtenForm="mid-November" partOfSpeech="n"/>
@@ -2690,7 +2690,7 @@
       <Lemma writtenForm="clocking" partOfSpeech="n"/>
       <Sense id="ewn-clocking__1_28_00__" n="0" synset="ewn-15158855-n">
         <SenseRelation relType="derivation" target="ewn-clock__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-complin-n">
       <Lemma writtenForm="complin" partOfSpeech="n"/>
@@ -2724,7 +2724,7 @@
       <Form writtenForm="caesurae"/>
       <Sense id="ewn-caesura__1_28_00__" n="0" synset="ewn-15296718-n">
         <SenseRelation relType="derivation" target="ewn-caesural__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sext-n">
       <Lemma writtenForm="sext" partOfSpeech="n"/>
@@ -2786,7 +2786,7 @@
       </Lemma>
       <Sense id="ewn-infinity__1_28_00__" n="0" synset="ewn-15268787-n">
         <SenseRelation relType="derivation" target="ewn-infinite__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-first-n">
       <Lemma writtenForm="first" partOfSpeech="n"/>
@@ -2867,7 +2867,7 @@
       <Sense id="ewn-generation__1_28_01__" n="3" synset="ewn-15316166-n">
         <SenseRelation relType="derivation" target="ewn-generational__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-generate__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-closing_time-n">
       <Lemma writtenForm="closing time" partOfSpeech="n"/>
@@ -2883,7 +2883,7 @@
       </Lemma>
       <Sense id="ewn-breather__1_28_00__" n="0" synset="ewn-15299681-n">
         <SenseRelation relType="derivation" target="ewn-breathe__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vacay-n">
       <Lemma writtenForm="vacay" partOfSpeech="n">
@@ -2934,7 +2934,7 @@
       <Lemma writtenForm="incipience" partOfSpeech="n"/>
       <Sense id="ewn-incipience__1_28_00__" n="0" synset="ewn-15167972-n">
         <SenseRelation relType="derivation" target="ewn-incipient__5_00_00_early_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Quaternary-n">
       <Lemma writtenForm="Quaternary" partOfSpeech="n">
@@ -2950,10 +2950,10 @@
       <Lemma writtenForm="Pentecost" partOfSpeech="n"/>
       <Sense id="ewn-pentecost__1_28_01__" n="0" synset="ewn-15267020-n">
         <SenseRelation relType="derivation" target="ewn-pentecostal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-pentecost__1_28_02__" n="1" synset="ewn-15221877-n">
         <SenseRelation relType="derivation" target="ewn-pentecostal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Rabi_I-n">
       <Lemma writtenForm="Rabi I" partOfSpeech="n"/>
@@ -3011,7 +3011,7 @@
       <Sense id="ewn-futurity__1_28_00__" n="0" synset="ewn-15146567-n">
         <SenseRelation relType="derivation" target="ewn-future__5_00_00_prospective_00"/>
         <SenseRelation relType="derivation" target="ewn-future__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-future-n">
       <Lemma writtenForm="future" partOfSpeech="n">
@@ -3020,7 +3020,7 @@
       </Lemma>
       <Sense id="ewn-future__1_28_00__" n="0" synset="ewn-15146567-n">
         <SenseRelation relType="antonym" target="ewn-past__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hallowe-ap-en-n">
       <Lemma writtenForm="Hallowe&apos;en" partOfSpeech="n"/>
@@ -3067,10 +3067,10 @@
       </Lemma>
       <Sense id="ewn-eon__1_28_01__" n="0" synset="ewn-15268541-n">
         <SenseRelation relType="derivation" target="ewn-eonian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-eon__1_28_00__" n="1" synset="ewn-15268401-n">
         <SenseRelation relType="derivation" target="ewn-eonian__5_00_00_permanent_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-forties-n">
       <Lemma writtenForm="forties" partOfSpeech="n"/>
@@ -3085,7 +3085,7 @@
       <Lemma writtenForm="high season" partOfSpeech="n"/>
       <Sense id="ewn-high_season__1_28_00__" n="0" synset="ewn-15263367-n">
         <SenseRelation relType="antonym" target="ewn-off-season__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Pliocene-n">
       <Lemma writtenForm="Pliocene" partOfSpeech="n">
@@ -3172,7 +3172,7 @@
         <SenseRelation relType="derivation" target="ewn-cycle__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-cycle__2_38_02__"/>
         <SenseRelation relType="derivation" target="ewn-cycle__2_38_03__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cycle__1_28_02__" n="3" synset="ewn-15304090-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-evenfall-n">
@@ -3202,7 +3202,7 @@
         <SenseRelation relType="derivation" target="ewn-president__1_18_02__"/>
         <SenseRelation relType="derivation" target="ewn-president__1_18_01__"/>
         <SenseRelation relType="derivation" target="ewn-president__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-anal_stage-n">
       <Lemma writtenForm="anal stage" partOfSpeech="n"/>
@@ -3226,7 +3226,7 @@
       </Lemma>
       <Sense id="ewn-sentence__1_28_00__" n="2" synset="ewn-15249488-n">
         <SenseRelation relType="derivation" target="ewn-sentence__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Safar-n">
       <Lemma writtenForm="Safar" partOfSpeech="n"/>
@@ -3236,7 +3236,7 @@
       <Lemma writtenForm="aeon" partOfSpeech="n"/>
       <Sense id="ewn-aeon__1_28_01__" n="1" synset="ewn-15268541-n">
         <SenseRelation relType="derivation" target="ewn-aeonian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-aeon__1_28_00__" n="2" synset="ewn-15268401-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-early_childhood-n">
@@ -3303,12 +3303,12 @@
       <Sense id="ewn-age__1_28_02__" n="1" synset="ewn-15278839-n"/>
       <Sense id="ewn-age__1_28_00__" n="2" synset="ewn-15170131-n">
         <SenseRelation relType="derivation" target="ewn-age__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-age__1_28_03__" n="3" synset="ewn-15267766-n"/>
       <Sense id="ewn-age__1_28_01__" n="4" synset="ewn-15178747-n">
         <SenseRelation relType="derivation" target="ewn-age__2_30_02__"/>
         <SenseRelation relType="derivation" target="ewn-age__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-threshold-n">
       <Lemma writtenForm="threshold" partOfSpeech="n">
@@ -3337,7 +3337,7 @@
       <Lemma writtenForm="dying" partOfSpeech="n"/>
       <Sense id="ewn-dying__1_28_00__" n="0" synset="ewn-15168437-n">
         <SenseRelation relType="derivation" target="ewn-die__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_Nations_Day-n">
       <Lemma writtenForm="United Nations Day" partOfSpeech="n"/>
@@ -3375,7 +3375,7 @@
       <Lemma writtenForm="Carboniferous" partOfSpeech="n"/>
       <Sense id="ewn-carboniferous__1_28_00__" n="0" synset="ewn-15152259-n">
         <SenseRelation relType="derivation" target="ewn-carboniferous__3_01_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-May_24-n">
       <Lemma writtenForm="May 24" partOfSpeech="n"/>
@@ -3406,7 +3406,7 @@
       <Sense id="ewn-enlistment__1_28_00__" n="0" synset="ewn-15318833-n">
         <SenseRelation relType="derivation" target="ewn-enlist__2_33_01__"/>
         <SenseRelation relType="derivation" target="ewn-enlist__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-afternoon-n">
       <Lemma writtenForm="afternoon" partOfSpeech="n">
@@ -3475,7 +3475,7 @@
       <Lemma writtenForm="Proterozoic" partOfSpeech="n"/>
       <Sense id="ewn-proterozoic__1_28_00__" n="0" synset="ewn-15153949-n">
         <SenseRelation relType="derivation" target="ewn-proterozoic__5_00_00_early_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Great_Schism-n">
       <Lemma writtenForm="Great Schism" partOfSpeech="n"/>
@@ -3489,7 +3489,7 @@
       <Lemma writtenForm="nap" partOfSpeech="n"/>
       <Sense id="ewn-nap__1_28_00__" n="0" synset="ewn-15298612-n">
         <SenseRelation relType="derivation" target="ewn-nap__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lunar_month-n">
       <Lemma writtenForm="lunar month" partOfSpeech="n"/>
@@ -3530,10 +3530,10 @@
       </Lemma>
       <Sense id="ewn-dawn__1_28_00__" n="0" synset="ewn-15193837-n">
         <SenseRelation relType="derivation" target="ewn-dawn__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-dawn__1_28_01__" n="2" synset="ewn-15292774-n">
         <SenseRelation relType="derivation" target="ewn-dawn__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-growing_season-n">
       <Lemma writtenForm="growing season" partOfSpeech="n"/>
@@ -3556,10 +3556,10 @@
       </Lemma>
       <Sense id="ewn-continuance__1_28_02__" n="1" synset="ewn-15158573-n">
         <SenseRelation relType="derivation" target="ewn-continue__2_30_10__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-continuance__1_28_00__" n="2" synset="ewn-15158440-n">
         <SenseRelation relType="derivation" target="ewn-continuant__5_00_00_soft_03"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Quadragesima-n">
       <Lemma writtenForm="Quadragesima" partOfSpeech="n"/>
@@ -3633,7 +3633,7 @@
       <Lemma writtenForm="present" partOfSpeech="n"/>
       <Sense id="ewn-present__1_28_00__" n="0" synset="ewn-15144478-n">
         <SenseRelation relType="derivation" target="ewn-present__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-duty_tour-n">
       <Lemma writtenForm="duty tour" partOfSpeech="n"/>
@@ -3653,7 +3653,7 @@
       </Lemma>
       <Sense id="ewn-suspension__1_28_00__" n="1" synset="ewn-15295994-n">
         <SenseRelation relType="derivation" target="ewn-suspend__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-third_trimester-n">
       <Lemma writtenForm="third trimester" partOfSpeech="n"/>
@@ -3717,7 +3717,7 @@
       </Lemma>
       <Sense id="ewn-blackout__1_28_00__" n="0" synset="ewn-15296605-n">
         <SenseRelation relType="derivation" target="ewn-black_out__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Paleocene_epoch-n">
       <Lemma writtenForm="Paleocene epoch" partOfSpeech="n"/>
@@ -3729,7 +3729,7 @@
       </Lemma>
       <Sense id="ewn-deep__1_28_00__" n="0" synset="ewn-15292202-n">
         <SenseRelation relType="derivation" target="ewn-deep__5_00_01_intense_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-yr-n">
       <Lemma writtenForm="yr" partOfSpeech="n"/>
@@ -3761,7 +3761,7 @@
       </Lemma>
       <Sense id="ewn-holiday__1_28_00__" n="0" synset="ewn-15162842-n">
         <SenseRelation relType="derivation" target="ewn-holiday__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-holiday__1_28_01__" n="1" synset="ewn-15208263-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-year-n">
@@ -3771,7 +3771,7 @@
       </Lemma>
       <Sense id="ewn-year__1_28_01__" n="0" synset="ewn-15228587-n">
         <SenseRelation relType="derivation" target="ewn-yearly__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-year__1_28_02__" n="1" synset="ewn-15229093-n"/>
       <Sense id="ewn-year__1_28_00__" n="2" synset="ewn-15226340-n"/>
     </LexicalEntry>
@@ -3848,7 +3848,7 @@
       </Lemma>
       <Sense id="ewn-tenure__1_28_00__" n="0" synset="ewn-15316734-n">
         <SenseRelation relType="derivation" target="ewn-tenure__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-degree_day-n">
       <Lemma writtenForm="degree day" partOfSpeech="n"/>
@@ -3860,11 +3860,11 @@
       </Lemma>
       <Sense id="ewn-probation__1_28_01__" n="0" synset="ewn-15322715-n">
         <SenseRelation relType="derivation" target="ewn-probationary__5_00_00_conditional_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-probation__1_28_00__" n="1" synset="ewn-15322546-n">
         <SenseRelation relType="derivation" target="ewn-probationary__5_00_00_conditional_00"/>
         <SenseRelation relType="derivation" target="ewn-probate__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-salad_days-n">
       <Lemma writtenForm="salad days" partOfSpeech="n"/>
@@ -3876,7 +3876,7 @@
       </Lemma>
       <Sense id="ewn-wait__1_28_00__" n="0" synset="ewn-15297015-n">
         <SenseRelation relType="derivation" target="ewn-wait__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sawan-n">
       <Lemma writtenForm="Sawan" partOfSpeech="n"/>
@@ -3902,7 +3902,7 @@
       <Lemma writtenForm="autumnal equinox" partOfSpeech="n"/>
       <Sense id="ewn-autumnal_equinox__1_28_00__" n="0" synset="ewn-15248546-n">
         <SenseRelation relType="antonym" target="ewn-vernal_equinox__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-terminal_point-n">
       <Lemma writtenForm="terminal point" partOfSpeech="n"/>
@@ -3922,7 +3922,7 @@
       </Lemma>
       <Sense id="ewn-autumn__1_28_00__" n="0" synset="ewn-15261656-n">
         <SenseRelation relType="derivation" target="ewn-autumnal__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-August_6-n">
       <Lemma writtenForm="August 6" partOfSpeech="n"/>
@@ -3989,7 +3989,7 @@
       <Sense id="ewn-kilometres_per_hour__1_28_00__" n="0" synset="ewn-15304947-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-alpha_and_omega-n">
       <Lemma writtenForm="alpha and omega" partOfSpeech="n"/>
@@ -4043,7 +4043,7 @@
         <SenseRelation relType="derivation" target="ewn-finish__2_30_03__"/>
         <SenseRelation relType="derivation" target="ewn-finish__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-finish__2_30_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-1780s-n">
       <Lemma writtenForm="1780s" partOfSpeech="n"/>
@@ -4063,7 +4063,7 @@
       </Lemma>
       <Sense id="ewn-snap__1_28_00__" n="1" synset="ewn-15324340-n">
         <SenseRelation relType="derivation" target="ewn-snappy__5_00_00_cold_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-June-n">
       <Lemma writtenForm="June" partOfSpeech="n"/>
@@ -4149,7 +4149,7 @@
       <Sense id="ewn-aurora__1_28_00__" n="0" synset="ewn-15193837-n">
         <SenseRelation relType="derivation" target="ewn-auroral__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-aurorean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-daylight-n">
       <Lemma writtenForm="daylight" partOfSpeech="n">
@@ -4184,7 +4184,7 @@
       <Sense id="ewn-sabbath__1_28_00__" n="0" synset="ewn-15189797-n">
         <SenseRelation relType="derivation" target="ewn-sabbatical__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-sabbatarian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-piece-n">
       <Lemma writtenForm="piece" partOfSpeech="n">
@@ -4291,13 +4291,13 @@
       <Lemma writtenForm="senility" partOfSpeech="n"/>
       <Sense id="ewn-senility__1_28_00__" n="0" synset="ewn-15179150-n">
         <SenseRelation relType="derivation" target="ewn-senile__5_00_00_old_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vac-n">
       <Lemma writtenForm="vac" partOfSpeech="n"/>
       <Sense id="ewn-vac__1_28_00__" n="0" synset="ewn-15163353-n">
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-new_phase_of_the_moon-n">
       <Lemma writtenForm="new phase of the moon" partOfSpeech="n"/>
@@ -4311,7 +4311,7 @@
       <Lemma writtenForm="summer solstice" partOfSpeech="n"/>
       <Sense id="ewn-summer_solstice__1_28_00__" n="0" synset="ewn-15246808-n">
         <SenseRelation relType="antonym" target="ewn-winter_solstice__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hawaii_Standard_Time-n">
       <Lemma writtenForm="Hawaii Standard Time" partOfSpeech="n"/>
@@ -4374,7 +4374,7 @@
       <Lemma writtenForm="andante" partOfSpeech="n"/>
       <Sense id="ewn-andante__1_28_00__" n="0" synset="ewn-15290030-n">
         <SenseRelation relType="derivation" target="ewn-andante__5_00_00_slow_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-years-n">
       <Lemma writtenForm="years" partOfSpeech="n">
@@ -4466,7 +4466,7 @@
       <Lemma writtenForm="prepuberty" partOfSpeech="n"/>
       <Sense id="ewn-prepuberty__1_28_00__" n="0" synset="ewn-15173041-n">
         <SenseRelation relType="derivation" target="ewn-prepubertal__5_00_00_immature_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Age_of_Fishes-n">
       <Lemma writtenForm="Age of Fishes" partOfSpeech="n"/>
@@ -4502,7 +4502,7 @@
       <Sense id="ewn-babyhood__1_28_00__" n="0" synset="ewn-15170546-n">
         <SenseRelation relType="derivation" target="ewn-baby__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-baby__1_05_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Shavuot-n">
       <Lemma writtenForm="Shavuot" partOfSpeech="n"/>
@@ -4530,14 +4530,14 @@
       </Lemma>
       <Sense id="ewn-honeymoon__1_28_00__" n="0" synset="ewn-15163863-n">
         <SenseRelation relType="derivation" target="ewn-honeymoon__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-honeymoon__1_28_01__" n="1" synset="ewn-15319031-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-winter_solstice-n">
       <Lemma writtenForm="winter solstice" partOfSpeech="n"/>
       <Sense id="ewn-winter_solstice__1_28_00__" n="0" synset="ewn-15247986-n">
         <SenseRelation relType="antonym" target="ewn-summer_solstice__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-terrestrial_dynamical_time-n">
       <Lemma writtenForm="terrestrial dynamical time" partOfSpeech="n"/>
@@ -4554,7 +4554,7 @@
       </Lemma>
       <Sense id="ewn-accelerando__1_28_00__" n="0" synset="ewn-15289537-n">
         <SenseRelation relType="derivation" target="ewn-accelerando__5_00_00_increasing_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-antiquity-n">
       <Lemma writtenForm="antiquity" partOfSpeech="n">
@@ -4563,7 +4563,7 @@
       </Lemma>
       <Sense id="ewn-antiquity__1_28_00__" n="0" synset="ewn-15277950-n">
         <SenseRelation relType="derivation" target="ewn-antique__5_00_01_old_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-offing-n">
       <Lemma writtenForm="offing" partOfSpeech="n">
@@ -4639,7 +4639,7 @@
       </Lemma>
       <Sense id="ewn-occasion__1_28_00__" n="3" synset="ewn-15270640-n">
         <SenseRelation relType="derivation" target="ewn-occasion__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-timekeeping-n">
       <Lemma writtenForm="timekeeping" partOfSpeech="n"/>
@@ -4661,7 +4661,7 @@
       <Lemma writtenForm="pubescence" partOfSpeech="n"/>
       <Sense id="ewn-pubescence__1_28_00__" n="0" synset="ewn-15173255-n">
         <SenseRelation relType="derivation" target="ewn-pubescent__5_00_00_immature_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-efflorescence-n">
       <Lemma writtenForm="efflorescence" partOfSpeech="n"/>
@@ -4682,7 +4682,7 @@
       </Lemma>
       <Sense id="ewn-past__1_28_00__" n="0" synset="ewn-15145765-n">
         <SenseRelation relType="antonym" target="ewn-future__1_28_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-past__1_28_01__" n="1" synset="ewn-15166653-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Th-n">
@@ -4709,7 +4709,7 @@
       </Lemma>
       <Sense id="ewn-space__1_28_00__" n="5" synset="ewn-15197259-n">
         <SenseRelation relType="derivation" target="ewn-space__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Judgement_Day-n">
       <Lemma writtenForm="Judgement Day" partOfSpeech="n"/>
@@ -4736,7 +4736,7 @@
       <Sense id="ewn-girlhood__1_28_00__" n="0" synset="ewn-15172290-n">
         <SenseRelation relType="derivation" target="ewn-girl__1_18_02__"/>
         <SenseRelation relType="derivation" target="ewn-girl__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-eternity-n">
       <Lemma writtenForm="eternity" partOfSpeech="n">
@@ -4746,13 +4746,13 @@
       <Sense id="ewn-eternity__1_28_00__" n="0" synset="ewn-15268787-n"/>
       <Sense id="ewn-eternity__1_28_01__" n="2" synset="ewn-15298392-n">
         <SenseRelation relType="derivation" target="ewn-eternal__5_00_00_long_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rest_day-n">
       <Lemma writtenForm="rest day" partOfSpeech="n"/>
       <Sense id="ewn-rest_day__1_28_00__" n="0" synset="ewn-15161999-n">
         <SenseRelation relType="antonym" target="ewn-workday__1_28_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-St_John-ap-s_Day-n">
       <Lemma writtenForm="St John&apos;s Day" partOfSpeech="n"/>
@@ -4774,7 +4774,7 @@
       <Lemma writtenForm="slot" partOfSpeech="n"/>
       <Sense id="ewn-slot__1_28_00__" n="2" synset="ewn-15295202-n">
         <SenseRelation relType="derivation" target="ewn-slot__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bygone-n">
       <Lemma writtenForm="bygone" partOfSpeech="n">
@@ -4783,7 +4783,7 @@
       </Lemma>
       <Sense id="ewn-bygone__1_28_00__" n="0" synset="ewn-15146095-n">
         <SenseRelation relType="derivation" target="ewn-bygone__5_00_00_past_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quarter-n">
       <Lemma writtenForm="quarter" partOfSpeech="n"/>
@@ -4792,7 +4792,7 @@
       <Sense id="ewn-quarter__1_28_00__" n="4" synset="ewn-15250842-n"/>
       <Sense id="ewn-quarter__1_28_02__" n="5" synset="ewn-15231386-n">
         <SenseRelation relType="derivation" target="ewn-quarterly__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-escape_velocity-n">
       <Lemma writtenForm="escape velocity" partOfSpeech="n"/>
@@ -4822,7 +4822,7 @@
       <Lemma writtenForm="mistiming" partOfSpeech="n"/>
       <Sense id="ewn-mistiming__1_28_00__" n="0" synset="ewn-15205157-n">
         <SenseRelation relType="derivation" target="ewn-mistime__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-life-time-n">
       <Lemma writtenForm="life-time" partOfSpeech="n"/>
@@ -4869,13 +4869,13 @@
         <SenseRelation relType="derivation" target="ewn-start__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-start__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-start__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-downtime-n">
       <Lemma writtenForm="downtime" partOfSpeech="n"/>
       <Sense id="ewn-downtime__1_28_00__" n="0" synset="ewn-15142563-n">
         <SenseRelation relType="antonym" target="ewn-uptime__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Dark_Ages-n">
       <Lemma writtenForm="Dark Ages" partOfSpeech="n"/>
@@ -4915,7 +4915,7 @@
       <Lemma writtenForm="kip" partOfSpeech="n"/>
       <Sense id="ewn-kip__1_28_00__" n="0" synset="ewn-15298941-n">
         <SenseRelation relType="derivation" target="ewn-kip__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-geologic_time-n">
       <Lemma writtenForm="geologic time" partOfSpeech="n"/>
@@ -5356,7 +5356,7 @@
         <SenseRelation relType="derivation" target="ewn-speed__2_30_02__"/>
         <SenseRelation relType="derivation" target="ewn-speed__2_38_03__"/>
         <SenseRelation relType="derivation" target="ewn-speed__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-moment-n">
       <Lemma writtenForm="moment" partOfSpeech="n">
@@ -5367,7 +5367,7 @@
       <Sense id="ewn-moment__1_28_01__" n="1" synset="ewn-15271664-n">
         <SenseRelation relType="derivation" target="ewn-momentary__5_00_00_short_02"/>
         <SenseRelation relType="derivation" target="ewn-momentaneous__5_00_00_short_02"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-moment__1_28_02__" n="2" synset="ewn-15144992-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-fete_day-n">
@@ -5385,7 +5385,7 @@
       <Sense id="ewn-limitation__1_28_00__" n="3" synset="ewn-15249089-n">
         <SenseRelation relType="derivation" target="ewn-limit__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-limit__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-menstrual_cycle-n">
       <Lemma writtenForm="menstrual cycle" partOfSpeech="n"/>
@@ -5409,7 +5409,7 @@
       <Sense id="ewn-night__1_28_00__" n="0" synset="ewn-15192074-n">
         <SenseRelation relType="antonym" target="ewn-day__1_28_02__"/>
         <SenseRelation relType="derivation" target="ewn-nightly__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-night__1_28_01__" n="1" synset="ewn-15192624-n"/>
       <Sense id="ewn-night__1_28_04__" n="2" synset="ewn-15192521-n"/>
       <Sense id="ewn-night__1_28_02__" n="3" synset="ewn-15180707-n"/>
@@ -5548,7 +5548,7 @@
       </Lemma>
       <Sense id="ewn-leisure__1_28_00__" n="0" synset="ewn-15162628-n">
         <SenseRelation relType="derivation" target="ewn-leisurely__5_00_00_unhurried_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-semicentennial-n">
       <Lemma writtenForm="semicentennial" partOfSpeech="n"/>
@@ -5559,7 +5559,7 @@
       <Sense id="ewn-frequence__1_28_00__" n="0" synset="ewn-15303267-n">
         <SenseRelation relType="derivation" target="ewn-frequent__5_00_00_common_01"/>
         <SenseRelation relType="derivation" target="ewn-frequent__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-full_phase_of_the_moon-n">
       <Lemma writtenForm="full phase of the moon" partOfSpeech="n"/>
@@ -5609,7 +5609,7 @@
       <Lemma writtenForm="hospitalization" partOfSpeech="n"/>
       <Sense id="ewn-hospitalization__1_28_00__" n="0" synset="ewn-15144127-n">
         <SenseRelation relType="derivation" target="ewn-hospitalize__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-phase-n">
       <Lemma writtenForm="phase" partOfSpeech="n">
@@ -5617,10 +5617,10 @@
       </Lemma>
       <Sense id="ewn-phase__1_28_00__" n="0" synset="ewn-15315573-n">
         <SenseRelation relType="derivation" target="ewn-phase__2_36_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-phase__1_28_01__" n="2" synset="ewn-15315368-n">
         <SenseRelation relType="derivation" target="ewn-phase__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quatercentennial-n">
       <Lemma writtenForm="quatercentennial" partOfSpeech="n"/>
@@ -5642,7 +5642,7 @@
       </Lemma>
       <Sense id="ewn-allegro__1_28_00__" n="0" synset="ewn-15289832-n">
         <SenseRelation relType="derivation" target="ewn-allegro__5_00_00_fast_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Tisha_b-ap-Av-n">
       <Lemma writtenForm="Tisha b&apos;Av" partOfSpeech="n"/>
@@ -5662,7 +5662,7 @@
       </Lemma>
       <Sense id="ewn-sunset__1_28_00__" n="0" synset="ewn-15194295-n">
         <SenseRelation relType="antonym" target="ewn-sunrise__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Victory_Day-n">
       <Lemma writtenForm="Victory Day" partOfSpeech="n"/>
@@ -5816,7 +5816,7 @@
       </Lemma>
       <Sense id="ewn-menopause__1_28_00__" n="0" synset="ewn-15179422-n">
         <SenseRelation relType="derivation" target="ewn-menopausal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-geological_time-n">
       <Lemma writtenForm="geological time" partOfSpeech="n"/>
@@ -5871,13 +5871,13 @@
         <SenseRelation relType="derivation" target="ewn-flow__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-flow__2_38_02__"/>
         <SenseRelation relType="derivation" target="ewn-flow__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-allegretto-n">
       <Lemma writtenForm="allegretto" partOfSpeech="n"/>
       <Sense id="ewn-allegretto__1_28_00__" n="0" synset="ewn-15289702-n">
         <SenseRelation relType="derivation" target="ewn-allegretto__5_00_00_fast_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Mountain_Time-n">
       <Lemma writtenForm="Mountain Time" partOfSpeech="n"/>
@@ -5959,7 +5959,7 @@
       </Lemma>
       <Sense id="ewn-weekend__1_28_00__" n="0" synset="ewn-15195551-n">
         <SenseRelation relType="derivation" target="ewn-weekend__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-elapsed_time-n">
       <Lemma writtenForm="elapsed time" partOfSpeech="n"/>
@@ -6009,7 +6009,7 @@
         <SenseRelation relType="derivation" target="ewn-lull__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-lull__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-lull__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Fast_of_Ab-n">
       <Lemma writtenForm="Fast of Ab" partOfSpeech="n"/>
@@ -6036,10 +6036,10 @@
       </Lemma>
       <Sense id="ewn-reign__1_28_01__" n="0" synset="ewn-15285775-n">
         <SenseRelation relType="derivation" target="ewn-reign__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-reign__1_28_00__" n="1" synset="ewn-15285625-n">
         <SenseRelation relType="derivation" target="ewn-reign__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Tertiary_period-n">
       <Lemma writtenForm="Tertiary period" partOfSpeech="n"/>
@@ -6051,7 +6051,7 @@
       </Lemma>
       <Sense id="ewn-infancy__1_28_00__" n="0" synset="ewn-15170546-n">
         <SenseRelation relType="derivation" target="ewn-infant__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Pus-n">
       <Lemma writtenForm="Pus" partOfSpeech="n">
@@ -6096,7 +6096,7 @@
       </Lemma>
       <Sense id="ewn-jubilee__1_28_00__" n="0" synset="ewn-15275123-n">
         <SenseRelation relType="derivation" target="ewn-jubilate__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-semicentenary-n">
       <Lemma writtenForm="semicentenary" partOfSpeech="n"/>
@@ -6108,7 +6108,7 @@
         <SenseRelation relType="antonym" target="ewn-death__1_28_00__"/>
         <SenseRelation relType="derivation" target="ewn-birth__2_29_00__"/>
         <SenseRelation relType="derivation" target="ewn-be_born__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Lower_Paleolithic-n">
       <Lemma writtenForm="Lower Paleolithic" partOfSpeech="n"/>
@@ -6134,7 +6134,7 @@
       </Lemma>
       <Sense id="ewn-expiration__1_28_00__" n="0" synset="ewn-15293639-n">
         <SenseRelation relType="derivation" target="ewn-expire__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Christian_year-n">
       <Lemma writtenForm="Christian year" partOfSpeech="n"/>
@@ -6144,14 +6144,14 @@
       <Lemma writtenForm="flush" partOfSpeech="n"/>
       <Sense id="ewn-flush__1_28_00__" n="0" synset="ewn-15320288-n">
         <SenseRelation relType="derivation" target="ewn-flush__5_00_00_rich_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bimester-n">
       <Lemma writtenForm="bimester" partOfSpeech="n"/>
       <Sense id="ewn-bimester__1_28_00__" n="0" synset="ewn-15229405-n">
         <SenseRelation relType="derivation" target="ewn-bimestrial__5_00_00_long_02"/>
         <SenseRelation relType="derivation" target="ewn-bimestrial__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-novitiate-n">
       <Lemma writtenForm="novitiate" partOfSpeech="n">
@@ -6309,7 +6309,7 @@
       </Lemma>
       <Sense id="ewn-maturity__1_28_00__" n="0" synset="ewn-15177777-n">
         <SenseRelation relType="derivation" target="ewn-mature__3_00_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-maturity__1_28_01__" n="2" synset="ewn-15178185-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Dhu_al-Qadah-n">
@@ -6329,7 +6329,7 @@
       <Sense id="ewn-school__1_28_00__" n="4" synset="ewn-15228025-n">
         <SenseRelation relType="derivation" target="ewn-scholastic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-school__2_41_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-school_year-n">
       <Lemma writtenForm="school year" partOfSpeech="n"/>
@@ -6348,7 +6348,7 @@
       </Lemma>
       <Sense id="ewn-childhood__1_28_00__" n="0" synset="ewn-15172057-n">
         <SenseRelation relType="derivation" target="ewn-child__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-light_speed-n">
       <Lemma writtenForm="light speed" partOfSpeech="n"/>
@@ -6395,7 +6395,7 @@
       <Lemma writtenForm="checkout" partOfSpeech="n"/>
       <Sense id="ewn-checkout__1_28_00__" n="1" synset="ewn-15206117-n">
         <SenseRelation relType="derivation" target="ewn-check_out__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Vaisakha-n">
       <Lemma writtenForm="Vaisakha" partOfSpeech="n"/>
@@ -6488,7 +6488,7 @@
       </Lemma>
       <Sense id="ewn-crepuscule__1_28_00__" n="0" synset="ewn-15194468-n">
         <SenseRelation relType="derivation" target="ewn-crepuscular__5_00_00_dark_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Trinity_Sunday-n">
       <Lemma writtenForm="Trinity Sunday" partOfSpeech="n"/>
@@ -6537,7 +6537,7 @@
       <Lemma writtenForm="puberty" partOfSpeech="n"/>
       <Sense id="ewn-puberty__1_28_00__" n="0" synset="ewn-15173255-n">
         <SenseRelation relType="derivation" target="ewn-pubertal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Feast_of_Weeks-n">
       <Lemma writtenForm="Feast of Weeks" partOfSpeech="n"/>
@@ -6587,7 +6587,7 @@
       <Lemma writtenForm="geezerhood" partOfSpeech="n"/>
       <Sense id="ewn-geezerhood__1_28_00__" n="0" synset="ewn-15178747-n">
         <SenseRelation relType="derivation" target="ewn-geezer__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-noonday-n">
       <Lemma writtenForm="noonday" partOfSpeech="n"/>
@@ -6615,7 +6615,7 @@
       </Lemma>
       <Sense id="ewn-crepuscle__1_28_00__" n="0" synset="ewn-15194468-n">
         <SenseRelation relType="derivation" target="ewn-crepuscular__5_00_00_dark_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-religious_holiday-n">
       <Lemma writtenForm="religious holiday" partOfSpeech="n"/>
@@ -6703,7 +6703,7 @@
       <Lemma writtenForm="rule" partOfSpeech="n"/>
       <Sense id="ewn-rule__1_28_00__" n="5" synset="ewn-15320659-n">
         <SenseRelation relType="derivation" target="ewn-rule__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-preseason-n">
       <Lemma writtenForm="preseason" partOfSpeech="n"/>
@@ -6740,7 +6740,7 @@
       <Lemma writtenForm="dry season" partOfSpeech="n"/>
       <Sense id="ewn-dry_season__1_28_00__" n="0" synset="ewn-15263971-n">
         <SenseRelation relType="antonym" target="ewn-rainy_season__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fatality_rate-n">
       <Lemma writtenForm="fatality rate" partOfSpeech="n"/>
@@ -6832,7 +6832,7 @@
       <Lemma writtenForm="regulation time" partOfSpeech="n"/>
       <Sense id="ewn-regulation_time__1_28_00__" n="0" synset="ewn-15258575-n">
         <SenseRelation relType="antonym" target="ewn-overtime__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-time_lag-n">
       <Lemma writtenForm="time lag" partOfSpeech="n"/>
@@ -6870,7 +6870,7 @@
       <Form writtenForm="bicennaries"/>
       <Sense id="ewn-bicentennial__1_28_00__" n="0" synset="ewn-15276411-n">
         <SenseRelation relType="derivation" target="ewn-bicentennial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Golden_Age-n">
       <Lemma writtenForm="Golden Age" partOfSpeech="n">
@@ -6891,7 +6891,7 @@
       <Lemma writtenForm="uptime" partOfSpeech="n"/>
       <Sense id="ewn-uptime__1_28_00__" n="0" synset="ewn-15142751-n">
         <SenseRelation relType="antonym" target="ewn-downtime__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Twelfth_night-n">
       <Lemma writtenForm="Twelfth night" partOfSpeech="n"/>
@@ -6905,10 +6905,10 @@
       <Sense id="ewn-hour__1_28_00__" n="0" synset="ewn-15252642-n">
         <SenseRelation relType="derivation" target="ewn-hourly__5_00_00_periodic_00"/>
         <SenseRelation relType="derivation" target="ewn-horary__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-hour__1_28_01__" n="1" synset="ewn-15253174-n">
         <SenseRelation relType="derivation" target="ewn-horary__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-hour__1_28_02__" n="2" synset="ewn-15253706-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-New_Stone_Age-n">
@@ -6922,7 +6922,7 @@
         <SenseRelation relType="derivation" target="ewn-lease__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-lease__2_41_01__"/>
         <SenseRelation relType="derivation" target="ewn-lease__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fin_de_siecle-n">
       <Lemma writtenForm="fin de siecle" partOfSpeech="n"/>
@@ -6947,7 +6947,7 @@
       <Lemma writtenForm="kickoff" partOfSpeech="n"/>
       <Sense id="ewn-kickoff__1_28_00__" n="1" synset="ewn-15290329-n">
         <SenseRelation relType="derivation" target="ewn-kick_off__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Yom_Kippur-n">
       <Lemma writtenForm="Yom Kippur" partOfSpeech="n"/>
@@ -6969,10 +6969,10 @@
         <SenseRelation relType="derivation" target="ewn-pace__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-pace__2_38_01__"/>
         <SenseRelation relType="derivation" target="ewn-pace__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-pace__1_28_01__" n="4" synset="ewn-15308315-n">
         <SenseRelation relType="derivation" target="ewn-pace__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-epoch-n">
       <Lemma writtenForm="epoch" partOfSpeech="n">
@@ -6981,7 +6981,7 @@
       </Lemma>
       <Sense id="ewn-epoch__1_28_00__" n="0" synset="ewn-15273375-n">
         <SenseRelation relType="derivation" target="ewn-epochal__5_00_00_significant_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-epoch__1_28_02__" n="1" synset="ewn-15321930-n"/>
       <Sense id="ewn-epoch__1_28_01__" n="2" synset="ewn-15273080-n"/>
     </LexicalEntry>
@@ -7036,11 +7036,11 @@
       </Lemma>
       <Sense id="ewn-week__1_28_00__" n="0" synset="ewn-15194920-n">
         <SenseRelation relType="derivation" target="ewn-weekly__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-week__1_28_01__" n="1" synset="ewn-15160948-n"/>
       <Sense id="ewn-week__1_28_02__" n="2" synset="ewn-15161099-n">
         <SenseRelation relType="derivation" target="ewn-weekly__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-midday-n">
       <Lemma writtenForm="midday" partOfSpeech="n">
@@ -7072,7 +7072,7 @@
       <Lemma writtenForm="limit" partOfSpeech="n"/>
       <Sense id="ewn-limit__1_28_00__" n="1" synset="ewn-15293814-n">
         <SenseRelation relType="derivation" target="ewn-limit__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Veadar-n">
       <Lemma writtenForm="Veadar" partOfSpeech="n"/>
@@ -7127,7 +7127,7 @@
       <Sense id="ewn-canicule__1_28_00__" n="0" synset="ewn-15262364-n">
         <SenseRelation relType="derivation" target="ewn-canicular__3_01_02__"/>
         <SenseRelation relType="derivation" target="ewn-canicular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-distance-n">
       <Lemma writtenForm="distance" partOfSpeech="n">
@@ -7135,11 +7135,11 @@
       </Lemma>
       <Sense id="ewn-distance__1_28_00__" n="4" synset="ewn-15197259-n">
         <SenseRelation relType="derivation" target="ewn-distant__5_00_02_far_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-distance__1_28_01__" n="5" synset="ewn-15197470-n">
         <SenseRelation relType="derivation" target="ewn-distant__3_00_01__"/>
         <SenseRelation relType="derivation" target="ewn-distant__5_00_02_far_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-July_1-n">
       <Lemma writtenForm="July 1" partOfSpeech="n"/>
@@ -7173,7 +7173,7 @@
       <Form writtenForm="feriae"/>
       <Sense id="ewn-feria__1_28_00__" n="0" synset="ewn-15188455-n">
         <SenseRelation relType="derivation" target="ewn-ferial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chapter-n">
       <Lemma writtenForm="chapter" partOfSpeech="n">
@@ -7266,7 +7266,7 @@
       <Lemma writtenForm="workday" partOfSpeech="n"/>
       <Sense id="ewn-workday__1_28_01__" n="0" synset="ewn-15161875-n">
         <SenseRelation relType="antonym" target="ewn-rest_day__1_28_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-workday__1_28_00__" n="1" synset="ewn-15161675-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-March_19-n">
@@ -7317,7 +7317,7 @@
       <Sense id="ewn-overtime__1_28_01__" n="0" synset="ewn-15162146-n"/>
       <Sense id="ewn-overtime__1_28_00__" n="1" synset="ewn-15258786-n">
         <SenseRelation relType="antonym" target="ewn-regulation_time__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-count_per_minute-n">
       <Lemma writtenForm="count per minute" partOfSpeech="n"/>
@@ -7446,20 +7446,20 @@
       <Lemma writtenForm="ending" partOfSpeech="n"/>
       <Sense id="ewn-ending__1_28_00__" n="2" synset="ewn-15291722-n">
         <SenseRelation relType="derivation" target="ewn-end__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rev-n">
       <Lemma writtenForm="rev" partOfSpeech="n"/>
       <Sense id="ewn-rev__1_28_00__" n="0" synset="ewn-15307088-n">
         <SenseRelation relType="derivation" target="ewn-rev__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pulse-n">
       <Lemma writtenForm="pulse" partOfSpeech="n"/>
       <Sense id="ewn-pulse__1_28_00__" n="2" synset="ewn-15305913-n">
         <SenseRelation relType="derivation" target="ewn-pulse__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-pulsate__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-term_of_office-n">
       <Lemma writtenForm="term of office" partOfSpeech="n"/>
@@ -7523,7 +7523,7 @@
       </Lemma>
       <Sense id="ewn-equinox__1_28_00__" n="0" synset="ewn-15248139-n">
         <SenseRelation relType="derivation" target="ewn-equinoctial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Archean_eon-n">
       <Lemma writtenForm="Archean eon" partOfSpeech="n"/>
@@ -7580,7 +7580,7 @@
       <Sense id="ewn-hebdomad__1_28_00__" n="0" synset="ewn-15194920-n">
         <SenseRelation relType="derivation" target="ewn-hebdomadary__5_00_00_periodic_00"/>
         <SenseRelation relType="derivation" target="ewn-hebdomadal__5_00_00_periodic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bottom-n">
       <Lemma writtenForm="bottom" partOfSpeech="n">
@@ -7589,7 +7589,7 @@
       </Lemma>
       <Sense id="ewn-bottom__1_28_00__" n="3" synset="ewn-15281056-n">
         <SenseRelation relType="antonym" target="ewn-top__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Y2K-n">
       <Lemma writtenForm="Y2K" partOfSpeech="n"/>
@@ -7648,11 +7648,11 @@
       <Sense id="ewn-death__1_28_00__" n="3" synset="ewn-15168437-n">
         <SenseRelation relType="antonym" target="ewn-birth__1_28_00__"/>
         <SenseRelation relType="derivation" target="ewn-die__2_30_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-death__1_28_01__" n="4" synset="ewn-15168236-n">
         <SenseRelation relType="derivation" target="ewn-die__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-die__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-eve-n">
       <Lemma writtenForm="eve" partOfSpeech="n">
@@ -7701,7 +7701,7 @@
       <Sense id="ewn-hold__1_28_00__" n="3" synset="ewn-15297015-n">
         <SenseRelation relType="derivation" target="ewn-hold__2_42_12__"/>
         <SenseRelation relType="derivation" target="ewn-hold__2_38_05__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Permian-n">
       <Lemma writtenForm="Permian" partOfSpeech="n">
@@ -7715,7 +7715,7 @@
       </Lemma>
       <Sense id="ewn-puerperium__1_28_00__" n="0" synset="ewn-15167528-n">
         <SenseRelation relType="derivation" target="ewn-puerperal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Whitsun_Tuesday-n">
       <Lemma writtenForm="Whitsun Tuesday" partOfSpeech="n"/>
@@ -7820,7 +7820,7 @@
         <SenseRelation relType="derivation" target="ewn-adolescent__5_00_00_young_00"/>
         <SenseRelation relType="derivation" target="ewn-adolescent__5_00_00_immature_01"/>
         <SenseRelation relType="derivation" target="ewn-adolesce__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-morrow-n">
       <Lemma writtenForm="morrow" partOfSpeech="n">
@@ -7875,7 +7875,7 @@
       <Lemma writtenForm="bachelorhood" partOfSpeech="n"/>
       <Sense id="ewn-bachelorhood__1_28_00__" n="0" synset="ewn-15178313-n">
         <SenseRelation relType="derivation" target="ewn-bachelor__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Av-n">
       <Lemma writtenForm="Av" partOfSpeech="n"/>
@@ -7903,7 +7903,7 @@
       <Sense id="ewn-rest__1_28_00__" n="2" synset="ewn-15299060-n">
         <SenseRelation relType="derivation" target="ewn-rest__2_32_01__"/>
         <SenseRelation relType="derivation" target="ewn-rest__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-St_Patrick-ap-s_Day-n">
       <Lemma writtenForm="St Patrick&apos;s Day" partOfSpeech="n"/>
@@ -7946,7 +7946,7 @@
       <Lemma writtenForm="break" partOfSpeech="n"/>
       <Sense id="ewn-break__1_28_00__" n="6" synset="ewn-15295994-n">
         <SenseRelation relType="derivation" target="ewn-break__2_41_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rush_hour-n">
       <Lemma writtenForm="rush hour" partOfSpeech="n"/>
@@ -7957,7 +7957,7 @@
       <Form writtenForm="bicennaries"/>
       <Sense id="ewn-bicentenary__1_28_00__" n="0" synset="ewn-15276411-n">
         <SenseRelation relType="derivation" target="ewn-bicentenary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-period-n">
       <Lemma writtenForm="period" partOfSpeech="n">
@@ -7967,7 +7967,7 @@
       <Sense id="ewn-period__1_28_00__" n="0" synset="ewn-15137796-n"/>
       <Sense id="ewn-period__1_28_02__" n="1" synset="ewn-15315015-n">
         <SenseRelation relType="derivation" target="ewn-periodical__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-period__1_28_07__" n="2" synset="ewn-15283092-n"/>
       <Sense id="ewn-period__1_28_03__" n="3" synset="ewn-15272329-n"/>
       <Sense id="ewn-period__1_28_04__" n="4" synset="ewn-15169138-n"/>
@@ -7990,7 +7990,7 @@
       </Lemma>
       <Sense id="ewn-lactation__1_28_00__" n="0" synset="ewn-15167796-n">
         <SenseRelation relType="derivation" target="ewn-lactate__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-January_19-n">
       <Lemma writtenForm="January 19" partOfSpeech="n"/>
@@ -8043,7 +8043,7 @@
       </Lemma>
       <Sense id="ewn-centennial__1_28_00__" n="0" synset="ewn-15276147-n">
         <SenseRelation relType="derivation" target="ewn-centennial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-modern_world-n">
       <Lemma writtenForm="modern world" partOfSpeech="n"/>
@@ -8060,7 +8060,7 @@
       </Lemma>
       <Sense id="ewn-top__1_28_00__" n="3" synset="ewn-15280833-n">
         <SenseRelation relType="antonym" target="ewn-bottom__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-astronomical_year-n">
       <Lemma writtenForm="astronomical year" partOfSpeech="n"/>
@@ -8099,7 +8099,7 @@
       <Lemma writtenForm="Archeozoic" partOfSpeech="n"/>
       <Sense id="ewn-archeozoic__1_28_00__" n="0" synset="ewn-15154172-n">
         <SenseRelation relType="derivation" target="ewn-archeozoic__5_00_00_early_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-episcopate-n">
       <Lemma writtenForm="episcopate" partOfSpeech="n">
@@ -8115,7 +8115,7 @@
       <Lemma writtenForm="widowhood" partOfSpeech="n"/>
       <Sense id="ewn-widowhood__1_28_00__" n="0" synset="ewn-15178627-n">
         <SenseRelation relType="derivation" target="ewn-widow__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-flow_rate-n">
       <Lemma writtenForm="flow rate" partOfSpeech="n"/>
@@ -8131,7 +8131,7 @@
         <SenseRelation relType="derivation" target="ewn-wintery__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-winter__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-winterize__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Renascence-n">
       <Lemma writtenForm="Renascence" partOfSpeech="n">
@@ -8149,7 +8149,7 @@
       <Form writtenForm="goes"/>
       <Sense id="ewn-go__1_28_00__" n="0" synset="ewn-15317305-n">
         <SenseRelation relType="derivation" target="ewn-go__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-eventide-n">
       <Lemma writtenForm="eventide" partOfSpeech="n"/>
@@ -8292,7 +8292,7 @@
       <Lemma writtenForm="work time" partOfSpeech="n"/>
       <Sense id="ewn-work_time__1_28_00__" n="0" synset="ewn-15143170-n">
         <SenseRelation relType="antonym" target="ewn-time_off__1_28_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-canicular_days-n">
       <Lemma writtenForm="canicular days" partOfSpeech="n"/>
@@ -8313,7 +8313,7 @@
         <SenseRelation relType="derivation" target="ewn-end__2_42_01__"/>
         <SenseRelation relType="derivation" target="ewn-end__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-end__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-time_unit-n">
       <Lemma writtenForm="time unit" partOfSpeech="n"/>

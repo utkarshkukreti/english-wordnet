@@ -40,7 +40,7 @@
       </Lemma>
       <Sense id="ewn-chromatin__1_08_00__" n="0" synset="ewn-05443656-n">
         <SenseRelation relType="derivation" target="ewn-chromatinic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-acaryote-n">
       <Lemma writtenForm="acaryote" partOfSpeech="n"/>
@@ -97,7 +97,7 @@
         <SenseRelation relType="derivation" target="ewn-neural__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-neuronic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-neuronal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spleen-n">
       <Lemma writtenForm="spleen" partOfSpeech="n">
@@ -106,7 +106,7 @@
       <Sense id="ewn-spleen__1_08_00__" n="0" synset="ewn-05341015-n">
         <SenseRelation relType="derivation" target="ewn-splenic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-splenetic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-booger-n">
       <Lemma writtenForm="booger" partOfSpeech="n"/>
@@ -138,7 +138,7 @@
       <Lemma writtenForm="spit" partOfSpeech="n"/>
       <Sense id="ewn-spit__1_08_00__" n="1" synset="ewn-05423542-n">
         <SenseRelation relType="derivation" target="ewn-spit__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-umbilical-n">
       <Lemma writtenForm="umbilical" partOfSpeech="n">
@@ -192,7 +192,7 @@
       <Form writtenForm="scrota"/>
       <Sense id="ewn-scrotum__1_08_00__" n="0" synset="ewn-05525057-n">
         <SenseRelation relType="derivation" target="ewn-scrotal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nonallele-n">
       <Lemma writtenForm="nonallele" partOfSpeech="n"/>
@@ -295,7 +295,7 @@
       </Lemma>
       <Sense id="ewn-bob__1_08_00__" n="1" synset="ewn-05266592-n">
         <SenseRelation relType="derivation" target="ewn-bob__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-coccygeal_nerve-n">
       <Lemma writtenForm="coccygeal nerve" partOfSpeech="n"/>
@@ -345,7 +345,7 @@
       </Lemma>
       <Sense id="ewn-semen__1_08_00__" n="0" synset="ewn-05411679-n">
         <SenseRelation relType="derivation" target="ewn-inseminate__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bellybutton-n">
       <Lemma writtenForm="bellybutton" partOfSpeech="n"/>
@@ -374,7 +374,7 @@
       <Lemma writtenForm="supinator" partOfSpeech="n"/>
       <Sense id="ewn-supinator__1_08_00__" n="0" synset="ewn-05300086-n">
         <SenseRelation relType="derivation" target="ewn-supinate__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-alpha_receptor-n">
       <Lemma writtenForm="alpha receptor" partOfSpeech="n"/>
@@ -431,7 +431,7 @@
       <Form writtenForm="glabellae"/>
       <Sense id="ewn-glabella__1_08_00__" n="0" synset="ewn-05240021-n">
         <SenseRelation relType="derivation" target="ewn-glabellar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vestibulocochlear_nerve-n">
       <Lemma writtenForm="vestibulocochlear nerve" partOfSpeech="n"/>
@@ -449,7 +449,7 @@
       <Sense id="ewn-ampulla__1_08_00__" n="0" synset="ewn-05261661-n">
         <SenseRelation relType="derivation" target="ewn-ampullary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-ampullar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-asshole-n">
       <Lemma writtenForm="asshole" partOfSpeech="n">
@@ -470,7 +470,7 @@
       </Lemma>
       <Sense id="ewn-facial__1_08_00__" n="0" synset="ewn-05486966-n">
         <SenseRelation relType="derivation" target="ewn-facial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-shanks-ap-_pony-n">
       <Lemma writtenForm="shanks&apos; pony" partOfSpeech="n"/>
@@ -517,7 +517,7 @@
       </Lemma>
       <Sense id="ewn-lobule__1_08_00__" n="0" synset="ewn-05501302-n">
         <SenseRelation relType="derivation" target="ewn-lobular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-soup-strainer-n">
       <Lemma writtenForm="soup-strainer" partOfSpeech="n"/>
@@ -532,7 +532,7 @@
       <Lemma writtenForm="gonadotropin" partOfSpeech="n"/>
       <Sense id="ewn-gonadotropin__1_08_00__" n="0" synset="ewn-05417658-n">
         <SenseRelation relType="derivation" target="ewn-gonadotropic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ankle-n">
       <Lemma writtenForm="ankle" partOfSpeech="n">
@@ -542,20 +542,20 @@
         <SenseRelation relType="derivation" target="ewn-anklet__1_06_02__"/>
         <SenseRelation relType="derivation" target="ewn-anklet__1_06_01__"/>
         <SenseRelation relType="derivation" target="ewn-anklet__1_06_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-laryngopharynx-n">
       <Lemma writtenForm="laryngopharynx" partOfSpeech="n"/>
       <Sense id="ewn-laryngopharynx__1_08_00__" n="0" synset="ewn-05536792-n">
         <SenseRelation relType="derivation" target="ewn-laryngopharyngeal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gluteus-n">
       <Lemma writtenForm="gluteus" partOfSpeech="n"/>
       <Form writtenForm="glutei"/>
       <Sense id="ewn-gluteus__1_08_00__" n="0" synset="ewn-05577760-n">
         <SenseRelation relType="derivation" target="ewn-gluteal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rotatory_joint-n">
       <Lemma writtenForm="rotatory joint" partOfSpeech="n"/>
@@ -579,7 +579,7 @@
       </Lemma>
       <Sense id="ewn-cyst__1_08_00__" n="1" synset="ewn-05525229-n">
         <SenseRelation relType="derivation" target="ewn-cystic__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-white_matter-n">
       <Lemma writtenForm="white matter" partOfSpeech="n"/>
@@ -600,7 +600,7 @@
       <Form writtenForm="placentae"/>
       <Sense id="ewn-placenta__1_08_00__" n="1" synset="ewn-05528350-n">
         <SenseRelation relType="derivation" target="ewn-placental__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-false_vocal_cord-n">
       <Lemma writtenForm="false vocal cord" partOfSpeech="n"/>
@@ -656,7 +656,7 @@
       </Lemma>
       <Sense id="ewn-sanies__1_08_00__" n="0" synset="ewn-05424816-n">
         <SenseRelation relType="derivation" target="ewn-sanious__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sphenoid-n">
       <Lemma writtenForm="sphenoid" partOfSpeech="n">
@@ -702,7 +702,7 @@
       <Form writtenForm="radii"/>
       <Sense id="ewn-radius__1_08_00__" n="3" synset="ewn-05601073-n">
         <SenseRelation relType="derivation" target="ewn-radial__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lens_nucleus-n">
       <Lemma writtenForm="lens nucleus" partOfSpeech="n"/>
@@ -796,7 +796,7 @@
       </Lemma>
       <Sense id="ewn-lymph__1_08_00__" n="0" synset="ewn-05411417-n">
         <SenseRelation relType="derivation" target="ewn-lymphatic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-aorta-n">
       <Lemma writtenForm="aorta" partOfSpeech="n">
@@ -807,7 +807,7 @@
       <Sense id="ewn-aorta__1_08_00__" n="0" synset="ewn-05343519-n">
         <SenseRelation relType="derivation" target="ewn-aortic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-aortal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_jugularis-n">
       <Lemma writtenForm="vena jugularis" partOfSpeech="n"/>
@@ -821,7 +821,7 @@
       <Sense id="ewn-elbow__1_08_00__" n="0" synset="ewn-05587575-n">
         <SenseRelation relType="derivation" target="ewn-elbow__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-elbow__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plica_vocalis-n">
       <Lemma writtenForm="plica vocalis" partOfSpeech="n"/>
@@ -844,7 +844,7 @@
       <Form writtenForm="fila"/>
       <Sense id="ewn-filum__1_08_00__" n="0" synset="ewn-05236798-n">
         <SenseRelation relType="derivation" target="ewn-filar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-birth_canal-n">
       <Lemma writtenForm="birth canal" partOfSpeech="n"/>
@@ -941,7 +941,7 @@
       <Sense id="ewn-chopper__1_08_00__" n="1" synset="ewn-05290997-n">
         <SenseRelation relType="derivation" target="ewn-chop__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-chop__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spheroid_joint-n">
       <Lemma writtenForm="spheroid joint" partOfSpeech="n"/>
@@ -958,7 +958,7 @@
       </Lemma>
       <Sense id="ewn-tarsal__1_08_00__" n="0" synset="ewn-05289373-n">
         <SenseRelation relType="derivation" target="ewn-tarsal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-column-n">
       <Lemma writtenForm="column" partOfSpeech="n">
@@ -1005,7 +1005,7 @@
       </Lemma>
       <Sense id="ewn-cuspid__1_08_00__" n="0" synset="ewn-05314590-n">
         <SenseRelation relType="derivation" target="ewn-cuspidal__5_00_00_angular_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kneepan-n">
       <Lemma writtenForm="kneepan" partOfSpeech="n"/>
@@ -1042,7 +1042,7 @@
       <Form writtenForm="gingivae"/>
       <Sense id="ewn-gingiva__1_08_00__" n="0" synset="ewn-05312431-n">
         <SenseRelation relType="derivation" target="ewn-gingival__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-conjunctival_veins-n">
       <Lemma writtenForm="conjunctival veins" partOfSpeech="n"/>
@@ -1163,11 +1163,11 @@
       <Sense id="ewn-thenar__1_08_01__" n="0" synset="ewn-05573570-n">
         <SenseRelation relType="derivation" target="ewn-thenar__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-thenal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-thenar__1_08_00__" n="1" synset="ewn-05573329-n">
         <SenseRelation relType="derivation" target="ewn-thenar__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-thenal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-auricular_artery-n">
       <Lemma writtenForm="auricular artery" partOfSpeech="n"/>
@@ -1228,7 +1228,7 @@
       <Form writtenForm="endothelia"/>
       <Sense id="ewn-endothelium__1_08_00__" n="0" synset="ewn-05247865-n">
         <SenseRelation relType="derivation" target="ewn-endothelial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pubic_hair-n">
       <Lemma writtenForm="pubic hair" partOfSpeech="n"/>
@@ -1240,7 +1240,7 @@
       </Lemma>
       <Sense id="ewn-hair__1_08_00__" n="0" synset="ewn-05262259-n">
         <SenseRelation relType="derivation" target="ewn-hairy__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-hair__1_08_01__" n="3" synset="ewn-05261857-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-man-ap-s_body-n">
@@ -1258,7 +1258,7 @@
       </Lemma>
       <Sense id="ewn-groove__1_08_00__" n="2" synset="ewn-05229884-n">
         <SenseRelation relType="derivation" target="ewn-groove__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tenth_cranial_nerve-n">
       <Lemma writtenForm="tenth cranial nerve" partOfSpeech="n"/>
@@ -1394,7 +1394,7 @@
       <Lemma writtenForm="Pitressin" partOfSpeech="n"/>
       <Sense id="ewn-pitressin__1_08_00__" n="0" synset="ewn-05421490-n">
         <SenseRelation relType="exemplifies" target="ewn-trade_name__1_10_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-arteria_maxillaris-n">
       <Lemma writtenForm="arteria maxillaris" partOfSpeech="n"/>
@@ -1449,7 +1449,7 @@
       <Form writtenForm="axillae"/>
       <Sense id="ewn-axilla__1_08_00__" n="0" synset="ewn-05557209-n">
         <SenseRelation relType="derivation" target="ewn-axillary__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-urogenital_apparatus-n">
       <Lemma writtenForm="urogenital apparatus" partOfSpeech="n"/>
@@ -1524,7 +1524,7 @@
       </Lemma>
       <Sense id="ewn-feature__1_08_00__" n="1" synset="ewn-05609513-n">
         <SenseRelation relType="derivation" target="ewn-feature__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tarsal_bone-n">
       <Lemma writtenForm="tarsal bone" partOfSpeech="n"/>
@@ -1543,7 +1543,7 @@
       <Sense id="ewn-blood__1_08_00__" n="0" synset="ewn-05407190-n">
         <SenseRelation relType="derivation" target="ewn-bloody__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-blood__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-articulatio_talocruralis-n">
       <Lemma writtenForm="articulatio talocruralis" partOfSpeech="n"/>
@@ -1565,7 +1565,7 @@
       <Form writtenForm="pharynges"/>
       <Sense id="ewn-pharynx__1_08_00__" n="0" synset="ewn-05555141-n">
         <SenseRelation relType="derivation" target="ewn-pharyngeal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_digitalis-n">
       <Lemma writtenForm="vena digitalis" partOfSpeech="n"/>
@@ -1616,7 +1616,7 @@
       </Lemma>
       <Sense id="ewn-ovary__1_08_00__" n="1" synset="ewn-05522938-n">
         <SenseRelation relType="derivation" target="ewn-ovarian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rete_testis-n">
       <Lemma writtenForm="rete testis" partOfSpeech="n"/>
@@ -1646,7 +1646,7 @@
       </Lemma>
       <Sense id="ewn-vegetation__1_08_00__" n="2" synset="ewn-05611609-n">
         <SenseRelation relType="derivation" target="ewn-vegetate__2_30_04__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-synovium-n">
       <Lemma writtenForm="synovium" partOfSpeech="n">
@@ -1671,7 +1671,7 @@
       <Sense id="ewn-bonelet__1_08_00__" n="0" synset="ewn-05285227-n">
         <SenseRelation relType="derivation" target="ewn-bone__1_27_00__"/>
         <SenseRelation relType="derivation" target="ewn-bone__1_08_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_gastrica-n">
       <Lemma writtenForm="vena gastrica" partOfSpeech="n"/>
@@ -1712,7 +1712,7 @@
       </Lemma>
       <Sense id="ewn-organ__1_08_00__" n="0" synset="ewn-05305022-n">
         <SenseRelation relType="derivation" target="ewn-organic__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-digestive_gland-n">
       <Lemma writtenForm="digestive gland" partOfSpeech="n"/>
@@ -1757,7 +1757,7 @@
       <Lemma writtenForm="eye" partOfSpeech="n"/>
       <Sense id="ewn-eye__1_08_00__" n="0" synset="ewn-05318579-n">
         <SenseRelation relType="derivation" target="ewn-eye__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-arteria_ovarica-n">
       <Lemma writtenForm="arteria ovarica" partOfSpeech="n"/>
@@ -1797,7 +1797,7 @@
       </Lemma>
       <Sense id="ewn-bean__1_08_00__" n="3" synset="ewn-05547087-n">
         <SenseRelation relType="derivation" target="ewn-bean__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-shanks-ap-_mare-n">
       <Lemma writtenForm="shanks&apos; mare" partOfSpeech="n"/>
@@ -1906,7 +1906,7 @@
       </Lemma>
       <Sense id="ewn-cartilage__1_08_00__" n="0" synset="ewn-05295590-n">
         <SenseRelation relType="derivation" target="ewn-cartilaginous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bleb-n">
       <Lemma writtenForm="bleb" partOfSpeech="n">
@@ -1914,7 +1914,7 @@
       </Lemma>
       <Sense id="ewn-bleb__1_08_00__" n="0" synset="ewn-05525488-n">
         <SenseRelation relType="derivation" target="ewn-blebby__5_00_00_unhealthy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lactiferous_duct-n">
       <Lemma writtenForm="lactiferous duct" partOfSpeech="n"/>
@@ -1927,7 +1927,7 @@
       <Form writtenForm="anastomoses"/>
       <Sense id="ewn-anastomosis__1_08_00__" n="0" synset="ewn-05256902-n">
         <SenseRelation relType="derivation" target="ewn-anastomotic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cloaca-n">
       <Lemma writtenForm="cloaca" partOfSpeech="n">
@@ -1976,7 +1976,7 @@
       <Lemma writtenForm="molar" partOfSpeech="n"/>
       <Sense id="ewn-molar__1_08_00__" n="0" synset="ewn-05315272-n">
         <SenseRelation relType="derivation" target="ewn-molar__3_01_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-portal_vein-n">
       <Lemma writtenForm="portal vein" partOfSpeech="n"/>
@@ -1990,12 +1990,12 @@
         <SenseRelation relType="derivation" target="ewn-mouth__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-mouth__2_32_01__"/>
         <SenseRelation relType="derivation" target="ewn-mouth__2_32_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mouth__1_08_00__" n="1" synset="ewn-05309407-n">
         <SenseRelation relType="derivation" target="ewn-mouth__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-mouth__2_32_01__"/>
         <SenseRelation relType="derivation" target="ewn-mouth__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rotator_cuff-n">
       <Lemma writtenForm="rotator cuff" partOfSpeech="n"/>
@@ -2023,7 +2023,7 @@
       <Form writtenForm="endometria"/>
       <Sense id="ewn-endometrium__1_08_00__" n="0" synset="ewn-05527471-n">
         <SenseRelation relType="derivation" target="ewn-endometrial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-maulers-n">
       <Lemma writtenForm="maulers" partOfSpeech="n"/>
@@ -2048,7 +2048,7 @@
       </Lemma>
       <Sense id="ewn-oblique__1_08_00__" n="1" synset="ewn-05565472-n">
         <SenseRelation relType="derivation" target="ewn-oblique__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-valvelet-n">
       <Lemma writtenForm="valvelet" partOfSpeech="n"/>
@@ -2056,7 +2056,7 @@
         <SenseRelation relType="derivation" target="ewn-valve__1_08_00__"/>
         <SenseRelation relType="derivation" target="ewn-valve__1_06_01__"/>
         <SenseRelation relType="derivation" target="ewn-valve__1_06_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pecs-n">
       <Lemma writtenForm="pecs" partOfSpeech="n">
@@ -2097,7 +2097,7 @@
         <SenseRelation relType="derivation" target="ewn-tube__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-tube__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-tube__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-myenteric_plexus-n">
       <Lemma writtenForm="myenteric plexus" partOfSpeech="n"/>
@@ -2280,7 +2280,7 @@
         <SenseRelation relType="derivation" target="ewn-chiasmal__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-chiasmic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-chiasmatic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-axolemma-n">
       <Lemma writtenForm="axolemma" partOfSpeech="n"/>
@@ -2316,7 +2316,7 @@
       <Sense id="ewn-freckle__1_08_00__" n="0" synset="ewn-05252535-n">
         <SenseRelation relType="derivation" target="ewn-freckle__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-freckle__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ribosome-n">
       <Lemma writtenForm="ribosome" partOfSpeech="n">
@@ -2360,7 +2360,7 @@
       </Lemma>
       <Sense id="ewn-microsome__1_08_00__" n="0" synset="ewn-05441937-n">
         <SenseRelation relType="derivation" target="ewn-microsomal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-arteria_nutricia-n">
       <Lemma writtenForm="arteria nutricia" partOfSpeech="n"/>
@@ -2376,7 +2376,7 @@
       <Sense id="ewn-epiphysis__1_08_00__" n="0" synset="ewn-05600259-n">
         <SenseRelation relType="derivation" target="ewn-epiphysial__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-epiphyseal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-epiphysis__1_08_01__" n="1" synset="ewn-05492750-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-recessive_allele-n">
@@ -2426,7 +2426,7 @@
       <Form writtenForm="pudenda"/>
       <Sense id="ewn-pudendum__1_08_00__" n="0" synset="ewn-05521923-n">
         <SenseRelation relType="derivation" target="ewn-pudendal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-papilla-n">
       <Lemma writtenForm="papilla" partOfSpeech="n">
@@ -2435,10 +2435,10 @@
       <Form writtenForm="papillae"/>
       <Sense id="ewn-papilla__1_08_01__" n="1" synset="ewn-05481387-n">
         <SenseRelation relType="derivation" target="ewn-papillary__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-papilla__1_08_00__" n="2" synset="ewn-05481245-n">
         <SenseRelation relType="derivation" target="ewn-papillary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-anatomical_structure-n">
       <Lemma writtenForm="anatomical structure" partOfSpeech="n"/>
@@ -2483,7 +2483,7 @@
       <Form writtenForm="phalanges"/>
       <Sense id="ewn-phalanx__1_08_00__" n="0" synset="ewn-05286083-n">
         <SenseRelation relType="derivation" target="ewn-phalangeal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dominant-n">
       <Lemma writtenForm="dominant" partOfSpeech="n">
@@ -2492,7 +2492,7 @@
       </Lemma>
       <Sense id="ewn-dominant__1_08_00__" n="1" synset="ewn-05445706-n">
         <SenseRelation relType="derivation" target="ewn-dominant__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-amyloid_plaque-n">
       <Lemma writtenForm="amyloid plaque" partOfSpeech="n"/>
@@ -2510,7 +2510,7 @@
       <Sense id="ewn-nodule__1_08_00__" n="0" synset="ewn-05272537-n">
         <SenseRelation relType="derivation" target="ewn-nodular__5_00_00_unshapely_00"/>
         <SenseRelation relType="derivation" target="ewn-nodular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hamate_bone-n">
       <Lemma writtenForm="hamate bone" partOfSpeech="n"/>
@@ -2520,7 +2520,7 @@
       <Lemma writtenForm="neuroglia" partOfSpeech="n"/>
       <Sense id="ewn-neuroglia__1_08_00__" n="0" synset="ewn-05474706-n">
         <SenseRelation relType="derivation" target="ewn-neuroglial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fenestra_of_the_cochlea-n">
       <Lemma writtenForm="fenestra of the cochlea" partOfSpeech="n"/>
@@ -2536,7 +2536,7 @@
       </Lemma>
       <Sense id="ewn-drool__1_08_00__" n="1" synset="ewn-05424022-n">
         <SenseRelation relType="derivation" target="ewn-drool__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-appendicular_artery-n">
       <Lemma writtenForm="appendicular artery" partOfSpeech="n"/>
@@ -2560,7 +2560,7 @@
       </Lemma>
       <Sense id="ewn-gristle__1_08_00__" n="0" synset="ewn-05295590-n">
         <SenseRelation relType="derivation" target="ewn-gristly__5_00_00_tough_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cremains-n">
       <Lemma writtenForm="cremains" partOfSpeech="n"/>
@@ -2575,7 +2575,7 @@
       <Sense id="ewn-sarcolemma__1_08_00__" n="0" synset="ewn-05435147-n">
         <SenseRelation relType="derivation" target="ewn-sarcolemmic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-sarcolemmal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sutural_bone-n">
       <Lemma writtenForm="sutural bone" partOfSpeech="n"/>
@@ -2589,7 +2589,7 @@
       <Form writtenForm="acetabula"/>
       <Sense id="ewn-acetabulum__1_08_00__" n="0" synset="ewn-05603979-n">
         <SenseRelation relType="derivation" target="ewn-acetabular__5_00_00_concave_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-extracellular_fluid-n">
       <Lemma writtenForm="extracellular fluid" partOfSpeech="n"/>
@@ -2629,7 +2629,7 @@
       </Lemma>
       <Sense id="ewn-mastoid__1_08_00__" n="0" synset="ewn-05549826-n">
         <SenseRelation relType="derivation" target="ewn-mastoid__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-musculus_teres_major-n">
       <Lemma writtenForm="musculus teres major" partOfSpeech="n"/>
@@ -2693,13 +2693,13 @@
       </Lemma>
       <Sense id="ewn-braid__1_08_00__" n="0" synset="ewn-05266995-n">
         <SenseRelation relType="derivation" target="ewn-braid__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-drivel-n">
       <Lemma writtenForm="drivel" partOfSpeech="n"/>
       <Sense id="ewn-drivel__1_08_00__" n="1" synset="ewn-05424022-n">
         <SenseRelation relType="derivation" target="ewn-drivel__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_nasalis_externa-n">
       <Lemma writtenForm="vena nasalis externa" partOfSpeech="n"/>
@@ -2724,7 +2724,7 @@
       </Lemma>
       <Sense id="ewn-hormone__1_08_00__" n="0" synset="ewn-05414462-n">
         <SenseRelation relType="derivation" target="ewn-hormonal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-omental_bursa-n">
       <Lemma writtenForm="omental bursa" partOfSpeech="n"/>
@@ -2740,7 +2740,7 @@
       <Sense id="ewn-coagulum__1_08_00__" n="0" synset="ewn-05409434-n">
         <SenseRelation relType="derivation" target="ewn-coagulate__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-coagulate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tibialis_posticus-n">
       <Lemma writtenForm="tibialis posticus" partOfSpeech="n"/>
@@ -2753,7 +2753,7 @@
       </Lemma>
       <Sense id="ewn-permanent__1_08_00__" n="0" synset="ewn-05268016-n">
         <SenseRelation relType="derivation" target="ewn-permanent__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-thermoreceptor-n">
       <Lemma writtenForm="thermoreceptor" partOfSpeech="n"/>
@@ -2803,7 +2803,7 @@
       <Form writtenForm="ulnae"/>
       <Sense id="ewn-ulna__1_08_00__" n="0" synset="ewn-05601231-n">
         <SenseRelation relType="derivation" target="ewn-ulnar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cecal_appendage-n">
       <Lemma writtenForm="cecal appendage" partOfSpeech="n"/>
@@ -2870,7 +2870,7 @@
       </Lemma>
       <Sense id="ewn-ossicle__1_08_00__" n="0" synset="ewn-05285227-n">
         <SenseRelation relType="derivation" target="ewn-ossicular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-genicular_vein-n">
       <Lemma writtenForm="genicular vein" partOfSpeech="n"/>
@@ -2888,7 +2888,7 @@
       <Sense id="ewn-ala__1_08_00__" n="0" synset="ewn-05317490-n">
         <SenseRelation relType="derivation" target="ewn-alary__5_00_00_winged_00"/>
         <SenseRelation relType="derivation" target="ewn-alate__5_00_00_winged_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-systema_nervosum-n">
       <Lemma writtenForm="systema nervosum" partOfSpeech="n"/>
@@ -2908,7 +2908,7 @@
       </Lemma>
       <Sense id="ewn-vein__1_08_00__" n="0" synset="ewn-05426061-n">
         <SenseRelation relType="derivation" target="ewn-venous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-heart_ventricle-n">
       <Lemma writtenForm="heart ventricle" partOfSpeech="n"/>
@@ -2974,7 +2974,7 @@
       <Form writtenForm="coccyges"/>
       <Sense id="ewn-coccyx__1_08_00__" n="0" synset="ewn-05281746-n">
         <SenseRelation relType="derivation" target="ewn-coccygeal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-salivary_gland-n">
       <Lemma writtenForm="salivary gland" partOfSpeech="n"/>
@@ -3008,7 +3008,7 @@
       <Lemma writtenForm="arteriola" partOfSpeech="n"/>
       <Sense id="ewn-arteriola__1_08_00__" n="0" synset="ewn-05344849-n">
         <SenseRelation relType="derivation" target="ewn-arteriolar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-external_ear-n">
       <Lemma writtenForm="external ear" partOfSpeech="n"/>
@@ -3026,7 +3026,7 @@
       <Form writtenForm="penes"/>
       <Sense id="ewn-penis__1_08_00__" n="0" synset="ewn-05534035-n">
         <SenseRelation relType="derivation" target="ewn-penial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-thalamostriate_vein-n">
       <Lemma writtenForm="thalamostriate vein" partOfSpeech="n"/>
@@ -3043,7 +3043,7 @@
       </Lemma>
       <Sense id="ewn-beard__1_08_00__" n="0" synset="ewn-05269065-n">
         <SenseRelation relType="derivation" target="ewn-beard__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rod_cell-n">
       <Lemma writtenForm="rod cell" partOfSpeech="n"/>
@@ -3104,7 +3104,7 @@
       </Lemma>
       <Sense id="ewn-synovia__1_08_00__" n="0" synset="ewn-05422543-n">
         <SenseRelation relType="derivation" target="ewn-synovial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-beta_cell-n">
       <Lemma writtenForm="beta cell" partOfSpeech="n"/>
@@ -3125,13 +3125,13 @@
       <Form writtenForm="cutes"/>
       <Sense id="ewn-cutis__1_08_00__" n="0" synset="ewn-05245612-n">
         <SenseRelation relType="derivation" target="ewn-cutaneal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pronator-n">
       <Lemma writtenForm="pronator" partOfSpeech="n"/>
       <Sense id="ewn-pronator__1_08_00__" n="0" synset="ewn-05299967-n">
         <SenseRelation relType="derivation" target="ewn-pronate__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-buccal_artery-n">
       <Lemma writtenForm="buccal artery" partOfSpeech="n"/>
@@ -3147,7 +3147,7 @@
       </Lemma>
       <Sense id="ewn-knuckle__1_08_00__" n="0" synset="ewn-05592855-n">
         <SenseRelation relType="derivation" target="ewn-knuckle__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-eleventh_cranial_nerve-n">
       <Lemma writtenForm="eleventh cranial nerve" partOfSpeech="n"/>
@@ -3173,7 +3173,7 @@
       <Lemma writtenForm="crimp" partOfSpeech="n"/>
       <Sense id="ewn-crimp__1_08_01__" n="2" synset="ewn-05265782-n">
         <SenseRelation relType="derivation" target="ewn-crimp__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gastrointestinal_system-n">
       <Lemma writtenForm="gastrointestinal system" partOfSpeech="n"/>
@@ -3194,7 +3194,7 @@
       </Lemma>
       <Sense id="ewn-optic__1_08_00__" n="0" synset="ewn-05318579-n">
         <SenseRelation relType="derivation" target="ewn-optic__3_01_04__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pancreatic_duct-n">
       <Lemma writtenForm="pancreatic duct" partOfSpeech="n"/>
@@ -3255,7 +3255,7 @@
       </Lemma>
       <Sense id="ewn-zygote__1_08_00__" n="0" synset="ewn-05439502-n">
         <SenseRelation relType="derivation" target="ewn-zygotic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-down-n">
       <Lemma writtenForm="down" partOfSpeech="n">
@@ -3263,7 +3263,7 @@
       </Lemma>
       <Sense id="ewn-down__1_08_00__" n="3" synset="ewn-05263175-n">
         <SenseRelation relType="derivation" target="ewn-downy__5_00_00_hairy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-buns-n">
       <Lemma writtenForm="buns" partOfSpeech="n">
@@ -3299,7 +3299,7 @@
       </Lemma>
       <Sense id="ewn-adductor__1_08_00__" n="0" synset="ewn-05299227-n">
         <SenseRelation relType="derivation" target="ewn-adduct__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cholecystokinin-n">
       <Lemma writtenForm="cholecystokinin" partOfSpeech="n"/>
@@ -3333,7 +3333,7 @@
       <Form writtenForm="bursae"/>
       <Sense id="ewn-bursa__1_08_00__" n="0" synset="ewn-05524205-n">
         <SenseRelation relType="derivation" target="ewn-bursal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cardiac_pacemaker-n">
       <Lemma writtenForm="cardiac pacemaker" partOfSpeech="n"/>
@@ -3343,7 +3343,7 @@
       <Lemma writtenForm="gum" partOfSpeech="n"/>
       <Sense id="ewn-gum__1_08_00__" n="1" synset="ewn-05312431-n">
         <SenseRelation relType="derivation" target="ewn-gum__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pia_mater-n">
       <Lemma writtenForm="pia mater" partOfSpeech="n"/>
@@ -3362,7 +3362,7 @@
       <Sense id="ewn-fistula__1_08_00__" n="1" synset="ewn-05555665-n">
         <SenseRelation relType="derivation" target="ewn-fistular__5_00_00_hollow_00"/>
         <SenseRelation relType="derivation" target="ewn-fistulous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-arteria_musculophrenica-n">
       <Lemma writtenForm="arteria musculophrenica" partOfSpeech="n"/>
@@ -3384,7 +3384,7 @@
       </Lemma>
       <Sense id="ewn-autosome__1_08_00__" n="0" synset="ewn-05451542-n">
         <SenseRelation relType="derivation" target="ewn-autosomal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-myoneural_junction-n">
       <Lemma writtenForm="myoneural junction" partOfSpeech="n"/>
@@ -3401,7 +3401,7 @@
       <Form writtenForm="trabeculae"/>
       <Sense id="ewn-trabecula__1_08_00__" n="0" synset="ewn-05302659-n">
         <SenseRelation relType="derivation" target="ewn-trabecular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-areolar_tissue-n">
       <Lemma writtenForm="areolar tissue" partOfSpeech="n"/>
@@ -3432,7 +3432,7 @@
       <Form writtenForm="nuclei"/>
       <Sense id="ewn-nucleus__1_08_00__" n="0" synset="ewn-05442503-n">
         <SenseRelation relType="derivation" target="ewn-nucleate__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-nucleus__1_08_01__" n="4" synset="ewn-05509583-n"/>
       <Sense id="ewn-nucleus__1_08_02__" n="5" synset="ewn-05328312-n"/>
     </LexicalEntry>
@@ -3442,7 +3442,7 @@
       </Lemma>
       <Sense id="ewn-granulocyte__1_08_00__" n="0" synset="ewn-05460721-n">
         <SenseRelation relType="derivation" target="ewn-granulocytic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_retromandibularis-n">
       <Lemma writtenForm="vena retromandibularis" partOfSpeech="n"/>
@@ -3492,7 +3492,7 @@
       <Lemma writtenForm="adrenal" partOfSpeech="n"/>
       <Sense id="ewn-adrenal__1_08_00__" n="0" synset="ewn-05338719-n">
         <SenseRelation relType="derivation" target="ewn-adrenal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-corticotrophin-n">
       <Lemma writtenForm="corticotrophin" partOfSpeech="n"/>
@@ -3585,7 +3585,7 @@
       <Lemma writtenForm="slobber" partOfSpeech="n"/>
       <Sense id="ewn-slobber__1_08_00__" n="0" synset="ewn-05424022-n">
         <SenseRelation relType="derivation" target="ewn-slobber__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vas_deferens-n">
       <Lemma writtenForm="vas deferens" partOfSpeech="n"/>
@@ -3609,7 +3609,7 @@
       </Lemma>
       <Sense id="ewn-canine__1_08_00__" n="0" synset="ewn-05314590-n">
         <SenseRelation relType="derivation" target="ewn-canine__3_01_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-inferior_epigastric_vein-n">
       <Lemma writtenForm="inferior epigastric vein" partOfSpeech="n"/>
@@ -3622,7 +3622,7 @@
       </Lemma>
       <Sense id="ewn-intercostal__1_08_00__" n="0" synset="ewn-05559920-n">
         <SenseRelation relType="derivation" target="ewn-intercostal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-blastema-n">
       <Lemma writtenForm="blastema" partOfSpeech="n"/>
@@ -3631,7 +3631,7 @@
         <SenseRelation relType="derivation" target="ewn-blastemic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-blastematic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-blastemal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lid-n">
       <Lemma writtenForm="lid" partOfSpeech="n">
@@ -3663,7 +3663,7 @@
       </Lemma>
       <Sense id="ewn-snot__1_08_00__" n="1" synset="ewn-05423392-n">
         <SenseRelation relType="derivation" target="ewn-snotty__5_00_00_dirty_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-polar_body-n">
       <Lemma writtenForm="polar body" partOfSpeech="n"/>
@@ -3725,7 +3725,7 @@
         <SenseRelation relType="derivation" target="ewn-acinar__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-acinic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-acinous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-schnoz-n">
       <Lemma writtenForm="schnoz" partOfSpeech="n"/>
@@ -3756,7 +3756,7 @@
       </Lemma>
       <Sense id="ewn-centromere__1_08_00__" n="0" synset="ewn-05451900-n">
         <SenseRelation relType="derivation" target="ewn-centromeric__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trigonum_cerebrale-n">
       <Lemma writtenForm="trigonum cerebrale" partOfSpeech="n"/>
@@ -3768,7 +3768,7 @@
       </Lemma>
       <Sense id="ewn-hymen__1_08_00__" n="0" synset="ewn-05529585-n">
         <SenseRelation relType="derivation" target="ewn-hymenal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Protropin-n">
       <Lemma writtenForm="Protropin" partOfSpeech="n"/>
@@ -3829,7 +3829,7 @@
       <Form writtenForm="bregmata"/>
       <Sense id="ewn-bregma__1_08_00__" n="0" synset="ewn-05239099-n">
         <SenseRelation relType="derivation" target="ewn-bregmatic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fetal_membrane-n">
       <Lemma writtenForm="fetal membrane" partOfSpeech="n"/>
@@ -3855,7 +3855,7 @@
       <Form writtenForm="atria"/>
       <Sense id="ewn-atrium__1_08_00__" n="0" synset="ewn-05400366-n">
         <SenseRelation relType="derivation" target="ewn-atrial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-head_of_hair-n">
       <Lemma writtenForm="head of hair" partOfSpeech="n"/>
@@ -3892,7 +3892,7 @@
       <Lemma writtenForm="arteriole" partOfSpeech="n"/>
       <Sense id="ewn-arteriole__1_08_00__" n="0" synset="ewn-05344849-n">
         <SenseRelation relType="derivation" target="ewn-arteriolar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-musculus_rhomboideus_major-n">
       <Lemma writtenForm="musculus rhomboideus major" partOfSpeech="n"/>
@@ -3915,7 +3915,7 @@
       <Form writtenForm="glomeruli"/>
       <Sense id="ewn-glomerulus__1_08_00__" n="0" synset="ewn-05255147-n">
         <SenseRelation relType="derivation" target="ewn-glomerular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-musculus_rhomboideus_minor-n">
       <Lemma writtenForm="musculus rhomboideus minor" partOfSpeech="n"/>
@@ -3965,7 +3965,7 @@
       <Lemma writtenForm="corpus luteum" partOfSpeech="n"/>
       <Sense id="ewn-corpus_luteum__1_08_00__" n="0" synset="ewn-05526265-n">
         <SenseRelation relType="derivation" target="ewn-luteal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ab-n">
       <Lemma writtenForm="ab" partOfSpeech="n">
@@ -3993,7 +3993,7 @@
       <Lemma writtenForm="bust" partOfSpeech="n"/>
       <Sense id="ewn-bust__1_08_00__" n="1" synset="ewn-05559127-n">
         <SenseRelation relType="derivation" target="ewn-busty__5_00_00_shapely_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Lente_Iletin-n">
       <Lemma writtenForm="Lente Iletin" partOfSpeech="n"/>
@@ -4034,7 +4034,7 @@
       <Sense id="ewn-skin__1_08_00__" n="0" synset="ewn-05245612-n">
         <SenseRelation relType="derivation" target="ewn-skinny__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-skin__2_35_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-human_face-n">
       <Lemma writtenForm="human face" partOfSpeech="n"/>
@@ -4056,7 +4056,7 @@
       </Lemma>
       <Sense id="ewn-leaflet__1_08_00__" n="0" synset="ewn-05396968-n">
         <SenseRelation relType="derivation" target="ewn-leaf__1_06_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cheekbone-n">
       <Lemma writtenForm="cheekbone" partOfSpeech="n"/>
@@ -4150,7 +4150,7 @@
       <Form writtenForm="myocardia"/>
       <Sense id="ewn-myocardium__1_08_00__" n="0" synset="ewn-05398343-n">
         <SenseRelation relType="derivation" target="ewn-myocardial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-palatine_tonsil-n">
       <Lemma writtenForm="palatine tonsil" partOfSpeech="n"/>
@@ -4191,7 +4191,7 @@
         <SenseRelation relType="derivation" target="ewn-finger__2_35_05__"/>
         <SenseRelation relType="derivation" target="ewn-finger__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-finger__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-superior_vocal_cord-n">
       <Lemma writtenForm="superior vocal cord" partOfSpeech="n"/>
@@ -4215,7 +4215,7 @@
       <Sense id="ewn-phallus__1_08_00__" n="0" synset="ewn-05534035-n">
         <SenseRelation relType="derivation" target="ewn-phallic__5_00_00_male_00"/>
         <SenseRelation relType="derivation" target="ewn-phallic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-beak-n">
       <Lemma writtenForm="beak" partOfSpeech="n">
@@ -4232,10 +4232,10 @@
         <SenseRelation relType="derivation" target="ewn-shoulder__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-shoulder__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-shoulder__2_35_02__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-shoulder__1_08_02__" n="2" synset="ewn-05556694-n">
         <SenseRelation relType="derivation" target="ewn-shoulder__2_35_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-liver_spot-n">
       <Lemma writtenForm="liver spot" partOfSpeech="n"/>
@@ -4260,7 +4260,7 @@
       <Sense id="ewn-person__1_08_00__" n="1" synset="ewn-05224944-n">
         <SenseRelation relType="derivation" target="ewn-personify__2_42_01__"/>
         <SenseRelation relType="derivation" target="ewn-personify__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-true_vocal_cord-n">
       <Lemma writtenForm="true vocal cord" partOfSpeech="n"/>
@@ -4309,7 +4309,7 @@
       <Sense id="ewn-coiffure__1_08_00__" n="0" synset="ewn-05264345-n">
         <SenseRelation relType="derivation" target="ewn-coif__2_29_00__"/>
         <SenseRelation relType="derivation" target="ewn-coiffure__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-arteria_alveolaris_superior-n">
       <Lemma writtenForm="arteria alveolaris superior" partOfSpeech="n"/>
@@ -4384,7 +4384,7 @@
       <Lemma writtenForm="arm" partOfSpeech="n"/>
       <Sense id="ewn-arm__1_08_00__" n="0" synset="ewn-05571403-n">
         <SenseRelation relType="derivation" target="ewn-armlet__1_06_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-genetic_marker-n">
       <Lemma writtenForm="genetic marker" partOfSpeech="n"/>
@@ -4430,7 +4430,7 @@
       </Lemma>
       <Sense id="ewn-antagonist__1_08_00__" n="1" synset="ewn-05300919-n">
         <SenseRelation relType="derivation" target="ewn-antagonistic__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fingertip-n">
       <Lemma writtenForm="fingertip" partOfSpeech="n">
@@ -4521,7 +4521,7 @@
         <SenseRelation relType="derivation" target="ewn-reticulate__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-reticulate__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-reticulate__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-colostrum-n">
       <Lemma writtenForm="colostrum" partOfSpeech="n">
@@ -4556,13 +4556,13 @@
       <Lemma writtenForm="venter" partOfSpeech="n"/>
       <Sense id="ewn-venter__1_08_00__" n="1" synset="ewn-05564576-n">
         <SenseRelation relType="derivation" target="ewn-ventral__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-venter__1_08_02__" n="2" synset="ewn-05432140-n">
         <SenseRelation relType="derivation" target="ewn-ventral__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-venter__1_08_01__" n="3" synset="ewn-05432023-n">
         <SenseRelation relType="derivation" target="ewn-ventral__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-leptomeninges-n">
       <Lemma writtenForm="leptomeninges" partOfSpeech="n"/>
@@ -4573,7 +4573,7 @@
       <Form writtenForm="sacra"/>
       <Sense id="ewn-sacrum__1_08_00__" n="0" synset="ewn-05286906-n">
         <SenseRelation relType="derivation" target="ewn-sacral__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-articulatory_system-n">
       <Lemma writtenForm="articulatory system" partOfSpeech="n"/>
@@ -4642,7 +4642,7 @@
       <Form writtenForm="astragali"/>
       <Sense id="ewn-astragalus__1_08_00__" n="0" synset="ewn-05278882-n">
         <SenseRelation relType="derivation" target="ewn-astragalar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-transverse_sinus-n">
       <Lemma writtenForm="transverse sinus" partOfSpeech="n"/>
@@ -4661,7 +4661,7 @@
       <Lemma writtenForm="centrosome" partOfSpeech="n"/>
       <Sense id="ewn-centrosome__1_08_00__" n="0" synset="ewn-05454343-n">
         <SenseRelation relType="derivation" target="ewn-centrosomic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rima-n">
       <Lemma writtenForm="rima" partOfSpeech="n"/>
@@ -4740,7 +4740,7 @@
       <Form writtenForm="peritonea"/>
       <Sense id="ewn-peritoneum__1_08_00__" n="0" synset="ewn-05435316-n">
         <SenseRelation relType="derivation" target="ewn-peritoneal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-maxillary_vein-n">
       <Lemma writtenForm="maxillary vein" partOfSpeech="n"/>
@@ -4751,7 +4751,7 @@
       <Form writtenForm="glottides"/>
       <Sense id="ewn-glottis__1_08_00__" n="0" synset="ewn-05309025-n">
         <SenseRelation relType="derivation" target="ewn-glottal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-triiodothyronine-n">
       <Lemma writtenForm="triiodothyronine" partOfSpeech="n"/>
@@ -4786,7 +4786,7 @@
       </Lemma>
       <Sense id="ewn-biceps__1_08_00__" n="0" synset="ewn-05586870-n">
         <SenseRelation relType="derivation" target="ewn-bicipital__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sideburn-n">
       <Lemma writtenForm="sideburn" partOfSpeech="n"/>
@@ -4841,7 +4841,7 @@
       <Lemma writtenForm="girdle" partOfSpeech="n"/>
       <Sense id="ewn-girdle__1_08_00__" n="0" synset="ewn-05586542-n">
         <SenseRelation relType="derivation" target="ewn-girdle__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-smear-n">
       <Lemma writtenForm="smear" partOfSpeech="n">
@@ -4861,7 +4861,7 @@
       </Lemma>
       <Sense id="ewn-radiation__1_08_00__" n="5" synset="ewn-05511206-n">
         <SenseRelation relType="derivation" target="ewn-radiate__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hepatic_artery-n">
       <Lemma writtenForm="hepatic artery" partOfSpeech="n"/>
@@ -4874,7 +4874,7 @@
       <Sense id="ewn-scab__1_08_00__" n="1" synset="ewn-05271746-n">
         <SenseRelation relType="derivation" target="ewn-scabby__5_00_00_rough_00"/>
         <SenseRelation relType="derivation" target="ewn-scab__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-adrenal_gland-n">
       <Lemma writtenForm="adrenal gland" partOfSpeech="n"/>
@@ -4908,10 +4908,10 @@
       </Lemma>
       <Sense id="ewn-humor__1_08_01__" n="4" synset="ewn-05612290-n">
         <SenseRelation relType="derivation" target="ewn-humoral__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-humor__1_08_00__" n="5" synset="ewn-05404811-n">
         <SenseRelation relType="derivation" target="ewn-humoral__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_ileocolica-n">
       <Lemma writtenForm="vena ileocolica" partOfSpeech="n"/>
@@ -4928,7 +4928,7 @@
       </Lemma>
       <Sense id="ewn-ichor__1_08_00__" n="1" synset="ewn-05424816-n">
         <SenseRelation relType="derivation" target="ewn-ichorous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-foramen-n">
       <Lemma writtenForm="foramen" partOfSpeech="n">
@@ -4952,7 +4952,7 @@
       </Lemma>
       <Sense id="ewn-nasal__1_08_00__" n="1" synset="ewn-05285031-n">
         <SenseRelation relType="derivation" target="ewn-nasal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plate-n">
       <Lemma writtenForm="plate" partOfSpeech="n"/>
@@ -4966,7 +4966,7 @@
       <Lemma writtenForm="Adrenalin" partOfSpeech="n"/>
       <Sense id="ewn-adrenalin__1_08_00__" n="0" synset="ewn-05415731-n">
         <SenseRelation relType="exemplifies" target="ewn-trade_name__1_10_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-common_iliac_artery-n">
       <Lemma writtenForm="common iliac artery" partOfSpeech="n"/>
@@ -5017,7 +5017,7 @@
       <Sense id="ewn-heel__1_08_00__" n="1" synset="ewn-05585726-n">
         <SenseRelation relType="derivation" target="ewn-heel__2_36_00__"/>
         <SenseRelation relType="derivation" target="ewn-heel__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-coronary_sinus-n">
       <Lemma writtenForm="coronary sinus" partOfSpeech="n"/>
@@ -5053,7 +5053,7 @@
       </Lemma>
       <Sense id="ewn-paw__1_08_01__" n="1" synset="ewn-05572223-n">
         <SenseRelation relType="derivation" target="ewn-paw__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sphincter-n">
       <Lemma writtenForm="sphincter" partOfSpeech="n">
@@ -5104,13 +5104,13 @@
       <Form writtenForm="crania"/>
       <Sense id="ewn-cranium__1_08_00__" n="0" synset="ewn-05548146-n">
         <SenseRelation relType="derivation" target="ewn-cranial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-intestine-n">
       <Lemma writtenForm="intestine" partOfSpeech="n"/>
       <Sense id="ewn-intestine__1_08_00__" n="0" synset="ewn-05541966-n">
         <SenseRelation relType="derivation" target="ewn-intestinal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-visceral_pleura-n">
       <Lemma writtenForm="visceral pleura" partOfSpeech="n"/>
@@ -5150,7 +5150,7 @@
         <SenseRelation relType="derivation" target="ewn-laminate__2_35_02__"/>
         <SenseRelation relType="derivation" target="ewn-laminate__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-laminate__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-serum-n">
       <Lemma writtenForm="serum" partOfSpeech="n">
@@ -5161,7 +5161,7 @@
       <Form writtenForm="sera"/>
       <Sense id="ewn-serum__1_08_00__" n="0" synset="ewn-05410492-n">
         <SenseRelation relType="derivation" target="ewn-serous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-macular_area-n">
       <Lemma writtenForm="macular area" partOfSpeech="n"/>
@@ -5299,7 +5299,7 @@
       <Sense id="ewn-integument__1_08_00__" n="0" synset="ewn-05246573-n">
         <SenseRelation relType="derivation" target="ewn-integumentary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-integumental__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-microcyte-n">
       <Lemma writtenForm="microcyte" partOfSpeech="n"/>
@@ -5313,7 +5313,7 @@
       <Lemma writtenForm="perm" partOfSpeech="n"/>
       <Sense id="ewn-perm__1_08_00__" n="0" synset="ewn-05268016-n">
         <SenseRelation relType="derivation" target="ewn-perm__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cochlea-n">
       <Lemma writtenForm="cochlea" partOfSpeech="n">
@@ -5369,7 +5369,7 @@
       </Lemma>
       <Sense id="ewn-hand__1_08_00__" n="0" synset="ewn-05572223-n">
         <SenseRelation relType="derivation" target="ewn-hand__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-venae_renis-n">
       <Lemma writtenForm="venae renis" partOfSpeech="n"/>
@@ -5394,7 +5394,7 @@
       <Lemma writtenForm="eyeball" partOfSpeech="n"/>
       <Sense id="ewn-eyeball__1_08_00__" n="0" synset="ewn-05323575-n">
         <SenseRelation relType="derivation" target="ewn-eyeball__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-life_form-n">
       <Lemma writtenForm="life form" partOfSpeech="n"/>
@@ -5419,7 +5419,7 @@
       <Sense id="ewn-blister__1_08_00__" n="2" synset="ewn-05525488-n">
         <SenseRelation relType="derivation" target="ewn-blistery__5_00_00_unhealthy_00"/>
         <SenseRelation relType="derivation" target="ewn-blister__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ballock-n">
       <Lemma writtenForm="ballock" partOfSpeech="n"/>
@@ -5436,11 +5436,11 @@
       </Lemma>
       <Sense id="ewn-auricle__1_08_01__" n="0" synset="ewn-05399691-n">
         <SenseRelation relType="derivation" target="ewn-auricular__3_01_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-auricle__1_08_02__" n="1" synset="ewn-05331437-n">
         <SenseRelation relType="derivation" target="ewn-auricular__3_01_02__"/>
         <SenseRelation relType="derivation" target="ewn-auriculate__5_00_00_eared_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ventricle-n">
       <Lemma writtenForm="ventricle" partOfSpeech="n">
@@ -5448,10 +5448,10 @@
       </Lemma>
       <Sense id="ewn-ventricle__1_08_02__" n="0" synset="ewn-05510207-n">
         <SenseRelation relType="derivation" target="ewn-ventricular__3_01_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-ventricle__1_08_01__" n="1" synset="ewn-05399106-n">
         <SenseRelation relType="derivation" target="ewn-ventricular__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-facia-n">
       <Lemma writtenForm="facia" partOfSpeech="n"/>
@@ -5504,7 +5504,7 @@
       <Form writtenForm="pleurae"/>
       <Sense id="ewn-pleura__1_08_00__" n="0" synset="ewn-05395458-n">
         <SenseRelation relType="derivation" target="ewn-pleural__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-metencephalon-n">
       <Lemma writtenForm="metencephalon" partOfSpeech="n"/>
@@ -5522,7 +5522,7 @@
       <Lemma writtenForm="adventitia" partOfSpeech="n"/>
       <Sense id="ewn-adventitia__1_08_00__" n="0" synset="ewn-05614388-n">
         <SenseRelation relType="derivation" target="ewn-adventitial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-CD4_cell-n">
       <Lemma writtenForm="CD4 cell" partOfSpeech="n"/>
@@ -5556,7 +5556,7 @@
       <Sense id="ewn-hypophysis__1_08_00__" n="0" synset="ewn-05491542-n">
         <SenseRelation relType="derivation" target="ewn-hypophysial__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-hypophyseal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-angular_artery-n">
       <Lemma writtenForm="angular artery" partOfSpeech="n"/>
@@ -5618,7 +5618,7 @@
       <Lemma writtenForm="pearly" partOfSpeech="n"/>
       <Sense id="ewn-pearly__1_08_00__" n="0" synset="ewn-05290997-n">
         <SenseRelation relType="derivation" target="ewn-pearly__5_00_00_achromatic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ear_lobe-n">
       <Lemma writtenForm="ear lobe" partOfSpeech="n"/>
@@ -5640,7 +5640,7 @@
       <Form writtenForm="retinae"/>
       <Sense id="ewn-retina__1_08_00__" n="0" synset="ewn-05434566-n">
         <SenseRelation relType="derivation" target="ewn-retinal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-air_cell-n">
       <Lemma writtenForm="air cell" partOfSpeech="n"/>
@@ -5666,7 +5666,7 @@
       <Sense id="ewn-caruncle__1_08_00__" n="0" synset="ewn-05478833-n">
         <SenseRelation relType="derivation" target="ewn-caruncular__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-carunculous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-occipital_protuberance-n">
       <Lemma writtenForm="occipital protuberance" partOfSpeech="n"/>
@@ -5687,7 +5687,7 @@
       <Form writtenForm="corneae"/>
       <Sense id="ewn-cornea__1_08_00__" n="0" synset="ewn-05324904-n">
         <SenseRelation relType="derivation" target="ewn-corneal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-clapper-n">
       <Lemma writtenForm="clapper" partOfSpeech="n"/>
@@ -5697,7 +5697,7 @@
       <Lemma writtenForm="zygoma" partOfSpeech="n"/>
       <Sense id="ewn-zygoma__1_08_00__" n="0" synset="ewn-05292350-n">
         <SenseRelation relType="derivation" target="ewn-zygomatic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-inferior_vena_cava-n">
       <Lemma writtenForm="inferior vena cava" partOfSpeech="n"/>
@@ -5750,7 +5750,7 @@
       <Sense id="ewn-centre__1_08_00__" n="6" synset="ewn-05471109-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-superficial_middle_cerebral_vein-n">
       <Lemma writtenForm="superficial middle cerebral vein" partOfSpeech="n"/>
@@ -5801,7 +5801,7 @@
       <Form writtenForm="nasopharynges"/>
       <Sense id="ewn-nasopharynx__1_08_00__" n="0" synset="ewn-05536487-n">
         <SenseRelation relType="derivation" target="ewn-nasopharyngeal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-os_trapezoideum-n">
       <Lemma writtenForm="os trapezoideum" partOfSpeech="n"/>
@@ -5971,7 +5971,7 @@
       <Lemma writtenForm="pupil" partOfSpeech="n"/>
       <Sense id="ewn-pupil__1_08_00__" n="1" synset="ewn-05327733-n">
         <SenseRelation relType="derivation" target="ewn-pupillary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-arteria_intercostalis-n">
       <Lemma writtenForm="arteria intercostalis" partOfSpeech="n"/>
@@ -6105,7 +6105,7 @@
       <Sense id="ewn-toe__1_08_01__" n="0" synset="ewn-05585041-n">
         <SenseRelation relType="derivation" target="ewn-toe__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-toe__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-toe__1_08_02__" n="2" synset="ewn-05585285-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-femoral_vein-n">
@@ -6140,7 +6140,7 @@
       <Form writtenForm="coronae"/>
       <Sense id="ewn-corona__1_08_00__" n="5" synset="ewn-05614881-n">
         <SenseRelation relType="derivation" target="ewn-coronary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tear_duct-n">
       <Lemma writtenForm="tear duct" partOfSpeech="n">
@@ -6191,7 +6191,7 @@
       <Form writtenForm="septa"/>
       <Sense id="ewn-septum__1_08_00__" n="0" synset="ewn-05230233-n">
         <SenseRelation relType="derivation" target="ewn-septal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-deep_cervical_vein-n">
       <Lemma writtenForm="deep cervical vein" partOfSpeech="n"/>
@@ -6231,7 +6231,7 @@
       <Sense id="ewn-ball__1_08_01__" n="3" synset="ewn-05532266-n"/>
       <Sense id="ewn-ball__1_08_00__" n="7" synset="ewn-05583825-n">
         <SenseRelation relType="derivation" target="ewn-ball__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vasa_vasorum-n">
       <Lemma writtenForm="vasa vasorum" partOfSpeech="n"/>
@@ -6244,7 +6244,7 @@
       </Lemma>
       <Sense id="ewn-parasympathetic__1_08_00__" n="0" synset="ewn-05513330-n">
         <SenseRelation relType="derivation" target="ewn-parasympathetic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lat-n">
       <Lemma writtenForm="lat" partOfSpeech="n">
@@ -6339,7 +6339,7 @@
       <Form writtenForm="canaliculi"/>
       <Sense id="ewn-canaliculus__1_08_00__" n="0" synset="ewn-05259119-n">
         <SenseRelation relType="derivation" target="ewn-canalicular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-uterine_vein-n">
       <Lemma writtenForm="uterine vein" partOfSpeech="n"/>
@@ -6352,7 +6352,7 @@
       </Lemma>
       <Sense id="ewn-mesentery__1_08_00__" n="0" synset="ewn-05436772-n">
         <SenseRelation relType="derivation" target="ewn-mesenteric__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-allelomorph-n">
       <Lemma writtenForm="allelomorph" partOfSpeech="n"/>
@@ -6370,7 +6370,7 @@
       </Lemma>
       <Sense id="ewn-paunch__1_08_00__" n="0" synset="ewn-05563550-n">
         <SenseRelation relType="derivation" target="ewn-paunchy__5_00_00_fat_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-foetal_circulation-n">
       <Lemma writtenForm="foetal circulation" partOfSpeech="n"/>
@@ -6429,13 +6429,13 @@
       </Lemma>
       <Sense id="ewn-dribble__1_08_00__" n="1" synset="ewn-05424022-n">
         <SenseRelation relType="derivation" target="ewn-dribble__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-enamel-n">
       <Lemma writtenForm="enamel" partOfSpeech="n"/>
       <Sense id="ewn-enamel__1_08_00__" n="0" synset="ewn-05316180-n">
         <SenseRelation relType="derivation" target="ewn-enamel__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-head-n">
       <Lemma writtenForm="head" partOfSpeech="n"/>
@@ -6458,7 +6458,7 @@
       <Form writtenForm="patellae"/>
       <Sense id="ewn-patella__1_08_00__" n="0" synset="ewn-05285894-n">
         <SenseRelation relType="derivation" target="ewn-patellar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-posterior_pituitary-n">
       <Lemma writtenForm="posterior pituitary" partOfSpeech="n"/>
@@ -6573,7 +6573,7 @@
       <Form writtenForm="sartorii"/>
       <Sense id="ewn-sartorius__1_08_00__" n="0" synset="ewn-05597546-n">
         <SenseRelation relType="derivation" target="ewn-sartorial__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lemniscus-n">
       <Lemma writtenForm="lemniscus" partOfSpeech="n">
@@ -6695,7 +6695,7 @@
       <Form writtenForm="mucosae"/>
       <Sense id="ewn-mucosa__1_08_00__" n="0" synset="ewn-05334682-n">
         <SenseRelation relType="derivation" target="ewn-mucosal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Golgi_body-n">
       <Lemma writtenForm="Golgi body" partOfSpeech="n"/>
@@ -6708,7 +6708,7 @@
       <Sense id="ewn-saliva__1_08_00__" n="0" synset="ewn-05423542-n">
         <SenseRelation relType="derivation" target="ewn-salivary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-salivate__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-funiculus-n">
       <Lemma writtenForm="funiculus" partOfSpeech="n">
@@ -6724,7 +6724,7 @@
       </Lemma>
       <Sense id="ewn-decussation__1_08_00__" n="0" synset="ewn-05235826-n">
         <SenseRelation relType="derivation" target="ewn-decussate__2_38_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-male_genital_organ-n">
       <Lemma writtenForm="male genital organ" partOfSpeech="n"/>
@@ -6770,7 +6770,7 @@
       </Lemma>
       <Sense id="ewn-stiff__1_08_00__" n="1" synset="ewn-05225393-n">
         <SenseRelation relType="exemplifies" target="ewn-slang__1_10_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sphenoidal_fontanel-n">
       <Lemma writtenForm="sphenoidal fontanel" partOfSpeech="n"/>
@@ -6825,7 +6825,7 @@
       <Form writtenForm="tarsi"/>
       <Sense id="ewn-tarsus__1_08_00__" n="0" synset="ewn-05602577-n">
         <SenseRelation relType="derivation" target="ewn-tarsal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-urethra-n">
       <Lemma writtenForm="urethra" partOfSpeech="n">
@@ -6834,7 +6834,7 @@
       <Form writtenForm="urethrae"/>
       <Sense id="ewn-urethra__1_08_00__" n="0" synset="ewn-05520671-n">
         <SenseRelation relType="derivation" target="ewn-urethral__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tibialis_muscle-n">
       <Lemma writtenForm="tibialis muscle" partOfSpeech="n"/>
@@ -6875,7 +6875,7 @@
       <Sense id="ewn-nerve_centre__1_08_00__" n="1" synset="ewn-05471109-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plexus_pulmonalis-n">
       <Lemma writtenForm="plexus pulmonalis" partOfSpeech="n"/>
@@ -6889,7 +6889,7 @@
       <Lemma writtenForm="anisogamete" partOfSpeech="n"/>
       <Sense id="ewn-anisogamete__1_08_00__" n="0" synset="ewn-05464777-n">
         <SenseRelation relType="derivation" target="ewn-anisogametic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-inferior_vocal_cord-n">
       <Lemma writtenForm="inferior vocal cord" partOfSpeech="n"/>
@@ -6911,7 +6911,7 @@
       <Lemma writtenForm="hyaloplasm" partOfSpeech="n"/>
       <Sense id="ewn-hyaloplasm__1_08_00__" n="0" synset="ewn-05441629-n">
         <SenseRelation relType="derivation" target="ewn-hyaloplasmic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-epicranium-n">
       <Lemma writtenForm="epicranium" partOfSpeech="n"/>
@@ -6944,10 +6944,10 @@
       <Form writtenForm="costae"/>
       <Sense id="ewn-costa__1_08_02__" n="0" synset="ewn-05599881-n">
         <SenseRelation relType="derivation" target="ewn-costal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-costa__1_08_01__" n="1" synset="ewn-05286525-n">
         <SenseRelation relType="derivation" target="ewn-costal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-adenoid-n">
       <Lemma writtenForm="adenoid" partOfSpeech="n">
@@ -6956,7 +6956,7 @@
       <Sense id="ewn-adenoid__1_08_00__" n="0" synset="ewn-05536919-n">
         <SenseRelation relType="derivation" target="ewn-adenoid__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-adenoidal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-efferent-n">
       <Lemma writtenForm="efferent" partOfSpeech="n">
@@ -6964,7 +6964,7 @@
       </Lemma>
       <Sense id="ewn-efferent__1_08_00__" n="0" synset="ewn-05482390-n">
         <SenseRelation relType="derivation" target="ewn-efferent__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-prostate-n">
       <Lemma writtenForm="prostate" partOfSpeech="n">
@@ -6972,7 +6972,7 @@
       </Lemma>
       <Sense id="ewn-prostate__1_08_00__" n="0" synset="ewn-05338952-n">
         <SenseRelation relType="derivation" target="ewn-prostatic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-collarbone-n">
       <Lemma writtenForm="collarbone" partOfSpeech="n"/>
@@ -7128,7 +7128,7 @@
       <Form writtenForm="lentigines"/>
       <Sense id="ewn-lentigo__1_08_00__" n="0" synset="ewn-05252535-n">
         <SenseRelation relType="derivation" target="ewn-lentiginous__5_00_00_patterned_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-eye_muscle-n">
       <Lemma writtenForm="eye muscle" partOfSpeech="n"/>
@@ -7166,7 +7166,7 @@
       <Lemma writtenForm="polygene" partOfSpeech="n"/>
       <Sense id="ewn-polygene__1_08_00__" n="0" synset="ewn-05448131-n">
         <SenseRelation relType="derivation" target="ewn-polygenic__5_00_00_inheritable_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cuboid_bone-n">
       <Lemma writtenForm="cuboid bone" partOfSpeech="n"/>
@@ -7182,7 +7182,7 @@
       <Form writtenForm="oesophagi"/>
       <Sense id="ewn-esophagus__1_08_00__" n="0" synset="ewn-05541581-n">
         <SenseRelation relType="derivation" target="ewn-esophageal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-precentral_gyrus-n">
       <Lemma writtenForm="precentral gyrus" partOfSpeech="n"/>
@@ -7283,7 +7283,7 @@
       <Sense id="ewn-clitoris__1_08_00__" n="0" synset="ewn-05531071-n">
         <SenseRelation relType="derivation" target="ewn-clitoric__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-clitoral__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-articulatio_humeri-n">
       <Lemma writtenForm="articulatio humeri" partOfSpeech="n"/>
@@ -7317,7 +7317,7 @@
       <Sense id="ewn-cadaver__1_08_00__" n="0" synset="ewn-05225393-n">
         <SenseRelation relType="derivation" target="ewn-cadaverous__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-cadaveric__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-frontal_cortex-n">
       <Lemma writtenForm="frontal cortex" partOfSpeech="n"/>
@@ -7337,7 +7337,7 @@
       </Lemma>
       <Sense id="ewn-membrane__1_08_00__" n="1" synset="ewn-05433820-n">
         <SenseRelation relType="derivation" target="ewn-membranous__5_00_00_unhealthy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bullethead-n">
       <Lemma writtenForm="bullethead" partOfSpeech="n"/>
@@ -7351,14 +7351,14 @@
       <Lemma writtenForm="arch" partOfSpeech="n"/>
       <Sense id="ewn-arch__1_08_00__" n="1" synset="ewn-05584204-n">
         <SenseRelation relType="derivation" target="ewn-arch__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-metacarpus-n">
       <Lemma writtenForm="metacarpus" partOfSpeech="n"/>
       <Form writtenForm="metacarpi"/>
       <Sense id="ewn-metacarpus__1_08_00__" n="0" synset="ewn-05601626-n">
         <SenseRelation relType="derivation" target="ewn-metacarpal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tendon-n">
       <Lemma writtenForm="tendon" partOfSpeech="n">
@@ -7366,7 +7366,7 @@
       </Lemma>
       <Sense id="ewn-tendon__1_08_00__" n="0" synset="ewn-05303752-n">
         <SenseRelation relType="derivation" target="ewn-tendinous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mamma-n">
       <Lemma writtenForm="mamma" partOfSpeech="n">
@@ -7375,7 +7375,7 @@
       <Form writtenForm="mammae"/>
       <Sense id="ewn-mamma__1_08_00__" n="1" synset="ewn-05561822-n">
         <SenseRelation relType="derivation" target="ewn-mammary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Rh-positive_blood_type-n">
       <Lemma writtenForm="Rh-positive blood type" partOfSpeech="n"/>
@@ -7405,7 +7405,7 @@
       <Lemma writtenForm="perithelium" partOfSpeech="n"/>
       <Sense id="ewn-perithelium__1_08_00__" n="0" synset="ewn-05335200-n">
         <SenseRelation relType="derivation" target="ewn-perithelial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-posterior_pituitary_gland-n">
       <Lemma writtenForm="posterior pituitary gland" partOfSpeech="n"/>
@@ -7432,7 +7432,7 @@
       <Form writtenForm="caeca"/>
       <Sense id="ewn-caecum__1_08_00__" n="0" synset="ewn-05544003-n">
         <SenseRelation relType="derivation" target="ewn-caecal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-afferent_nerve-n">
       <Lemma writtenForm="afferent nerve" partOfSpeech="n"/>
@@ -7448,7 +7448,7 @@
       </Lemma>
       <Sense id="ewn-afferent__1_08_00__" n="0" synset="ewn-05482786-n">
         <SenseRelation relType="derivation" target="ewn-afferent__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plica-n">
       <Lemma writtenForm="plica" partOfSpeech="n"/>
@@ -7467,7 +7467,7 @@
       <Lemma writtenForm="sweat" partOfSpeech="n"/>
       <Sense id="ewn-sweat__1_08_00__" n="0" synset="ewn-05413094-n">
         <SenseRelation relType="derivation" target="ewn-sweat__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-basilar_artery-n">
       <Lemma writtenForm="basilar artery" partOfSpeech="n"/>
@@ -7493,7 +7493,7 @@
       <Sense id="ewn-epidermis__1_08_00__" n="0" synset="ewn-05247554-n">
         <SenseRelation relType="derivation" target="ewn-epidermic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-epidermal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rima_glottidis-n">
       <Lemma writtenForm="rima glottidis" partOfSpeech="n"/>
@@ -7510,7 +7510,7 @@
       <Form writtenForm="vesicae"/>
       <Sense id="ewn-vesica__1_08_00__" n="0" synset="ewn-05519790-n">
         <SenseRelation relType="derivation" target="ewn-vesical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-histiocyte-n">
       <Lemma writtenForm="histiocyte" partOfSpeech="n"/>
@@ -7540,7 +7540,7 @@
       </Lemma>
       <Sense id="ewn-caudate__1_08_00__" n="0" synset="ewn-05505392-n">
         <SenseRelation relType="derivation" target="ewn-caudate__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pyloric_vein-n">
       <Lemma writtenForm="pyloric vein" partOfSpeech="n"/>
@@ -7594,7 +7594,7 @@
       <Lemma writtenForm="left hand" partOfSpeech="n"/>
       <Sense id="ewn-left_hand__1_08_00__" n="0" synset="ewn-05573181-n">
         <SenseRelation relType="derivation" target="ewn-lefthander__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-arteria_uterina-n">
       <Lemma writtenForm="arteria uterina" partOfSpeech="n"/>
@@ -7802,7 +7802,7 @@
       </Lemma>
       <Sense id="ewn-pompadour__1_08_00__" n="0" synset="ewn-05267723-n">
         <SenseRelation relType="derivation" target="ewn-pompadour__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pisiform_bone-n">
       <Lemma writtenForm="pisiform bone" partOfSpeech="n"/>
@@ -7839,7 +7839,7 @@
       <Sense id="ewn-pile__1_08_00__" n="3" synset="ewn-05263175-n">
         <SenseRelation relType="derivation" target="ewn-pilary__5_00_00_hairy_00"/>
         <SenseRelation relType="derivation" target="ewn-pilous__5_00_00_hairy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-soft_palate-n">
       <Lemma writtenForm="soft palate" partOfSpeech="n"/>
@@ -7861,7 +7861,7 @@
       <Sense id="ewn-lingua__1_08_00__" n="0" synset="ewn-05308571-n">
         <SenseRelation relType="derivation" target="ewn-lingual__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-lingual__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-corpus-n">
       <Lemma writtenForm="corpus" partOfSpeech="n">
@@ -7898,7 +7898,7 @@
       <Lemma writtenForm="bicuspid" partOfSpeech="n"/>
       <Sense id="ewn-bicuspid__1_08_00__" n="0" synset="ewn-05314857-n">
         <SenseRelation relType="derivation" target="ewn-bicuspid__5_00_00_angular_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-articulatio_radiocarpea-n">
       <Lemma writtenForm="articulatio radiocarpea" partOfSpeech="n"/>
@@ -7956,7 +7956,7 @@
       <Lemma writtenForm="pilus" partOfSpeech="n"/>
       <Sense id="ewn-pilus__1_08_00__" n="0" synset="ewn-05261857-n">
         <SenseRelation relType="derivation" target="ewn-pilar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nape-n">
       <Lemma writtenForm="nape" partOfSpeech="n"/>
@@ -7977,7 +7977,7 @@
       <Form writtenForm="pelves"/>
       <Sense id="ewn-pelvis__1_08_00__" n="0" synset="ewn-05604406-n">
         <SenseRelation relType="derivation" target="ewn-pelvic__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-pelvis__1_08_01__" n="1" synset="ewn-05604197-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-structure-n">
@@ -8015,7 +8015,7 @@
         <SenseRelation relType="derivation" target="ewn-fat__3_00_02__"/>
         <SenseRelation relType="derivation" target="ewn-fatty__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-fat__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stoma-n">
       <Lemma writtenForm="stoma" partOfSpeech="n">
@@ -8027,7 +8027,7 @@
         <SenseRelation relType="derivation" target="ewn-stomatous__3_01_02__"/>
         <SenseRelation relType="derivation" target="ewn-stomatous__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-stomatal__3_01_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sphenion-n">
       <Lemma writtenForm="sphenion" partOfSpeech="n"/>
@@ -8037,7 +8037,7 @@
       <Lemma writtenForm="exuviae" partOfSpeech="n"/>
       <Sense id="ewn-exuviae__1_08_00__" n="0" synset="ewn-05247419-n">
         <SenseRelation relType="derivation" target="ewn-exuvial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-venous_blood-n">
       <Lemma writtenForm="venous blood" partOfSpeech="n"/>
@@ -8078,7 +8078,7 @@
       <Sense id="ewn-areola__1_08_02__" n="0" synset="ewn-05562650-n"/>
       <Sense id="ewn-areola__1_08_01__" n="1" synset="ewn-05562437-n">
         <SenseRelation relType="derivation" target="ewn-areolar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-belly-n">
       <Lemma writtenForm="belly" partOfSpeech="n">
@@ -8087,7 +8087,7 @@
       <Sense id="ewn-belly__1_08_00__" n="0" synset="ewn-05564576-n"/>
       <Sense id="ewn-belly__1_08_02__" n="1" synset="ewn-05563550-n">
         <SenseRelation relType="derivation" target="ewn-belly__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cerebral_peduncle-n">
       <Lemma writtenForm="cerebral peduncle" partOfSpeech="n"/>
@@ -8111,7 +8111,7 @@
       </Lemma>
       <Sense id="ewn-dendrite__1_08_00__" n="0" synset="ewn-05477513-n">
         <SenseRelation relType="derivation" target="ewn-dendritic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-physique-n">
       <Lemma writtenForm="physique" partOfSpeech="n"/>
@@ -8239,7 +8239,7 @@
         <SenseRelation relType="derivation" target="ewn-wavy__5_00_00_curly_00"/>
         <SenseRelation relType="derivation" target="ewn-wave__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-wave__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bronchial_artery-n">
       <Lemma writtenForm="bronchial artery" partOfSpeech="n"/>
@@ -8251,7 +8251,7 @@
       </Lemma>
       <Sense id="ewn-dimple__1_08_00__" n="2" synset="ewn-05607629-n">
         <SenseRelation relType="derivation" target="ewn-dimple__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-superior_thalamostriate_vein-n">
       <Lemma writtenForm="superior thalamostriate vein" partOfSpeech="n"/>
@@ -8306,7 +8306,7 @@
       </Lemma>
       <Sense id="ewn-contractor__1_08_00__" n="3" synset="ewn-05297100-n">
         <SenseRelation relType="derivation" target="ewn-contract__2_35_04__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ductus_arteriosus-n">
       <Lemma writtenForm="ductus arteriosus" partOfSpeech="n"/>
@@ -8319,7 +8319,7 @@
       <Form writtenForm="maxillae"/>
       <Sense id="ewn-maxilla__1_08_00__" n="0" synset="ewn-05291631-n">
         <SenseRelation relType="derivation" target="ewn-maxillary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dorsal_vertebra-n">
       <Lemma writtenForm="dorsal vertebra" partOfSpeech="n"/>
@@ -8329,7 +8329,7 @@
       <Lemma writtenForm="smiler" partOfSpeech="n"/>
       <Sense id="ewn-smiler__1_08_00__" n="1" synset="ewn-05609112-n">
         <SenseRelation relType="derivation" target="ewn-smile__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cavernous_sinus-n">
       <Lemma writtenForm="cavernous sinus" partOfSpeech="n"/>
@@ -8341,7 +8341,7 @@
       </Lemma>
       <Sense id="ewn-eosinophil__1_08_00__" n="0" synset="ewn-05461519-n">
         <SenseRelation relType="derivation" target="ewn-eosinophilic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-articulatio_temporomandibularis-n">
       <Lemma writtenForm="articulatio temporomandibularis" partOfSpeech="n"/>
@@ -8359,7 +8359,7 @@
       <Sense id="ewn-diaphysis__1_08_00__" n="0" synset="ewn-05600488-n">
         <SenseRelation relType="derivation" target="ewn-diaphysial__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-diaphyseal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-flap-n">
       <Lemma writtenForm="flap" partOfSpeech="n"/>
@@ -8409,13 +8409,13 @@
       <Lemma writtenForm="conk" partOfSpeech="n"/>
       <Sense id="ewn-conk__1_08_00__" n="0" synset="ewn-05606623-n">
         <SenseRelation relType="derivation" target="ewn-conk__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-capitate-n">
       <Lemma writtenForm="capitate" partOfSpeech="n"/>
       <Sense id="ewn-capitate__1_08_00__" n="0" synset="ewn-05280722-n">
         <SenseRelation relType="derivation" target="ewn-capitate__5_00_00_round_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-arteria_testicularis-n">
       <Lemma writtenForm="arteria testicularis" partOfSpeech="n"/>
@@ -8443,7 +8443,7 @@
       </Lemma>
       <Sense id="ewn-grume__1_08_00__" n="1" synset="ewn-05409676-n">
         <SenseRelation relType="derivation" target="ewn-grumous__5_00_00_thick_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lumbar_artery-n">
       <Lemma writtenForm="lumbar artery" partOfSpeech="n"/>
@@ -8557,7 +8557,7 @@
       <Form writtenForm="feet"/>
       <Sense id="ewn-foot__1_08_01__" n="0" synset="ewn-05570899-n">
         <SenseRelation relType="derivation" target="ewn-foot__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-skeletal_muscle-n">
       <Lemma writtenForm="skeletal muscle" partOfSpeech="n"/>
@@ -8680,7 +8680,7 @@
       <Sense id="ewn-jowl__1_08_00__" n="0" synset="ewn-05283404-n"/>
       <Sense id="ewn-jowl__1_08_01__" n="1" synset="ewn-05610737-n">
         <SenseRelation relType="derivation" target="ewn-jowly__5_00_00_fat_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gastrin-n">
       <Lemma writtenForm="gastrin" partOfSpeech="n"/>
@@ -8706,10 +8706,10 @@
         <SenseRelation relType="derivation" target="ewn-bosomy__5_00_00_shapely_00"/>
         <SenseRelation relType="derivation" target="ewn-bosom__2_39_00__"/>
         <SenseRelation relType="derivation" target="ewn-bosom__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bosom__1_08_00__" n="5" synset="ewn-05562038-n">
         <SenseRelation relType="derivation" target="ewn-bosomy__5_00_00_shapely_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-oral_smear-n">
       <Lemma writtenForm="oral smear" partOfSpeech="n"/>
@@ -8762,7 +8762,7 @@
       </Lemma>
       <Sense id="ewn-artery__1_08_00__" n="0" synset="ewn-05341325-n">
         <SenseRelation relType="derivation" target="ewn-arterial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-synovial_membrane-n">
       <Lemma writtenForm="synovial membrane" partOfSpeech="n"/>
@@ -8783,7 +8783,7 @@
       <Form writtenForm="tibiae"/>
       <Sense id="ewn-tibia__1_08_00__" n="0" synset="ewn-05602122-n">
         <SenseRelation relType="derivation" target="ewn-tibial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-uterus-n">
       <Lemma writtenForm="uterus" partOfSpeech="n">
@@ -8815,7 +8815,7 @@
       <Form writtenForm="intimae"/>
       <Sense id="ewn-intima__1_08_00__" n="0" synset="ewn-05327310-n">
         <SenseRelation relType="derivation" target="ewn-intimal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chiasma_opticum-n">
       <Lemma writtenForm="chiasma opticum" partOfSpeech="n"/>
@@ -8845,7 +8845,7 @@
       <Lemma writtenForm="inguen" partOfSpeech="n"/>
       <Sense id="ewn-inguen__1_08_00__" n="0" synset="ewn-05605489-n">
         <SenseRelation relType="derivation" target="ewn-inguinal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-menstrual_blood-n">
       <Lemma writtenForm="menstrual blood" partOfSpeech="n"/>
@@ -8877,7 +8877,7 @@
       </Lemma>
       <Sense id="ewn-pectoral__1_08_00__" n="0" synset="ewn-05559344-n">
         <SenseRelation relType="derivation" target="ewn-pectoral__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_basivertebralis-n">
       <Lemma writtenForm="vena basivertebralis" partOfSpeech="n"/>
@@ -8918,7 +8918,7 @@
       <Lemma writtenForm="astrocyte" partOfSpeech="n"/>
       <Sense id="ewn-astrocyte__1_08_00__" n="0" synset="ewn-05475410-n">
         <SenseRelation relType="derivation" target="ewn-astrocytic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-xiphoid_process-n">
       <Lemma writtenForm="xiphoid process" partOfSpeech="n">
@@ -8933,7 +8933,7 @@
       <Form writtenForm="cilia"/>
       <Sense id="ewn-cilium__1_08_00__" n="1" synset="ewn-05322469-n">
         <SenseRelation relType="derivation" target="ewn-ciliary__3_01_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cervix-n">
       <Lemma writtenForm="cervix" partOfSpeech="n">
@@ -8943,10 +8943,10 @@
       <Form writtenForm="cervices"/>
       <Sense id="ewn-cervix__1_08_01__" n="0" synset="ewn-05554173-n">
         <SenseRelation relType="derivation" target="ewn-cervical__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cervix__1_08_02__" n="1" synset="ewn-05310731-n">
         <SenseRelation relType="derivation" target="ewn-cervical__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-anterior_naris-n">
       <Lemma writtenForm="anterior naris" partOfSpeech="n"/>
@@ -9026,7 +9026,7 @@
       <Lemma writtenForm="tubercle" partOfSpeech="n"/>
       <Sense id="ewn-tubercle__1_08_02__" n="2" synset="ewn-05550319-n">
         <SenseRelation relType="derivation" target="ewn-tubercular__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-juvenile_body-n">
       <Lemma writtenForm="juvenile body" partOfSpeech="n"/>
@@ -9104,7 +9104,7 @@
       </Lemma>
       <Sense id="ewn-nerve__1_08_00__" n="0" synset="ewn-05481998-n">
         <SenseRelation relType="derivation" target="ewn-nervous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pubic_region-n">
       <Lemma writtenForm="pubic region" partOfSpeech="n"/>
@@ -9138,7 +9138,7 @@
       <Form writtenForm="alveoli"/>
       <Sense id="ewn-alveolus__1_08_00__" n="0" synset="ewn-05536028-n">
         <SenseRelation relType="derivation" target="ewn-alveolate__5_00_00_cellular_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-alveolus__1_08_02__" n="1" synset="ewn-05292979-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-peeper-n">
@@ -9163,10 +9163,10 @@
       </Lemma>
       <Sense id="ewn-abdomen__1_08_00__" n="0" synset="ewn-05564576-n">
         <SenseRelation relType="derivation" target="ewn-abdominal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-abdomen__1_08_01__" n="1" synset="ewn-05565978-n">
         <SenseRelation relType="derivation" target="ewn-abdominal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-seminiferous_tubule-n">
       <Lemma writtenForm="seminiferous tubule" partOfSpeech="n"/>
@@ -9250,7 +9250,7 @@
       </Lemma>
       <Sense id="ewn-thumb__1_08_00__" n="0" synset="ewn-05574850-n">
         <SenseRelation relType="derivation" target="ewn-thumb__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mandibular_joint-n">
       <Lemma writtenForm="mandibular joint" partOfSpeech="n"/>
@@ -9269,10 +9269,10 @@
       </Lemma>
       <Sense id="ewn-stomach__1_08_00__" n="0" synset="ewn-05403033-n">
         <SenseRelation relType="derivation" target="ewn-stomachic__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-stomach__1_08_01__" n="1" synset="ewn-05564576-n">
         <SenseRelation relType="derivation" target="ewn-stomachal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-striated_muscle_cell-n">
       <Lemma writtenForm="striated muscle cell" partOfSpeech="n"/>
@@ -9315,7 +9315,7 @@
       <Lemma writtenForm="glia" partOfSpeech="n"/>
       <Sense id="ewn-glia__1_08_00__" n="0" synset="ewn-05474706-n">
         <SenseRelation relType="derivation" target="ewn-glial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dreadlock-n">
       <Lemma writtenForm="dreadlock" partOfSpeech="n"/>
@@ -9329,7 +9329,7 @@
       <Lemma writtenForm="skeleton" partOfSpeech="n"/>
       <Sense id="ewn-skeleton__1_08_00__" n="2" synset="ewn-05593033-n">
         <SenseRelation relType="derivation" target="ewn-skeletal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-waistline-n">
       <Lemma writtenForm="waistline" partOfSpeech="n"/>
@@ -9423,7 +9423,7 @@
       <Form writtenForm="cambia"/>
       <Sense id="ewn-cambium__1_08_00__" n="1" synset="ewn-05293911-n">
         <SenseRelation relType="derivation" target="ewn-cambial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-colic_artery-n">
       <Lemma writtenForm="colic artery" partOfSpeech="n"/>
@@ -9472,7 +9472,7 @@
       <Form writtenForm="pylori"/>
       <Sense id="ewn-pylorus__1_08_00__" n="0" synset="ewn-05542728-n">
         <SenseRelation relType="derivation" target="ewn-pyloric__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-posterior_cerebral_artery-n">
       <Lemma writtenForm="posterior cerebral artery" partOfSpeech="n"/>
@@ -9542,7 +9542,7 @@
       <Lemma writtenForm="paleocortex" partOfSpeech="n"/>
       <Sense id="ewn-paleocortex__1_08_00__" n="0" synset="ewn-05489522-n">
         <SenseRelation relType="derivation" target="ewn-paleocortical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-phlegm-n">
       <Lemma writtenForm="phlegm" partOfSpeech="n">
@@ -9550,7 +9550,7 @@
       </Lemma>
       <Sense id="ewn-phlegm__1_08_00__" n="1" synset="ewn-05423159-n">
         <SenseRelation relType="derivation" target="ewn-phlegmy__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-meningeal_artery-n">
       <Lemma writtenForm="meningeal artery" partOfSpeech="n"/>
@@ -9607,7 +9607,7 @@
       <Lemma writtenForm="precordium" partOfSpeech="n"/>
       <Sense id="ewn-precordium__1_08_00__" n="0" synset="ewn-05500654-n">
         <SenseRelation relType="derivation" target="ewn-precordial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-axone-n">
       <Lemma writtenForm="axone" partOfSpeech="n"/>
@@ -9669,14 +9669,14 @@
       <Lemma writtenForm="achromatin" partOfSpeech="n"/>
       <Sense id="ewn-achromatin__1_08_00__" n="0" synset="ewn-05443957-n">
         <SenseRelation relType="derivation" target="ewn-achromatinic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-suppuration-n">
       <Lemma writtenForm="suppuration" partOfSpeech="n"/>
       <Sense id="ewn-suppuration__1_08_00__" n="1" synset="ewn-05424816-n">
         <SenseRelation relType="derivation" target="ewn-suppurate__2_29_01__"/>
         <SenseRelation relType="derivation" target="ewn-suppurate__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_cerebri_media-n">
       <Lemma writtenForm="vena cerebri media" partOfSpeech="n"/>
@@ -9712,7 +9712,7 @@
       <Form writtenForm="ova"/>
       <Sense id="ewn-ovum__1_08_00__" n="0" synset="ewn-05465549-n">
         <SenseRelation relType="derivation" target="ewn-ovulate__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-systema_urogenitale-n">
       <Lemma writtenForm="systema urogenitale" partOfSpeech="n"/>
@@ -9739,7 +9739,7 @@
       </Lemma>
       <Sense id="ewn-vestibule__1_08_00__" n="1" synset="ewn-05312102-n">
         <SenseRelation relType="derivation" target="ewn-vestibular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cone_cell-n">
       <Lemma writtenForm="cone cell" partOfSpeech="n"/>
@@ -9792,7 +9792,7 @@
       <Lemma writtenForm="meninges" partOfSpeech="n"/>
       <Sense id="ewn-meninges__1_08_00__" n="0" synset="ewn-05334448-n">
         <SenseRelation relType="derivation" target="ewn-meningeal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cuboidal_epithelial_cell-n">
       <Lemma writtenForm="cuboidal epithelial cell" partOfSpeech="n"/>
@@ -9869,7 +9869,7 @@
       <Lemma writtenForm="autacoid" partOfSpeech="n"/>
       <Sense id="ewn-autacoid__1_08_00__" n="0" synset="ewn-05421877-n">
         <SenseRelation relType="derivation" target="ewn-autacoidal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-specimen-n">
       <Lemma writtenForm="specimen" partOfSpeech="n">
@@ -9896,7 +9896,7 @@
       </Lemma>
       <Sense id="ewn-chromosome__1_08_00__" n="0" synset="ewn-05449707-n">
         <SenseRelation relType="derivation" target="ewn-chromosomal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vermiform_appendix-n">
       <Lemma writtenForm="vermiform appendix" partOfSpeech="n"/>
@@ -9923,7 +9923,7 @@
       <Lemma writtenForm="pneumogastric" partOfSpeech="n"/>
       <Sense id="ewn-pneumogastric__1_08_00__" n="0" synset="ewn-05487728-n">
         <SenseRelation relType="derivation" target="ewn-pneumogastric__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-occiput-n">
       <Lemma writtenForm="occiput" partOfSpeech="n">
@@ -9933,7 +9933,7 @@
       <Form writtenForm="occipita"/>
       <Sense id="ewn-occiput__1_08_00__" n="0" synset="ewn-05548609-n">
         <SenseRelation relType="derivation" target="ewn-occipital__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pons_Varolii-n">
       <Lemma writtenForm="pons Varolii" partOfSpeech="n"/>
@@ -10019,7 +10019,7 @@
       <Lemma writtenForm="Humulin" partOfSpeech="n"/>
       <Sense id="ewn-humulin__1_08_00__" n="0" synset="ewn-05418392-n">
         <SenseRelation relType="exemplifies" target="ewn-trade_name__1_10_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sphincter_muscle-n">
       <Lemma writtenForm="sphincter muscle" partOfSpeech="n"/>
@@ -10075,11 +10075,11 @@
       <Form writtenForm="medullae"/>
       <Sense id="ewn-medulla__1_08_02__" n="1" synset="ewn-05502823-n">
         <SenseRelation relType="derivation" target="ewn-medullary__3_01_02__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-medulla__1_08_00__" n="2" synset="ewn-05498451-n">
         <SenseRelation relType="antonym" target="ewn-cortex__1_08_00__"/>
         <SenseRelation relType="derivation" target="ewn-medullary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_laryngea-n">
       <Lemma writtenForm="vena laryngea" partOfSpeech="n"/>
@@ -10090,7 +10090,7 @@
       <Form writtenForm="crura"/>
       <Sense id="ewn-crus__1_08_00__" n="0" synset="ewn-05569023-n">
         <SenseRelation relType="derivation" target="ewn-crural__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-central_vein_of_retina-n">
       <Lemma writtenForm="central vein of retina" partOfSpeech="n"/>
@@ -10110,7 +10110,7 @@
       </Lemma>
       <Sense id="ewn-thyroid__1_08_00__" n="0" synset="ewn-05337792-n">
         <SenseRelation relType="derivation" target="ewn-thyroidal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mons-n">
       <Lemma writtenForm="mons" partOfSpeech="n">
@@ -10164,7 +10164,7 @@
       <Lemma writtenForm="lymphocyte" partOfSpeech="n"/>
       <Sense id="ewn-lymphocyte__1_08_00__" n="0" synset="ewn-05458960-n">
         <SenseRelation relType="derivation" target="ewn-lymphocytic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-throat-n">
       <Lemma writtenForm="throat" partOfSpeech="n">
@@ -10173,7 +10173,7 @@
       </Lemma>
       <Sense id="ewn-throat__1_08_00__" n="0" synset="ewn-05555141-n">
         <SenseRelation relType="derivation" target="ewn-throaty__5_00_00_low_03"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-primary_tooth-n">
       <Lemma writtenForm="primary tooth" partOfSpeech="n"/>
@@ -10227,7 +10227,7 @@
       </Lemma>
       <Sense id="ewn-corpuscle__1_08_00__" n="1" synset="ewn-05456844-n">
         <SenseRelation relType="derivation" target="ewn-corpuscular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-exocrine_gland-n">
       <Lemma writtenForm="exocrine gland" partOfSpeech="n"/>
@@ -10248,7 +10248,7 @@
       <Form writtenForm="anus"/>
       <Sense id="ewn-anus__1_08_00__" n="0" synset="ewn-05545649-n">
         <SenseRelation relType="derivation" target="ewn-anal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-marrow-n">
       <Lemma writtenForm="marrow" partOfSpeech="n">
@@ -10280,7 +10280,7 @@
       <Sense id="ewn-tongue__1_08_00__" n="0" synset="ewn-05308571-n">
         <SenseRelation relType="derivation" target="ewn-tongue__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-tongue__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-zona_pellucida-n">
       <Lemma writtenForm="zona pellucida" partOfSpeech="n"/>
@@ -10300,7 +10300,7 @@
       </Lemma>
       <Sense id="ewn-palate__1_08_00__" n="0" synset="ewn-05317250-n">
         <SenseRelation relType="derivation" target="ewn-palatal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-oblique_vein_of_the_left_atrium-n">
       <Lemma writtenForm="oblique vein of the left atrium" partOfSpeech="n"/>
@@ -10316,7 +10316,7 @@
       </Lemma>
       <Sense id="ewn-gonad__1_08_00__" n="0" synset="ewn-05532081-n">
         <SenseRelation relType="derivation" target="ewn-gonadal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-facial_vein-n">
       <Lemma writtenForm="facial vein" partOfSpeech="n"/>
@@ -10404,7 +10404,7 @@
       </Lemma>
       <Sense id="ewn-twist__1_08_00__" n="9" synset="ewn-05266995-n">
         <SenseRelation relType="derivation" target="ewn-twist__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-scalenus-n">
       <Lemma writtenForm="scalenus" partOfSpeech="n">
@@ -10437,13 +10437,13 @@
       <Sense id="ewn-rudiment__1_08_00__" n="0" synset="ewn-05611777-n">
         <SenseRelation relType="derivation" target="ewn-rudimentary__5_00_00_undeveloped_00"/>
         <SenseRelation relType="derivation" target="ewn-rudimentary__5_00_00_incomplete_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-jugular_vein-n">
       <Lemma writtenForm="jugular vein" partOfSpeech="n"/>
       <Sense id="ewn-jugular_vein__1_08_00__" n="0" synset="ewn-05378261-n">
         <SenseRelation relType="derivation" target="ewn-jugular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lifeblood-n">
       <Lemma writtenForm="lifeblood" partOfSpeech="n"/>
@@ -10493,7 +10493,7 @@
       <Lemma writtenForm="gland" partOfSpeech="n"/>
       <Sense id="ewn-gland__1_08_00__" n="0" synset="ewn-05335315-n">
         <SenseRelation relType="derivation" target="ewn-glandular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pump-n">
       <Lemma writtenForm="pump" partOfSpeech="n"/>
@@ -10557,7 +10557,7 @@
       <Sense id="ewn-epigastrium__1_08_00__" n="0" synset="ewn-05403414-n">
         <SenseRelation relType="derivation" target="ewn-epigastric__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-epigastric__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-protective_fold-n">
       <Lemma writtenForm="protective fold" partOfSpeech="n"/>
@@ -10691,13 +10691,13 @@
       </Lemma>
       <Sense id="ewn-caruncula__1_08_00__" n="0" synset="ewn-05478833-n">
         <SenseRelation relType="derivation" target="ewn-caruncular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-megaloblast-n">
       <Lemma writtenForm="megaloblast" partOfSpeech="n"/>
       <Sense id="ewn-megaloblast__1_08_00__" n="0" synset="ewn-05457373-n">
         <SenseRelation relType="derivation" target="ewn-megaloblastic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-right-n">
       <Lemma writtenForm="right" partOfSpeech="n"/>
@@ -10777,7 +10777,7 @@
       <Lemma writtenForm="phagocyte" partOfSpeech="n"/>
       <Sense id="ewn-phagocyte__1_08_00__" n="0" synset="ewn-05458464-n">
         <SenseRelation relType="derivation" target="ewn-phagocytic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-visual_cortex-n">
       <Lemma writtenForm="visual cortex" partOfSpeech="n"/>
@@ -10798,7 +10798,7 @@
       <Sense id="ewn-sperm__1_08_00__" n="0" synset="ewn-05465045-n">
         <SenseRelation relType="derivation" target="ewn-spermatic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-spermous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-interstice-n">
       <Lemma writtenForm="interstice" partOfSpeech="n">
@@ -10807,7 +10807,7 @@
       </Lemma>
       <Sense id="ewn-interstice__1_08_00__" n="0" synset="ewn-05237501-n">
         <SenseRelation relType="derivation" target="ewn-interstitial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-posterior_root-n">
       <Lemma writtenForm="posterior root" partOfSpeech="n"/>
@@ -10843,7 +10843,7 @@
         <SenseRelation relType="derivation" target="ewn-cytoplastic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-cytoplasmic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-cytoplasmatic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-primary_dentition-n">
       <Lemma writtenForm="primary dentition" partOfSpeech="n"/>
@@ -10853,7 +10853,7 @@
       <Lemma writtenForm="case" partOfSpeech="n"/>
       <Sense id="ewn-case__1_08_00__" n="14" synset="ewn-05245366-n">
         <SenseRelation relType="derivation" target="ewn-case__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lacrimal_gland-n">
       <Lemma writtenForm="lacrimal gland" partOfSpeech="n"/>
@@ -10974,7 +10974,7 @@
       <Form writtenForm="cerebella"/>
       <Sense id="ewn-cerebellum__1_08_00__" n="0" synset="ewn-05493206-n">
         <SenseRelation relType="derivation" target="ewn-cerebellar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pigtail-n">
       <Lemma writtenForm="pigtail" partOfSpeech="n">
@@ -10997,7 +10997,7 @@
       <Lemma writtenForm="astragal" partOfSpeech="n"/>
       <Sense id="ewn-astragal__1_08_00__" n="0" synset="ewn-05278882-n">
         <SenseRelation relType="derivation" target="ewn-astragalar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bladder-n">
       <Lemma writtenForm="bladder" partOfSpeech="n">
@@ -11006,7 +11006,7 @@
       </Lemma>
       <Sense id="ewn-bladder__1_08_00__" n="0" synset="ewn-05519790-n">
         <SenseRelation relType="derivation" target="ewn-bladdery__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-beehive-n">
       <Lemma writtenForm="beehive" partOfSpeech="n">
@@ -11051,7 +11051,7 @@
       <Lemma writtenForm="dura" partOfSpeech="n"/>
       <Sense id="ewn-dura__1_08_00__" n="0" synset="ewn-05490181-n">
         <SenseRelation relType="derivation" target="ewn-dural__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ciliary_artery-n">
       <Lemma writtenForm="ciliary artery" partOfSpeech="n"/>
@@ -11118,7 +11118,7 @@
       <Lemma writtenForm="channel" partOfSpeech="n"/>
       <Sense id="ewn-channel__1_08_00__" n="5" synset="ewn-05258141-n">
         <SenseRelation relType="derivation" target="ewn-channelize__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-synapse-n">
       <Lemma writtenForm="synapse" partOfSpeech="n">
@@ -11126,7 +11126,7 @@
       </Lemma>
       <Sense id="ewn-synapse__1_08_00__" n="0" synset="ewn-05481580-n">
         <SenseRelation relType="derivation" target="ewn-synaptic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-axial_muscle-n">
       <Lemma writtenForm="axial muscle" partOfSpeech="n"/>
@@ -11176,7 +11176,7 @@
       <Form writtenForm="teeth"/>
       <Sense id="ewn-tooth__1_08_00__" n="0" synset="ewn-05290245-n">
         <SenseRelation relType="derivation" target="ewn-toothy__5_00_00_toothed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-malar_bone-n">
       <Lemma writtenForm="malar bone" partOfSpeech="n"/>
@@ -11216,7 +11216,7 @@
       <Sense id="ewn-ovule__1_08_01__" n="1" synset="ewn-05465876-n">
         <SenseRelation relType="derivation" target="ewn-ovular__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-ovulate__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-zygomatic_arch-n">
       <Lemma writtenForm="zygomatic arch" partOfSpeech="n"/>
@@ -11260,13 +11260,13 @@
       <Form writtenForm="epithelia"/>
       <Sense id="ewn-epithelium__1_08_00__" n="0" synset="ewn-05247151-n">
         <SenseRelation relType="derivation" target="ewn-epithelial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Pitocin-n">
       <Lemma writtenForm="Pitocin" partOfSpeech="n"/>
       <Sense id="ewn-pitocin__1_08_00__" n="0" synset="ewn-05418914-n">
         <SenseRelation relType="exemplifies" target="ewn-trade_name__1_10_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-intercostal_muscle-n">
       <Lemma writtenForm="intercostal muscle" partOfSpeech="n"/>
@@ -11276,7 +11276,7 @@
       <Lemma writtenForm="cubitus" partOfSpeech="n"/>
       <Sense id="ewn-cubitus__1_08_00__" n="0" synset="ewn-05587575-n">
         <SenseRelation relType="derivation" target="ewn-cubital__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cubitus__1_08_01__" n="1" synset="ewn-05571862-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-musculus_teres_minor-n">
@@ -11329,7 +11329,7 @@
       </Lemma>
       <Sense id="ewn-hamstring__1_08_00__" n="0" synset="ewn-05578335-n">
         <SenseRelation relType="derivation" target="ewn-hamstring__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tooshie-n">
       <Lemma writtenForm="tooshie" partOfSpeech="n"/>
@@ -11345,7 +11345,7 @@
       </Lemma>
       <Sense id="ewn-testicle__1_08_00__" n="0" synset="ewn-05532266-n">
         <SenseRelation relType="derivation" target="ewn-testicular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pulmonary_artery-n">
       <Lemma writtenForm="pulmonary artery" partOfSpeech="n"/>
@@ -11377,7 +11377,7 @@
       </Lemma>
       <Sense id="ewn-flab__1_08_00__" n="0" synset="ewn-05276900-n">
         <SenseRelation relType="derivation" target="ewn-flabby__5_00_00_unfit_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ductus_deferens-n">
       <Lemma writtenForm="ductus deferens" partOfSpeech="n"/>
@@ -11447,7 +11447,7 @@
       <Sense id="ewn-mummy__1_08_00__" n="1" synset="ewn-05225904-n">
         <SenseRelation relType="derivation" target="ewn-mummify__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-mummify__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-motor_area-n">
       <Lemma writtenForm="motor area" partOfSpeech="n"/>
@@ -11523,7 +11523,7 @@
       <Sense id="ewn-enteron__1_08_00__" n="0" synset="ewn-05540274-n">
         <SenseRelation relType="derivation" target="ewn-enteric__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-enteral__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-auricular_vein-n">
       <Lemma writtenForm="auricular vein" partOfSpeech="n"/>
@@ -11670,7 +11670,7 @@
       <Form writtenForm="vela"/>
       <Sense id="ewn-velum__1_08_00__" n="1" synset="ewn-05316917-n">
         <SenseRelation relType="derivation" target="ewn-velar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-encephalon-n">
       <Lemma writtenForm="encephalon" partOfSpeech="n">
@@ -11687,7 +11687,7 @@
       <Sense id="ewn-curl__1_08_00__" n="1" synset="ewn-89143529-n">
         <SenseRelation relType="derivation" target="ewn-curly__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-curl__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-serous_membrane-n">
       <Lemma writtenForm="serous membrane" partOfSpeech="n"/>
@@ -11727,7 +11727,7 @@
       </Lemma>
       <Sense id="ewn-lobe__1_08_00__" n="0" synset="ewn-05500955-n">
         <SenseRelation relType="derivation" target="ewn-lobar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hemizygous_vein-n">
       <Lemma writtenForm="hemizygous vein" partOfSpeech="n"/>
@@ -11739,7 +11739,7 @@
       </Lemma>
       <Sense id="ewn-capsule__1_08_00__" n="4" synset="ewn-05324741-n">
         <SenseRelation relType="derivation" target="ewn-capsular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-basilic_vein-n">
       <Lemma writtenForm="basilic vein" partOfSpeech="n"/>
@@ -11776,7 +11776,7 @@
       <Form writtenForm="vertebrae"/>
       <Sense id="ewn-vertebra__1_08_00__" n="0" synset="ewn-05291832-n">
         <SenseRelation relType="derivation" target="ewn-vertebral__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pituitary-n">
       <Lemma writtenForm="pituitary" partOfSpeech="n">
@@ -11785,7 +11785,7 @@
       </Lemma>
       <Sense id="ewn-pituitary__1_08_00__" n="0" synset="ewn-05491542-n">
         <SenseRelation relType="derivation" target="ewn-pituitary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-perspiration-n">
       <Lemma writtenForm="perspiration" partOfSpeech="n">
@@ -11794,7 +11794,7 @@
       </Lemma>
       <Sense id="ewn-perspiration__1_08_00__" n="0" synset="ewn-05413094-n">
         <SenseRelation relType="derivation" target="ewn-perspire__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_peroneus-n">
       <Lemma writtenForm="vena peroneus" partOfSpeech="n"/>
@@ -11876,14 +11876,14 @@
       </Lemma>
       <Sense id="ewn-palpebra__1_08_00__" n="0" synset="ewn-05321347-n">
         <SenseRelation relType="derivation" target="ewn-palpebrate__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-conjunctiva-n">
       <Lemma writtenForm="conjunctiva" partOfSpeech="n"/>
       <Form writtenForm="conjunctivae"/>
       <Sense id="ewn-conjunctiva__1_08_00__" n="0" synset="ewn-05322645-n">
         <SenseRelation relType="derivation" target="ewn-conjunctival__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-T-n">
       <Lemma writtenForm="T" partOfSpeech="n">
@@ -11896,7 +11896,7 @@
       <Lemma writtenForm="oropharynx" partOfSpeech="n"/>
       <Sense id="ewn-oropharynx__1_08_00__" n="0" synset="ewn-05536645-n">
         <SenseRelation relType="derivation" target="ewn-oropharyngeal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-epididymis-n">
       <Lemma writtenForm="epididymis" partOfSpeech="n">
@@ -12019,7 +12019,7 @@
       </Lemma>
       <Sense id="ewn-depressor__1_08_00__" n="0" synset="ewn-05560100-n">
         <SenseRelation relType="derivation" target="ewn-depress__2_35_12__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-depressor__1_08_01__" n="1" synset="ewn-05484244-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-annexa-n">
@@ -12080,7 +12080,7 @@
       </Lemma>
       <Sense id="ewn-pancreas__1_08_00__" n="0" synset="ewn-05394510-n">
         <SenseRelation relType="derivation" target="ewn-pancreatic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-metatarsal_arch-n">
       <Lemma writtenForm="metatarsal arch" partOfSpeech="n"/>
@@ -12198,7 +12198,7 @@
       <Lemma writtenForm="axon" partOfSpeech="n"/>
       <Sense id="ewn-axon__1_08_00__" n="0" synset="ewn-05476501-n">
         <SenseRelation relType="derivation" target="ewn-axonal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Lente_Insulin-n">
       <Lemma writtenForm="Lente Insulin" partOfSpeech="n"/>
@@ -12239,7 +12239,7 @@
       <Form writtenForm="metatarsi"/>
       <Sense id="ewn-metatarsus__1_08_00__" n="0" synset="ewn-05602323-n">
         <SenseRelation relType="derivation" target="ewn-metatarsal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-arteria_temporalis_intermedia-n">
       <Lemma writtenForm="arteria temporalis intermedia" partOfSpeech="n"/>
@@ -12287,7 +12287,7 @@
       </Lemma>
       <Sense id="ewn-breast__1_08_01__" n="0" synset="ewn-05560921-n">
         <SenseRelation relType="derivation" target="ewn-breast__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-breast__1_08_00__" n="1" synset="ewn-05562038-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-apparatus_urogenitalis-n">
@@ -12302,7 +12302,7 @@
       <Form writtenForm="bronchi"/>
       <Sense id="ewn-bronchus__1_08_00__" n="0" synset="ewn-05539144-n">
         <SenseRelation relType="derivation" target="ewn-bronchial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-anatomy-n">
       <Lemma writtenForm="anatomy" partOfSpeech="n">
@@ -12312,7 +12312,7 @@
         <SenseRelation relType="derivation" target="ewn-anatomic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-anatomist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-anatomical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-myelinated_nerve_fiber-n">
       <Lemma writtenForm="myelinated nerve fiber" partOfSpeech="n"/>
@@ -12336,7 +12336,7 @@
       </Lemma>
       <Sense id="ewn-flesh__1_08_02__" n="0" synset="ewn-05275611-n">
         <SenseRelation relType="derivation" target="ewn-fleshy__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-flesh__1_08_01__" n="1" synset="ewn-05224424-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-uvula-n">
@@ -12347,7 +12347,7 @@
       <Form writtenForm="uvulae"/>
       <Sense id="ewn-uvula__1_08_00__" n="0" synset="ewn-05316770-n">
         <SenseRelation relType="derivation" target="ewn-uvular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ependyma-n">
       <Lemma writtenForm="ependyma" partOfSpeech="n">
@@ -12397,7 +12397,7 @@
       <Lemma writtenForm="follicle" partOfSpeech="n"/>
       <Sense id="ewn-follicle__1_08_00__" n="0" synset="ewn-05525745-n">
         <SenseRelation relType="derivation" target="ewn-follicular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-aponeurosis-n">
       <Lemma writtenForm="aponeurosis" partOfSpeech="n">
@@ -12407,7 +12407,7 @@
       <Form writtenForm="aponeuroses"/>
       <Sense id="ewn-aponeurosis__1_08_00__" n="0" synset="ewn-05590340-n">
         <SenseRelation relType="derivation" target="ewn-aponeurotic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-external_iliac_artery-n">
       <Lemma writtenForm="external iliac artery" partOfSpeech="n"/>
@@ -12426,7 +12426,7 @@
       <Sense id="ewn-valve__1_08_00__" n="0" synset="ewn-05402629-n">
         <SenseRelation relType="derivation" target="ewn-valvular__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-valvelet__1_08_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-canthus-n">
       <Lemma writtenForm="canthus" partOfSpeech="n">
@@ -12558,7 +12558,7 @@
       <Form writtenForm="hila"/>
       <Sense id="ewn-hilum__1_08_00__" n="0" synset="ewn-05232048-n">
         <SenseRelation relType="derivation" target="ewn-hilar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dura_mater-n">
       <Lemma writtenForm="dura mater" partOfSpeech="n"/>
@@ -12686,13 +12686,13 @@
       <Form writtenForm="oculi"/>
       <Sense id="ewn-oculus__1_08_00__" n="0" synset="ewn-05318579-n">
         <SenseRelation relType="derivation" target="ewn-oculist__1_18_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-flexor-n">
       <Lemma writtenForm="flexor" partOfSpeech="n"/>
       <Sense id="ewn-flexor__1_08_00__" n="0" synset="ewn-05304002-n">
         <SenseRelation relType="antonym" target="ewn-extensor__1_08_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-shin-n">
       <Lemma writtenForm="shin" partOfSpeech="n"/>
@@ -12726,7 +12726,7 @@
         <SenseRelation relType="antonym" target="ewn-flexor__1_08_00__"/>
         <SenseRelation relType="derivation" target="ewn-extend__2_29_01__"/>
         <SenseRelation relType="derivation" target="ewn-extend__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-scrotal_vein-n">
       <Lemma writtenForm="scrotal vein" partOfSpeech="n"/>
@@ -12739,7 +12739,7 @@
       <Sense id="ewn-macula__1_08_01__" n="2" synset="ewn-05252277-n">
         <SenseRelation relType="derivation" target="ewn-maculate__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-maculate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-atrium_sinistrum-n">
       <Lemma writtenForm="atrium sinistrum" partOfSpeech="n"/>
@@ -12753,7 +12753,7 @@
         <SenseRelation relType="derivation" target="ewn-clot__2_30_02__"/>
         <SenseRelation relType="derivation" target="ewn-clot__2_30_04__"/>
         <SenseRelation relType="derivation" target="ewn-clot__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-central_body-n">
       <Lemma writtenForm="central body" partOfSpeech="n"/>
@@ -12835,7 +12835,7 @@
       </Lemma>
       <Sense id="ewn-plait__1_08_00__" n="0" synset="ewn-05266995-n">
         <SenseRelation relType="derivation" target="ewn-plait__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trapezium_bone-n">
       <Lemma writtenForm="trapezium bone" partOfSpeech="n"/>
@@ -12857,7 +12857,7 @@
       <Lemma writtenForm="navicular" partOfSpeech="n"/>
       <Sense id="ewn-navicular__1_08_00__" n="0" synset="ewn-05279775-n">
         <SenseRelation relType="derivation" target="ewn-navicular__5_00_00_formed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-omphalos-n">
       <Lemma writtenForm="omphalos" partOfSpeech="n">
@@ -12912,7 +12912,7 @@
       <Form writtenForm="umbilici"/>
       <Sense id="ewn-umbilicus__1_08_00__" n="0" synset="ewn-05564228-n">
         <SenseRelation relType="derivation" target="ewn-umbilical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-superior_rectus_muscle-n">
       <Lemma writtenForm="superior rectus muscle" partOfSpeech="n"/>
@@ -12957,10 +12957,10 @@
       </Lemma>
       <Sense id="ewn-posterior__1_08_00__" n="0" synset="ewn-05566889-n">
         <SenseRelation relType="derivation" target="ewn-posterior__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-posterior__1_08_01__" n="1" synset="ewn-05313975-n">
         <SenseRelation relType="derivation" target="ewn-posterior__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-skull-n">
       <Lemma writtenForm="skull" partOfSpeech="n">
@@ -12998,10 +12998,10 @@
       </Lemma>
       <Sense id="ewn-leg__1_08_01__" n="0" synset="ewn-05568420-n">
         <SenseRelation relType="derivation" target="ewn-leggy__5_00_01_tall_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-leg__1_08_02__" n="1" synset="ewn-05569140-n">
         <SenseRelation relType="derivation" target="ewn-leggy__5_00_01_tall_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-greater_pectoral_muscle-n">
       <Lemma writtenForm="greater pectoral muscle" partOfSpeech="n"/>
@@ -13080,7 +13080,7 @@
       <Lemma writtenForm="secretor" partOfSpeech="n"/>
       <Sense id="ewn-secretor__1_08_00__" n="0" synset="ewn-05335315-n">
         <SenseRelation relType="derivation" target="ewn-secrete__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-radial_artery-n">
       <Lemma writtenForm="radial artery" partOfSpeech="n"/>
@@ -13110,7 +13110,7 @@
       <Lemma writtenForm="chest" partOfSpeech="n"/>
       <Sense id="ewn-chest__1_08_00__" n="0" synset="ewn-05560240-n">
         <SenseRelation relType="derivation" target="ewn-chesty__5_00_00_robust_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-chest__1_08_01__" n="2" synset="ewn-05560921-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-lap-n">
@@ -13166,7 +13166,7 @@
       </Lemma>
       <Sense id="ewn-sinew__1_08_00__" n="0" synset="ewn-05303752-n">
         <SenseRelation relType="derivation" target="ewn-sinewy__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mammillary_body-n">
       <Lemma writtenForm="mammillary body" partOfSpeech="n"/>
@@ -13190,7 +13190,7 @@
       <Form writtenForm="colones"/>
       <Sense id="ewn-colon__1_08_00__" n="0" synset="ewn-05543502-n">
         <SenseRelation relType="derivation" target="ewn-colonic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-abdominal_nerve_plexus-n">
       <Lemma writtenForm="abdominal nerve plexus" partOfSpeech="n"/>
@@ -13214,7 +13214,7 @@
       <Form writtenForm="epicanthi"/>
       <Sense id="ewn-epicanthus__1_08_00__" n="0" synset="ewn-05321780-n">
         <SenseRelation relType="derivation" target="ewn-epicanthic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-midriff-n">
       <Lemma writtenForm="midriff" partOfSpeech="n"/>
@@ -13277,7 +13277,7 @@
       <Sense id="ewn-atheroma__1_08_00__" n="0" synset="ewn-05276994-n">
         <SenseRelation relType="derivation" target="ewn-atheromatic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-atheromatous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spinal_fluid-n">
       <Lemma writtenForm="spinal fluid" partOfSpeech="n"/>
@@ -13466,7 +13466,7 @@
       <Lemma writtenForm="gore" partOfSpeech="n"/>
       <Sense id="ewn-gore__1_08_00__" n="0" synset="ewn-05409096-n">
         <SenseRelation relType="derivation" target="ewn-gore__2_35_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-muscle-n">
       <Lemma writtenForm="muscle" partOfSpeech="n">
@@ -13475,7 +13475,7 @@
       <Sense id="ewn-muscle__1_08_00__" n="0" synset="ewn-05296796-n"/>
       <Sense id="ewn-muscle__1_08_01__" n="1" synset="ewn-05296556-n">
         <SenseRelation relType="derivation" target="ewn-muscular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-heterozygote-n">
       <Lemma writtenForm="heterozygote" partOfSpeech="n"/>
@@ -13559,10 +13559,10 @@
       <Sense id="ewn-body__1_08_00__" n="0" synset="ewn-05223633-n">
         <SenseRelation relType="derivation" target="ewn-bodily__5_00_00_corporeal_00"/>
         <SenseRelation relType="derivation" target="ewn-bodily__3_01_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-body__1_08_02__" n="2" synset="ewn-05225115-n">
         <SenseRelation relType="derivation" target="ewn-body__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-body__1_08_01__" n="4" synset="ewn-05557463-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-gut-n">
@@ -13571,7 +13571,7 @@
       </Lemma>
       <Sense id="ewn-gut__1_08_00__" n="0" synset="ewn-05541966-n">
         <SenseRelation relType="derivation" target="ewn-gut__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-reticulocyte-n">
       <Lemma writtenForm="reticulocyte" partOfSpeech="n"/>
@@ -13588,7 +13588,7 @@
       <Form writtenForm="nares"/>
       <Sense id="ewn-naris__1_08_00__" n="0" synset="ewn-05608186-n">
         <SenseRelation relType="derivation" target="ewn-narial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-triceps-n">
       <Lemma writtenForm="triceps" partOfSpeech="n"/>
@@ -13646,7 +13646,7 @@
       </Lemma>
       <Sense id="ewn-orbit__1_08_00__" n="4" synset="ewn-05292774-n">
         <SenseRelation relType="derivation" target="ewn-orbital__3_01_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nucleus_niger-n">
       <Lemma writtenForm="nucleus niger" partOfSpeech="n"/>
@@ -13676,7 +13676,7 @@
       <Form writtenForm="pericardia"/>
       <Sense id="ewn-pericardium__1_08_00__" n="0" synset="ewn-05436050-n">
         <SenseRelation relType="derivation" target="ewn-pericardial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-arteria_cerebelli-n">
       <Lemma writtenForm="arteria cerebelli" partOfSpeech="n"/>
@@ -13731,7 +13731,7 @@
       </Lemma>
       <Sense id="ewn-allele__1_08_00__" n="0" synset="ewn-05445361-n">
         <SenseRelation relType="derivation" target="ewn-allelic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chyle-n">
       <Lemma writtenForm="chyle" partOfSpeech="n">
@@ -13740,7 +13740,7 @@
       <Sense id="ewn-chyle__1_08_00__" n="0" synset="ewn-05411192-n">
         <SenseRelation relType="derivation" target="ewn-chylous__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-chylaceous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mucous_membrane-n">
       <Lemma writtenForm="mucous membrane" partOfSpeech="n"/>
@@ -13779,7 +13779,7 @@
       <Sense id="ewn-pore__1_08_00__" n="1" synset="ewn-05253249-n">
         <SenseRelation relType="derivation" target="ewn-porous__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-poriferous__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Graafian_follicle-n">
       <Lemma writtenForm="Graafian follicle" partOfSpeech="n"/>
@@ -13801,7 +13801,7 @@
       <Form writtenForm="perinea"/>
       <Sense id="ewn-perineum__1_08_00__" n="0" synset="ewn-05546127-n">
         <SenseRelation relType="derivation" target="ewn-perineal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-antagonistic_muscle-n">
       <Lemma writtenForm="antagonistic muscle" partOfSpeech="n"/>
@@ -13932,7 +13932,7 @@
       </Lemma>
       <Sense id="ewn-tonsure__1_08_00__" n="0" synset="ewn-05547350-n">
         <SenseRelation relType="derivation" target="ewn-tonsure__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sutura_intermaxillaris-n">
       <Lemma writtenForm="sutura intermaxillaris" partOfSpeech="n"/>
@@ -13982,7 +13982,7 @@
       <Form writtenForm="larynges"/>
       <Sense id="ewn-larynx__1_08_00__" n="0" synset="ewn-05537362-n">
         <SenseRelation relType="derivation" target="ewn-laryngeal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-knuckle_joint-n">
       <Lemma writtenForm="knuckle joint" partOfSpeech="n"/>
@@ -14142,7 +14142,7 @@
         <SenseRelation relType="derivation" target="ewn-biliary__3_01_02__"/>
         <SenseRelation relType="derivation" target="ewn-biliary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-bilious__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sura-n">
       <Lemma writtenForm="sura" partOfSpeech="n"/>
@@ -14173,7 +14173,7 @@
       <Form writtenForm="vulvae"/>
       <Sense id="ewn-vulva__1_08_00__" n="0" synset="ewn-05529287-n">
         <SenseRelation relType="derivation" target="ewn-vulval__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sideroblast-n">
       <Lemma writtenForm="sideroblast" partOfSpeech="n"/>
@@ -14242,7 +14242,7 @@
       <Form writtenForm="hypothalami"/>
       <Sense id="ewn-hypothalamus__1_08_00__" n="0" synset="ewn-05507030-n">
         <SenseRelation relType="derivation" target="ewn-hypothalamic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pin-n">
       <Lemma writtenForm="pin" partOfSpeech="n"/>
@@ -14283,7 +14283,7 @@
         <SenseRelation relType="derivation" target="ewn-genetical__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-genic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-genetic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-endocardium-n">
       <Lemma writtenForm="endocardium" partOfSpeech="n"/>
@@ -14306,7 +14306,7 @@
       <Lemma writtenForm="inosculation" partOfSpeech="n"/>
       <Sense id="ewn-inosculation__1_08_00__" n="0" synset="ewn-05256902-n">
         <SenseRelation relType="derivation" target="ewn-inosculate__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tobacco_juice-n">
       <Lemma writtenForm="tobacco juice" partOfSpeech="n"/>
@@ -14317,7 +14317,7 @@
       <Sense id="ewn-effector__1_08_01__" n="1" synset="ewn-05472880-n"/>
       <Sense id="ewn-effector__1_08_00__" n="2" synset="ewn-05305920-n">
         <SenseRelation relType="antonym" target="ewn-receptor__1_08_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dermis-n">
       <Lemma writtenForm="dermis" partOfSpeech="n">
@@ -14327,7 +14327,7 @@
       <Sense id="ewn-dermis__1_08_00__" n="0" synset="ewn-05251222-n">
         <SenseRelation relType="derivation" target="ewn-dermic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-dermal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-male_internal_reproductive_organ-n">
       <Lemma writtenForm="male internal reproductive organ" partOfSpeech="n"/>
@@ -14346,7 +14346,7 @@
       <Sense id="ewn-milk__1_08_00__" n="1" synset="ewn-05406377-n">
         <SenseRelation relType="derivation" target="ewn-milk__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-milk__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bloodstream-n">
       <Lemma writtenForm="bloodstream" partOfSpeech="n">
@@ -14491,7 +14491,7 @@
       <Lemma writtenForm="autoplasty" partOfSpeech="n"/>
       <Sense id="ewn-autoplasty__1_08_00__" n="0" synset="ewn-05590808-n">
         <SenseRelation relType="derivation" target="ewn-autoplastic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_vertebralis_anterior-n">
       <Lemma writtenForm="vena vertebralis anterior" partOfSpeech="n"/>
@@ -14512,10 +14512,10 @@
       </Lemma>
       <Sense id="ewn-endocrine__1_08_00__" n="0" synset="ewn-05414462-n">
         <SenseRelation relType="derivation" target="ewn-endocrinal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-endocrine__1_08_01__" n="1" synset="ewn-05337283-n">
         <SenseRelation relType="derivation" target="ewn-endocrinal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-adult_tooth-n">
       <Lemma writtenForm="adult tooth" partOfSpeech="n"/>
@@ -14553,7 +14553,7 @@
       <Lemma writtenForm="arthromere" partOfSpeech="n"/>
       <Sense id="ewn-arthromere__1_08_00__" n="0" synset="ewn-05232732-n">
         <SenseRelation relType="derivation" target="ewn-arthromeric__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-corium-n">
       <Lemma writtenForm="corium" partOfSpeech="n"/>
@@ -14609,7 +14609,7 @@
       <Sense id="ewn-brain__1_08_00__" n="0" synset="ewn-05488747-n">
         <SenseRelation relType="derivation" target="ewn-brain__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-brain__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-superior_mesenteric_artery-n">
       <Lemma writtenForm="superior mesenteric artery" partOfSpeech="n"/>
@@ -14630,7 +14630,7 @@
       </Lemma>
       <Sense id="ewn-transplant__1_08_00__" n="0" synset="ewn-05590509-n">
         <SenseRelation relType="derivation" target="ewn-transplant__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ocellus-n">
       <Lemma writtenForm="ocellus" partOfSpeech="n"/>
@@ -14654,7 +14654,7 @@
       <Form writtenForm="recta"/>
       <Sense id="ewn-rectum__1_08_00__" n="0" synset="ewn-05545439-n">
         <SenseRelation relType="derivation" target="ewn-rectal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_anastomotica-n">
       <Lemma writtenForm="vena anastomotica" partOfSpeech="n"/>
@@ -14676,7 +14676,7 @@
       <Lemma writtenForm="neocortex" partOfSpeech="n"/>
       <Sense id="ewn-neocortex__1_08_00__" n="0" synset="ewn-05489398-n">
         <SenseRelation relType="derivation" target="ewn-neocortical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lymphatic_vessel-n">
       <Lemma writtenForm="lymphatic vessel" partOfSpeech="n"/>
@@ -14686,7 +14686,7 @@
       <Lemma writtenForm="tuberosity" partOfSpeech="n"/>
       <Sense id="ewn-tuberosity__1_08_00__" n="0" synset="ewn-05550319-n">
         <SenseRelation relType="derivation" target="ewn-tuberous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gastroepiploic_vein-n">
       <Lemma writtenForm="gastroepiploic vein" partOfSpeech="n"/>
@@ -14716,7 +14716,7 @@
       <Lemma writtenForm="fuzz" partOfSpeech="n"/>
       <Sense id="ewn-fuzz__1_08_00__" n="3" synset="ewn-05269393-n">
         <SenseRelation relType="derivation" target="ewn-fuzzy__5_00_00_hairy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-laryngeal_artery-n">
       <Lemma writtenForm="laryngeal artery" partOfSpeech="n"/>
@@ -14736,7 +14736,7 @@
       <Lemma writtenForm="megakaryocyte" partOfSpeech="n"/>
       <Sense id="ewn-megakaryocyte__1_08_00__" n="0" synset="ewn-05456504-n">
         <SenseRelation relType="derivation" target="ewn-megakaryocytic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-inferior_mesenteric_artery-n">
       <Lemma writtenForm="inferior mesenteric artery" partOfSpeech="n"/>
@@ -14852,7 +14852,7 @@
       </Lemma>
       <Sense id="ewn-sebum__1_08_00__" n="0" synset="ewn-05424323-n">
         <SenseRelation relType="derivation" target="ewn-sebaceous__5_00_00_fatty_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mucus-n">
       <Lemma writtenForm="mucus" partOfSpeech="n">
@@ -14860,7 +14860,7 @@
       </Lemma>
       <Sense id="ewn-mucus__1_08_00__" n="0" synset="ewn-05422738-n">
         <SenseRelation relType="derivation" target="ewn-mucous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hepatic_duct-n">
       <Lemma writtenForm="hepatic duct" partOfSpeech="n"/>
@@ -14874,11 +14874,11 @@
       <Form writtenForm="cortices"/>
       <Sense id="ewn-cortex__1_08_01__" n="0" synset="ewn-05494162-n">
         <SenseRelation relType="derivation" target="ewn-cortical__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cortex__1_08_00__" n="1" synset="ewn-05498230-n">
         <SenseRelation relType="antonym" target="ewn-medulla__1_08_00__"/>
         <SenseRelation relType="derivation" target="ewn-cortical__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cortex__1_08_02__" n="2" synset="ewn-05328184-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-sternum-n">
@@ -14889,7 +14889,7 @@
       <Form writtenForm="sterna"/>
       <Sense id="ewn-sternum__1_08_00__" n="0" synset="ewn-05288688-n">
         <SenseRelation relType="derivation" target="ewn-sternal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-deltoid-n">
       <Lemma writtenForm="deltoid" partOfSpeech="n">
@@ -14945,7 +14945,7 @@
       </Lemma>
       <Sense id="ewn-ejaculate__1_08_00__" n="0" synset="ewn-05411679-n">
         <SenseRelation relType="derivation" target="ewn-ejaculate__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-intervertebral_disk-n">
       <Lemma writtenForm="intervertebral disk" partOfSpeech="n"/>
@@ -14957,7 +14957,7 @@
       </Lemma>
       <Sense id="ewn-digit__1_08_00__" n="2" synset="ewn-05573730-n">
         <SenseRelation relType="derivation" target="ewn-digital__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Broca-ap-s_convolution-n">
       <Lemma writtenForm="Broca&apos;s convolution" partOfSpeech="n"/>
@@ -15012,7 +15012,7 @@
       </Lemma>
       <Sense id="ewn-crown__1_08_00__" n="0" synset="ewn-05315640-n">
         <SenseRelation relType="derivation" target="ewn-crown__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-crown__1_08_01__" n="8" synset="ewn-05547228-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-rhinencephalon-n">
@@ -15135,7 +15135,7 @@
       <Lemma writtenForm="palatine" partOfSpeech="n"/>
       <Sense id="ewn-palatine__1_08_00__" n="2" synset="ewn-05285651-n">
         <SenseRelation relType="derivation" target="ewn-palatine__3_01_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spermatocyte-n">
       <Lemma writtenForm="spermatocyte" partOfSpeech="n"/>
@@ -15151,10 +15151,10 @@
       </Lemma>
       <Sense id="ewn-face__1_08_00__" n="0" synset="ewn-05608392-n">
         <SenseRelation relType="derivation" target="ewn-facial__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-face__1_08_01__" n="6" synset="ewn-05608953-n">
         <SenseRelation relType="derivation" target="ewn-facial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-coxa-n">
       <Lemma writtenForm="coxa" partOfSpeech="n">
@@ -15224,7 +15224,7 @@
       <Sense id="ewn-adnexa__1_08_00__" n="0" synset="ewn-05228942-n">
         <SenseRelation relType="derivation" target="ewn-adnexal__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-annexal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hepatic_lobe-n">
       <Lemma writtenForm="hepatic lobe" partOfSpeech="n"/>
@@ -15340,7 +15340,7 @@
       <Lemma writtenForm="anterior" partOfSpeech="n"/>
       <Sense id="ewn-anterior__1_08_00__" n="0" synset="ewn-05313689-n">
         <SenseRelation relType="derivation" target="ewn-anterior__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fibula-n">
       <Lemma writtenForm="fibula" partOfSpeech="n">
@@ -15458,7 +15458,7 @@
         <SenseRelation relType="derivation" target="ewn-nose__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-nose__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-nose__2_39_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-venae_episclerales-n">
       <Lemma writtenForm="venae episclerales" partOfSpeech="n"/>
@@ -15502,7 +15502,7 @@
       <Form writtenForm="carpi"/>
       <Sense id="ewn-carpus__1_08_00__" n="0" synset="ewn-05592578-n">
         <SenseRelation relType="derivation" target="ewn-carpal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Y-linked_gene-n">
       <Lemma writtenForm="Y-linked gene" partOfSpeech="n"/>
@@ -15575,7 +15575,7 @@
       <Sense id="ewn-palm__1_08_00__" n="0" synset="ewn-05573329-n">
         <SenseRelation relType="derivation" target="ewn-palmar__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-palm__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gyrus_cinguli-n">
       <Lemma writtenForm="gyrus cinguli" partOfSpeech="n"/>
@@ -15602,7 +15602,7 @@
         <SenseRelation relType="derivation" target="ewn-articulary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-articular__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-articulate__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-live_body-n">
       <Lemma writtenForm="live body" partOfSpeech="n"/>
@@ -15685,10 +15685,10 @@
       <Form writtenForm="dorsa"/>
       <Sense id="ewn-dorsum__1_08_01__" n="0" synset="ewn-05566350-n">
         <SenseRelation relType="derivation" target="ewn-dorsal__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-dorsum__1_08_00__" n="1" synset="ewn-05565133-n">
         <SenseRelation relType="derivation" target="ewn-dorsal__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-organ_of_speech-n">
       <Lemma writtenForm="organ of speech" partOfSpeech="n"/>
@@ -15794,7 +15794,7 @@
       <Sense id="ewn-receptor__1_08_00__" n="1" synset="ewn-05306677-n">
         <SenseRelation relType="antonym" target="ewn-effector__1_08_00__"/>
         <SenseRelation relType="derivation" target="ewn-receive__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-entrails-n">
       <Lemma writtenForm="entrails" partOfSpeech="n">
@@ -15822,7 +15822,7 @@
       <Lemma writtenForm="bronchiole" partOfSpeech="n"/>
       <Sense id="ewn-bronchiole__1_08_00__" n="0" synset="ewn-05539299-n">
         <SenseRelation relType="derivation" target="ewn-bronchiolar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-teres_muscle-n">
       <Lemma writtenForm="teres muscle" partOfSpeech="n"/>
@@ -15864,7 +15864,7 @@
       <Sense id="ewn-cauda__1_08_00__" n="0" synset="ewn-05235594-n">
         <SenseRelation relType="derivation" target="ewn-caudal__5_00_00_caudate_00"/>
         <SenseRelation relType="derivation" target="ewn-caudal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-os_temporale-n">
       <Lemma writtenForm="os temporale" partOfSpeech="n"/>
@@ -15949,7 +15949,7 @@
       </Lemma>
       <Sense id="ewn-germ__1_08_00__" n="1" synset="ewn-05237135-n">
         <SenseRelation relType="derivation" target="ewn-germinate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pyramidal_tract-n">
       <Lemma writtenForm="pyramidal tract" partOfSpeech="n"/>
@@ -15977,7 +15977,7 @@
       </Lemma>
       <Sense id="ewn-tiptoe__1_08_00__" n="0" synset="ewn-05584935-n">
         <SenseRelation relType="derivation" target="ewn-tiptoe__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cardiac_muscle-n">
       <Lemma writtenForm="cardiac muscle" partOfSpeech="n"/>
@@ -15996,7 +15996,7 @@
       <Form writtenForm="duonas"/>
       <Sense id="ewn-duodenum__1_08_00__" n="0" synset="ewn-05542588-n">
         <SenseRelation relType="derivation" target="ewn-duodenal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mantle-n">
       <Lemma writtenForm="mantle" partOfSpeech="n">
@@ -16075,7 +16075,7 @@
       </Lemma>
       <Sense id="ewn-condyle__1_08_00__" n="0" synset="ewn-05479281-n">
         <SenseRelation relType="derivation" target="ewn-condylar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-zonule-n">
       <Lemma writtenForm="zonule" partOfSpeech="n"/>
@@ -16096,7 +16096,7 @@
       <Form writtenForm="scapulae"/>
       <Sense id="ewn-scapula__1_08_00__" n="0" synset="ewn-05287187-n">
         <SenseRelation relType="derivation" target="ewn-scapular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-primordium-n">
       <Lemma writtenForm="primordium" partOfSpeech="n"/>
@@ -16175,7 +16175,7 @@
       <Sense id="ewn-hemisphere__1_08_00__" n="2" synset="ewn-05484567-n">
         <SenseRelation relType="derivation" target="ewn-hemispheric__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-hemispherical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-reflex_arc-n">
       <Lemma writtenForm="reflex arc" partOfSpeech="n"/>
@@ -16248,10 +16248,10 @@
       </Lemma>
       <Sense id="ewn-jaw__1_08_00__" n="0" synset="ewn-05553673-n">
         <SenseRelation relType="derivation" target="ewn-jaw__2_34_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-jaw__1_08_01__" n="1" synset="ewn-05610915-n">
         <SenseRelation relType="derivation" target="ewn-jaw__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rear-n">
       <Lemma writtenForm="rear" partOfSpeech="n"/>
@@ -16280,7 +16280,7 @@
       <Form writtenForm="pubes"/>
       <Sense id="ewn-pubis__1_08_00__" n="0" synset="ewn-05286213-n">
         <SenseRelation relType="derivation" target="ewn-pubic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-excrescence-n">
       <Lemma writtenForm="excrescence" partOfSpeech="n">
@@ -16288,7 +16288,7 @@
       </Lemma>
       <Sense id="ewn-excrescence__1_08_00__" n="1" synset="ewn-05611405-n">
         <SenseRelation relType="derivation" target="ewn-excrescent__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-piriform_lobe-n">
       <Lemma writtenForm="piriform lobe" partOfSpeech="n"/>
@@ -16310,13 +16310,13 @@
       <Lemma writtenForm="graft" partOfSpeech="n"/>
       <Sense id="ewn-graft__1_08_00__" n="0" synset="ewn-05590509-n">
         <SenseRelation relType="derivation" target="ewn-graft__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-abductor-n">
       <Lemma writtenForm="abductor" partOfSpeech="n"/>
       <Sense id="ewn-abductor__1_08_00__" n="1" synset="ewn-05298509-n">
         <SenseRelation relType="derivation" target="ewn-abduct__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-supraorbital_vein-n">
       <Lemma writtenForm="supraorbital vein" partOfSpeech="n"/>
@@ -16364,7 +16364,7 @@
       </Lemma>
       <Sense id="ewn-spine__1_08_00__" n="0" synset="ewn-05595824-n">
         <SenseRelation relType="derivation" target="ewn-spinal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nucleole-n">
       <Lemma writtenForm="nucleole" partOfSpeech="n"/>
@@ -16485,10 +16485,10 @@
       <Form writtenForm="tracheae"/>
       <Sense id="ewn-trachea__1_08_01__" n="0" synset="ewn-05539447-n">
         <SenseRelation relType="derivation" target="ewn-tracheal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-trachea__1_08_02__" n="1" synset="ewn-05539683-n">
         <SenseRelation relType="derivation" target="ewn-tracheal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fasciculus-n">
       <Lemma writtenForm="fasciculus" partOfSpeech="n"/>
@@ -16511,7 +16511,7 @@
       <Lemma writtenForm="dilator" partOfSpeech="n"/>
       <Sense id="ewn-dilator__1_08_00__" n="0" synset="ewn-05229760-n">
         <SenseRelation relType="derivation" target="ewn-dilate__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cotyloid_joint-n">
       <Lemma writtenForm="cotyloid joint" partOfSpeech="n"/>
@@ -16568,10 +16568,10 @@
       </Lemma>
       <Sense id="ewn-bulb__1_08_02__" n="4" synset="ewn-05502823-n">
         <SenseRelation relType="derivation" target="ewn-bulbar__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bulb__1_08_01__" n="5" synset="ewn-05234409-n">
         <SenseRelation relType="derivation" target="ewn-bulbous__5_00_00_protrusive_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-oligodendria-n">
       <Lemma writtenForm="oligodendria" partOfSpeech="n"/>
@@ -16732,7 +16732,7 @@
       <Form writtenForm="ceca"/>
       <Sense id="ewn-cecum__1_08_00__" n="0" synset="ewn-05544003-n">
         <SenseRelation relType="derivation" target="ewn-cecal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-female_internal_reproductive_organ-n">
       <Lemma writtenForm="female internal reproductive organ" partOfSpeech="n"/>
@@ -16815,7 +16815,7 @@
       <Form writtenForm="vagi"/>
       <Sense id="ewn-vagus__1_08_00__" n="0" synset="ewn-05487728-n">
         <SenseRelation relType="derivation" target="ewn-vagal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spermatozoon-n">
       <Lemma writtenForm="spermatozoon" partOfSpeech="n">
@@ -16879,7 +16879,7 @@
       <Lemma writtenForm="roach" partOfSpeech="n"/>
       <Sense id="ewn-roach__1_08_00__" n="0" synset="ewn-05268587-n">
         <SenseRelation relType="derivation" target="ewn-roach__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spinal_nerve_roots-n">
       <Lemma writtenForm="spinal nerve roots" partOfSpeech="n"/>
@@ -16916,7 +16916,7 @@
       <Form writtenForm="apophyses"/>
       <Sense id="ewn-apophysis__1_08_00__" n="1" synset="ewn-05480756-n">
         <SenseRelation relType="derivation" target="ewn-apophyseal__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-celoma-n">
       <Lemma writtenForm="celoma" partOfSpeech="n"/>
@@ -16945,7 +16945,7 @@
       <Form writtenForm="femora"/>
       <Sense id="ewn-femur__1_08_00__" n="0" synset="ewn-05581526-n">
         <SenseRelation relType="derivation" target="ewn-femoral__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-palatine_bone-n">
       <Lemma writtenForm="palatine bone" partOfSpeech="n"/>
@@ -16970,7 +16970,7 @@
       <Sense id="ewn-collagen__1_08_00__" n="0" synset="ewn-05294589-n">
         <SenseRelation relType="derivation" target="ewn-collagenic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-collagenous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-osteophyte-n">
       <Lemma writtenForm="osteophyte" partOfSpeech="n">
@@ -16996,7 +16996,7 @@
       </Lemma>
       <Sense id="ewn-mandible__1_08_00__" n="0" synset="ewn-05283404-n">
         <SenseRelation relType="derivation" target="ewn-mandibular__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-shunt-n">
       <Lemma writtenForm="shunt" partOfSpeech="n">
@@ -17043,7 +17043,7 @@
       </Lemma>
       <Sense id="ewn-fauces__1_08_00__" n="0" synset="ewn-05555537-n">
         <SenseRelation relType="derivation" target="ewn-faucal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-grinder-n">
       <Lemma writtenForm="grinder" partOfSpeech="n">
@@ -17052,7 +17052,7 @@
       </Lemma>
       <Sense id="ewn-grinder__1_08_00__" n="1" synset="ewn-05315272-n">
         <SenseRelation relType="derivation" target="ewn-grind__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-internal_iliac_vein-n">
       <Lemma writtenForm="internal iliac vein" partOfSpeech="n"/>
@@ -17090,13 +17090,13 @@
       </Lemma>
       <Sense id="ewn-tensor__1_08_00__" n="1" synset="ewn-05580937-n">
         <SenseRelation relType="derivation" target="ewn-tense__2_29_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hair_style-n">
       <Lemma writtenForm="hair style" partOfSpeech="n"/>
       <Sense id="ewn-hair_style__1_08_00__" n="0" synset="ewn-05264345-n">
         <SenseRelation relType="derivation" target="ewn-hairstylist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-foramen_of_Monro-n">
       <Lemma writtenForm="foramen of Monro" partOfSpeech="n"/>
@@ -17118,7 +17118,7 @@
       <Lemma writtenForm="sarcosome" partOfSpeech="n"/>
       <Sense id="ewn-sarcosome__1_08_00__" n="0" synset="ewn-05453122-n">
         <SenseRelation relType="derivation" target="ewn-sarcosomal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-eye_tooth-n">
       <Lemma writtenForm="eye tooth" partOfSpeech="n"/>
@@ -17202,7 +17202,7 @@
       <Sense id="ewn-opening__1_08_00__" n="8" synset="ewn-05257118-n">
         <SenseRelation relType="derivation" target="ewn-open__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-open__2_40_04__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nervus_vagus-n">
       <Lemma writtenForm="nervus vagus" partOfSpeech="n"/>
@@ -17219,7 +17219,7 @@
         <SenseRelation relType="derivation" target="ewn-bony__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-boney__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-bonelet__1_08_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-musculus_sphincter_vesicae-n">
       <Lemma writtenForm="musculus sphincter vesicae" partOfSpeech="n"/>
@@ -17251,7 +17251,7 @@
       <Form writtenForm="vaginae"/>
       <Sense id="ewn-vagina__1_08_00__" n="0" synset="ewn-05528762-n">
         <SenseRelation relType="derivation" target="ewn-vaginal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hindquarters-n">
       <Lemma writtenForm="hindquarters" partOfSpeech="n"/>
@@ -17298,7 +17298,7 @@
       <Sense id="ewn-uvea__1_08_00__" n="0" synset="ewn-05325510-n">
         <SenseRelation relType="derivation" target="ewn-uveous__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-uveal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tush-n">
       <Lemma writtenForm="tush" partOfSpeech="n">
@@ -17353,7 +17353,7 @@
       </Lemma>
       <Sense id="ewn-scalp__1_08_00__" n="0" synset="ewn-05547580-n">
         <SenseRelation relType="derivation" target="ewn-scalp__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vena_cerebellum-n">
       <Lemma writtenForm="vena cerebellum" partOfSpeech="n"/>
@@ -17489,7 +17489,7 @@
       </Lemma>
       <Sense id="ewn-tear__1_08_01__" n="0" synset="ewn-05412667-n">
         <SenseRelation relType="derivation" target="ewn-tear__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pate-n-2">
       <Lemma writtenForm="pate" partOfSpeech="n">
@@ -17510,7 +17510,7 @@
       </Lemma>
       <Sense id="ewn-lien__1_08_00__" n="0" synset="ewn-05341015-n">
         <SenseRelation relType="derivation" target="ewn-lienal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-liver-n-1">
       <Lemma writtenForm="liver" partOfSpeech="n">
@@ -17518,7 +17518,7 @@
       </Lemma>
       <Sense id="ewn-liver__1_08_00__" n="0" synset="ewn-05392877-n">
         <SenseRelation relType="derivation" target="ewn-livery__5_00_00_ill_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <!-- organic structure, body -->
     <Synset id="ewn-05223633-n" ili="i64381" members="ewn-body-n ewn-organic_structure-n" partOfSpeech="n" dc:subject="noun.body">

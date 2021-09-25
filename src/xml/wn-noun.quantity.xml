@@ -81,7 +81,7 @@
       </Lemma>
       <Sense id="ewn-shovel__1_23_00__" n="1" synset="ewn-13792010-n">
         <SenseRelation relType="derivation" target="ewn-shovel__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-atomic_mass_unit-n">
       <Lemma writtenForm="atomic mass unit" partOfSpeech="n"/>
@@ -94,7 +94,7 @@
       </Lemma>
       <Sense id="ewn-majority__1_23_00__" n="1" synset="ewn-13602270-n">
         <SenseRelation relType="derivation" target="ewn-major__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-leash-n">
       <Lemma writtenForm="leash" partOfSpeech="n">
@@ -139,7 +139,7 @@
       </Lemma>
       <Sense id="ewn-cipher__1_23_01__" n="1" synset="ewn-13764498-n">
         <SenseRelation relType="derivation" target="ewn-cipher__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cipher__1_23_00__" n="2" synset="ewn-13762308-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-proper_fraction-n">
@@ -171,7 +171,7 @@
       <Sense id="ewn-circulation__1_23_01__" n="2" synset="ewn-13613801-n"/>
       <Sense id="ewn-circulation__1_23_00__" n="3" synset="ewn-13613587-n">
         <SenseRelation relType="derivation" target="ewn-circulate__2_38_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-butut-n">
       <Lemma writtenForm="butut" partOfSpeech="n"/>
@@ -190,7 +190,7 @@
       </Lemma>
       <Sense id="ewn-square__1_23_00__" n="1" synset="ewn-13753131-n">
         <SenseRelation relType="derivation" target="ewn-square__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-advantage-n">
       <Lemma writtenForm="advantage" partOfSpeech="n">
@@ -234,7 +234,7 @@
       </Lemma>
       <Sense id="ewn-wad__1_23_00__" n="1" synset="ewn-13796604-n">
         <SenseRelation relType="derivation" target="ewn-wad__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-international_ampere-n">
       <Lemma writtenForm="international ampere" partOfSpeech="n"/>
@@ -339,7 +339,7 @@
       </Lemma>
       <Sense id="ewn-birdie__1_23_00__" n="0" synset="ewn-13616519-n">
         <SenseRelation relType="derivation" target="ewn-birdie__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-electromagnetic_unit-n">
       <Lemma writtenForm="electromagnetic unit" partOfSpeech="n"/>
@@ -656,7 +656,7 @@
       </Lemma>
       <Sense id="ewn-ohm__1_23_00__" n="0" synset="ewn-13668434-n">
         <SenseRelation relType="derivation" target="ewn-ohmic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-atomic_number-n">
       <Lemma writtenForm="atomic number" partOfSpeech="n"/>
@@ -669,7 +669,7 @@
       <Sense id="ewn-frequency__1_23_00__" n="2" synset="ewn-13619480-n">
         <SenseRelation relType="derivation" target="ewn-frequent__5_00_00_common_01"/>
         <SenseRelation relType="derivation" target="ewn-frequent__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-piles-n">
       <Lemma writtenForm="piles" partOfSpeech="n"/>
@@ -715,7 +715,7 @@
       <Sense id="ewn-couple__1_23_01__" n="2" synset="ewn-13793430-n"/>
       <Sense id="ewn-couple__1_23_00__" n="3" synset="ewn-13765745-n">
         <SenseRelation relType="derivation" target="ewn-couple__2_35_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trillion-n">
       <Lemma writtenForm="trillion" partOfSpeech="n"/>
@@ -728,7 +728,7 @@
       <Sense id="ewn-dosage__1_23_00__" n="0" synset="ewn-13794246-n">
         <SenseRelation relType="derivation" target="ewn-dose__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-dose__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-grade-n">
       <Lemma writtenForm="grade" partOfSpeech="n">
@@ -823,7 +823,7 @@
       </Lemma>
       <Sense id="ewn-score__1_23_00__" n="2" synset="ewn-13615828-n">
         <SenseRelation relType="derivation" target="ewn-score__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-decagram-n">
       <Lemma writtenForm="decagram" partOfSpeech="n">
@@ -843,7 +843,7 @@
       <Sense id="ewn-standard__1_23_00__" n="2" synset="ewn-13639233-n">
         <SenseRelation relType="derivation" target="ewn-standardize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-standardise__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-roomful-n">
       <Lemma writtenForm="roomful" partOfSpeech="n"/>
@@ -886,7 +886,7 @@
       <Lemma writtenForm="double-bogey" partOfSpeech="n"/>
       <Sense id="ewn-double-bogey__1_23_00__" n="0" synset="ewn-13616942-n">
         <SenseRelation relType="derivation" target="ewn-double_bogey__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-XXIV-n">
       <Lemma writtenForm="XXIV" partOfSpeech="n"/>
@@ -945,7 +945,7 @@
       </Lemma>
       <Sense id="ewn-fraction__1_23_00__" n="2" synset="ewn-13754218-n">
         <SenseRelation relType="derivation" target="ewn-fraction__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cubage_unit-n">
       <Lemma writtenForm="cubage unit" partOfSpeech="n"/>
@@ -969,7 +969,7 @@
       </Lemma>
       <Sense id="ewn-fifty__1_23_00__" n="0" synset="ewn-13771784-n">
         <SenseRelation relType="derivation" target="ewn-fifty__5_00_00_cardinal_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kibibyte-n">
       <Lemma writtenForm="kibibyte" partOfSpeech="n"/>
@@ -1000,7 +1000,7 @@
       <Sense id="ewn-heap__1_23_00__" n="1" synset="ewn-13796604-n">
         <SenseRelation relType="derivation" target="ewn-heap__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-heap__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-factor_of_proportionality-n">
       <Lemma writtenForm="factor of proportionality" partOfSpeech="n"/>
@@ -1137,7 +1137,7 @@
       <Lemma writtenForm="aliquant" partOfSpeech="n"/>
       <Sense id="ewn-aliquant__1_23_00__" n="0" synset="ewn-13756956-n">
         <SenseRelation relType="antonym" target="ewn-aliquot__1_23_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-passel-n">
       <Lemma writtenForm="passel" partOfSpeech="n">
@@ -1162,7 +1162,7 @@
       <Sense id="ewn-yield__1_23_00__" n="3" synset="ewn-13780885-n">
         <SenseRelation relType="derivation" target="ewn-yield__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-yield__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-unformatted_capacity-n">
       <Lemma writtenForm="unformatted capacity" partOfSpeech="n"/>
@@ -1397,7 +1397,7 @@
       </Lemma>
       <Sense id="ewn-exposure__1_23_00__" n="5" synset="ewn-13661685-n">
         <SenseRelation relType="derivation" target="ewn-expose__2_39_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-loads-n">
       <Lemma writtenForm="loads" partOfSpeech="n">
@@ -1410,7 +1410,7 @@
       <Lemma writtenForm="spoon" partOfSpeech="n"/>
       <Sense id="ewn-spoon__1_23_00__" n="1" synset="ewn-13792309-n">
         <SenseRelation relType="derivation" target="ewn-spoon__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mebibit-n">
       <Lemma writtenForm="mebibit" partOfSpeech="n"/>
@@ -1446,7 +1446,7 @@
       </Lemma>
       <Sense id="ewn-volt__1_23_00__" n="0" synset="ewn-13664755-n">
         <SenseRelation relType="derivation" target="ewn-voltaic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-zloty-n">
       <Lemma writtenForm="zloty" partOfSpeech="n">
@@ -1479,10 +1479,10 @@
       </Lemma>
       <Sense id="ewn-capacity__1_23_00__" n="2" synset="ewn-13801586-n">
         <SenseRelation relType="derivation" target="ewn-capacious__5_00_00_large_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-capacity__1_23_01__" n="5" synset="ewn-13777193-n">
         <SenseRelation relType="derivation" target="ewn-capacious__5_00_00_large_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-upper_limit-n">
       <Lemma writtenForm="upper limit" partOfSpeech="n"/>
@@ -1569,7 +1569,7 @@
       </Lemma>
       <Sense id="ewn-eagle__1_23_00__" n="1" synset="ewn-13617211-n">
         <SenseRelation relType="derivation" target="ewn-eagle__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Iraqi_monetary_unit-n">
       <Lemma writtenForm="Iraqi monetary unit" partOfSpeech="n"/>
@@ -1591,7 +1591,7 @@
       <Sense id="ewn-sufficiency__1_23_00__" n="1" synset="ewn-13601618-n">
         <SenseRelation relType="derivation" target="ewn-sufficient__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-suffice__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-baryon_number-n">
       <Lemma writtenForm="baryon number" partOfSpeech="n"/>
@@ -1715,7 +1715,7 @@
       </Lemma>
       <Sense id="ewn-myriad__1_23_01__" n="0" synset="ewn-13798938-n">
         <SenseRelation relType="derivation" target="ewn-myriad__5_00_00_incalculable_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-myriad__1_23_00__" n="1" synset="ewn-13773405-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-g-n">
@@ -1767,7 +1767,7 @@
       <Sense id="ewn-centimetre__1_23_00__" n="0" synset="ewn-13680636-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tonne-n">
       <Lemma writtenForm="tonne" partOfSpeech="n">
@@ -1824,7 +1824,7 @@
       </Lemma>
       <Sense id="ewn-catch__1_23_00__" n="1" synset="ewn-13777962-n">
         <SenseRelation relType="derivation" target="ewn-catch__2_35_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-B-n">
       <Lemma writtenForm="B" partOfSpeech="n"/>
@@ -1894,7 +1894,7 @@
       <Lemma writtenForm="shred" partOfSpeech="n"/>
       <Sense id="ewn-shred__1_23_00__" n="0" synset="ewn-13795925-n">
         <SenseRelation relType="derivation" target="ewn-shred__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sucre-n">
       <Lemma writtenForm="sucre" partOfSpeech="n">
@@ -2017,7 +2017,7 @@
       <Lemma writtenForm="trace" partOfSpeech="n"/>
       <Sense id="ewn-trace__1_23_00__" n="0" synset="ewn-13795501-n">
         <SenseRelation relType="derivation" target="ewn-trace__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-asper-n">
       <Lemma writtenForm="asper" partOfSpeech="n"/>
@@ -2082,7 +2082,7 @@
       </Lemma>
       <Sense id="ewn-seven__1_23_00__" n="0" synset="ewn-13767056-n">
         <SenseRelation relType="derivation" target="ewn-seven__5_00_00_cardinal_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-shilling-n">
       <Lemma writtenForm="shilling" partOfSpeech="n"/>
@@ -2114,7 +2114,7 @@
       </Lemma>
       <Sense id="ewn-enough__1_23_00__" n="0" synset="ewn-13601618-n">
         <SenseRelation relType="derivation" target="ewn-enough__5_00_00_sufficient_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-whit-n">
       <Lemma writtenForm="whit" partOfSpeech="n">
@@ -2276,7 +2276,7 @@
         <SenseRelation relType="derivation" target="ewn-mile__1_23_02__"/>
         <SenseRelation relType="derivation" target="ewn-mile__1_23_01__"/>
         <SenseRelation relType="derivation" target="ewn-mile__1_11_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stack-n">
       <Lemma writtenForm="stack" partOfSpeech="n">
@@ -2410,7 +2410,7 @@
       <Sense id="ewn-droplet__1_23_00__" n="0" synset="ewn-13793968-n">
         <SenseRelation relType="derivation" target="ewn-drop__1_25_00__"/>
         <SenseRelation relType="derivation" target="ewn-drop__1_23_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Liberian_dollar-n">
       <Lemma writtenForm="Liberian dollar" partOfSpeech="n"/>
@@ -2436,7 +2436,7 @@
       <Lemma writtenForm="biquadratic" partOfSpeech="n"/>
       <Sense id="ewn-biquadratic__1_23_00__" n="0" synset="ewn-13753484-n">
         <SenseRelation relType="derivation" target="ewn-biquadratic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-myg-n">
       <Lemma writtenForm="myg" partOfSpeech="n"/>
@@ -2711,7 +2711,7 @@
       <Sense id="ewn-cube__1_23_00__" n="2" synset="ewn-13753351-n">
         <SenseRelation relType="derivation" target="ewn-cube__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-cubic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kg-n">
       <Lemma writtenForm="kg" partOfSpeech="n"/>
@@ -2846,7 +2846,7 @@
       <Sense id="ewn-magnetization__1_23_00__" n="0" synset="ewn-13620790-n">
         <SenseRelation relType="derivation" target="ewn-magnetize__2_32_00__"/>
         <SenseRelation relType="derivation" target="ewn-magnetize__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-normality-n">
       <Lemma writtenForm="normality" partOfSpeech="n"/>
@@ -2894,7 +2894,7 @@
       <Sense id="ewn-kilometre__1_23_00__" n="0" synset="ewn-13681796-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-em_quad-n">
       <Lemma writtenForm="em quad" partOfSpeech="n"/>
@@ -2908,7 +2908,7 @@
       <Lemma writtenForm="dab" partOfSpeech="n"/>
       <Sense id="ewn-dab__1_23_00__" n="1" synset="ewn-13783311-n">
         <SenseRelation relType="derivation" target="ewn-dab__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lambert-n">
       <Lemma writtenForm="lambert" partOfSpeech="n"/>
@@ -2929,7 +2929,7 @@
       </Lemma>
       <Sense id="ewn-dish__1_23_00__" n="2" synset="ewn-13789036-n">
         <SenseRelation relType="derivation" target="ewn-dish__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-duck-n">
       <Lemma writtenForm="duck" partOfSpeech="n"/>
@@ -3058,7 +3058,7 @@
       <Sense id="ewn-unit__1_23_00__" n="0" synset="ewn-13604927-n">
         <SenseRelation relType="derivation" target="ewn-unitize__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-unitize__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-23-n">
       <Lemma writtenForm="23" partOfSpeech="n"/>
@@ -3103,7 +3103,7 @@
       <Sense id="ewn-pair__1_23_00__" n="1" synset="ewn-13765745-n">
         <SenseRelation relType="derivation" target="ewn-pair__2_35_03__"/>
         <SenseRelation relType="derivation" target="ewn-pair__2_35_04__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Systeme_International-n">
       <Lemma writtenForm="Systeme International" partOfSpeech="n"/>
@@ -3340,13 +3340,13 @@
       </Lemma>
       <Sense id="ewn-cord__1_23_00__" n="1" synset="ewn-13623644-n">
         <SenseRelation relType="derivation" target="ewn-cord__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-inch-n">
       <Lemma writtenForm="inch" partOfSpeech="n"/>
       <Sense id="ewn-inch__1_23_00__" n="0" synset="ewn-13671409-n">
         <SenseRelation relType="derivation" target="ewn-inch__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-inch__1_23_02__" n="1" synset="ewn-13735405-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Venezuelan_monetary_unit-n">
@@ -3421,7 +3421,7 @@
       </Lemma>
       <Sense id="ewn-splatter__1_23_00__" n="1" synset="ewn-13783311-n">
         <SenseRelation relType="derivation" target="ewn-splatter__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-South_Korean_monetary_unit-n">
       <Lemma writtenForm="South Korean monetary unit" partOfSpeech="n"/>
@@ -3465,7 +3465,7 @@
         <SenseRelation relType="derivation" target="ewn-supply__2_34_00__"/>
         <SenseRelation relType="derivation" target="ewn-supply__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-supply__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ten_thousand-n">
       <Lemma writtenForm="ten thousand" partOfSpeech="n"/>
@@ -3514,7 +3514,7 @@
       <Lemma writtenForm="inundation" partOfSpeech="n"/>
       <Sense id="ewn-inundation__1_23_00__" n="1" synset="ewn-13797906-n">
         <SenseRelation relType="derivation" target="ewn-inundate__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Burundi_franc-n">
       <Lemma writtenForm="Burundi franc" partOfSpeech="n"/>
@@ -3637,7 +3637,7 @@
       </Lemma>
       <Sense id="ewn-candle__1_23_00__" n="1" synset="ewn-13663013-n">
         <SenseRelation relType="derivation" target="ewn-candle__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bowl-n">
       <Lemma writtenForm="bowl" partOfSpeech="n"/>
@@ -3818,7 +3818,7 @@
       </Lemma>
       <Sense id="ewn-multitude__1_23_00__" n="0" synset="ewn-13797293-n">
         <SenseRelation relType="derivation" target="ewn-multitudinous__5_00_00_incalculable_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-piaster-n">
       <Lemma writtenForm="piaster" partOfSpeech="n"/>
@@ -3832,7 +3832,7 @@
       <Sense id="ewn-decametre__1_23_00__" n="0" synset="ewn-13681341-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Pa-n">
       <Lemma writtenForm="Pa" partOfSpeech="n">
@@ -3854,7 +3854,7 @@
       </Lemma>
       <Sense id="ewn-scoop__1_23_00__" n="0" synset="ewn-13791457-n">
         <SenseRelation relType="derivation" target="ewn-scoop__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Libyan_dirham-n">
       <Lemma writtenForm="Libyan dirham" partOfSpeech="n"/>
@@ -3864,13 +3864,13 @@
       <Lemma writtenForm="torrent" partOfSpeech="n"/>
       <Sense id="ewn-torrent__1_23_00__" n="2" synset="ewn-13797906-n">
         <SenseRelation relType="derivation" target="ewn-torrential__5_00_00_uncontrolled_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-jar-n">
       <Lemma writtenForm="jar" partOfSpeech="n"/>
       <Sense id="ewn-jar__1_23_00__" n="1" synset="ewn-13789962-n">
         <SenseRelation relType="derivation" target="ewn-jar__2_35_10__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nanogram-n">
       <Lemma writtenForm="nanogram" partOfSpeech="n"/>
@@ -3893,7 +3893,7 @@
       <Sense id="ewn-aliquot__1_23_00__" n="0" synset="ewn-13756769-n">
         <SenseRelation relType="antonym" target="ewn-aliquant__1_23_00__"/>
         <SenseRelation relType="derivation" target="ewn-aliquot__5_00_00_fractional_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plateful-n">
       <Lemma writtenForm="plateful" partOfSpeech="n"/>
@@ -4031,7 +4031,7 @@
       <Lemma writtenForm="bogey" partOfSpeech="n"/>
       <Sense id="ewn-bogey__1_23_00__" n="1" synset="ewn-13616657-n">
         <SenseRelation relType="derivation" target="ewn-bogey__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-21-n">
       <Lemma writtenForm="21" partOfSpeech="n"/>
@@ -4196,7 +4196,7 @@
       </Lemma>
       <Sense id="ewn-deficit__1_23_00__" n="2" synset="ewn-13616793-n">
         <SenseRelation relType="antonym" target="ewn-lead__1_23_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sextuplet-n">
       <Lemma writtenForm="sextuplet" partOfSpeech="n"/>
@@ -4209,13 +4209,13 @@
       <Sense id="ewn-decimetre__1_23_00__" n="0" synset="ewn-13680844-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sack-n">
       <Lemma writtenForm="sack" partOfSpeech="n"/>
       <Sense id="ewn-sack__1_23_00__" n="2" synset="ewn-13791346-n">
         <SenseRelation relType="derivation" target="ewn-sack__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-section-n">
       <Lemma writtenForm="section" partOfSpeech="n">
@@ -4357,7 +4357,7 @@
       <Sense id="ewn-myriametre__1_23_00__" n="0" synset="ewn-13682017-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-transmittance-n">
       <Lemma writtenForm="transmittance" partOfSpeech="n"/>
@@ -4423,7 +4423,7 @@
       <Lemma writtenForm="pile" partOfSpeech="n"/>
       <Sense id="ewn-pile__1_23_00__" n="1" synset="ewn-13796604-n">
         <SenseRelation relType="derivation" target="ewn-pile__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-miles_per_gallon-n">
       <Lemma writtenForm="miles per gallon" partOfSpeech="n"/>
@@ -4469,10 +4469,10 @@
       <Form writtenForm="zeroes"/>
       <Sense id="ewn-zero__1_23_02__" n="0" synset="ewn-13762308-n">
         <SenseRelation relType="derivation" target="ewn-zero__2_30_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-zero__1_23_01__" n="1" synset="ewn-13764498-n">
         <SenseRelation relType="derivation" target="ewn-zero__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Avogadro-ap-s_number-n">
       <Lemma writtenForm="Avogadro&apos;s number" partOfSpeech="n"/>
@@ -4605,7 +4605,7 @@
       <Sense id="ewn-nibble__1_23_00__" n="0" synset="ewn-13647355-n">
         <SenseRelation relType="derivation" target="ewn-nibble__2_34_01__"/>
         <SenseRelation relType="derivation" target="ewn-nibble__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chetrum-n">
       <Lemma writtenForm="chetrum" partOfSpeech="n"/>
@@ -4823,7 +4823,7 @@
       </Lemma>
       <Sense id="ewn-bucket__1_23_00__" n="1" synset="ewn-13787889-n">
         <SenseRelation relType="derivation" target="ewn-bucket__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trine-n">
       <Lemma writtenForm="trine" partOfSpeech="n">
@@ -4908,7 +4908,7 @@
       <Sense id="ewn-cubic_millimetre__1_23_00__" n="0" synset="ewn-13644736-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-two-n">
       <Lemma writtenForm="two" partOfSpeech="n">
@@ -4997,7 +4997,7 @@
       <Sense id="ewn-hectometre__1_23_00__" n="0" synset="ewn-13681602-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-computer_memory_unit-n">
       <Lemma writtenForm="computer memory unit" partOfSpeech="n"/>
@@ -5007,7 +5007,7 @@
       <Lemma writtenForm="seventy" partOfSpeech="n"/>
       <Sense id="ewn-seventy__1_23_00__" n="0" synset="ewn-13772034-n">
         <SenseRelation relType="derivation" target="ewn-seventy__5_00_00_cardinal_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-candela-n">
       <Lemma writtenForm="candela" partOfSpeech="n">
@@ -5059,7 +5059,7 @@
       </Lemma>
       <Sense id="ewn-plenty__1_23_00__" n="1" synset="ewn-13796604-n">
         <SenseRelation relType="derivation" target="ewn-plenteous__5_00_00_abundant_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Saudi_Arabian_monetary_unit-n">
       <Lemma writtenForm="Saudi Arabian monetary unit" partOfSpeech="n"/>
@@ -5119,7 +5119,7 @@
       </Lemma>
       <Sense id="ewn-cup__1_23_01__" n="1" synset="ewn-13788873-n">
         <SenseRelation relType="derivation" target="ewn-cup__2_30_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cup__1_23_02__" n="3" synset="ewn-13640449-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-degree_centigrade-n">
@@ -5206,7 +5206,7 @@
       <Lemma writtenForm="jug" partOfSpeech="n"/>
       <Sense id="ewn-jug__1_23_00__" n="1" synset="ewn-13790096-n">
         <SenseRelation relType="derivation" target="ewn-jug__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tebibyte-n">
       <Lemma writtenForm="tebibyte" partOfSpeech="n"/>
@@ -5337,7 +5337,7 @@
       </Lemma>
       <Sense id="ewn-calorie__1_23_02__" n="0" synset="ewn-13748672-n">
         <SenseRelation relType="derivation" target="ewn-caloric__3_01_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Cameroon_franc-n">
       <Lemma writtenForm="Cameroon franc" partOfSpeech="n"/>
@@ -5649,7 +5649,7 @@
       </Lemma>
       <Sense id="ewn-volume__1_23_00__" n="0" synset="ewn-13801244-n">
         <SenseRelation relType="derivation" target="ewn-voluminous__5_00_00_large_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-volume__1_23_01__" n="4" synset="ewn-13801456-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-pula-n">
@@ -5744,7 +5744,7 @@
       </Lemma>
       <Sense id="ewn-precipitation__1_23_00__" n="0" synset="ewn-13794793-n">
         <SenseRelation relType="derivation" target="ewn-precipitate__2_43_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cinque-n">
       <Lemma writtenForm="cinque" partOfSpeech="n">
@@ -5771,7 +5771,7 @@
       <Sense id="ewn-quarter__1_23_01__" n="0" synset="ewn-13759620-n">
         <SenseRelation relType="derivation" target="ewn-quarter__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-quarter__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-quarter__1_23_02__" n="7" synset="ewn-13742957-n"/>
       <Sense id="ewn-quarter__1_23_04__" n="8" synset="ewn-13644335-n"/>
     </LexicalEntry>
@@ -6071,7 +6071,7 @@
       <Lemma writtenForm="case" partOfSpeech="n"/>
       <Sense id="ewn-case__1_23_00__" n="9" synset="ewn-13788576-n">
         <SenseRelation relType="derivation" target="ewn-case__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-metric_linear_unit-n">
       <Lemma writtenForm="metric linear unit" partOfSpeech="n"/>
@@ -6106,7 +6106,7 @@
         <SenseRelation relType="derivation" target="ewn-minimize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-minimise__2_32_01__"/>
         <SenseRelation relType="derivation" target="ewn-minimise__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bar-n">
       <Lemma writtenForm="bar" partOfSpeech="n"/>
@@ -6121,7 +6121,7 @@
       <Sense id="ewn-nanometre__1_23_00__" n="0" synset="ewn-13679972-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-par-n">
       <Lemma writtenForm="par" partOfSpeech="n">
@@ -6130,7 +6130,7 @@
       </Lemma>
       <Sense id="ewn-par__1_23_00__" n="0" synset="ewn-13617999-n">
         <SenseRelation relType="derivation" target="ewn-par__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-troy_weight-n">
       <Lemma writtenForm="troy weight" partOfSpeech="n"/>
@@ -6218,7 +6218,7 @@
       </Lemma>
       <Sense id="ewn-deluge__1_23_00__" n="0" synset="ewn-13797906-n">
         <SenseRelation relType="derivation" target="ewn-deluge__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-long_measure-n">
       <Lemma writtenForm="long measure" partOfSpeech="n"/>
@@ -6243,7 +6243,7 @@
       <Lemma writtenForm="fifteen" partOfSpeech="n"/>
       <Sense id="ewn-fifteen__1_23_00__" n="0" synset="ewn-13769609-n">
         <SenseRelation relType="derivation" target="ewn-fifteen__5_00_00_cardinal_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hin-n">
       <Lemma writtenForm="hin" partOfSpeech="n"/>
@@ -6371,7 +6371,7 @@
       <Lemma writtenForm="bit" partOfSpeech="n"/>
       <Sense id="ewn-bit__1_23_01__" n="0" synset="ewn-13783547-n">
         <SenseRelation relType="derivation" target="ewn-bitty__5_00_00_small_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bit__1_23_00__" n="5" synset="ewn-13646708-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-accretion-n">
@@ -6380,7 +6380,7 @@
       </Lemma>
       <Sense id="ewn-accretion__1_23_00__" n="1" synset="ewn-13776705-n">
         <SenseRelation relType="derivation" target="ewn-accretionary__5_00_00_increasing_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Turkish_monetary_unit-n">
       <Lemma writtenForm="Turkish monetary unit" partOfSpeech="n"/>
@@ -6411,7 +6411,7 @@
         <SenseRelation relType="derivation" target="ewn-number__2_32_01__"/>
         <SenseRelation relType="derivation" target="ewn-number__2_32_03__"/>
         <SenseRelation relType="derivation" target="ewn-number__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-barn-n">
       <Lemma writtenForm="barn" partOfSpeech="n"/>
@@ -6456,11 +6456,11 @@
       </Lemma>
       <Sense id="ewn-billion__1_23_01__" n="0" synset="ewn-13774312-n">
         <SenseRelation relType="derivation" target="ewn-billion__5_00_01_cardinal_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-billion__1_23_02__" n="1" synset="ewn-13798632-n"/>
       <Sense id="ewn-billion__1_23_00__" n="2" synset="ewn-13773969-n">
         <SenseRelation relType="derivation" target="ewn-billion__5_00_00_cardinal_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Ugandan_shilling-n">
       <Lemma writtenForm="Ugandan shilling" partOfSpeech="n"/>
@@ -6515,7 +6515,7 @@
       <Sense id="ewn-square_metre__1_23_00__" n="0" synset="ewn-13634537-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-10000-n">
       <Lemma writtenForm="10000" partOfSpeech="n"/>
@@ -6553,7 +6553,7 @@
       <Sense id="ewn-picometre__1_23_00__" n="0" synset="ewn-13679505-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-remainder-n">
       <Lemma writtenForm="remainder" partOfSpeech="n">
@@ -6630,7 +6630,7 @@
       <Lemma writtenForm="spraying" partOfSpeech="n"/>
       <Sense id="ewn-spraying__1_23_00__" n="1" synset="ewn-13784445-n">
         <SenseRelation relType="derivation" target="ewn-spray__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sene-n">
       <Lemma writtenForm="sene" partOfSpeech="n"/>
@@ -6668,14 +6668,14 @@
       <Lemma writtenForm="spark" partOfSpeech="n"/>
       <Sense id="ewn-spark__1_23_00__" n="3" synset="ewn-13795739-n">
         <SenseRelation relType="derivation" target="ewn-spark__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-femtometre-n">
       <Lemma writtenForm="femtometre" partOfSpeech="n"/>
       <Sense id="ewn-femtometre__1_23_00__" n="0" synset="ewn-13679309-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-shtikl-n">
       <Lemma writtenForm="shtikl" partOfSpeech="n"/>
@@ -6691,7 +6691,7 @@
         <SenseRelation relType="derivation" target="ewn-metrical__3_01_00__"/>
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Deutsche_Mark-n">
       <Lemma writtenForm="Deutsche Mark" partOfSpeech="n"/>
@@ -6880,7 +6880,7 @@
       </Lemma>
       <Sense id="ewn-barrel__1_23_04__" n="3" synset="ewn-13786904-n">
         <SenseRelation relType="derivation" target="ewn-barrel__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-barrel__1_23_01__" n="4" synset="ewn-13641201-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-dekagram-n">
@@ -7002,7 +7002,7 @@
       <Lemma writtenForm="worth" partOfSpeech="n"/>
       <Sense id="ewn-worth__1_23_00__" n="0" synset="ewn-13786482-n">
         <SenseRelation relType="derivation" target="ewn-worth__5_00_00_valuable_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Benin_franc-n">
       <Lemma writtenForm="Benin franc" partOfSpeech="n"/>
@@ -7051,7 +7051,7 @@
       <Sense id="ewn-drop__1_23_00__" n="1" synset="ewn-13793544-n">
         <SenseRelation relType="derivation" target="ewn-droplet__1_23_00__"/>
         <SenseRelation relType="derivation" target="ewn-drop__2_35_12__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-som-n">
       <Lemma writtenForm="som" partOfSpeech="n"/>
@@ -7158,7 +7158,7 @@
       </Lemma>
       <Sense id="ewn-calorie__1_23_01__" n="0" synset="ewn-13748406-n">
         <SenseRelation relType="derivation" target="ewn-caloric__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Imperial_gallon-n">
       <Lemma writtenForm="Imperial gallon" partOfSpeech="n"/>
@@ -7222,7 +7222,7 @@
       <Sense id="ewn-cubic_kilometre__1_23_00__" n="0" synset="ewn-13646496-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-teacupful-n">
       <Lemma writtenForm="teacupful" partOfSpeech="n"/>
@@ -7355,7 +7355,7 @@
       </Lemma>
       <Sense id="ewn-glass__1_23_00__" n="2" synset="ewn-13789379-n">
         <SenseRelation relType="derivation" target="ewn-glass__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-millimicron-n">
       <Lemma writtenForm="millimicron" partOfSpeech="n"/>
@@ -7365,7 +7365,7 @@
       <Lemma writtenForm="bottle" partOfSpeech="n"/>
       <Sense id="ewn-bottle__1_23_00__" n="1" synset="ewn-13787536-n">
         <SenseRelation relType="derivation" target="ewn-bottle__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sente-n">
       <Lemma writtenForm="sente" partOfSpeech="n"/>
@@ -7474,7 +7474,7 @@
       </Lemma>
       <Sense id="ewn-ordinal__1_23_00__" n="0" synset="ewn-13618523-n">
         <SenseRelation relType="derivation" target="ewn-ordinal__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-metical-n">
       <Lemma writtenForm="metical" partOfSpeech="n">
@@ -7529,7 +7529,7 @@
         <SenseRelation relType="derivation" target="ewn-maximize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-maximise__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-maximise__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Saudi_Arabian_riyal-n">
       <Lemma writtenForm="Saudi Arabian riyal" partOfSpeech="n"/>
@@ -7581,13 +7581,13 @@
       <Sense id="ewn-millimetre__1_23_00__" n="0" synset="ewn-13680427-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-solubility-n">
       <Lemma writtenForm="solubility" partOfSpeech="n"/>
       <Sense id="ewn-solubility__1_23_00__" n="0" synset="ewn-13604475-n">
         <SenseRelation relType="derivation" target="ewn-soluble__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pounds_per_square_inch-n">
       <Lemma writtenForm="pounds per square inch" partOfSpeech="n"/>
@@ -7654,7 +7654,7 @@
       <Lemma writtenForm="sprinkling" partOfSpeech="n"/>
       <Sense id="ewn-sprinkling__1_23_00__" n="0" synset="ewn-13784106-n">
         <SenseRelation relType="derivation" target="ewn-sprinkle__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-XIII-n">
       <Lemma writtenForm="XIII" partOfSpeech="n"/>
@@ -7686,7 +7686,7 @@
       <Sense id="ewn-cubic_decimetre__1_23_00__" n="0" synset="ewn-13645547-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-twenty-eight-n">
       <Lemma writtenForm="twenty-eight" partOfSpeech="n"/>
@@ -7718,7 +7718,7 @@
       <Lemma writtenForm="biquadrate" partOfSpeech="n"/>
       <Sense id="ewn-biquadrate__1_23_00__" n="0" synset="ewn-13753484-n">
         <SenseRelation relType="derivation" target="ewn-biquadratic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-absorptance-n">
       <Lemma writtenForm="absorptance" partOfSpeech="n">
@@ -7832,11 +7832,11 @@
       <Sense id="ewn-decimal__1_23_00__" n="0" synset="ewn-13758337-n">
         <SenseRelation relType="derivation" target="ewn-decimalize__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-decimalise__2_30_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-decimal__1_23_01__" n="1" synset="ewn-13606512-n">
         <SenseRelation relType="derivation" target="ewn-decimalize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-decimalise__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Jamaican_dollar-n">
       <Lemma writtenForm="Jamaican dollar" partOfSpeech="n"/>
@@ -7850,11 +7850,11 @@
       <Sense id="ewn-factor__1_23_00__" n="2" synset="ewn-13755542-n">
         <SenseRelation relType="derivation" target="ewn-factor__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-factorize__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-factor__1_23_01__" n="4" synset="ewn-13614422-n">
         <SenseRelation relType="derivation" target="ewn-factor__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-factorize__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Zambian_kwacha-n">
       <Lemma writtenForm="Zambian kwacha" partOfSpeech="n"/>
@@ -7945,7 +7945,7 @@
       <Lemma writtenForm="nineteen" partOfSpeech="n"/>
       <Sense id="ewn-nineteen__1_23_00__" n="0" synset="ewn-13770129-n">
         <SenseRelation relType="derivation" target="ewn-nineteen__5_00_00_cardinal_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-10-n">
       <Lemma writtenForm="10" partOfSpeech="n"/>
@@ -7968,7 +7968,7 @@
       </Lemma>
       <Sense id="ewn-splash__1_23_00__" n="2" synset="ewn-13783311-n">
         <SenseRelation relType="derivation" target="ewn-splash__2_35_06__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-24-n">
       <Lemma writtenForm="24" partOfSpeech="n"/>
@@ -7983,7 +7983,7 @@
       <Sense id="ewn-peak__1_23_00__" n="0" synset="ewn-13675520-n">
         <SenseRelation relType="derivation" target="ewn-peaky__5_00_00_high_03"/>
         <SenseRelation relType="derivation" target="ewn-peak__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gram_calorie-n">
       <Lemma writtenForm="gram calorie" partOfSpeech="n"/>
@@ -8219,10 +8219,10 @@
         <SenseRelation relType="derivation" target="ewn-step__2_38_03__"/>
         <SenseRelation relType="derivation" target="ewn-step__2_38_01__"/>
         <SenseRelation relType="derivation" target="ewn-step__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-step__1_23_01__" n="5" synset="ewn-13784719-n">
         <SenseRelation relType="derivation" target="ewn-step__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_Arab_Emirate_dirham-n">
       <Lemma writtenForm="United Arab Emirate dirham" partOfSpeech="n"/>
@@ -8252,7 +8252,7 @@
       </Lemma>
       <Sense id="ewn-flood__1_23_00__" n="1" synset="ewn-13797906-n">
         <SenseRelation relType="derivation" target="ewn-flood__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-head_count-n">
       <Lemma writtenForm="head count" partOfSpeech="n"/>
@@ -8327,10 +8327,10 @@
         <SenseRelation relType="derivation" target="ewn-pace__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-pace__2_38_01__"/>
         <SenseRelation relType="derivation" target="ewn-pace__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-pace__1_23_00__" n="5" synset="ewn-13672065-n">
         <SenseRelation relType="derivation" target="ewn-pace__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-welterweight-n">
       <Lemma writtenForm="welterweight" partOfSpeech="n"/>
@@ -8365,7 +8365,7 @@
       <Lemma writtenForm="room" partOfSpeech="n"/>
       <Sense id="ewn-room__1_23_00__" n="1" synset="ewn-13799976-n">
         <SenseRelation relType="derivation" target="ewn-roomy__5_00_00_commodious_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-great_deal-n">
       <Lemma writtenForm="great deal" partOfSpeech="n"/>
@@ -8532,7 +8532,7 @@
         <SenseRelation relType="derivation" target="ewn-digitize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-digitise__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-digitalize__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-digit__1_23_01__" n="1" synset="ewn-13675079-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-ampere-turn-n">
@@ -8544,7 +8544,7 @@
       <Sense id="ewn-dekametre__1_23_00__" n="0" synset="ewn-13681341-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-one-twelfth-n">
       <Lemma writtenForm="one-twelfth" partOfSpeech="n"/>
@@ -8799,7 +8799,7 @@
       </Lemma>
       <Sense id="ewn-pick__1_23_00__" n="1" synset="ewn-13781698-n">
         <SenseRelation relType="derivation" target="ewn-pick__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bulgarian_monetary_unit-n">
       <Lemma writtenForm="Bulgarian monetary unit" partOfSpeech="n"/>
@@ -8831,7 +8831,7 @@
       <Lemma writtenForm="cypher" partOfSpeech="n"/>
       <Sense id="ewn-cypher__1_23_01__" n="0" synset="ewn-13764498-n">
         <SenseRelation relType="derivation" target="ewn-cypher__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cypher__1_23_00__" n="1" synset="ewn-13762308-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-one-trillionth-n">
@@ -8845,7 +8845,7 @@
       </Lemma>
       <Sense id="ewn-nose__1_23_00__" n="3" synset="ewn-13784598-n">
         <SenseRelation relType="derivation" target="ewn-nose__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-common_multiple-n">
       <Lemma writtenForm="common multiple" partOfSpeech="n"/>
@@ -8865,7 +8865,7 @@
       <Sense id="ewn-meter__1_23_00__" n="0" synset="ewn-13681046-n">
         <SenseRelation relType="derivation" target="ewn-metric__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-metrical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Yugoslavian_dinar-n">
       <Lemma writtenForm="Yugoslavian dinar" partOfSpeech="n"/>
@@ -8962,7 +8962,7 @@
       <Lemma writtenForm="palm" partOfSpeech="n"/>
       <Sense id="ewn-palm__1_23_00__" n="1" synset="ewn-13677693-n">
         <SenseRelation relType="derivation" target="ewn-palm__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-magneton-n">
       <Lemma writtenForm="magneton" partOfSpeech="n"/>
@@ -9002,7 +9002,7 @@
       <Sense id="ewn-weight__1_23_00__" n="6" synset="ewn-13630031-n"/>
       <Sense id="ewn-weight__1_23_02__" n="7" synset="ewn-13610524-n">
         <SenseRelation relType="derivation" target="ewn-weight__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tad-n">
       <Lemma writtenForm="tad" partOfSpeech="n">
@@ -9029,25 +9029,25 @@
       <Sense id="ewn-mile__1_23_01__" n="0" synset="ewn-13672836-n">
         <SenseRelation relType="derivation" target="ewn-miler__1_23_00__"/>
         <SenseRelation relType="derivation" target="ewn-miler__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mile__1_23_04__" n="1" synset="ewn-13682449-n">
         <SenseRelation relType="derivation" target="ewn-miler__1_23_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mile__1_23_07__" n="2" synset="ewn-13798542-n"/>
       <Sense id="ewn-mile__1_23_05__" n="3" synset="ewn-13682973-n">
         <SenseRelation relType="derivation" target="ewn-miler__1_23_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mile__1_23_06__" n="4" synset="ewn-13682724-n">
         <SenseRelation relType="derivation" target="ewn-miler__1_23_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mile__1_23_03__" n="5" synset="ewn-13677032-n">
         <SenseRelation relType="derivation" target="ewn-miler__1_23_00__"/>
         <SenseRelation relType="derivation" target="ewn-miler__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mile__1_23_02__" n="6" synset="ewn-13676880-n">
         <SenseRelation relType="derivation" target="ewn-miler__1_23_00__"/>
         <SenseRelation relType="derivation" target="ewn-miler__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-phot-n">
       <Lemma writtenForm="phot" partOfSpeech="n">
@@ -9097,7 +9097,7 @@
       </Lemma>
       <Sense id="ewn-multiplier__1_23_00__" n="0" synset="ewn-13755958-n">
         <SenseRelation relType="derivation" target="ewn-multiply__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-watt-hour-n">
       <Lemma writtenForm="watt-hour" partOfSpeech="n"/>
@@ -9150,7 +9150,7 @@
       </Lemma>
       <Sense id="ewn-dose__1_23_00__" n="1" synset="ewn-13794246-n">
         <SenseRelation relType="derivation" target="ewn-dose__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-arcminute-n">
       <Lemma writtenForm="arcminute" partOfSpeech="n"/>
@@ -9162,7 +9162,7 @@
       </Lemma>
       <Sense id="ewn-toxicity__1_23_00__" n="0" synset="ewn-13604681-n">
         <SenseRelation relType="derivation" target="ewn-toxic__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-oersted-n">
       <Lemma writtenForm="oersted" partOfSpeech="n"/>
@@ -9192,7 +9192,7 @@
       <Lemma writtenForm="stride" partOfSpeech="n"/>
       <Sense id="ewn-stride__1_23_00__" n="1" synset="ewn-13779389-n">
         <SenseRelation relType="derivation" target="ewn-stride__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-exabit-n">
       <Lemma writtenForm="exabit" partOfSpeech="n"/>
@@ -9207,7 +9207,7 @@
       <Sense id="ewn-micromillimetre__1_23_00__" n="0" synset="ewn-13679972-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-decalitre-n">
       <Lemma writtenForm="decalitre" partOfSpeech="n">
@@ -9233,7 +9233,7 @@
       </Lemma>
       <Sense id="ewn-parking__1_23_00__" n="0" synset="ewn-13800883-n">
         <SenseRelation relType="derivation" target="ewn-park__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dozen-n">
       <Lemma writtenForm="dozen" partOfSpeech="n">
@@ -9241,7 +9241,7 @@
       </Lemma>
       <Sense id="ewn-dozen__1_23_00__" n="0" synset="ewn-13768925-n">
         <SenseRelation relType="derivation" target="ewn-dozen__5_00_00_cardinal_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-English_system-n">
       <Lemma writtenForm="English system" partOfSpeech="n"/>
@@ -9261,7 +9261,7 @@
       <Lemma writtenForm="seventeen" partOfSpeech="n"/>
       <Sense id="ewn-seventeen__1_23_00__" n="0" synset="ewn-13769865-n">
         <SenseRelation relType="derivation" target="ewn-seventeen__5_00_00_cardinal_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cl-n">
       <Lemma writtenForm="cl" partOfSpeech="n"/>
@@ -9489,7 +9489,7 @@
       </Lemma>
       <Sense id="ewn-fathom__1_23_01__" n="0" synset="ewn-13682290-n">
         <SenseRelation relType="derivation" target="ewn-fathom__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-fathom__1_23_02__" n="1" synset="ewn-13638589-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Jordanian_dinar-n">
@@ -9610,7 +9610,7 @@
       <Sense id="ewn-cubic_metre__1_23_00__" n="0" synset="ewn-13646268-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-candlepower_unit-n">
       <Lemma writtenForm="candlepower unit" partOfSpeech="n"/>
@@ -9708,7 +9708,7 @@
       <Sense id="ewn-increase__1_23_00__" n="0" synset="ewn-13776433-n">
         <SenseRelation relType="derivation" target="ewn-increase__2_30_02__"/>
         <SenseRelation relType="derivation" target="ewn-increase__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hungarian_monetary_unit-n">
       <Lemma writtenForm="Hungarian monetary unit" partOfSpeech="n"/>
@@ -9804,7 +9804,7 @@
       <Lemma writtenForm="tank" partOfSpeech="n"/>
       <Sense id="ewn-tank__1_23_00__" n="2" synset="ewn-13792669-n">
         <SenseRelation relType="derivation" target="ewn-tank__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Congo_franc-n">
       <Lemma writtenForm="Congo franc" partOfSpeech="n"/>
@@ -9821,7 +9821,7 @@
       </Lemma>
       <Sense id="ewn-ocean__1_23_00__" n="1" synset="ewn-13799183-n">
         <SenseRelation relType="derivation" target="ewn-oceanic__5_00_00_unlimited_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-20-n">
       <Lemma writtenForm="20" partOfSpeech="n"/>
@@ -9847,7 +9847,7 @@
       </Lemma>
       <Sense id="ewn-bag__1_23_01__" n="1" synset="ewn-13776918-n">
         <SenseRelation relType="derivation" target="ewn-bag__2_35_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bag__1_23_00__" n="4" synset="ewn-13786779-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Belgian_franc-n">
@@ -9933,7 +9933,7 @@
       <Sense id="ewn-cubic_centimetre__1_23_00__" n="0" synset="ewn-13644955-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cubic_measure-n">
       <Lemma writtenForm="cubic measure" partOfSpeech="n"/>
@@ -9950,7 +9950,7 @@
       <Sense id="ewn-fill__1_23_00__" n="0" synset="ewn-13601926-n">
         <SenseRelation relType="derivation" target="ewn-fill__2_34_00__"/>
         <SenseRelation relType="derivation" target="ewn-fill__2_34_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-one-ninth-n">
       <Lemma writtenForm="one-ninth" partOfSpeech="n"/>
@@ -10398,7 +10398,7 @@
       </Lemma>
       <Sense id="ewn-lead__1_23_00__" n="5" synset="ewn-13617665-n">
         <SenseRelation relType="antonym" target="ewn-deficit__1_23_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-content-n-1">
       <Lemma writtenForm="content" partOfSpeech="n">
@@ -10406,7 +10406,7 @@
       </Lemma>
       <Sense id="ewn-content__1_23_00__" n="3" synset="ewn-13801586-n">
         <SenseRelation relType="derivation" target="ewn-contain__2_42_13__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-micrometer-n-1">
       <Lemma writtenForm="micrometer" partOfSpeech="n">
@@ -10422,7 +10422,7 @@
         <SenseRelation relType="derivation" target="ewn-molal__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-molar__3_01_02__"/>
         <SenseRelation relType="derivation" target="ewn-molar__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-emu-n-1">
       <Lemma writtenForm="emu" partOfSpeech="n">

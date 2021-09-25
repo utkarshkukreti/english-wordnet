@@ -28,7 +28,7 @@
         <SenseRelation relType="derivation" target="ewn-ethical__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-ethicist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-ethician__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wee_small_voice-n">
       <Lemma writtenForm="wee small voice" partOfSpeech="n"/>
@@ -56,7 +56,7 @@
       <Sense id="ewn-adience__1_16_00__" n="0" synset="ewn-09203688-n">
         <SenseRelation relType="antonym" target="ewn-abience__1_16_00__"/>
         <SenseRelation relType="derivation" target="ewn-adient__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Thanatos-n">
       <Lemma writtenForm="Thanatos" partOfSpeech="n">
@@ -70,7 +70,7 @@
       </Lemma>
       <Sense id="ewn-mania__1_16_00__" n="0" synset="ewn-09204454-n">
         <SenseRelation relType="derivation" target="ewn-manic__5_00_00_wild_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-score-n">
       <Lemma writtenForm="score" partOfSpeech="n">
@@ -87,7 +87,7 @@
       <Sense id="ewn-abience__1_16_00__" n="0" synset="ewn-09203513-n">
         <SenseRelation relType="antonym" target="ewn-adience__1_16_00__"/>
         <SenseRelation relType="derivation" target="ewn-abient__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-why-n">
       <Lemma writtenForm="why" partOfSpeech="n">
@@ -105,7 +105,7 @@
       </Lemma>
       <Sense id="ewn-deterrence__1_16_00__" n="0" synset="ewn-09203015-n">
         <SenseRelation relType="derivation" target="ewn-deterrent__5_00_00_preventive_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Christ_Within-n">
       <Lemma writtenForm="Christ Within" partOfSpeech="n"/>
@@ -118,7 +118,7 @@
       <Form writtenForm="cathexes"/>
       <Sense id="ewn-cathexis__1_16_00__" n="0" synset="ewn-09208509-n">
         <SenseRelation relType="derivation" target="ewn-cathectic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-provocation-n">
       <Lemma writtenForm="provocation" partOfSpeech="n">
@@ -129,7 +129,7 @@
         <SenseRelation relType="derivation" target="ewn-provoke__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-provoke__2_36_00__"/>
         <SenseRelation relType="derivation" target="ewn-provoke__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trichotillomania-n">
       <Lemma writtenForm="trichotillomania" partOfSpeech="n"/>
@@ -143,7 +143,7 @@
       <Lemma writtenForm="motivator" partOfSpeech="n"/>
       <Sense id="ewn-motivator__1_16_00__" n="0" synset="ewn-09202673-n">
         <SenseRelation relType="derivation" target="ewn-motivate__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-incitation-n">
       <Lemma writtenForm="incitation" partOfSpeech="n">
@@ -153,7 +153,7 @@
         <SenseRelation relType="derivation" target="ewn-incite__2_36_00__"/>
         <SenseRelation relType="derivation" target="ewn-incite__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-incite__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-irrational_motive-n">
       <Lemma writtenForm="irrational motive" partOfSpeech="n"/>
@@ -165,7 +165,7 @@
       </Lemma>
       <Sense id="ewn-morality__1_16_00__" n="1" synset="ewn-09206590-n">
         <SenseRelation relType="derivation" target="ewn-moralistic__5_00_00_moral_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Light_Within-n">
       <Lemma writtenForm="Light Within" partOfSpeech="n"/>
@@ -193,7 +193,7 @@
         <SenseRelation relType="derivation" target="ewn-hedonistic__5_00_00_indulgent_00"/>
         <SenseRelation relType="derivation" target="ewn-hedonic__5_00_00_indulgent_00"/>
         <SenseRelation relType="derivation" target="ewn-hedonist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kleptomania-n">
       <Lemma writtenForm="kleptomania" partOfSpeech="n">
@@ -231,7 +231,7 @@
       </Lemma>
       <Sense id="ewn-reason__1_16_00__" n="0" synset="ewn-09201896-n">
         <SenseRelation relType="derivation" target="ewn-reason__2_31_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-urge-n">
       <Lemma writtenForm="urge" partOfSpeech="n">
@@ -278,7 +278,7 @@
       </Lemma>
       <Sense id="ewn-obsession__1_16_00__" n="0" synset="ewn-09206152-n">
         <SenseRelation relType="derivation" target="ewn-obsessional__5_00_00_neurotic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rational_motive-n">
       <Lemma writtenForm="rational motive" partOfSpeech="n"/>
@@ -290,7 +290,7 @@
       </Lemma>
       <Sense id="ewn-occasion__1_16_00__" n="2" synset="ewn-09201896-n">
         <SenseRelation relType="derivation" target="ewn-occasion__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-irresistible_impulse-n">
       <Lemma writtenForm="irresistible impulse" partOfSpeech="n"/>
@@ -308,7 +308,7 @@
       </Lemma>
       <Sense id="ewn-disincentive__1_16_00__" n="0" synset="ewn-09203015-n">
         <SenseRelation relType="antonym" target="ewn-incentive__1_16_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sense_of_shame-n">
       <Lemma writtenForm="sense of shame" partOfSpeech="n"/>
@@ -325,11 +325,11 @@
       </Lemma>
       <Sense id="ewn-compulsion__1_16_01__" n="0" synset="ewn-09204227-n">
         <SenseRelation relType="derivation" target="ewn-compulsive__5_00_00_neurotic_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-compulsion__1_16_00__" n="1" synset="ewn-09206152-n">
         <SenseRelation relType="derivation" target="ewn-compulsive__5_00_00_neurotic_00"/>
         <SenseRelation relType="derivation" target="ewn-compulsive__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-monomania-n">
       <Lemma writtenForm="monomania" partOfSpeech="n">
@@ -338,7 +338,7 @@
       </Lemma>
       <Sense id="ewn-monomania__1_16_00__" n="0" synset="ewn-09205421-n">
         <SenseRelation relType="derivation" target="ewn-monomaniacal__5_00_00_neurotic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-moral_sense-n">
       <Lemma writtenForm="moral sense" partOfSpeech="n"/>
@@ -391,13 +391,13 @@
       </Lemma>
       <Sense id="ewn-incitement__1_16_00__" n="2" synset="ewn-09207872-n">
         <SenseRelation relType="derivation" target="ewn-incite__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ground-n">
       <Lemma writtenForm="ground" partOfSpeech="n"/>
       <Sense id="ewn-ground__1_16_00__" n="1" synset="ewn-09201896-n">
         <SenseRelation relType="derivation" target="ewn-ground__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pyromania-n">
       <Lemma writtenForm="pyromania" partOfSpeech="n">
@@ -413,7 +413,7 @@
       <Lemma writtenForm="inducement" partOfSpeech="n"/>
       <Sense id="ewn-inducement__1_16_00__" n="0" synset="ewn-09202673-n">
         <SenseRelation relType="derivation" target="ewn-induce__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-itchy_feet-n">
       <Lemma writtenForm="itchy feet" partOfSpeech="n"/>
@@ -466,7 +466,7 @@
       </Lemma>
       <Sense id="ewn-incentive__1_16_00__" n="0" synset="ewn-09202673-n">
         <SenseRelation relType="antonym" target="ewn-disincentive__1_16_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-logomania-n">
       <Lemma writtenForm="logomania" partOfSpeech="n"/>

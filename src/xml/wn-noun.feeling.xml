@@ -12,7 +12,7 @@
       <Lemma writtenForm="brokenheartedness" partOfSpeech="n"/>
       <Sense id="ewn-brokenheartedness__1_12_00__" n="0" synset="ewn-07550398-n">
         <SenseRelation relType="derivation" target="ewn-brokenhearted__5_00_00_sorrowful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-distrust-n">
       <Lemma writtenForm="self-distrust" partOfSpeech="n"/>
@@ -22,7 +22,7 @@
       <Lemma writtenForm="emotionlessness" partOfSpeech="n"/>
       <Sense id="ewn-emotionlessness__1_12_00__" n="0" synset="ewn-07498922-n">
         <SenseRelation relType="derivation" target="ewn-emotionless__5_00_00_cold_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mental_anguish-n">
       <Lemma writtenForm="mental anguish" partOfSpeech="n"/>
@@ -34,7 +34,7 @@
       </Lemma>
       <Sense id="ewn-spleen__1_12_00__" n="1" synset="ewn-07568015-n">
         <SenseRelation relType="derivation" target="ewn-splenetic__5_00_00_ill-natured_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-odium-n">
       <Lemma writtenForm="odium" partOfSpeech="n">
@@ -42,13 +42,13 @@
       </Lemma>
       <Sense id="ewn-odium__1_12_00__" n="1" synset="ewn-07518669-n">
         <SenseRelation relType="derivation" target="ewn-odious__5_00_00_hateful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-compassionateness-n">
       <Lemma writtenForm="compassionateness" partOfSpeech="n"/>
       <Sense id="ewn-compassionateness__1_12_00__" n="0" synset="ewn-07569189-n">
         <SenseRelation relType="derivation" target="ewn-compassionate__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gaiety-n">
       <Lemma writtenForm="gaiety" partOfSpeech="n">
@@ -64,7 +64,7 @@
       <Sense id="ewn-pain__1_12_00__" n="1" synset="ewn-07509503-n">
         <SenseRelation relType="antonym" target="ewn-pleasure__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-pain__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-demoralization-n">
       <Lemma writtenForm="demoralization" partOfSpeech="n">
@@ -72,7 +72,7 @@
       </Lemma>
       <Sense id="ewn-demoralization__1_12_00__" n="2" synset="ewn-07553361-n">
         <SenseRelation relType="derivation" target="ewn-demoralize__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-languor-n">
       <Lemma writtenForm="languor" partOfSpeech="n"/>
@@ -83,13 +83,13 @@
       <Lemma writtenForm="storminess" partOfSpeech="n"/>
       <Sense id="ewn-storminess__1_12_00__" n="1" synset="ewn-07496765-n">
         <SenseRelation relType="derivation" target="ewn-stormy__5_00_00_unpeaceful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wishfulness-n">
       <Lemma writtenForm="wishfulness" partOfSpeech="n"/>
       <Sense id="ewn-wishfulness__1_12_00__" n="0" synset="ewn-07502317-n">
         <SenseRelation relType="derivation" target="ewn-wishful__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-abandon-n">
       <Lemma writtenForm="abandon" partOfSpeech="n"/>
@@ -101,7 +101,7 @@
       </Lemma>
       <Sense id="ewn-pining__1_12_00__" n="0" synset="ewn-07502203-n">
         <SenseRelation relType="derivation" target="ewn-pine__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-assuagement-n">
       <Lemma writtenForm="assuagement" partOfSpeech="n">
@@ -109,7 +109,7 @@
       </Lemma>
       <Sense id="ewn-assuagement__1_12_00__" n="0" synset="ewn-07508420-n">
         <SenseRelation relType="derivation" target="ewn-assuage__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-benevolence-n">
       <Lemma writtenForm="benevolence" partOfSpeech="n">
@@ -117,7 +117,7 @@
       </Lemma>
       <Sense id="ewn-benevolence__1_12_00__" n="0" synset="ewn-07561087-n">
         <SenseRelation relType="antonym" target="ewn-malevolence__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fearlessness-n">
       <Lemma writtenForm="fearlessness" partOfSpeech="n">
@@ -127,13 +127,13 @@
         <SenseRelation relType="antonym" target="ewn-fear__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-fearless__5_00_00_bold_00"/>
         <SenseRelation relType="derivation" target="ewn-fearless__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-consciousness-n">
       <Lemma writtenForm="self-consciousness" partOfSpeech="n"/>
       <Sense id="ewn-self-consciousness__1_12_00__" n="0" synset="ewn-07522568-n">
         <SenseRelation relType="derivation" target="ewn-self-conscious__5_00_00_uncomfortable_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-torture-n">
       <Lemma writtenForm="self-torture" partOfSpeech="n"/>
@@ -145,7 +145,7 @@
       </Lemma>
       <Sense id="ewn-vanity__1_12_00__" n="0" synset="ewn-07524235-n">
         <SenseRelation relType="derivation" target="ewn-vain__5_00_00_proud_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-appetite-n">
       <Lemma writtenForm="appetite" partOfSpeech="n">
@@ -159,7 +159,7 @@
       <Sense id="ewn-intimidation__1_12_01__" n="1" synset="ewn-07558269-n"/>
       <Sense id="ewn-intimidation__1_12_00__" n="2" synset="ewn-07538999-n">
         <SenseRelation relType="derivation" target="ewn-intimidate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-abhorrence-n">
       <Lemma writtenForm="abhorrence" partOfSpeech="n">
@@ -169,13 +169,13 @@
       <Sense id="ewn-abhorrence__1_12_00__" n="0" synset="ewn-07518669-n">
         <SenseRelation relType="derivation" target="ewn-abhorrent__5_00_00_offensive_01"/>
         <SenseRelation relType="derivation" target="ewn-abhor__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-euphory-n">
       <Lemma writtenForm="euphory" partOfSpeech="n"/>
       <Sense id="ewn-euphory__1_12_00__" n="0" synset="ewn-07544484-n">
         <SenseRelation relType="derivation" target="ewn-euphoric__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-worry-n">
       <Lemma writtenForm="worry" partOfSpeech="n">
@@ -184,19 +184,19 @@
       <Sense id="ewn-worry__1_12_00__" n="1" synset="ewn-07539481-n">
         <SenseRelation relType="derivation" target="ewn-worry__2_37_12__"/>
         <SenseRelation relType="derivation" target="ewn-worry__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-faintness-n">
       <Lemma writtenForm="faintness" partOfSpeech="n"/>
       <Sense id="ewn-faintness__1_12_00__" n="0" synset="ewn-07495806-n">
         <SenseRelation relType="derivation" target="ewn-faint__5_00_00_ill_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-disconsolateness-n">
       <Lemma writtenForm="disconsolateness" partOfSpeech="n"/>
       <Sense id="ewn-disconsolateness__1_12_00__" n="0" synset="ewn-07553783-n">
         <SenseRelation relType="derivation" target="ewn-disconsolate__3_00_04__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ill_humour-n">
       <Lemma writtenForm="ill humour" partOfSpeech="n"/>
@@ -206,21 +206,21 @@
       <Lemma writtenForm="carefreeness" partOfSpeech="n"/>
       <Sense id="ewn-carefreeness__1_12_00__" n="0" synset="ewn-07546254-n">
         <SenseRelation relType="derivation" target="ewn-carefree__5_00_00_irresponsible_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-listlessness-n">
       <Lemma writtenForm="listlessness" partOfSpeech="n"/>
       <Sense id="ewn-listlessness__1_12_00__" n="0" synset="ewn-07499249-n">
         <SenseRelation relType="derivation" target="ewn-listless__5_00_00_spiritless_00"/>
         <SenseRelation relType="derivation" target="ewn-listless__5_00_00_lethargic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pleasantness-n">
       <Lemma writtenForm="pleasantness" partOfSpeech="n"/>
       <Sense id="ewn-pleasantness__1_12_00__" n="0" synset="ewn-07507310-n">
         <SenseRelation relType="antonym" target="ewn-unpleasantness__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-pleasant__5_00_00_nice_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-timidness-n">
       <Lemma writtenForm="timidness" partOfSpeech="n"/>
@@ -228,7 +228,7 @@
         <SenseRelation relType="derivation" target="ewn-timid__5_00_00_cowardly_00"/>
         <SenseRelation relType="derivation" target="ewn-timid__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-timid__3_00_09__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rhapsody-n">
       <Lemma writtenForm="rhapsody" partOfSpeech="n">
@@ -236,7 +236,7 @@
       </Lemma>
       <Sense id="ewn-rhapsody__1_12_00__" n="0" synset="ewn-07542913-n">
         <SenseRelation relType="derivation" target="ewn-rhapsodize__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-disaffection-n">
       <Lemma writtenForm="disaffection" partOfSpeech="n">
@@ -244,7 +244,7 @@
       </Lemma>
       <Sense id="ewn-disaffection__1_12_00__" n="0" synset="ewn-07517626-n">
         <SenseRelation relType="derivation" target="ewn-disaffect__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-scruple-n">
       <Lemma writtenForm="scruple" partOfSpeech="n">
@@ -256,7 +256,7 @@
         <SenseRelation relType="derivation" target="ewn-scruple__2_32_00__"/>
         <SenseRelation relType="derivation" target="ewn-scruple__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-scruple__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lustfulness-n">
       <Lemma writtenForm="lustfulness" partOfSpeech="n"/>
@@ -264,7 +264,7 @@
         <SenseRelation relType="derivation" target="ewn-lustful__5_00_02_sexy_00"/>
         <SenseRelation relType="derivation" target="ewn-lustful__5_00_01_sexy_00"/>
         <SenseRelation relType="derivation" target="ewn-lustful__5_00_00_passionate_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-disgust-n">
       <Lemma writtenForm="self-disgust" partOfSpeech="n"/>
@@ -280,7 +280,7 @@
       <Lemma writtenForm="enviousness" partOfSpeech="n"/>
       <Sense id="ewn-enviousness__1_12_00__" n="0" synset="ewn-07565182-n">
         <SenseRelation relType="derivation" target="ewn-envious__5_00_00_desirous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-broken_heart-n">
       <Lemma writtenForm="broken heart" partOfSpeech="n"/>
@@ -296,7 +296,7 @@
       <Lemma writtenForm="discomposure" partOfSpeech="n"/>
       <Sense id="ewn-discomposure__1_12_00__" n="0" synset="ewn-07523471-n">
         <SenseRelation relType="derivation" target="ewn-discompose__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nostalgia-n">
       <Lemma writtenForm="nostalgia" partOfSpeech="n">
@@ -306,7 +306,7 @@
       </Lemma>
       <Sense id="ewn-nostalgia__1_12_00__" n="0" synset="ewn-07502515-n">
         <SenseRelation relType="derivation" target="ewn-nostalgic__5_00_00_desirous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-heartburning-n">
       <Lemma writtenForm="heartburning" partOfSpeech="n"/>
@@ -316,13 +316,13 @@
       <Lemma writtenForm="blitheness" partOfSpeech="n"/>
       <Sense id="ewn-blitheness__1_12_00__" n="0" synset="ewn-07545866-n">
         <SenseRelation relType="derivation" target="ewn-blithe__5_00_00_cheerful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-encouragement-n">
       <Lemma writtenForm="encouragement" partOfSpeech="n"/>
       <Sense id="ewn-encouragement__1_12_00__" n="2" synset="ewn-07556837-n">
         <SenseRelation relType="derivation" target="ewn-encourage__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-uneasiness-n">
       <Lemma writtenForm="uneasiness" partOfSpeech="n">
@@ -330,10 +330,10 @@
       </Lemma>
       <Sense id="ewn-uneasiness__1_12_02__" n="0" synset="ewn-07540296-n">
         <SenseRelation relType="derivation" target="ewn-uneasy__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-uneasiness__1_12_01__" n="2" synset="ewn-07522568-n">
         <SenseRelation relType="derivation" target="ewn-uneasy__5_00_00_uncomfortable_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pleasance-n">
       <Lemma writtenForm="pleasance" partOfSpeech="n">
@@ -341,7 +341,7 @@
       </Lemma>
       <Sense id="ewn-pleasance__1_12_00__" n="1" synset="ewn-07505853-n">
         <SenseRelation relType="derivation" target="ewn-pleasant__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-loyalty-n">
       <Lemma writtenForm="loyalty" partOfSpeech="n">
@@ -364,13 +364,13 @@
       </Lemma>
       <Sense id="ewn-security__1_12_00__" n="2" synset="ewn-07541577-n">
         <SenseRelation relType="derivation" target="ewn-secure__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-joviality-n">
       <Lemma writtenForm="joviality" partOfSpeech="n"/>
       <Sense id="ewn-joviality__1_12_00__" n="0" synset="ewn-07567356-n">
         <SenseRelation relType="derivation" target="ewn-jovial__5_00_00_joyous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-electricity-n">
       <Lemma writtenForm="electricity" partOfSpeech="n">
@@ -380,13 +380,13 @@
       <Sense id="ewn-electricity__1_12_00__" n="2" synset="ewn-07529839-n">
         <SenseRelation relType="derivation" target="ewn-electric__5_00_00_tense_03"/>
         <SenseRelation relType="derivation" target="ewn-electrify__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-defeat-n">
       <Lemma writtenForm="defeat" partOfSpeech="n"/>
       <Sense id="ewn-defeat__1_12_00__" n="1" synset="ewn-07556254-n">
         <SenseRelation relType="derivation" target="ewn-defeatist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gladness-n">
       <Lemma writtenForm="gladness" partOfSpeech="n">
@@ -396,13 +396,13 @@
         <SenseRelation relType="derivation" target="ewn-glad__5_00_00_grateful_00"/>
         <SenseRelation relType="derivation" target="ewn-glad__5_00_00_cheerful_00"/>
         <SenseRelation relType="derivation" target="ewn-glad__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pridefulness-n">
       <Lemma writtenForm="pridefulness" partOfSpeech="n"/>
       <Sense id="ewn-pridefulness__1_12_00__" n="0" synset="ewn-07523725-n">
         <SenseRelation relType="derivation" target="ewn-prideful__5_00_00_elated_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-boredom-n">
       <Lemma writtenForm="boredom" partOfSpeech="n">
@@ -417,7 +417,7 @@
         <SenseRelation relType="derivation" target="ewn-jubilant__5_00_00_joyous_00"/>
         <SenseRelation relType="derivation" target="ewn-jubilant__5_00_00_elated_00"/>
         <SenseRelation relType="derivation" target="ewn-jubilate__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-affection-n">
       <Lemma writtenForm="affection" partOfSpeech="n">
@@ -425,13 +425,13 @@
       </Lemma>
       <Sense id="ewn-affection__1_12_00__" n="0" synset="ewn-07560035-n">
         <SenseRelation relType="derivation" target="ewn-affectionate__5_00_00_loving_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spite-n">
       <Lemma writtenForm="spite" partOfSpeech="n"/>
       <Sense id="ewn-spite__1_12_00__" n="0" synset="ewn-07566132-n">
         <SenseRelation relType="derivation" target="ewn-spite__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stupor-n">
       <Lemma writtenForm="stupor" partOfSpeech="n">
@@ -444,7 +444,7 @@
       <Lemma writtenForm="jumpiness" partOfSpeech="n"/>
       <Sense id="ewn-jumpiness__1_12_00__" n="0" synset="ewn-07540999-n">
         <SenseRelation relType="derivation" target="ewn-jumpy__5_00_00_tense_03"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-disgust-n">
       <Lemma writtenForm="disgust" partOfSpeech="n">
@@ -453,7 +453,7 @@
       <Sense id="ewn-disgust__1_12_00__" n="0" synset="ewn-07518499-n">
         <SenseRelation relType="derivation" target="ewn-disgust__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-disgust__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-discontent-n">
       <Lemma writtenForm="discontent" partOfSpeech="n">
@@ -462,7 +462,7 @@
       <Sense id="ewn-discontent__1_12_00__" n="0" synset="ewn-07554353-n">
         <SenseRelation relType="derivation" target="ewn-discontent__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-discontent__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-oppression-n">
       <Lemma writtenForm="oppression" partOfSpeech="n">
@@ -474,13 +474,13 @@
       <Lemma writtenForm="oversensitiveness" partOfSpeech="n"/>
       <Sense id="ewn-oversensitiveness__1_12_00__" n="0" synset="ewn-07527958-n">
         <SenseRelation relType="derivation" target="ewn-oversensitive__5_00_00_sensitive_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lightsomeness-n">
       <Lemma writtenForm="lightsomeness" partOfSpeech="n"/>
       <Sense id="ewn-lightsomeness__1_12_00__" n="0" synset="ewn-07546254-n">
         <SenseRelation relType="derivation" target="ewn-lightsome__5_00_00_cheerful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-compunction-n">
       <Lemma writtenForm="compunction" partOfSpeech="n">
@@ -495,7 +495,7 @@
       <Sense id="ewn-pity__1_12_00__" n="0" synset="ewn-07569430-n">
         <SenseRelation relType="derivation" target="ewn-piteous__5_00_00_unfortunate_00"/>
         <SenseRelation relType="derivation" target="ewn-pity__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hostility-n">
       <Lemma writtenForm="hostility" partOfSpeech="n">
@@ -504,7 +504,7 @@
       </Lemma>
       <Sense id="ewn-hostility__1_12_00__" n="2" synset="ewn-07563271-n">
         <SenseRelation relType="derivation" target="ewn-hostile__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dislike-n">
       <Lemma writtenForm="dislike" partOfSpeech="n">
@@ -513,7 +513,7 @@
       <Sense id="ewn-dislike__1_12_00__" n="1" synset="ewn-07516784-n">
         <SenseRelation relType="antonym" target="ewn-liking__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-dislike__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-unemotionality-n">
       <Lemma writtenForm="unemotionality" partOfSpeech="n"/>
@@ -531,13 +531,13 @@
       <Lemma writtenForm="tetchiness" partOfSpeech="n"/>
       <Sense id="ewn-tetchiness__1_12_00__" n="0" synset="ewn-07568482-n">
         <SenseRelation relType="derivation" target="ewn-tetchy__5_00_00_ill-natured_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-enamoredness-n">
       <Lemma writtenForm="enamoredness" partOfSpeech="n"/>
       <Sense id="ewn-enamoredness__1_12_00__" n="0" synset="ewn-07559601-n">
         <SenseRelation relType="derivation" target="ewn-enamored__5_00_00_loving_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-remorse-n">
       <Lemma writtenForm="remorse" partOfSpeech="n">
@@ -556,7 +556,7 @@
         <SenseRelation relType="derivation" target="ewn-optimistic__5_00_00_positive_01"/>
         <SenseRelation relType="derivation" target="ewn-optimistic__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-optimist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-devastation-n">
       <Lemma writtenForm="devastation" partOfSpeech="n">
@@ -564,7 +564,7 @@
       </Lemma>
       <Sense id="ewn-devastation__1_12_00__" n="1" synset="ewn-07525066-n">
         <SenseRelation relType="derivation" target="ewn-devastate__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-woe-n">
       <Lemma writtenForm="woe" partOfSpeech="n">
@@ -579,7 +579,7 @@
       </Lemma>
       <Sense id="ewn-fascination__1_12_00__" n="1" synset="ewn-07513215-n">
         <SenseRelation relType="derivation" target="ewn-fascinate__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-comfort-n">
       <Lemma writtenForm="comfort" partOfSpeech="n">
@@ -596,14 +596,14 @@
       <Sense id="ewn-compassion__1_12_00__" n="0" synset="ewn-07569189-n">
         <SenseRelation relType="derivation" target="ewn-compassionate__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-compassionate__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-glumness-n">
       <Lemma writtenForm="glumness" partOfSpeech="n"/>
       <Sense id="ewn-glumness__1_12_00__" n="1" synset="ewn-07567833-n">
         <SenseRelation relType="derivation" target="ewn-glum__5_00_00_ill-natured_00"/>
         <SenseRelation relType="derivation" target="ewn-glum__5_00_00_dejected_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-joie_de_vivre-n">
       <Lemma writtenForm="joie de vivre" partOfSpeech="n">
@@ -616,7 +616,7 @@
       <Lemma writtenForm="fire" partOfSpeech="n"/>
       <Sense id="ewn-fire__1_12_00__" n="5" synset="ewn-07496515-n">
         <SenseRelation relType="derivation" target="ewn-fiery__5_00_00_passionate_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-technophobia-n">
       <Lemma writtenForm="technophobia" partOfSpeech="n"/>
@@ -636,7 +636,7 @@
       </Lemma>
       <Sense id="ewn-loathing__1_12_00__" n="0" synset="ewn-07518669-n">
         <SenseRelation relType="derivation" target="ewn-loathe__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-envy-n">
       <Lemma writtenForm="envy" partOfSpeech="n">
@@ -645,7 +645,7 @@
       <Sense id="ewn-envy__1_12_00__" n="0" synset="ewn-07565182-n">
         <SenseRelation relType="derivation" target="ewn-envy__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-envy__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-choler-n">
       <Lemma writtenForm="choler" partOfSpeech="n"/>
@@ -654,7 +654,7 @@
         <SenseRelation relType="derivation" target="ewn-choleric__5_00_00_passionate_00"/>
         <SenseRelation relType="derivation" target="ewn-choleric__5_00_00_ill-natured_00"/>
         <SenseRelation relType="derivation" target="ewn-choleric__5_00_00_angry_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-aspiration-n">
       <Lemma writtenForm="aspiration" partOfSpeech="n">
@@ -662,7 +662,7 @@
       </Lemma>
       <Sense id="ewn-aspiration__1_12_00__" n="1" synset="ewn-07499687-n">
         <SenseRelation relType="derivation" target="ewn-aspire__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rush-n">
       <Lemma writtenForm="rush" partOfSpeech="n"/>
@@ -674,7 +674,7 @@
       </Lemma>
       <Sense id="ewn-pique__1_12_00__" n="1" synset="ewn-07533707-n">
         <SenseRelation relType="derivation" target="ewn-pique__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stage_fright-n">
       <Lemma writtenForm="stage fright" partOfSpeech="n"/>
@@ -699,7 +699,7 @@
       <Sense id="ewn-anguish__1_12_02__" n="0" synset="ewn-07511895-n">
         <SenseRelation relType="derivation" target="ewn-anguish__2_37_02__"/>
         <SenseRelation relType="derivation" target="ewn-anguish__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-concupiscence-n">
       <Lemma writtenForm="concupiscence" partOfSpeech="n">
@@ -707,7 +707,7 @@
       </Lemma>
       <Sense id="ewn-concupiscence__1_12_00__" n="0" synset="ewn-07503095-n">
         <SenseRelation relType="derivation" target="ewn-concupiscent__5_00_00_passionate_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tingle-n">
       <Lemma writtenForm="tingle" partOfSpeech="n">
@@ -715,13 +715,13 @@
       </Lemma>
       <Sense id="ewn-tingle__1_12_00__" n="0" synset="ewn-07535351-n">
         <SenseRelation relType="derivation" target="ewn-tingle__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sentimentality-n">
       <Lemma writtenForm="sentimentality" partOfSpeech="n"/>
       <Sense id="ewn-sentimentality__1_12_00__" n="1" synset="ewn-07497268-n">
         <SenseRelation relType="derivation" target="ewn-sentimental__5_00_00_tender_03"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sensitivity-n">
       <Lemma writtenForm="sensitivity" partOfSpeech="n">
@@ -730,13 +730,13 @@
       </Lemma>
       <Sense id="ewn-sensitivity__1_12_00__" n="2" synset="ewn-07527704-n">
         <SenseRelation relType="derivation" target="ewn-sensitive__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lovingness-n">
       <Lemma writtenForm="lovingness" partOfSpeech="n"/>
       <Sense id="ewn-lovingness__1_12_00__" n="0" synset="ewn-07561495-n">
         <SenseRelation relType="derivation" target="ewn-loving__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sentiment-n">
       <Lemma writtenForm="sentiment" partOfSpeech="n">
@@ -745,7 +745,7 @@
       <Sense id="ewn-sentiment__1_12_00__" n="0" synset="ewn-07497091-n">
         <SenseRelation relType="derivation" target="ewn-sentimental__5_00_00_tender_03"/>
         <SenseRelation relType="derivation" target="ewn-sentimental__5_00_00_emotional_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-acquired_taste-n">
       <Lemma writtenForm="acquired taste" partOfSpeech="n"/>
@@ -771,13 +771,13 @@
       <Sense id="ewn-emulation__1_12_00__" n="0" synset="ewn-07500069-n">
         <SenseRelation relType="derivation" target="ewn-emulate__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-emulate__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wistfulness-n">
       <Lemma writtenForm="wistfulness" partOfSpeech="n"/>
       <Sense id="ewn-wistfulness__1_12_00__" n="0" synset="ewn-07502416-n">
         <SenseRelation relType="derivation" target="ewn-wistful__5_00_01_sad_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dejectedness-n">
       <Lemma writtenForm="dejectedness" partOfSpeech="n">
@@ -790,7 +790,7 @@
       <Sense id="ewn-cheerlessness__1_12_00__" n="0" synset="ewn-07552456-n">
         <SenseRelation relType="antonym" target="ewn-cheerfulness__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-cheerless__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bad_blood-n">
       <Lemma writtenForm="bad blood" partOfSpeech="n"/>
@@ -802,19 +802,19 @@
       </Lemma>
       <Sense id="ewn-exultation__1_12_00__" n="0" synset="ewn-07543205-n">
         <SenseRelation relType="derivation" target="ewn-exult__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-world-weariness-n">
       <Lemma writtenForm="world-weariness" partOfSpeech="n"/>
       <Sense id="ewn-world-weariness__1_12_00__" n="0" synset="ewn-07549123-n">
         <SenseRelation relType="derivation" target="ewn-world-weary__5_00_00_tired_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-thankfulness-n">
       <Lemma writtenForm="thankfulness" partOfSpeech="n"/>
       <Sense id="ewn-thankfulness__1_12_00__" n="0" synset="ewn-07519768-n">
         <SenseRelation relType="derivation" target="ewn-thankful__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-submission-n">
       <Lemma writtenForm="submission" partOfSpeech="n">
@@ -828,13 +828,13 @@
       </Lemma>
       <Sense id="ewn-umbrage__1_12_00__" n="0" synset="ewn-07532789-n">
         <SenseRelation relType="derivation" target="ewn-umbrageous__5_00_00_angry_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-homesickness-n">
       <Lemma writtenForm="homesickness" partOfSpeech="n"/>
       <Sense id="ewn-homesickness__1_12_00__" n="0" synset="ewn-07502734-n">
         <SenseRelation relType="derivation" target="ewn-homesick__5_00_00_desirous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-anticipation-n">
       <Lemma writtenForm="anticipation" partOfSpeech="n">
@@ -849,7 +849,7 @@
       <Sense id="ewn-libido__1_12_00__" n="0" synset="ewn-07504688-n">
         <SenseRelation relType="derivation" target="ewn-libidinous__5_00_00_sexy_00"/>
         <SenseRelation relType="derivation" target="ewn-libidinal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-esteem-n">
       <Lemma writtenForm="self-esteem" partOfSpeech="n">
@@ -882,7 +882,7 @@
       <Sense id="ewn-ambition__1_12_00__" n="0" synset="ewn-07499687-n">
         <SenseRelation relType="derivation" target="ewn-ambitious__5_00_00_difficult_00"/>
         <SenseRelation relType="derivation" target="ewn-ambition__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bloodlust-n">
       <Lemma writtenForm="bloodlust" partOfSpeech="n">
@@ -902,7 +902,7 @@
       </Lemma>
       <Sense id="ewn-hilarity__1_12_00__" n="0" synset="ewn-07544765-n">
         <SenseRelation relType="derivation" target="ewn-hilarious__5_00_00_humorous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-technophilia-n">
       <Lemma writtenForm="technophilia" partOfSpeech="n"/>
@@ -922,7 +922,7 @@
       <Sense id="ewn-approval__1_12_00__" n="1" synset="ewn-07515398-n">
         <SenseRelation relType="antonym" target="ewn-disapproval__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-approve__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-humour-n">
       <Lemma writtenForm="humour" partOfSpeech="n">
@@ -931,7 +931,7 @@
       </Lemma>
       <Sense id="ewn-humour__1_12_00__" n="0" synset="ewn-07566518-n">
         <SenseRelation relType="derivation" target="ewn-humour__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-satyriasis-n">
       <Lemma writtenForm="satyriasis" partOfSpeech="n">
@@ -947,7 +947,7 @@
       <Lemma writtenForm="anaphrodisia" partOfSpeech="n"/>
       <Sense id="ewn-anaphrodisia__1_12_00__" n="0" synset="ewn-07503816-n">
         <SenseRelation relType="antonym" target="ewn-aphrodisia__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nationalism-n">
       <Lemma writtenForm="nationalism" partOfSpeech="n">
@@ -955,7 +955,7 @@
       </Lemma>
       <Sense id="ewn-nationalism__1_12_00__" n="2" synset="ewn-07500187-n">
         <SenseRelation relType="derivation" target="ewn-nationalist__1_18_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lubricity-n">
       <Lemma writtenForm="lubricity" partOfSpeech="n">
@@ -968,13 +968,13 @@
       <Sense id="ewn-disconcertion__1_12_00__" n="0" synset="ewn-07523471-n">
         <SenseRelation relType="derivation" target="ewn-disconcert__2_37_02__"/>
         <SenseRelation relType="derivation" target="ewn-disconcert__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fussiness-n">
       <Lemma writtenForm="fussiness" partOfSpeech="n"/>
       <Sense id="ewn-fussiness__1_12_00__" n="0" synset="ewn-07568195-n">
         <SenseRelation relType="derivation" target="ewn-fussy__5_00_00_ill-natured_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-crush-n">
       <Lemma writtenForm="crush" partOfSpeech="n">
@@ -993,13 +993,13 @@
       <Lemma writtenForm="aphrodisia" partOfSpeech="n"/>
       <Sense id="ewn-aphrodisia__1_12_00__" n="0" synset="ewn-07503707-n">
         <SenseRelation relType="antonym" target="ewn-anaphrodisia__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hesitancy-n">
       <Lemma writtenForm="hesitancy" partOfSpeech="n"/>
       <Sense id="ewn-hesitancy__1_12_00__" n="0" synset="ewn-07538724-n">
         <SenseRelation relType="derivation" target="ewn-hesitant__5_00_00_indecisive_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fond_regard-n">
       <Lemma writtenForm="fond regard" partOfSpeech="n"/>
@@ -1015,7 +1015,7 @@
       <Lemma writtenForm="contriteness" partOfSpeech="n"/>
       <Sense id="ewn-contriteness__1_12_00__" n="0" synset="ewn-07550088-n">
         <SenseRelation relType="derivation" target="ewn-contrite__5_00_00_penitent_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ingratitude-n">
       <Lemma writtenForm="ingratitude" partOfSpeech="n">
@@ -1024,7 +1024,7 @@
       </Lemma>
       <Sense id="ewn-ingratitude__1_12_00__" n="0" synset="ewn-07519950-n">
         <SenseRelation relType="antonym" target="ewn-gratitude__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-presentiment-n">
       <Lemma writtenForm="presentiment" partOfSpeech="n">
@@ -1050,19 +1050,19 @@
         <SenseRelation relType="derivation" target="ewn-stir__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-stir__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-stir__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-jubilation-n">
       <Lemma writtenForm="jubilation" partOfSpeech="n"/>
       <Sense id="ewn-jubilation__1_12_00__" n="0" synset="ewn-07543205-n">
         <SenseRelation relType="derivation" target="ewn-jubilate__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ambivalence-n">
       <Lemma writtenForm="ambivalence" partOfSpeech="n"/>
       <Sense id="ewn-ambivalence__1_12_00__" n="0" synset="ewn-07498445-n">
         <SenseRelation relType="derivation" target="ewn-ambivalent__5_00_00_uncertain_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ill_temper-n">
       <Lemma writtenForm="ill temper" partOfSpeech="n"/>
@@ -1074,7 +1074,7 @@
       </Lemma>
       <Sense id="ewn-impatience__1_12_00__" n="1" synset="ewn-07529310-n">
         <SenseRelation relType="derivation" target="ewn-impatient__5_00_00_eager_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-malice-n">
       <Lemma writtenForm="malice" partOfSpeech="n">
@@ -1082,7 +1082,7 @@
       </Lemma>
       <Sense id="ewn-malice__1_12_00__" n="0" synset="ewn-07566132-n">
         <SenseRelation relType="derivation" target="ewn-malicious__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-goodwill-n">
       <Lemma writtenForm="goodwill" partOfSpeech="n">
@@ -1094,19 +1094,19 @@
       <Lemma writtenForm="fancy" partOfSpeech="n"/>
       <Sense id="ewn-fancy__1_12_00__" n="2" synset="ewn-07512937-n">
         <SenseRelation relType="derivation" target="ewn-fancy__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-torment-n">
       <Lemma writtenForm="torment" partOfSpeech="n"/>
       <Sense id="ewn-torment__1_12_02__" n="1" synset="ewn-07511895-n">
         <SenseRelation relType="derivation" target="ewn-torment__2_37_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-torment__1_12_01__" n="2" synset="ewn-07510691-n">
         <SenseRelation relType="derivation" target="ewn-torment__2_37_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-torment__1_12_03__" n="3" synset="ewn-07534279-n">
         <SenseRelation relType="derivation" target="ewn-torment__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-enjoyment-n">
       <Lemma writtenForm="enjoyment" partOfSpeech="n">
@@ -1116,20 +1116,20 @@
         <SenseRelation relType="derivation" target="ewn-enjoy__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-enjoy__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-enjoy__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-perceptiveness-n">
       <Lemma writtenForm="perceptiveness" partOfSpeech="n"/>
       <Sense id="ewn-perceptiveness__1_12_00__" n="0" synset="ewn-07528486-n">
         <SenseRelation relType="derivation" target="ewn-perceptive__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-perceptive__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-belligerence-n">
       <Lemma writtenForm="belligerence" partOfSpeech="n"/>
       <Sense id="ewn-belligerence__1_12_00__" n="0" synset="ewn-07564161-n">
         <SenseRelation relType="derivation" target="ewn-belligerent__5_00_00_hostile_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-heartstrings-n">
       <Lemma writtenForm="heartstrings" partOfSpeech="n">
@@ -1143,7 +1143,7 @@
       </Lemma>
       <Sense id="ewn-gravity__1_12_00__" n="2" synset="ewn-07527386-n">
         <SenseRelation relType="antonym" target="ewn-levity__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-calf_love-n">
       <Lemma writtenForm="calf love" partOfSpeech="n"/>
@@ -1153,7 +1153,7 @@
       <Lemma writtenForm="warmness" partOfSpeech="n"/>
       <Sense id="ewn-warmness__1_12_00__" n="0" synset="ewn-07560035-n">
         <SenseRelation relType="derivation" target="ewn-warm__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-venom-n">
       <Lemma writtenForm="venom" partOfSpeech="n">
@@ -1161,13 +1161,13 @@
       </Lemma>
       <Sense id="ewn-venom__1_12_00__" n="1" synset="ewn-07566132-n">
         <SenseRelation relType="derivation" target="ewn-venomous__5_00_00_malicious_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pitilessness-n">
       <Lemma writtenForm="pitilessness" partOfSpeech="n"/>
       <Sense id="ewn-pitilessness__1_12_00__" n="0" synset="ewn-07521621-n">
         <SenseRelation relType="derivation" target="ewn-pitiless__5_00_00_inhumane_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-depression-n">
       <Lemma writtenForm="depression" partOfSpeech="n">
@@ -1183,7 +1183,7 @@
       </Lemma>
       <Sense id="ewn-apprehension__1_12_00__" n="0" synset="ewn-07536913-n">
         <SenseRelation relType="derivation" target="ewn-apprehend__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-distaste-n">
       <Lemma writtenForm="distaste" partOfSpeech="n">
@@ -1199,17 +1199,17 @@
       <Sense id="ewn-hurt__1_12_02__" n="1" synset="ewn-07511603-n">
         <SenseRelation relType="derivation" target="ewn-hurt__2_39_00__"/>
         <SenseRelation relType="derivation" target="ewn-hurt__2_29_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-hurt__1_12_01__" n="2" synset="ewn-07510467-n">
         <SenseRelation relType="derivation" target="ewn-hurt__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-hurt__2_29_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-petulance-n">
       <Lemma writtenForm="petulance" partOfSpeech="n"/>
       <Sense id="ewn-petulance__1_12_00__" n="0" synset="ewn-07568195-n">
         <SenseRelation relType="derivation" target="ewn-petulant__5_00_00_ill-natured_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sexual_love-n">
       <Lemma writtenForm="sexual love" partOfSpeech="n"/>
@@ -1223,7 +1223,7 @@
       <Lemma writtenForm="bashfulness" partOfSpeech="n"/>
       <Sense id="ewn-bashfulness__1_12_00__" n="0" synset="ewn-07523331-n">
         <SenseRelation relType="derivation" target="ewn-bashful__5_00_00_timid_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-disapproval-n">
       <Lemma writtenForm="disapproval" partOfSpeech="n">
@@ -1232,7 +1232,7 @@
       <Sense id="ewn-disapproval__1_12_00__" n="0" synset="ewn-07518068-n">
         <SenseRelation relType="antonym" target="ewn-approval__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-disapprove__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-antagonism-n">
       <Lemma writtenForm="antagonism" partOfSpeech="n">
@@ -1243,7 +1243,7 @@
         <SenseRelation relType="derivation" target="ewn-antagonist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-antagonize__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-antagonise__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rage-n">
       <Lemma writtenForm="rage" partOfSpeech="n">
@@ -1252,7 +1252,7 @@
       <Sense id="ewn-rage__1_12_00__" n="0" synset="ewn-07532236-n">
         <SenseRelation relType="derivation" target="ewn-rage__2_42_01__"/>
         <SenseRelation relType="derivation" target="ewn-rage__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-reproach-n">
       <Lemma writtenForm="self-reproach" partOfSpeech="n"/>
@@ -1263,7 +1263,7 @@
       <Sense id="ewn-huffiness__1_12_00__" n="0" synset="ewn-07533108-n">
         <SenseRelation relType="derivation" target="ewn-huffy__5_00_00_sensitive_02"/>
         <SenseRelation relType="derivation" target="ewn-huffy__5_00_00_angry_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-peace_of_mind-n">
       <Lemma writtenForm="peace of mind" partOfSpeech="n"/>
@@ -1274,13 +1274,13 @@
       <Sense id="ewn-shiver__1_12_00__" n="1" synset="ewn-07535351-n">
         <SenseRelation relType="derivation" target="ewn-shivery__5_00_00_alarming_00"/>
         <SenseRelation relType="derivation" target="ewn-shiver__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-comfortableness-n">
       <Lemma writtenForm="comfortableness" partOfSpeech="n"/>
       <Sense id="ewn-comfortableness__1_12_00__" n="1" synset="ewn-07545388-n">
         <SenseRelation relType="derivation" target="ewn-comfortable__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-throes-n">
       <Lemma writtenForm="throes" partOfSpeech="n"/>
@@ -1300,7 +1300,7 @@
       <Sense id="ewn-apathy__1_12_00__" n="0" synset="ewn-07498762-n">
         <SenseRelation relType="derivation" target="ewn-apathetic__5_00_00_uninterested_00"/>
         <SenseRelation relType="derivation" target="ewn-apathetic__5_00_00_spiritless_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-daze-n">
       <Lemma writtenForm="daze" partOfSpeech="n">
@@ -1308,7 +1308,7 @@
       </Lemma>
       <Sense id="ewn-daze__1_12_00__" n="0" synset="ewn-07525864-n">
         <SenseRelation relType="derivation" target="ewn-daze__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tendency-n">
       <Lemma writtenForm="tendency" partOfSpeech="n">
@@ -1316,7 +1316,7 @@
       </Lemma>
       <Sense id="ewn-tendency__1_12_00__" n="1" synset="ewn-07514352-n">
         <SenseRelation relType="derivation" target="ewn-tend__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sexual_desire-n">
       <Lemma writtenForm="sexual desire" partOfSpeech="n"/>
@@ -1326,7 +1326,7 @@
       <Lemma writtenForm="spitefulness" partOfSpeech="n"/>
       <Sense id="ewn-spitefulness__1_12_00__" n="0" synset="ewn-07566132-n">
         <SenseRelation relType="derivation" target="ewn-spiteful__5_00_00_malicious_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-propensity-n">
       <Lemma writtenForm="propensity" partOfSpeech="n">
@@ -1341,13 +1341,13 @@
       <Sense id="ewn-masochism__1_12_00__" n="0" synset="ewn-07509315-n">
         <SenseRelation relType="derivation" target="ewn-masochistic__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-masochist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-avidness-n">
       <Lemma writtenForm="avidness" partOfSpeech="n"/>
       <Sense id="ewn-avidness__1_12_00__" n="0" synset="ewn-07570749-n">
         <SenseRelation relType="derivation" target="ewn-avid__5_00_00_enthusiastic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-appetence-n">
       <Lemma writtenForm="appetence" partOfSpeech="n">
@@ -1355,7 +1355,7 @@
       </Lemma>
       <Sense id="ewn-appetence__1_12_00__" n="0" synset="ewn-07500766-n">
         <SenseRelation relType="derivation" target="ewn-appetent__5_00_00_desirous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sensation-n">
       <Lemma writtenForm="sensation" partOfSpeech="n">
@@ -1375,25 +1375,25 @@
       </Lemma>
       <Sense id="ewn-levity__1_12_00__" n="0" synset="ewn-07527145-n">
         <SenseRelation relType="antonym" target="ewn-gravity__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hankering-n">
       <Lemma writtenForm="hankering" partOfSpeech="n"/>
       <Sense id="ewn-hankering__1_12_00__" n="0" synset="ewn-07502062-n">
         <SenseRelation relType="derivation" target="ewn-hanker__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-smugness-n">
       <Lemma writtenForm="smugness" partOfSpeech="n"/>
       <Sense id="ewn-smugness__1_12_00__" n="0" synset="ewn-07547386-n">
         <SenseRelation relType="derivation" target="ewn-smug__5_00_00_contented_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-easiness-n">
       <Lemma writtenForm="easiness" partOfSpeech="n"/>
       <Sense id="ewn-easiness__1_12_00__" n="0" synset="ewn-07531213-n">
         <SenseRelation relType="derivation" target="ewn-easy__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-relief-n">
       <Lemma writtenForm="relief" partOfSpeech="n"/>
@@ -1412,7 +1412,7 @@
       <Sense id="ewn-exasperation__1_12_00__" n="0" synset="ewn-07534117-n">
         <SenseRelation relType="derivation" target="ewn-exasperate__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-exasperate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-exuberance-n">
       <Lemma writtenForm="exuberance" partOfSpeech="n">
@@ -1421,7 +1421,7 @@
       <Sense id="ewn-exuberance__1_12_00__" n="0" synset="ewn-07571212-n">
         <SenseRelation relType="derivation" target="ewn-exuberant__5_00_00_spirited_00"/>
         <SenseRelation relType="derivation" target="ewn-exuberate__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-high_spirits-n">
       <Lemma writtenForm="high spirits" partOfSpeech="n"/>
@@ -1434,7 +1434,7 @@
       </Lemma>
       <Sense id="ewn-humor__1_12_00__" n="2" synset="ewn-07566518-n">
         <SenseRelation relType="derivation" target="ewn-humor__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-puppy_love-n">
       <Lemma writtenForm="puppy love" partOfSpeech="n"/>
@@ -1444,13 +1444,13 @@
       <Lemma writtenForm="mortification" partOfSpeech="n"/>
       <Sense id="ewn-mortification__1_12_00__" n="0" synset="ewn-07522981-n">
         <SenseRelation relType="derivation" target="ewn-mortify__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-infuriation-n">
       <Lemma writtenForm="infuriation" partOfSpeech="n"/>
       <Sense id="ewn-infuriation__1_12_00__" n="0" synset="ewn-07532656-n">
         <SenseRelation relType="derivation" target="ewn-infuriate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dissatisfaction-n">
       <Lemma writtenForm="dissatisfaction" partOfSpeech="n">
@@ -1459,19 +1459,19 @@
       <Sense id="ewn-dissatisfaction__1_12_00__" n="0" synset="ewn-07554899-n">
         <SenseRelation relType="antonym" target="ewn-satisfaction__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-dissatisfy__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-softheartedness-n">
       <Lemma writtenForm="softheartedness" partOfSpeech="n"/>
       <Sense id="ewn-softheartedness__1_12_00__" n="0" synset="ewn-07520586-n">
         <SenseRelation relType="derivation" target="ewn-softhearted__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kindheartedness-n">
       <Lemma writtenForm="kindheartedness" partOfSpeech="n"/>
       <Sense id="ewn-kindheartedness__1_12_00__" n="0" synset="ewn-07569056-n">
         <SenseRelation relType="derivation" target="ewn-kindhearted__5_00_00_kind_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-protectiveness-n">
       <Lemma writtenForm="protectiveness" partOfSpeech="n">
@@ -1479,7 +1479,7 @@
       </Lemma>
       <Sense id="ewn-protectiveness__1_12_00__" n="0" synset="ewn-07560673-n">
         <SenseRelation relType="derivation" target="ewn-protective__5_00_00_tender_03"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-pride-n">
       <Lemma writtenForm="self-pride" partOfSpeech="n"/>
@@ -1503,7 +1503,7 @@
       <Lemma writtenForm="murderousness" partOfSpeech="n"/>
       <Sense id="ewn-murderousness__1_12_00__" n="0" synset="ewn-07563013-n">
         <SenseRelation relType="derivation" target="ewn-murderous__5_00_00_bloody_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cold_feet-n">
       <Lemma writtenForm="cold feet" partOfSpeech="n"/>
@@ -1514,20 +1514,20 @@
       <Sense id="ewn-triumph__1_12_00__" n="1" synset="ewn-07543485-n">
         <SenseRelation relType="derivation" target="ewn-triumphal__5_00_00_elated_00"/>
         <SenseRelation relType="derivation" target="ewn-triumph__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dreaminess-n">
       <Lemma writtenForm="dreaminess" partOfSpeech="n"/>
       <Sense id="ewn-dreaminess__1_12_00__" n="0" synset="ewn-07531461-n">
         <SenseRelation relType="derivation" target="ewn-dreamy__5_00_00_lethargic_00"/>
         <SenseRelation relType="derivation" target="ewn-dreamy__5_00_00_inattentive_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-moroseness-n">
       <Lemma writtenForm="moroseness" partOfSpeech="n"/>
       <Sense id="ewn-moroseness__1_12_00__" n="0" synset="ewn-07567833-n">
         <SenseRelation relType="derivation" target="ewn-morose__5_00_00_ill-natured_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-avidity-n">
       <Lemma writtenForm="avidity" partOfSpeech="n">
@@ -1535,19 +1535,19 @@
       </Lemma>
       <Sense id="ewn-avidity__1_12_01__" n="0" synset="ewn-07570749-n">
         <SenseRelation relType="derivation" target="ewn-avid__5_00_00_enthusiastic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-discontentedness-n">
       <Lemma writtenForm="discontentedness" partOfSpeech="n"/>
       <Sense id="ewn-discontentedness__1_12_00__" n="0" synset="ewn-07554353-n">
         <SenseRelation relType="derivation" target="ewn-discontented__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-good_humor-n">
       <Lemma writtenForm="good humor" partOfSpeech="n"/>
       <Sense id="ewn-good_humor__1_12_00__" n="0" synset="ewn-07567157-n">
         <SenseRelation relType="antonym" target="ewn-ill_humor__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tranquility-n">
       <Lemma writtenForm="tranquility" partOfSpeech="n">
@@ -1555,14 +1555,14 @@
       </Lemma>
       <Sense id="ewn-tranquility__1_12_00__" n="2" synset="ewn-07530799-n">
         <SenseRelation relType="derivation" target="ewn-tranquil__5_00_00_calm_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-joyfulness-n">
       <Lemma writtenForm="joyfulness" partOfSpeech="n"/>
       <Sense id="ewn-joyfulness__1_12_00__" n="0" synset="ewn-07542591-n">
         <SenseRelation relType="derivation" target="ewn-joyful__5_00_00_joyous_00"/>
         <SenseRelation relType="derivation" target="ewn-joyful__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-eagerness-n">
       <Lemma writtenForm="eagerness" partOfSpeech="n">
@@ -1571,7 +1571,7 @@
       </Lemma>
       <Sense id="ewn-eagerness__1_12_00__" n="0" synset="ewn-07570749-n">
         <SenseRelation relType="derivation" target="ewn-eager__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-suspense-n">
       <Lemma writtenForm="suspense" partOfSpeech="n">
@@ -1587,20 +1587,20 @@
       </Lemma>
       <Sense id="ewn-intoxication__1_12_00__" n="2" synset="ewn-07544195-n">
         <SenseRelation relType="derivation" target="ewn-intoxicate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-woefulness-n">
       <Lemma writtenForm="woefulness" partOfSpeech="n"/>
       <Sense id="ewn-woefulness__1_12_00__" n="0" synset="ewn-07549265-n">
         <SenseRelation relType="derivation" target="ewn-woeful__5_00_00_sorrowful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-painfulness-n">
       <Lemma writtenForm="painfulness" partOfSpeech="n"/>
       <Sense id="ewn-painfulness__1_12_00__" n="0" synset="ewn-07509503-n">
         <SenseRelation relType="derivation" target="ewn-painful__5_00_00_unpleasant_00"/>
         <SenseRelation relType="derivation" target="ewn-painful__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-love-n">
       <Lemma writtenForm="self-love" partOfSpeech="n"/>
@@ -1613,7 +1613,7 @@
       </Lemma>
       <Sense id="ewn-glow__1_12_00__" n="3" synset="ewn-07495661-n">
         <SenseRelation relType="derivation" target="ewn-glow__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sex-n">
       <Lemma writtenForm="sex" partOfSpeech="n"/>
@@ -1621,7 +1621,7 @@
         <SenseRelation relType="derivation" target="ewn-sexy__3_00_04__"/>
         <SenseRelation relType="derivation" target="ewn-sexy__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-sex__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-alleviation-n">
       <Lemma writtenForm="alleviation" partOfSpeech="n">
@@ -1629,7 +1629,7 @@
       </Lemma>
       <Sense id="ewn-alleviation__1_12_00__" n="0" synset="ewn-07508420-n">
         <SenseRelation relType="derivation" target="ewn-alleviate__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chafe-n">
       <Lemma writtenForm="chafe" partOfSpeech="n">
@@ -1664,7 +1664,7 @@
         <SenseRelation relType="derivation" target="ewn-agonist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-agonise__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-agonise__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-amativeness-n">
       <Lemma writtenForm="amativeness" partOfSpeech="n">
@@ -1672,13 +1672,13 @@
       </Lemma>
       <Sense id="ewn-amativeness__1_12_00__" n="0" synset="ewn-07504199-n">
         <SenseRelation relType="derivation" target="ewn-amative__5_00_00_loving_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mood-n">
       <Lemma writtenForm="mood" partOfSpeech="n"/>
       <Sense id="ewn-mood__1_12_00__" n="0" synset="ewn-07566518-n">
         <SenseRelation relType="derivation" target="ewn-moody__5_00_00_emotional_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-impulse-n">
       <Lemma writtenForm="impulse" partOfSpeech="n">
@@ -1690,7 +1690,7 @@
       <Lemma writtenForm="insecurity" partOfSpeech="n"/>
       <Sense id="ewn-insecurity__1_12_00__" n="1" synset="ewn-07540157-n">
         <SenseRelation relType="derivation" target="ewn-insecure__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wishing-n">
       <Lemma writtenForm="wishing" partOfSpeech="n">
@@ -1703,7 +1703,7 @@
       <Sense id="ewn-lowness__1_12_00__" n="1" synset="ewn-07553056-n">
         <SenseRelation relType="derivation" target="ewn-low__5_00_00_humble_00"/>
         <SenseRelation relType="derivation" target="ewn-low__5_00_00_dejected_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-favour-n">
       <Lemma writtenForm="favour" partOfSpeech="n">
@@ -1714,7 +1714,7 @@
         <SenseRelation relType="derivation" target="ewn-favour__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-favour__2_41_03__"/>
         <SenseRelation relType="derivation" target="ewn-favour__2_41_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-repugnance-n">
       <Lemma writtenForm="repugnance" partOfSpeech="n">
@@ -1722,13 +1722,13 @@
       </Lemma>
       <Sense id="ewn-repugnance__1_12_00__" n="0" synset="ewn-07519226-n">
         <SenseRelation relType="derivation" target="ewn-repugnant__5_00_00_offensive_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-exhilaration-n">
       <Lemma writtenForm="exhilaration" partOfSpeech="n"/>
       <Sense id="ewn-exhilaration__1_12_00__" n="0" synset="ewn-07543600-n">
         <SenseRelation relType="derivation" target="ewn-exhilarate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-delectation-n">
       <Lemma writtenForm="delectation" partOfSpeech="n">
@@ -1741,20 +1741,20 @@
       <Sense id="ewn-yearning__1_12_00__" n="0" synset="ewn-07501768-n">
         <SenseRelation relType="derivation" target="ewn-yearn__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-yearn__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-imperturbability-n">
       <Lemma writtenForm="imperturbability" partOfSpeech="n"/>
       <Sense id="ewn-imperturbability__1_12_00__" n="0" synset="ewn-07530567-n">
         <SenseRelation relType="derivation" target="ewn-imperturbable__5_00_00_composed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-soreness-n">
       <Lemma writtenForm="soreness" partOfSpeech="n"/>
       <Sense id="ewn-soreness__1_12_00__" n="1" synset="ewn-07511113-n">
         <SenseRelation relType="derivation" target="ewn-sore__5_00_00_unpleasant_00"/>
         <SenseRelation relType="derivation" target="ewn-sore__5_00_00_angry_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-high_dudgeon-n">
       <Lemma writtenForm="high dudgeon" partOfSpeech="n"/>
@@ -1764,19 +1764,19 @@
       <Lemma writtenForm="downheartedness" partOfSpeech="n"/>
       <Sense id="ewn-downheartedness__1_12_00__" n="0" synset="ewn-07553056-n">
         <SenseRelation relType="derivation" target="ewn-downhearted__5_00_00_dejected_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-misogamy-n">
       <Lemma writtenForm="misogamy" partOfSpeech="n"/>
       <Sense id="ewn-misogamy__1_12_00__" n="0" synset="ewn-07562361-n">
         <SenseRelation relType="derivation" target="ewn-misogamist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-despising-n">
       <Lemma writtenForm="despising" partOfSpeech="n"/>
       <Sense id="ewn-despising__1_12_00__" n="0" synset="ewn-07563140-n">
         <SenseRelation relType="derivation" target="ewn-despise__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-peacefulness-n">
       <Lemma writtenForm="peacefulness" partOfSpeech="n"/>
@@ -1789,19 +1789,19 @@
       </Lemma>
       <Sense id="ewn-earnestness__1_12_00__" n="0" synset="ewn-07527554-n">
         <SenseRelation relType="derivation" target="ewn-earnest__5_00_00_sincere_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pensiveness-n">
       <Lemma writtenForm="pensiveness" partOfSpeech="n"/>
       <Sense id="ewn-pensiveness__1_12_00__" n="0" synset="ewn-07548995-n">
         <SenseRelation relType="derivation" target="ewn-pensive__5_00_00_thoughtful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-moodiness-n">
       <Lemma writtenForm="moodiness" partOfSpeech="n"/>
       <Sense id="ewn-moodiness__1_12_00__" n="0" synset="ewn-07567718-n">
         <SenseRelation relType="derivation" target="ewn-moody__5_00_00_ill-natured_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-consolation-n">
       <Lemma writtenForm="consolation" partOfSpeech="n">
@@ -1810,7 +1810,7 @@
       </Lemma>
       <Sense id="ewn-consolation__1_12_00__" n="0" synset="ewn-07507795-n">
         <SenseRelation relType="derivation" target="ewn-console__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quietude-n">
       <Lemma writtenForm="quietude" partOfSpeech="n"/>
@@ -1823,7 +1823,7 @@
       </Lemma>
       <Sense id="ewn-shudder__1_12_00__" n="0" synset="ewn-07535351-n">
         <SenseRelation relType="derivation" target="ewn-shuddery__5_00_00_alarming_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-misocainea-n">
       <Lemma writtenForm="misocainea" partOfSpeech="n"/>
@@ -1836,7 +1836,7 @@
       </Lemma>
       <Sense id="ewn-conflict__1_12_00__" n="1" synset="ewn-07498579-n">
         <SenseRelation relType="derivation" target="ewn-conflict__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-depreciation-n">
       <Lemma writtenForm="self-depreciation" partOfSpeech="n"/>
@@ -1861,7 +1861,7 @@
       <Sense id="ewn-entrancement__1_12_00__" n="0" synset="ewn-07506426-n">
         <SenseRelation relType="derivation" target="ewn-entrance__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-entrance__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-erotic_love-n">
       <Lemma writtenForm="erotic love" partOfSpeech="n"/>
@@ -1874,19 +1874,19 @@
       <Sense id="ewn-repentance__1_12_00__" n="0" synset="ewn-07552258-n">
         <SenseRelation relType="derivation" target="ewn-repentant__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-repent__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sensitiveness-n">
       <Lemma writtenForm="sensitiveness" partOfSpeech="n"/>
       <Sense id="ewn-sensitiveness__1_12_00__" n="0" synset="ewn-07527704-n">
         <SenseRelation relType="derivation" target="ewn-sensitive__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-somberness-n">
       <Lemma writtenForm="somberness" partOfSpeech="n"/>
       <Sense id="ewn-somberness__1_12_00__" n="1" synset="ewn-07548645-n">
         <SenseRelation relType="derivation" target="ewn-somber__5_00_00_depressing_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-thing-n">
       <Lemma writtenForm="thing" partOfSpeech="n">
@@ -1898,7 +1898,7 @@
       <Lemma writtenForm="ruthfulness" partOfSpeech="n"/>
       <Sense id="ewn-ruthfulness__1_12_00__" n="0" synset="ewn-07550597-n">
         <SenseRelation relType="derivation" target="ewn-ruthful__5_00_00_penitent_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-attrition-n">
       <Lemma writtenForm="attrition" partOfSpeech="n"/>
@@ -1908,7 +1908,7 @@
       <Lemma writtenForm="zestfulness" partOfSpeech="n"/>
       <Sense id="ewn-zestfulness__1_12_00__" n="0" synset="ewn-07507121-n">
         <SenseRelation relType="derivation" target="ewn-zestful__5_00_00_spirited_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-buoyancy-n">
       <Lemma writtenForm="buoyancy" partOfSpeech="n">
@@ -1916,7 +1916,7 @@
       </Lemma>
       <Sense id="ewn-buoyancy__1_12_00__" n="0" synset="ewn-07546111-n">
         <SenseRelation relType="derivation" target="ewn-buoyant__5_00_00_cheerful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-irritation-n">
       <Lemma writtenForm="irritation" partOfSpeech="n">
@@ -1924,10 +1924,10 @@
       </Lemma>
       <Sense id="ewn-irritation__1_12_01__" n="1" synset="ewn-07533707-n">
         <SenseRelation relType="derivation" target="ewn-irritate__2_37_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-irritation__1_12_00__" n="4" synset="ewn-07511113-n">
         <SenseRelation relType="derivation" target="ewn-irritate__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-anger-n">
       <Lemma writtenForm="anger" partOfSpeech="n">
@@ -1938,7 +1938,7 @@
         <SenseRelation relType="derivation" target="ewn-angry__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-anger__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-anger__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-frisson-n">
       <Lemma writtenForm="frisson" partOfSpeech="n">
@@ -1951,7 +1951,7 @@
       <Lemma writtenForm="restiveness" partOfSpeech="n"/>
       <Sense id="ewn-restiveness__1_12_00__" n="0" synset="ewn-07540999-n">
         <SenseRelation relType="derivation" target="ewn-restive__5_00_00_tense_03"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-jealousy-n">
       <Lemma writtenForm="jealousy" partOfSpeech="n">
@@ -1963,7 +1963,7 @@
       <Lemma writtenForm="misgiving" partOfSpeech="n"/>
       <Sense id="ewn-misgiving__1_12_00__" n="0" synset="ewn-07540794-n">
         <SenseRelation relType="derivation" target="ewn-misgive__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-eros-n">
       <Lemma writtenForm="eros" partOfSpeech="n">
@@ -1972,7 +1972,7 @@
       </Lemma>
       <Sense id="ewn-eros__1_12_00__" n="0" synset="ewn-07503095-n">
         <SenseRelation relType="derivation" target="ewn-erotic__5_00_00_sexy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-guilty_conscience-n">
       <Lemma writtenForm="guilty conscience" partOfSpeech="n"/>
@@ -1986,13 +1986,13 @@
         <SenseRelation relType="derivation" target="ewn-wish__2_37_02__"/>
         <SenseRelation relType="derivation" target="ewn-wish__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-wish__2_32_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-discouragement-n">
       <Lemma writtenForm="discouragement" partOfSpeech="n"/>
       <Sense id="ewn-discouragement__1_12_02__" n="0" synset="ewn-07558063-n">
         <SenseRelation relType="derivation" target="ewn-discourage__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-algolagnia-n">
       <Lemma writtenForm="algolagnia" partOfSpeech="n">
@@ -2000,7 +2000,7 @@
       </Lemma>
       <Sense id="ewn-algolagnia__1_12_00__" n="0" synset="ewn-07508822-n">
         <SenseRelation relType="derivation" target="ewn-algolagnic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-agitation-n">
       <Lemma writtenForm="agitation" partOfSpeech="n">
@@ -2009,40 +2009,40 @@
       </Lemma>
       <Sense id="ewn-agitation__1_12_00__" n="2" synset="ewn-07528747-n">
         <SenseRelation relType="antonym" target="ewn-calmness__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ungratefulness-n">
       <Lemma writtenForm="ungratefulness" partOfSpeech="n"/>
       <Sense id="ewn-ungratefulness__1_12_00__" n="0" synset="ewn-07519950-n">
         <SenseRelation relType="derivation" target="ewn-ungrateful__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-expectancy-n">
       <Lemma writtenForm="expectancy" partOfSpeech="n"/>
       <Sense id="ewn-expectancy__1_12_00__" n="0" synset="ewn-07526319-n">
         <SenseRelation relType="derivation" target="ewn-expectant__5_00_00_hopeful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-unhappiness-n">
       <Lemma writtenForm="unhappiness" partOfSpeech="n"/>
       <Sense id="ewn-unhappiness__1_12_00__" n="0" synset="ewn-07547828-n">
         <SenseRelation relType="derivation" target="ewn-unhappy__3_00_04__"/>
         <SenseRelation relType="derivation" target="ewn-unhappy__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fear-n">
       <Lemma writtenForm="fear" partOfSpeech="n"/>
       <Sense id="ewn-fear__1_12_00__" n="0" synset="ewn-07534492-n">
         <SenseRelation relType="antonym" target="ewn-fearlessness__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-fear__2_37_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-fear__1_12_01__" n="1" synset="ewn-07539768-n">
         <SenseRelation relType="derivation" target="ewn-fear__2_37_13__"/>
         <SenseRelation relType="derivation" target="ewn-fear__2_37_03__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-fear__1_12_02__" n="2" synset="ewn-07536278-n">
         <SenseRelation relType="derivation" target="ewn-fear__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-physical_attraction-n">
       <Lemma writtenForm="physical attraction" partOfSpeech="n"/>
@@ -2058,7 +2058,7 @@
       </Lemma>
       <Sense id="ewn-respect__1_12_00__" n="5" synset="ewn-07560785-n">
         <SenseRelation relType="derivation" target="ewn-respect__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-despair-n">
       <Lemma writtenForm="despair" partOfSpeech="n">
@@ -2068,13 +2068,13 @@
       <Sense id="ewn-despair__1_12_00__" n="1" synset="ewn-07557311-n">
         <SenseRelation relType="antonym" target="ewn-hope__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-despair__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ill_humor-n">
       <Lemma writtenForm="ill humor" partOfSpeech="n"/>
       <Sense id="ewn-ill_humor__1_12_00__" n="0" synset="ewn-07567553-n">
         <SenseRelation relType="antonym" target="ewn-good_humor__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-soft_spot-n">
       <Lemma writtenForm="soft spot" partOfSpeech="n"/>
@@ -2091,7 +2091,7 @@
       <Lemma writtenForm="stupefaction" partOfSpeech="n"/>
       <Sense id="ewn-stupefaction__1_12_00__" n="0" synset="ewn-07525734-n">
         <SenseRelation relType="derivation" target="ewn-stupefy__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-whim-n">
       <Lemma writtenForm="whim" partOfSpeech="n"/>
@@ -2102,7 +2102,7 @@
       <Sense id="ewn-dispiritedness__1_12_00__" n="0" synset="ewn-07553056-n">
         <SenseRelation relType="derivation" target="ewn-dispirited__5_00_00_spiritless_00"/>
         <SenseRelation relType="derivation" target="ewn-dispirited__5_00_00_dejected_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-horror-n">
       <Lemma writtenForm="horror" partOfSpeech="n">
@@ -2110,14 +2110,14 @@
       </Lemma>
       <Sense id="ewn-horror__1_12_01__" n="0" synset="ewn-07535650-n">
         <SenseRelation relType="derivation" target="ewn-horrify__2_37_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-horror__1_12_00__" n="2" synset="ewn-07519226-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-fearfulness-n">
       <Lemma writtenForm="fearfulness" partOfSpeech="n"/>
       <Sense id="ewn-fearfulness__1_12_00__" n="0" synset="ewn-07534492-n">
         <SenseRelation relType="derivation" target="ewn-fearful__5_00_00_afraid_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Anglophilia-n">
       <Lemma writtenForm="Anglophilia" partOfSpeech="n">
@@ -2126,7 +2126,7 @@
       <Sense id="ewn-anglophilia__1_12_00__" n="0" synset="ewn-07516196-n">
         <SenseRelation relType="antonym" target="ewn-anglophobia__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-anglophilic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-leaning-n">
       <Lemma writtenForm="leaning" partOfSpeech="n"/>
@@ -2149,13 +2149,13 @@
       <Lemma writtenForm="imperturbableness" partOfSpeech="n"/>
       <Sense id="ewn-imperturbableness__1_12_00__" n="0" synset="ewn-07530567-n">
         <SenseRelation relType="derivation" target="ewn-imperturbable__5_00_00_composed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-huffishness-n">
       <Lemma writtenForm="huffishness" partOfSpeech="n"/>
       <Sense id="ewn-huffishness__1_12_00__" n="0" synset="ewn-07564867-n">
         <SenseRelation relType="derivation" target="ewn-huffish__5_00_00_ill-natured_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-inquietude-n">
       <Lemma writtenForm="inquietude" partOfSpeech="n"/>
@@ -2167,7 +2167,7 @@
       </Lemma>
       <Sense id="ewn-abomination__1_12_00__" n="1" synset="ewn-07518669-n">
         <SenseRelation relType="derivation" target="ewn-abominate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-discomfiture-n">
       <Lemma writtenForm="discomfiture" partOfSpeech="n">
@@ -2175,7 +2175,7 @@
       </Lemma>
       <Sense id="ewn-discomfiture__1_12_00__" n="0" synset="ewn-07523471-n">
         <SenseRelation relType="derivation" target="ewn-discomfit__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-humiliation-n">
       <Lemma writtenForm="humiliation" partOfSpeech="n">
@@ -2183,13 +2183,13 @@
       </Lemma>
       <Sense id="ewn-humiliation__1_12_00__" n="1" synset="ewn-07522981-n">
         <SenseRelation relType="derivation" target="ewn-humiliate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-demoralisation-n">
       <Lemma writtenForm="demoralisation" partOfSpeech="n"/>
       <Sense id="ewn-demoralisation__1_12_00__" n="1" synset="ewn-07553361-n">
         <SenseRelation relType="derivation" target="ewn-demoralise__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-surprise-n">
       <Lemma writtenForm="surprise" partOfSpeech="n">
@@ -2199,7 +2199,7 @@
       </Lemma>
       <Sense id="ewn-surprise__1_12_00__" n="0" synset="ewn-07525587-n">
         <SenseRelation relType="derivation" target="ewn-surprise__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-estrangement-n">
       <Lemma writtenForm="estrangement" partOfSpeech="n">
@@ -2207,7 +2207,7 @@
       </Lemma>
       <Sense id="ewn-estrangement__1_12_00__" n="1" synset="ewn-07517626-n">
         <SenseRelation relType="derivation" target="ewn-estrange__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chagrin-n">
       <Lemma writtenForm="chagrin" partOfSpeech="n">
@@ -2216,7 +2216,7 @@
       </Lemma>
       <Sense id="ewn-chagrin__1_12_00__" n="0" synset="ewn-07522981-n">
         <SenseRelation relType="derivation" target="ewn-chagrin__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-complex-n">
       <Lemma writtenForm="complex" partOfSpeech="n">
@@ -2231,7 +2231,7 @@
       </Lemma>
       <Sense id="ewn-awe__1_12_02__" n="0" synset="ewn-07525423-n">
         <SenseRelation relType="derivation" target="ewn-awe__2_37_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-awe__1_12_00__" n="1" synset="ewn-07536278-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-beneficence-n">
@@ -2241,13 +2241,13 @@
       <Sense id="ewn-beneficence__1_12_00__" n="0" synset="ewn-07561203-n">
         <SenseRelation relType="antonym" target="ewn-maleficence__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-beneficent__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lecherousness-n">
       <Lemma writtenForm="lecherousness" partOfSpeech="n"/>
       <Sense id="ewn-lecherousness__1_12_00__" n="0" synset="ewn-07504854-n">
         <SenseRelation relType="derivation" target="ewn-lecherous__5_00_00_sexy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-caprice-n">
       <Lemma writtenForm="caprice" partOfSpeech="n">
@@ -2255,7 +2255,7 @@
       </Lemma>
       <Sense id="ewn-caprice__1_12_00__" n="0" synset="ewn-07505719-n">
         <SenseRelation relType="derivation" target="ewn-capricious__5_00_00_arbitrary_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gold_fever-n">
       <Lemma writtenForm="gold fever" partOfSpeech="n"/>
@@ -2269,7 +2269,7 @@
       <Lemma writtenForm="itch" partOfSpeech="n"/>
       <Sense id="ewn-itch__1_12_00__" n="1" synset="ewn-07505591-n">
         <SenseRelation relType="derivation" target="ewn-itch__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-predilection-n">
       <Lemma writtenForm="predilection" partOfSpeech="n">
@@ -2298,7 +2298,7 @@
       <Lemma writtenForm="ruthlessness" partOfSpeech="n"/>
       <Sense id="ewn-ruthlessness__1_12_00__" n="1" synset="ewn-07521621-n">
         <SenseRelation relType="derivation" target="ewn-ruthless__5_00_00_merciless_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-anxiety-n">
       <Lemma writtenForm="anxiety" partOfSpeech="n">
@@ -2313,10 +2313,10 @@
       </Lemma>
       <Sense id="ewn-zeal__1_12_01__" n="0" synset="ewn-07570967-n">
         <SenseRelation relType="derivation" target="ewn-zealous__5_00_00_enthusiastic_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-zeal__1_12_02__" n="1" synset="ewn-07496925-n">
         <SenseRelation relType="derivation" target="ewn-zealous__5_00_00_enthusiastic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-madness-n">
       <Lemma writtenForm="madness" partOfSpeech="n">
@@ -2326,7 +2326,7 @@
       </Lemma>
       <Sense id="ewn-madness__1_12_00__" n="2" synset="ewn-07532236-n">
         <SenseRelation relType="derivation" target="ewn-mad__5_00_00_angry_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-enchantment-n">
       <Lemma writtenForm="enchantment" partOfSpeech="n">
@@ -2335,7 +2335,7 @@
       </Lemma>
       <Sense id="ewn-enchantment__1_12_00__" n="0" synset="ewn-07513215-n">
         <SenseRelation relType="derivation" target="ewn-enchant__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-forgiveness-n">
       <Lemma writtenForm="forgiveness" partOfSpeech="n">
@@ -2350,13 +2350,13 @@
       </Lemma>
       <Sense id="ewn-nymphomania__1_12_00__" n="0" synset="ewn-07505065-n">
         <SenseRelation relType="derivation" target="ewn-nymphomaniacal__5_00_00_neurotic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-weepiness-n">
       <Lemma writtenForm="weepiness" partOfSpeech="n"/>
       <Sense id="ewn-weepiness__1_12_00__" n="0" synset="ewn-07549666-n">
         <SenseRelation relType="derivation" target="ewn-weepy__5_00_00_tearful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-satisfaction-n">
       <Lemma writtenForm="satisfaction" partOfSpeech="n">
@@ -2364,7 +2364,7 @@
       </Lemma>
       <Sense id="ewn-satisfaction__1_12_00__" n="0" synset="ewn-07546643-n">
         <SenseRelation relType="antonym" target="ewn-dissatisfaction__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-insouciance-n">
       <Lemma writtenForm="insouciance" partOfSpeech="n">
@@ -2372,7 +2372,7 @@
       </Lemma>
       <Sense id="ewn-insouciance__1_12_00__" n="0" synset="ewn-07546254-n">
         <SenseRelation relType="derivation" target="ewn-insouciant__5_00_00_unconcerned_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-zest-n">
       <Lemma writtenForm="zest" partOfSpeech="n">
@@ -2380,7 +2380,7 @@
       </Lemma>
       <Sense id="ewn-zest__1_12_00__" n="0" synset="ewn-07507121-n">
         <SenseRelation relType="derivation" target="ewn-zesty__5_00_00_spirited_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kind-heartedness-n">
       <Lemma writtenForm="kind-heartedness" partOfSpeech="n"/>
@@ -2392,19 +2392,19 @@
       </Lemma>
       <Sense id="ewn-amusement__1_12_00__" n="0" synset="ewn-07506616-n">
         <SenseRelation relType="derivation" target="ewn-amuse__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hope-n">
       <Lemma writtenForm="hope" partOfSpeech="n"/>
       <Sense id="ewn-hope__1_12_01__" n="0" synset="ewn-07526972-n">
         <SenseRelation relType="derivation" target="ewn-hope__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-hope__2_37_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-hope__1_12_00__" n="1" synset="ewn-07556441-n">
         <SenseRelation relType="antonym" target="ewn-despair__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-hope__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-hope__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-calmness-n">
       <Lemma writtenForm="calmness" partOfSpeech="n">
@@ -2414,7 +2414,7 @@
       <Sense id="ewn-calmness__1_12_00__" n="2" synset="ewn-07530207-n">
         <SenseRelation relType="antonym" target="ewn-agitation__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-calm__5_00_00_composed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gloat-n">
       <Lemma writtenForm="gloat" partOfSpeech="n">
@@ -2424,7 +2424,7 @@
       <Sense id="ewn-gloat__1_12_00__" n="0" synset="ewn-07547664-n">
         <SenseRelation relType="derivation" target="ewn-gloat__2_39_00__"/>
         <SenseRelation relType="derivation" target="ewn-gloat__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-forlornness-n">
       <Lemma writtenForm="forlornness" partOfSpeech="n"/>
@@ -2436,7 +2436,7 @@
       </Lemma>
       <Sense id="ewn-coolness__1_12_00__" n="0" synset="ewn-07530567-n">
         <SenseRelation relType="derivation" target="ewn-cool__5_00_00_fashionable_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-guilt_trip-n">
       <Lemma writtenForm="guilt trip" partOfSpeech="n"/>
@@ -2450,20 +2450,20 @@
         <SenseRelation relType="derivation" target="ewn-antipathetic__5_00_00_hostile_01"/>
         <SenseRelation relType="derivation" target="ewn-antipathetic__5_00_00_disinclined_00"/>
         <SenseRelation relType="derivation" target="ewn-antipathetical__5_00_00_hostile_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-low-spiritedness-n">
       <Lemma writtenForm="low-spiritedness" partOfSpeech="n"/>
       <Sense id="ewn-low-spiritedness__1_12_00__" n="0" synset="ewn-07553056-n">
         <SenseRelation relType="derivation" target="ewn-low-spirited__5_00_00_dejected_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-apprehensiveness-n">
       <Lemma writtenForm="apprehensiveness" partOfSpeech="n"/>
       <Sense id="ewn-apprehensiveness__1_12_00__" n="0" synset="ewn-07536913-n">
         <SenseRelation relType="derivation" target="ewn-apprehensive__5_00_00_uneasy_00"/>
         <SenseRelation relType="derivation" target="ewn-apprehensive__5_00_00_afraid_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-heaviness-n">
       <Lemma writtenForm="heaviness" partOfSpeech="n">
@@ -2471,7 +2471,7 @@
       </Lemma>
       <Sense id="ewn-heaviness__1_12_00__" n="1" synset="ewn-07548333-n">
         <SenseRelation relType="derivation" target="ewn-heavy__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hate-n">
       <Lemma writtenForm="hate" partOfSpeech="n">
@@ -2480,7 +2480,7 @@
       <Sense id="ewn-hate__1_12_00__" n="0" synset="ewn-07561835-n">
         <SenseRelation relType="antonym" target="ewn-love__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-hate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-the_hots-n">
       <Lemma writtenForm="the hots" partOfSpeech="n"/>
@@ -2493,25 +2493,25 @@
       <Sense id="ewn-happiness__1_12_00__" n="1" synset="ewn-07541996-n">
         <SenseRelation relType="antonym" target="ewn-sadness__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-happy__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mawkishness-n">
       <Lemma writtenForm="mawkishness" partOfSpeech="n"/>
       <Sense id="ewn-mawkishness__1_12_00__" n="0" synset="ewn-07497407-n">
         <SenseRelation relType="derivation" target="ewn-mawkish__5_00_00_emotional_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hesitance-n">
       <Lemma writtenForm="hesitance" partOfSpeech="n"/>
       <Sense id="ewn-hesitance__1_12_00__" n="0" synset="ewn-07538724-n">
         <SenseRelation relType="derivation" target="ewn-hesitant__5_00_00_indecisive_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-craving-n">
       <Lemma writtenForm="craving" partOfSpeech="n"/>
       <Sense id="ewn-craving__1_12_00__" n="0" synset="ewn-07500615-n">
         <SenseRelation relType="derivation" target="ewn-crave__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gusto-n">
       <Lemma writtenForm="gusto" partOfSpeech="n">
@@ -2527,7 +2527,7 @@
       <Sense id="ewn-dread__1_12_00__" n="0" synset="ewn-07536913-n">
         <SenseRelation relType="derivation" target="ewn-dread__5_00_00_alarming_00"/>
         <SenseRelation relType="derivation" target="ewn-dread__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-keenness-n">
       <Lemma writtenForm="keenness" partOfSpeech="n"/>
@@ -2548,7 +2548,7 @@
       <Sense id="ewn-scare__1_12_00__" n="1" synset="ewn-07536676-n">
         <SenseRelation relType="derivation" target="ewn-scary__5_00_00_alarming_00"/>
         <SenseRelation relType="derivation" target="ewn-scare__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-qualm-n">
       <Lemma writtenForm="qualm" partOfSpeech="n">
@@ -2567,13 +2567,13 @@
       </Lemma>
       <Sense id="ewn-fatigue__1_12_00__" n="2" synset="ewn-07555469-n">
         <SenseRelation relType="derivation" target="ewn-fatigue__2_29_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-despisal-n">
       <Lemma writtenForm="despisal" partOfSpeech="n"/>
       <Sense id="ewn-despisal__1_12_00__" n="0" synset="ewn-07563140-n">
         <SenseRelation relType="derivation" target="ewn-despise__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sexual_urge-n">
       <Lemma writtenForm="sexual urge" partOfSpeech="n"/>
@@ -2583,14 +2583,14 @@
       <Lemma writtenForm="touchiness" partOfSpeech="n"/>
       <Sense id="ewn-touchiness__1_12_01__" n="0" synset="ewn-07568482-n">
         <SenseRelation relType="derivation" target="ewn-touchy__5_00_00_sensitive_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-impassiveness-n">
       <Lemma writtenForm="impassiveness" partOfSpeech="n"/>
       <Sense id="ewn-impassiveness__1_12_00__" n="0" synset="ewn-07498922-n">
         <SenseRelation relType="derivation" target="ewn-impassive__5_00_00_unemotional_00"/>
         <SenseRelation relType="derivation" target="ewn-impassive__5_00_00_uncommunicative_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fury-n">
       <Lemma writtenForm="fury" partOfSpeech="n">
@@ -2600,7 +2600,7 @@
       <Sense id="ewn-fury__1_12_00__" n="0" synset="ewn-07532236-n">
         <SenseRelation relType="derivation" target="ewn-furious__5_00_00_angry_00"/>
         <SenseRelation relType="derivation" target="ewn-infuriate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fidget-n">
       <Lemma writtenForm="fidget" partOfSpeech="n">
@@ -2609,19 +2609,19 @@
       <Sense id="ewn-fidget__1_12_00__" n="0" synset="ewn-07529034-n">
         <SenseRelation relType="derivation" target="ewn-fidget__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-fidgety__5_00_00_tense_03"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-solacement-n">
       <Lemma writtenForm="solacement" partOfSpeech="n"/>
       <Sense id="ewn-solacement__1_12_00__" n="1" synset="ewn-07507795-n">
         <SenseRelation relType="derivation" target="ewn-solace__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gall-n">
       <Lemma writtenForm="gall" partOfSpeech="n"/>
       <Sense id="ewn-gall__1_12_00__" n="3" synset="ewn-07564444-n">
         <SenseRelation relType="derivation" target="ewn-gall__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-passion-n">
       <Lemma writtenForm="passion" partOfSpeech="n">
@@ -2641,14 +2641,14 @@
       <Sense id="ewn-amiability__1_12_00__" n="0" synset="ewn-07567157-n">
         <SenseRelation relType="derivation" target="ewn-amiable__5_00_00_good-natured_00"/>
         <SenseRelation relType="derivation" target="ewn-amiable__5_00_00_friendly_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tearfulness-n">
       <Lemma writtenForm="tearfulness" partOfSpeech="n"/>
       <Sense id="ewn-tearfulness__1_12_00__" n="0" synset="ewn-07549666-n">
         <SenseRelation relType="derivation" target="ewn-tearful__5_00_00_sorrowful_00"/>
         <SenseRelation relType="derivation" target="ewn-tearful__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-conscience-n">
       <Lemma writtenForm="conscience" partOfSpeech="n">
@@ -2656,7 +2656,7 @@
       </Lemma>
       <Sense id="ewn-conscience__1_12_00__" n="2" synset="ewn-07522036-n">
         <SenseRelation relType="derivation" target="ewn-conscientious__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-humility-n">
       <Lemma writtenForm="humility" partOfSpeech="n">
@@ -2664,7 +2664,7 @@
       </Lemma>
       <Sense id="ewn-humility__1_12_00__" n="1" synset="ewn-07524370-n">
         <SenseRelation relType="antonym" target="ewn-pride__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-good_humour-n">
       <Lemma writtenForm="good humour" partOfSpeech="n"/>
@@ -2676,7 +2676,7 @@
       </Lemma>
       <Sense id="ewn-disdain__1_12_00__" n="0" synset="ewn-07518219-n">
         <SenseRelation relType="derivation" target="ewn-disdain__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-scunner-n">
       <Lemma writtenForm="scunner" partOfSpeech="n"/>
@@ -2695,7 +2695,7 @@
       </Lemma>
       <Sense id="ewn-desolation__1_12_02__" n="2" synset="ewn-07549496-n">
         <SenseRelation relType="derivation" target="ewn-desolate__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-erotism-n">
       <Lemma writtenForm="erotism" partOfSpeech="n"/>
@@ -2712,7 +2712,7 @@
       <Sense id="ewn-stomach__1_12_01__" n="2" synset="ewn-07514515-n"/>
       <Sense id="ewn-stomach__1_12_00__" n="3" synset="ewn-07501056-n">
         <SenseRelation relType="derivation" target="ewn-stomach__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-silver_lining-n">
       <Lemma writtenForm="silver lining" partOfSpeech="n"/>
@@ -2722,14 +2722,14 @@
       <Lemma writtenForm="perkiness" partOfSpeech="n"/>
       <Sense id="ewn-perkiness__1_12_00__" n="0" synset="ewn-07546111-n">
         <SenseRelation relType="derivation" target="ewn-perky__5_00_00_cheerful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hopefulness-n">
       <Lemma writtenForm="hopefulness" partOfSpeech="n"/>
       <Sense id="ewn-hopefulness__1_12_00__" n="1" synset="ewn-07556704-n">
         <SenseRelation relType="antonym" target="ewn-hopelessness__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-hopeful__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-frustration-n">
       <Lemma writtenForm="frustration" partOfSpeech="n">
@@ -2737,11 +2737,11 @@
       </Lemma>
       <Sense id="ewn-frustration__1_12_00__" n="0" synset="ewn-07556254-n">
         <SenseRelation relType="derivation" target="ewn-frustrate__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-frustration__1_12_01__" n="2" synset="ewn-07533902-n">
         <SenseRelation relType="derivation" target="ewn-frustrate__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-frustrate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sensuousness-n">
       <Lemma writtenForm="sensuousness" partOfSpeech="n">
@@ -2749,13 +2749,13 @@
       </Lemma>
       <Sense id="ewn-sensuousness__1_12_00__" n="0" synset="ewn-07528652-n">
         <SenseRelation relType="derivation" target="ewn-sensuous__5_00_00_aesthetic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-shyness-n">
       <Lemma writtenForm="shyness" partOfSpeech="n"/>
       <Sense id="ewn-shyness__1_12_00__" n="0" synset="ewn-07538419-n">
         <SenseRelation relType="derivation" target="ewn-shy__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-presage-n">
       <Lemma writtenForm="presage" partOfSpeech="n">
@@ -2773,7 +2773,7 @@
       <Lemma writtenForm="lightness" partOfSpeech="n"/>
       <Sense id="ewn-lightness__1_12_00__" n="0" synset="ewn-07543044-n">
         <SenseRelation relType="derivation" target="ewn-light__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fever-n">
       <Lemma writtenForm="fever" partOfSpeech="n">
@@ -2789,19 +2789,19 @@
       <Sense id="ewn-phlegm__1_12_00__" n="0" synset="ewn-07498922-n">
         <SenseRelation relType="derivation" target="ewn-phlegmatic__5_00_00_unemotional_00"/>
         <SenseRelation relType="derivation" target="ewn-phlegmatical__5_00_00_unemotional_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mercifulness-n">
       <Lemma writtenForm="mercifulness" partOfSpeech="n"/>
       <Sense id="ewn-mercifulness__1_12_00__" n="0" synset="ewn-07570065-n">
         <SenseRelation relType="derivation" target="ewn-merciful__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hungriness-n">
       <Lemma writtenForm="hungriness" partOfSpeech="n"/>
       <Sense id="ewn-hungriness__1_12_00__" n="1" synset="ewn-07501768-n">
         <SenseRelation relType="derivation" target="ewn-hungry__5_00_00_desirous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-want-n">
       <Lemma writtenForm="want" partOfSpeech="n">
@@ -2814,7 +2814,7 @@
       <Sense id="ewn-want__1_12_00__" n="3" synset="ewn-07501369-n">
         <SenseRelation relType="derivation" target="ewn-want__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-want__2_31_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-amour_propre-n">
       <Lemma writtenForm="amour propre" partOfSpeech="n"/>
@@ -2836,7 +2836,7 @@
       </Lemma>
       <Sense id="ewn-grudge__1_12_00__" n="0" synset="ewn-07565002-n">
         <SenseRelation relType="derivation" target="ewn-grudge__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chafing-n">
       <Lemma writtenForm="chafing" partOfSpeech="n"/>
@@ -2855,7 +2855,7 @@
       <Lemma writtenForm="longing" partOfSpeech="n"/>
       <Sense id="ewn-longing__1_12_00__" n="0" synset="ewn-07501768-n">
         <SenseRelation relType="derivation" target="ewn-long__2_37_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-animus-n">
       <Lemma writtenForm="animus" partOfSpeech="n">
@@ -2870,10 +2870,10 @@
       </Lemma>
       <Sense id="ewn-concern__1_12_01__" n="1" synset="ewn-07539768-n">
         <SenseRelation relType="derivation" target="ewn-concern__2_42_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-concern__1_12_00__" n="2" synset="ewn-07520080-n">
         <SenseRelation relType="antonym" target="ewn-unconcern__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-intertrigo-n">
       <Lemma writtenForm="intertrigo" partOfSpeech="n"/>
@@ -2892,7 +2892,7 @@
         <SenseRelation relType="derivation" target="ewn-favor__2_41_03__"/>
         <SenseRelation relType="derivation" target="ewn-favor__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-favor__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wound-n">
       <Lemma writtenForm="wound" partOfSpeech="n">
@@ -2910,7 +2910,7 @@
         <SenseRelation relType="derivation" target="ewn-empathetic__5_00_00_sympathetic_00"/>
         <SenseRelation relType="derivation" target="ewn-empathize__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-empathise__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-prurience-n">
       <Lemma writtenForm="prurience" partOfSpeech="n">
@@ -2918,7 +2918,7 @@
       </Lemma>
       <Sense id="ewn-prurience__1_12_00__" n="0" synset="ewn-07505354-n">
         <SenseRelation relType="derivation" target="ewn-prurient__5_00_00_sexy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dysphoria-n">
       <Lemma writtenForm="dysphoria" partOfSpeech="n">
@@ -2927,13 +2927,13 @@
       <Sense id="ewn-dysphoria__1_12_00__" n="0" synset="ewn-07554755-n">
         <SenseRelation relType="antonym" target="ewn-euphoria__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-dysphoric__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-detestation-n">
       <Lemma writtenForm="detestation" partOfSpeech="n"/>
       <Sense id="ewn-detestation__1_12_00__" n="0" synset="ewn-07518669-n">
         <SenseRelation relType="derivation" target="ewn-detest__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-regard-n">
       <Lemma writtenForm="regard" partOfSpeech="n"/>
@@ -2951,13 +2951,13 @@
       </Lemma>
       <Sense id="ewn-resignation__1_12_00__" n="0" synset="ewn-07557821-n">
         <SenseRelation relType="derivation" target="ewn-resign__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-unconcern-n">
       <Lemma writtenForm="unconcern" partOfSpeech="n"/>
       <Sense id="ewn-unconcern__1_12_00__" n="1" synset="ewn-07520777-n">
         <SenseRelation relType="antonym" target="ewn-concern__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-confusion-n">
       <Lemma writtenForm="confusion" partOfSpeech="n">
@@ -2965,13 +2965,13 @@
       </Lemma>
       <Sense id="ewn-confusion__1_12_00__" n="2" synset="ewn-07523151-n">
         <SenseRelation relType="derivation" target="ewn-confuse__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-devotedness-n">
       <Lemma writtenForm="devotedness" partOfSpeech="n"/>
       <Sense id="ewn-devotedness__1_12_00__" n="0" synset="ewn-07559879-n">
         <SenseRelation relType="derivation" target="ewn-devoted__5_00_02_dedicated_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-survivor_guilt-n">
       <Lemma writtenForm="survivor guilt" partOfSpeech="n"/>
@@ -2983,25 +2983,25 @@
         <SenseRelation relType="derivation" target="ewn-penitential__5_00_00_penitent_00"/>
         <SenseRelation relType="derivation" target="ewn-penitentiary__5_00_00_punitive_00"/>
         <SenseRelation relType="derivation" target="ewn-penitent__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-uncomfortableness-n">
       <Lemma writtenForm="uncomfortableness" partOfSpeech="n"/>
       <Sense id="ewn-uncomfortableness__1_12_00__" n="1" synset="ewn-07522568-n">
         <SenseRelation relType="derivation" target="ewn-uncomfortable__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-playfulness-n">
       <Lemma writtenForm="playfulness" partOfSpeech="n"/>
       <Sense id="ewn-playfulness__1_12_00__" n="0" synset="ewn-07527278-n">
         <SenseRelation relType="derivation" target="ewn-playful__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-jolliness-n">
       <Lemma writtenForm="jolliness" partOfSpeech="n"/>
       <Sense id="ewn-jolliness__1_12_00__" n="0" synset="ewn-07567356-n">
         <SenseRelation relType="derivation" target="ewn-jolly__5_00_00_joyous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-afterglow-n">
       <Lemma writtenForm="afterglow" partOfSpeech="n"/>
@@ -3020,7 +3020,7 @@
       </Lemma>
       <Sense id="ewn-desire__1_12_00__" n="0" synset="ewn-07499405-n">
         <SenseRelation relType="derivation" target="ewn-desire__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-astonishment-n">
       <Lemma writtenForm="astonishment" partOfSpeech="n">
@@ -3029,13 +3029,13 @@
       </Lemma>
       <Sense id="ewn-astonishment__1_12_00__" n="0" synset="ewn-07524811-n">
         <SenseRelation relType="derivation" target="ewn-astonish__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plaintiveness-n">
       <Lemma writtenForm="plaintiveness" partOfSpeech="n"/>
       <Sense id="ewn-plaintiveness__1_12_00__" n="0" synset="ewn-07550818-n">
         <SenseRelation relType="derivation" target="ewn-plaintive__5_00_00_sorrowful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bravery-n">
       <Lemma writtenForm="bravery" partOfSpeech="n">
@@ -3049,13 +3049,13 @@
         <SenseRelation relType="antonym" target="ewn-hopefulness__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-hopeless__5_00_03_unskilled_00"/>
         <SenseRelation relType="derivation" target="ewn-hopeless__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wildness-n">
       <Lemma writtenForm="wildness" partOfSpeech="n"/>
       <Sense id="ewn-wildness__1_12_00__" n="0" synset="ewn-07496363-n">
         <SenseRelation relType="derivation" target="ewn-wild__5_00_00_passionate_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bright_side-n">
       <Lemma writtenForm="bright side" partOfSpeech="n"/>
@@ -3074,7 +3074,7 @@
       </Lemma>
       <Sense id="ewn-heart__1_12_04__" n="8" synset="ewn-07560035-n">
         <SenseRelation relType="derivation" target="ewn-hearty__5_00_00_warm_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-heartache-n">
       <Lemma writtenForm="heartache" partOfSpeech="n"/>
@@ -3101,10 +3101,10 @@
       <Lemma writtenForm="sulkiness" partOfSpeech="n"/>
       <Sense id="ewn-sulkiness__1_12_01__" n="0" synset="ewn-07566964-n">
         <SenseRelation relType="derivation" target="ewn-sulky__5_00_00_ill-natured_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-sulkiness__1_12_00__" n="1" synset="ewn-07564867-n">
         <SenseRelation relType="derivation" target="ewn-sulky__5_00_00_ill-natured_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-melancholy-n">
       <Lemma writtenForm="melancholy" partOfSpeech="n">
@@ -3117,13 +3117,13 @@
       <Lemma writtenForm="impassivity" partOfSpeech="n"/>
       <Sense id="ewn-impassivity__1_12_00__" n="0" synset="ewn-07498922-n">
         <SenseRelation relType="derivation" target="ewn-impassive__5_00_00_unemotional_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-guilt-n">
       <Lemma writtenForm="guilt" partOfSpeech="n"/>
       <Sense id="ewn-guilt__1_12_00__" n="1" synset="ewn-07551633-n">
         <SenseRelation relType="derivation" target="ewn-guilty__5_00_00_ashamed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-contentment-n">
       <Lemma writtenForm="contentment" partOfSpeech="n">
@@ -3132,7 +3132,7 @@
       <Sense id="ewn-contentment__1_12_00__" n="0" synset="ewn-07546493-n">
         <SenseRelation relType="antonym" target="ewn-discontentment__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-content__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-animosity-n">
       <Lemma writtenForm="animosity" partOfSpeech="n">
@@ -3149,7 +3149,7 @@
         <SenseRelation relType="derivation" target="ewn-indifferent__5_00_00_unimportant_00"/>
         <SenseRelation relType="derivation" target="ewn-indifferent__5_00_00_unconcerned_00"/>
         <SenseRelation relType="derivation" target="ewn-indifferent__5_00_00_impartial_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-indifference__1_12_01__" n="1" synset="ewn-07498922-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-vindictiveness-n">
@@ -3157,19 +3157,19 @@
       <Sense id="ewn-vindictiveness__1_12_00__" n="0" synset="ewn-07566357-n">
         <SenseRelation relType="derivation" target="ewn-vindictive__5_00_00_unforgiving_00"/>
         <SenseRelation relType="derivation" target="ewn-vindictive__5_00_00_malicious_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-affright-n">
       <Lemma writtenForm="affright" partOfSpeech="n"/>
       <Sense id="ewn-affright__1_12_00__" n="0" synset="ewn-07535851-n">
         <SenseRelation relType="derivation" target="ewn-affright__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sensuality-n">
       <Lemma writtenForm="sensuality" partOfSpeech="n"/>
       <Sense id="ewn-sensuality__1_12_00__" n="0" synset="ewn-07504015-n">
         <SenseRelation relType="derivation" target="ewn-sensual__5_00_00_physical_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-humbleness-n">
       <Lemma writtenForm="humbleness" partOfSpeech="n"/>
@@ -3188,7 +3188,7 @@
       <Sense id="ewn-meekness__1_12_00__" n="0" synset="ewn-07524564-n">
         <SenseRelation relType="derivation" target="ewn-meek__5_00_00_humble_00"/>
         <SenseRelation relType="derivation" target="ewn-meek__5_00_00_docile_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-buck_fever-n">
       <Lemma writtenForm="buck fever" partOfSpeech="n"/>
@@ -3204,7 +3204,7 @@
       </Lemma>
       <Sense id="ewn-bitterness__1_12_00__" n="0" synset="ewn-07564444-n">
         <SenseRelation relType="derivation" target="ewn-bitter__5_00_00_hostile_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dismay-n">
       <Lemma writtenForm="dismay" partOfSpeech="n">
@@ -3212,10 +3212,10 @@
       </Lemma>
       <Sense id="ewn-dismay__1_12_02__" n="0" synset="ewn-07558063-n">
         <SenseRelation relType="derivation" target="ewn-dismay__2_37_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-dismay__1_12_00__" n="1" synset="ewn-07535012-n">
         <SenseRelation relType="derivation" target="ewn-dismay__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-creepy-crawlies-n">
       <Lemma writtenForm="creepy-crawlies" partOfSpeech="n"/>
@@ -3225,7 +3225,7 @@
       <Lemma writtenForm="carnality" partOfSpeech="n"/>
       <Sense id="ewn-carnality__1_12_00__" n="0" synset="ewn-07505354-n">
         <SenseRelation relType="derivation" target="ewn-carnal__5_00_00_physical_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-temptation-n">
       <Lemma writtenForm="temptation" partOfSpeech="n">
@@ -3233,7 +3233,7 @@
       </Lemma>
       <Sense id="ewn-temptation__1_12_00__" n="1" synset="ewn-07500421-n">
         <SenseRelation relType="derivation" target="ewn-tempt__2_32_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-preference-n">
       <Lemma writtenForm="preference" partOfSpeech="n">
@@ -3241,7 +3241,7 @@
       </Lemma>
       <Sense id="ewn-preference__1_12_00__" n="0" synset="ewn-07513449-n">
         <SenseRelation relType="derivation" target="ewn-prefer__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-glee-n">
       <Lemma writtenForm="glee" partOfSpeech="n">
@@ -3254,32 +3254,32 @@
       <Lemma writtenForm="foreboding" partOfSpeech="n"/>
       <Sense id="ewn-foreboding__1_12_00__" n="0" synset="ewn-07537367-n">
         <SenseRelation relType="derivation" target="ewn-forebode__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-enragement-n">
       <Lemma writtenForm="enragement" partOfSpeech="n"/>
       <Sense id="ewn-enragement__1_12_00__" n="0" synset="ewn-07532656-n">
         <SenseRelation relType="derivation" target="ewn-enrage__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-unassertiveness-n">
       <Lemma writtenForm="unassertiveness" partOfSpeech="n"/>
       <Sense id="ewn-unassertiveness__1_12_00__" n="0" synset="ewn-07538888-n">
         <SenseRelation relType="derivation" target="ewn-unassertive__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-jollity-n">
       <Lemma writtenForm="jollity" partOfSpeech="n"/>
       <Sense id="ewn-jollity__1_12_00__" n="0" synset="ewn-07567356-n">
         <SenseRelation relType="derivation" target="ewn-jolly__5_00_00_joyous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hardheartedness-n">
       <Lemma writtenForm="hardheartedness" partOfSpeech="n"/>
       <Sense id="ewn-hardheartedness__1_12_00__" n="0" synset="ewn-07521388-n">
         <SenseRelation relType="derivation" target="ewn-hardhearted__5_00_00_uncompassionate_00"/>
         <SenseRelation relType="derivation" target="ewn-hardhearted__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-misogynism-n">
       <Lemma writtenForm="misogynism" partOfSpeech="n"/>
@@ -3292,32 +3292,32 @@
       <Sense id="ewn-maleficence__1_12_00__" n="0" synset="ewn-07566017-n">
         <SenseRelation relType="antonym" target="ewn-beneficence__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-maleficent__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-disconcertment-n">
       <Lemma writtenForm="disconcertment" partOfSpeech="n"/>
       <Sense id="ewn-disconcertment__1_12_00__" n="0" synset="ewn-07523471-n">
         <SenseRelation relType="derivation" target="ewn-disconcert__2_37_02__"/>
         <SenseRelation relType="derivation" target="ewn-disconcert__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-peevishness-n">
       <Lemma writtenForm="peevishness" partOfSpeech="n"/>
       <Sense id="ewn-peevishness__1_12_00__" n="0" synset="ewn-07568195-n">
         <SenseRelation relType="derivation" target="ewn-peevish__5_00_00_ill-natured_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lividity-n">
       <Lemma writtenForm="lividity" partOfSpeech="n"/>
       <Sense id="ewn-lividity__1_12_00__" n="0" synset="ewn-07532531-n">
         <SenseRelation relType="derivation" target="ewn-livid__5_00_00_angry_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ravishment-n">
       <Lemma writtenForm="ravishment" partOfSpeech="n"/>
       <Sense id="ewn-ravishment__1_12_00__" n="0" synset="ewn-07506426-n">
         <SenseRelation relType="derivation" target="ewn-ravish__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-relish-n">
       <Lemma writtenForm="relish" partOfSpeech="n">
@@ -3325,7 +3325,7 @@
       </Lemma>
       <Sense id="ewn-relish__1_12_02__" n="0" synset="ewn-07507121-n">
         <SenseRelation relType="derivation" target="ewn-relish__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sinking_feeling-n">
       <Lemma writtenForm="sinking feeling" partOfSpeech="n"/>
@@ -3335,7 +3335,7 @@
       <Lemma writtenForm="jitteriness" partOfSpeech="n"/>
       <Sense id="ewn-jitteriness__1_12_00__" n="0" synset="ewn-07540999-n">
         <SenseRelation relType="derivation" target="ewn-jittery__5_00_00_tense_03"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-disquiet-n">
       <Lemma writtenForm="disquiet" partOfSpeech="n">
@@ -3343,13 +3343,13 @@
       </Lemma>
       <Sense id="ewn-disquiet__1_12_00__" n="0" synset="ewn-07539999-n">
         <SenseRelation relType="derivation" target="ewn-disquiet__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-uncheerfulness-n">
       <Lemma writtenForm="uncheerfulness" partOfSpeech="n"/>
       <Sense id="ewn-uncheerfulness__1_12_00__" n="0" synset="ewn-07552456-n">
         <SenseRelation relType="derivation" target="ewn-uncheerful__3_00_04__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dander-n">
       <Lemma writtenForm="dander" partOfSpeech="n"/>
@@ -3370,13 +3370,13 @@
       <Sense id="ewn-pleasure__1_12_00__" n="0" synset="ewn-07505853-n">
         <SenseRelation relType="antonym" target="ewn-pain__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-please__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wonderment-n">
       <Lemma writtenForm="wonderment" partOfSpeech="n"/>
       <Sense id="ewn-wonderment__1_12_00__" n="0" synset="ewn-07525235-n">
         <SenseRelation relType="derivation" target="ewn-wonder__2_32_12__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dudgeon-n">
       <Lemma writtenForm="dudgeon" partOfSpeech="n">
@@ -3394,7 +3394,7 @@
       </Lemma>
       <Sense id="ewn-disappointment__1_12_00__" n="0" synset="ewn-07555990-n">
         <SenseRelation relType="derivation" target="ewn-disappoint__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chill-n">
       <Lemma writtenForm="chill" partOfSpeech="n">
@@ -3403,13 +3403,13 @@
       <Sense id="ewn-chill__1_12_02__" n="1" synset="ewn-07535351-n"/>
       <Sense id="ewn-chill__1_12_00__" n="3" synset="ewn-07552647-n">
         <SenseRelation relType="derivation" target="ewn-chill__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-importance-n">
       <Lemma writtenForm="self-importance" partOfSpeech="n"/>
       <Sense id="ewn-self-importance__1_12_00__" n="0" synset="ewn-07524045-n">
         <SenseRelation relType="derivation" target="ewn-self-important__5_00_00_proud_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sinking-n">
       <Lemma writtenForm="sinking" partOfSpeech="n">
@@ -3423,7 +3423,7 @@
       </Lemma>
       <Sense id="ewn-attachment__1_12_00__" n="0" synset="ewn-07560531-n">
         <SenseRelation relType="derivation" target="ewn-attach__2_41_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dream-n">
       <Lemma writtenForm="dream" partOfSpeech="n">
@@ -3439,13 +3439,13 @@
       <Sense id="ewn-discontentment__1_12_00__" n="0" synset="ewn-07554353-n">
         <SenseRelation relType="antonym" target="ewn-contentment__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-discontent__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-perceptivity-n">
       <Lemma writtenForm="perceptivity" partOfSpeech="n"/>
       <Sense id="ewn-perceptivity__1_12_00__" n="0" synset="ewn-07528486-n">
         <SenseRelation relType="derivation" target="ewn-perceptive__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Schadenfreude-n">
       <Lemma writtenForm="Schadenfreude" partOfSpeech="n">
@@ -3468,7 +3468,7 @@
       <Sense id="ewn-gloating__1_12_00__" n="0" synset="ewn-07547664-n">
         <SenseRelation relType="derivation" target="ewn-gloat__2_39_00__"/>
         <SenseRelation relType="derivation" target="ewn-gloat__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-resentment-n">
       <Lemma writtenForm="resentment" partOfSpeech="n">
@@ -3476,13 +3476,13 @@
       </Lemma>
       <Sense id="ewn-resentment__1_12_00__" n="0" synset="ewn-07564444-n">
         <SenseRelation relType="derivation" target="ewn-resent__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stolidity-n">
       <Lemma writtenForm="stolidity" partOfSpeech="n"/>
       <Sense id="ewn-stolidity__1_12_00__" n="0" synset="ewn-07498922-n">
         <SenseRelation relType="derivation" target="ewn-stolid__5_00_00_unemotional_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ataraxis-n">
       <Lemma writtenForm="ataraxis" partOfSpeech="n"/>
@@ -3494,13 +3494,13 @@
       </Lemma>
       <Sense id="ewn-disgruntlement__1_12_00__" n="0" synset="ewn-07554647-n">
         <SenseRelation relType="derivation" target="ewn-disgruntle__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mercilessness-n">
       <Lemma writtenForm="mercilessness" partOfSpeech="n"/>
       <Sense id="ewn-mercilessness__1_12_00__" n="0" synset="ewn-07521621-n">
         <SenseRelation relType="derivation" target="ewn-merciless__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rancour-n">
       <Lemma writtenForm="rancour" partOfSpeech="n"/>
@@ -3511,29 +3511,29 @@
       <Sense id="ewn-mournfulness__1_12_00__" n="0" synset="ewn-07550597-n">
         <SenseRelation relType="derivation" target="ewn-mournful__5_00_01_sorrowful_00"/>
         <SenseRelation relType="derivation" target="ewn-mournful__5_00_00_sad_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sombreness-n">
       <Lemma writtenForm="sombreness" partOfSpeech="n"/>
       <Sense id="ewn-sombreness__1_12_00__" n="1" synset="ewn-07548645-n">
         <SenseRelation relType="derivation" target="ewn-sombre__5_00_00_depressing_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-care-n">
       <Lemma writtenForm="care" partOfSpeech="n"/>
       <Sense id="ewn-care__1_12_01__" n="2" synset="ewn-07539768-n">
         <SenseRelation relType="derivation" target="ewn-care__2_37_12__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-care__1_12_00__" n="3" synset="ewn-07520286-n">
         <SenseRelation relType="derivation" target="ewn-care__2_37_02__"/>
         <SenseRelation relType="derivation" target="ewn-care__2_37_12__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sullenness-n">
       <Lemma writtenForm="sullenness" partOfSpeech="n"/>
       <Sense id="ewn-sullenness__1_12_00__" n="0" synset="ewn-07567833-n">
         <SenseRelation relType="derivation" target="ewn-sullen__5_00_00_cloudy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-revulsion-n">
       <Lemma writtenForm="revulsion" partOfSpeech="n">
@@ -3558,13 +3558,13 @@
       <Lemma writtenForm="philhellenism" partOfSpeech="n"/>
       <Sense id="ewn-philhellenism__1_12_00__" n="0" synset="ewn-07516433-n">
         <SenseRelation relType="derivation" target="ewn-philhellenist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-enthrallment-n">
       <Lemma writtenForm="enthrallment" partOfSpeech="n"/>
       <Sense id="ewn-enthrallment__1_12_00__" n="0" synset="ewn-07513215-n">
         <SenseRelation relType="derivation" target="ewn-enthrall__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-feelings-n">
       <Lemma writtenForm="feelings" partOfSpeech="n">
@@ -3573,7 +3573,7 @@
       <Sense id="ewn-feelings__1_12_00__" n="0" synset="ewn-07528274-n">
         <SenseRelation relType="derivation" target="ewn-feel__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-feel__2_31_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-defeatism-n">
       <Lemma writtenForm="defeatism" partOfSpeech="n">
@@ -3581,13 +3581,13 @@
       </Lemma>
       <Sense id="ewn-defeatism__1_12_00__" n="0" synset="ewn-07557948-n">
         <SenseRelation relType="derivation" target="ewn-defeatist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-captivation-n">
       <Lemma writtenForm="captivation" partOfSpeech="n"/>
       <Sense id="ewn-captivation__1_12_00__" n="1" synset="ewn-07513215-n">
         <SenseRelation relType="derivation" target="ewn-captivate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-scorn-n">
       <Lemma writtenForm="scorn" partOfSpeech="n">
@@ -3596,7 +3596,7 @@
       </Lemma>
       <Sense id="ewn-scorn__1_12_00__" n="0" synset="ewn-07518219-n">
         <SenseRelation relType="derivation" target="ewn-scorn__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-doubt-n">
       <Lemma writtenForm="self-doubt" partOfSpeech="n"/>
@@ -3616,7 +3616,7 @@
       </Lemma>
       <Sense id="ewn-excitement__1_12_00__" n="0" synset="ewn-07543600-n">
         <SenseRelation relType="derivation" target="ewn-excite__2_37_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-blahs-n">
       <Lemma writtenForm="blahs" partOfSpeech="n"/>
@@ -3627,7 +3627,7 @@
       <Sense id="ewn-mirthfulness__1_12_00__" n="0" synset="ewn-07544765-n">
         <SenseRelation relType="derivation" target="ewn-mirthful__5_00_00_joyous_00"/>
         <SenseRelation relType="derivation" target="ewn-mirthful__5_00_00_humorous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rejoicing-n">
       <Lemma writtenForm="rejoicing" partOfSpeech="n">
@@ -3636,13 +3636,13 @@
       <Sense id="ewn-rejoicing__1_12_00__" n="0" synset="ewn-07544951-n">
         <SenseRelation relType="derivation" target="ewn-rejoice__2_37_02__"/>
         <SenseRelation relType="derivation" target="ewn-rejoice__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gloominess-n">
       <Lemma writtenForm="gloominess" partOfSpeech="n"/>
       <Sense id="ewn-gloominess__1_12_00__" n="1" synset="ewn-07548645-n">
         <SenseRelation relType="derivation" target="ewn-gloomy__5_00_00_dejected_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Electra_complex-n">
       <Lemma writtenForm="Electra complex" partOfSpeech="n"/>
@@ -3656,7 +3656,7 @@
       <Lemma writtenForm="pall" partOfSpeech="n"/>
       <Sense id="ewn-pall__1_12_00__" n="0" synset="ewn-07552647-n">
         <SenseRelation relType="derivation" target="ewn-pall__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-terror-n">
       <Lemma writtenForm="terror" partOfSpeech="n">
@@ -3670,7 +3670,7 @@
         <SenseRelation relType="derivation" target="ewn-terrorise__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-terrorise__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-terrify__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ruth-n">
       <Lemma writtenForm="ruth" partOfSpeech="n">
@@ -3688,7 +3688,7 @@
       </Lemma>
       <Sense id="ewn-tranquillity__1_12_00__" n="1" synset="ewn-07530799-n">
         <SenseRelation relType="derivation" target="ewn-tranquil__5_00_00_calm_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ire-n">
       <Lemma writtenForm="ire" partOfSpeech="n"/>
@@ -3700,7 +3700,7 @@
       </Lemma>
       <Sense id="ewn-jocularity__1_12_00__" n="0" synset="ewn-07545071-n">
         <SenseRelation relType="derivation" target="ewn-jocular__5_00_00_humorous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quick_temper-n">
       <Lemma writtenForm="quick temper" partOfSpeech="n"/>
@@ -3710,7 +3710,7 @@
       <Lemma writtenForm="gratefulness" partOfSpeech="n"/>
       <Sense id="ewn-gratefulness__1_12_00__" n="0" synset="ewn-07519768-n">
         <SenseRelation relType="derivation" target="ewn-grateful__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tenderness-n">
       <Lemma writtenForm="tenderness" partOfSpeech="n">
@@ -3719,13 +3719,13 @@
       </Lemma>
       <Sense id="ewn-tenderness__1_12_03__" n="2" synset="ewn-07569907-n">
         <SenseRelation relType="derivation" target="ewn-tender__3_00_03__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-tenderness__1_12_01__" n="3" synset="ewn-07560035-n">
         <SenseRelation relType="derivation" target="ewn-tender__5_00_00_loving_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-tenderness__1_12_00__" n="4" synset="ewn-07520586-n">
         <SenseRelation relType="derivation" target="ewn-tender__3_00_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-harassment-n">
       <Lemma writtenForm="harassment" partOfSpeech="n">
@@ -3738,7 +3738,7 @@
       <Sense id="ewn-timorousness__1_12_00__" n="0" synset="ewn-07537968-n">
         <SenseRelation relType="derivation" target="ewn-timid__5_00_00_cowardly_00"/>
         <SenseRelation relType="derivation" target="ewn-timorous__5_00_00_timid_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-penchant-n">
       <Lemma writtenForm="penchant" partOfSpeech="n">
@@ -3753,7 +3753,7 @@
       </Lemma>
       <Sense id="ewn-esteem__1_12_00__" n="1" synset="ewn-07515980-n">
         <SenseRelation relType="derivation" target="ewn-esteem__2_31_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fervour-n">
       <Lemma writtenForm="fervour" partOfSpeech="n"/>
@@ -3767,7 +3767,7 @@
       <Lemma writtenForm="rue" partOfSpeech="n"/>
       <Sense id="ewn-rue__1_12_00__" n="2" synset="ewn-07551058-n">
         <SenseRelation relType="derivation" target="ewn-rue__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-enthusiasm-n">
       <Lemma writtenForm="enthusiasm" partOfSpeech="n">
@@ -3775,7 +3775,7 @@
       </Lemma>
       <Sense id="ewn-enthusiasm__1_12_00__" n="0" synset="ewn-07570579-n">
         <SenseRelation relType="derivation" target="ewn-enthusiastic__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-enmity-n">
       <Lemma writtenForm="enmity" partOfSpeech="n">
@@ -3784,7 +3784,7 @@
       </Lemma>
       <Sense id="ewn-enmity__1_12_00__" n="1" synset="ewn-07563271-n">
         <SenseRelation relType="derivation" target="ewn-inimical__5_00_00_hostile_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-amazement-n">
       <Lemma writtenForm="amazement" partOfSpeech="n">
@@ -3792,7 +3792,7 @@
       </Lemma>
       <Sense id="ewn-amazement__1_12_00__" n="0" synset="ewn-07524811-n">
         <SenseRelation relType="derivation" target="ewn-amaze__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-reverence-n">
       <Lemma writtenForm="reverence" partOfSpeech="n">
@@ -3803,7 +3803,7 @@
         <SenseRelation relType="derivation" target="ewn-reverent__5_00_00_pious_00"/>
         <SenseRelation relType="derivation" target="ewn-reverence__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-revere__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hero_worship-n">
       <Lemma writtenForm="hero worship" partOfSpeech="n"/>
@@ -3823,7 +3823,7 @@
       </Lemma>
       <Sense id="ewn-veneration__1_12_00__" n="0" synset="ewn-07536278-n">
         <SenseRelation relType="derivation" target="ewn-venerate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-flush-n">
       <Lemma writtenForm="flush" partOfSpeech="n"/>
@@ -3842,7 +3842,7 @@
       </Lemma>
       <Sense id="ewn-gratitude__1_12_00__" n="0" synset="ewn-07519582-n">
         <SenseRelation relType="antonym" target="ewn-ingratitude__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-philia-n">
       <Lemma writtenForm="philia" partOfSpeech="n">
@@ -3854,22 +3854,22 @@
       <Lemma writtenForm="vengefulness" partOfSpeech="n"/>
       <Sense id="ewn-vengefulness__1_12_00__" n="0" synset="ewn-07566357-n">
         <SenseRelation relType="derivation" target="ewn-vengeful__5_00_00_unforgiving_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-amorousness-n">
       <Lemma writtenForm="amorousness" partOfSpeech="n"/>
       <Sense id="ewn-amorousness__1_12_01__" n="0" synset="ewn-07559601-n">
         <SenseRelation relType="derivation" target="ewn-amorous__5_00_01_loving_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-amorousness__1_12_02__" n="1" synset="ewn-07504199-n">
         <SenseRelation relType="derivation" target="ewn-amorous__5_00_02_loving_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-disinclination-n">
       <Lemma writtenForm="disinclination" partOfSpeech="n"/>
       <Sense id="ewn-disinclination__1_12_00__" n="0" synset="ewn-07517161-n">
         <SenseRelation relType="antonym" target="ewn-inclination__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-aggression-n">
       <Lemma writtenForm="aggression" partOfSpeech="n">
@@ -3881,13 +3881,13 @@
       <Lemma writtenForm="philogyny" partOfSpeech="n"/>
       <Sense id="ewn-philogyny__1_12_00__" n="0" synset="ewn-07516565-n">
         <SenseRelation relType="antonym" target="ewn-misogyny__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-belligerency-n">
       <Lemma writtenForm="belligerency" partOfSpeech="n"/>
       <Sense id="ewn-belligerency__1_12_00__" n="0" synset="ewn-07564161-n">
         <SenseRelation relType="derivation" target="ewn-belligerent__5_00_00_hostile_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gloom-n">
       <Lemma writtenForm="gloom" partOfSpeech="n">
@@ -3907,7 +3907,7 @@
       <Lemma writtenForm="gleefulness" partOfSpeech="n"/>
       <Sense id="ewn-gleefulness__1_12_00__" n="0" synset="ewn-07544765-n">
         <SenseRelation relType="derivation" target="ewn-gleeful__5_00_00_joyous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-distress-n">
       <Lemma writtenForm="distress" partOfSpeech="n">
@@ -3915,13 +3915,13 @@
       </Lemma>
       <Sense id="ewn-distress__1_12_02__" n="0" synset="ewn-07511603-n">
         <SenseRelation relType="derivation" target="ewn-distress__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-heavyheartedness-n">
       <Lemma writtenForm="heavyheartedness" partOfSpeech="n"/>
       <Sense id="ewn-heavyheartedness__1_12_00__" n="0" synset="ewn-07548880-n">
         <SenseRelation relType="derivation" target="ewn-heavyhearted__5_00_00_sad_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-restlessness-n">
       <Lemma writtenForm="restlessness" partOfSpeech="n">
@@ -3934,7 +3934,7 @@
       <Sense id="ewn-solicitousness__1_12_00__" n="0" synset="ewn-07520446-n">
         <SenseRelation relType="derivation" target="ewn-solicitous__5_00_00_concerned_00"/>
         <SenseRelation relType="derivation" target="ewn-solicitous__5_00_00_attentive_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-despondence-n">
       <Lemma writtenForm="despondence" partOfSpeech="n">
@@ -3943,7 +3943,7 @@
       <Sense id="ewn-despondence__1_12_00__" n="0" synset="ewn-07553783-n">
         <SenseRelation relType="derivation" target="ewn-despondent__5_00_00_hopeless_00"/>
         <SenseRelation relType="derivation" target="ewn-despond__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-serenity-n">
       <Lemma writtenForm="serenity" partOfSpeech="n">
@@ -3958,7 +3958,7 @@
       <Sense id="ewn-sadomasochism__1_12_00__" n="0" synset="ewn-07509158-n">
         <SenseRelation relType="derivation" target="ewn-sadomasochistic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-sadomasochist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hackles-n">
       <Lemma writtenForm="hackles" partOfSpeech="n">
@@ -3970,19 +3970,19 @@
       <Lemma writtenForm="commiseration" partOfSpeech="n"/>
       <Sense id="ewn-commiseration__1_12_00__" n="0" synset="ewn-07569430-n">
         <SenseRelation relType="derivation" target="ewn-commiserate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-anxiousness-n">
       <Lemma writtenForm="anxiousness" partOfSpeech="n"/>
       <Sense id="ewn-anxiousness__1_12_00__" n="1" synset="ewn-07539999-n">
         <SenseRelation relType="derivation" target="ewn-anxious__5_00_00_troubled_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-liking-n">
       <Lemma writtenForm="liking" partOfSpeech="n"/>
       <Sense id="ewn-liking__1_12_00__" n="0" synset="ewn-07512613-n">
         <SenseRelation relType="antonym" target="ewn-dislike__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pessimism-n">
       <Lemma writtenForm="pessimism" partOfSpeech="n"/>
@@ -3990,25 +3990,25 @@
         <SenseRelation relType="antonym" target="ewn-optimism__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-pessimistic__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-pessimist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fervidness-n">
       <Lemma writtenForm="fervidness" partOfSpeech="n"/>
       <Sense id="ewn-fervidness__1_12_00__" n="0" synset="ewn-07496515-n">
         <SenseRelation relType="derivation" target="ewn-fervid__5_00_00_passionate_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lightheartedness-n">
       <Lemma writtenForm="lightheartedness" partOfSpeech="n"/>
       <Sense id="ewn-lightheartedness__1_12_00__" n="0" synset="ewn-07546254-n">
         <SenseRelation relType="derivation" target="ewn-lighthearted__5_00_00_cheerful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fervency-n">
       <Lemma writtenForm="fervency" partOfSpeech="n"/>
       <Sense id="ewn-fervency__1_12_00__" n="0" synset="ewn-07496515-n">
         <SenseRelation relType="derivation" target="ewn-fervent__5_00_00_passionate_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-shock-n">
       <Lemma writtenForm="shock" partOfSpeech="n"/>
@@ -4016,21 +4016,21 @@
         <SenseRelation relType="derivation" target="ewn-shock__2_29_00__"/>
         <SenseRelation relType="derivation" target="ewn-shock__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-shock__2_37_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-discombobulation-n">
       <Lemma writtenForm="discombobulation" partOfSpeech="n"/>
       <Sense id="ewn-discombobulation__1_12_00__" n="0" synset="ewn-07523151-n">
         <SenseRelation relType="derivation" target="ewn-discombobulate__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-discombobulate__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-friendliness-n">
       <Lemma writtenForm="friendliness" partOfSpeech="n"/>
       <Sense id="ewn-friendliness__1_12_00__" n="0" synset="ewn-07514854-n">
         <SenseRelation relType="antonym" target="ewn-unfriendliness__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-friendly__5_00_00_amicable_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-panic-n">
       <Lemma writtenForm="panic" partOfSpeech="n"/>
@@ -4038,7 +4038,7 @@
         <SenseRelation relType="derivation" target="ewn-panicky__5_00_00_afraid_00"/>
         <SenseRelation relType="derivation" target="ewn-panic__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-panic__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pathos-n">
       <Lemma writtenForm="pathos" partOfSpeech="n">
@@ -4047,7 +4047,7 @@
       </Lemma>
       <Sense id="ewn-pathos__1_12_00__" n="1" synset="ewn-07569430-n">
         <SenseRelation relType="derivation" target="ewn-pathetic__5_00_00_unfortunate_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mirth-n">
       <Lemma writtenForm="mirth" partOfSpeech="n">
@@ -4070,7 +4070,7 @@
       <Lemma writtenForm="sorrowfulness" partOfSpeech="n"/>
       <Sense id="ewn-sorrowfulness__1_12_00__" n="1" synset="ewn-07550597-n">
         <SenseRelation relType="derivation" target="ewn-sorrowful__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-complacence-n">
       <Lemma writtenForm="complacence" partOfSpeech="n">
@@ -4078,14 +4078,14 @@
       </Lemma>
       <Sense id="ewn-complacence__1_12_00__" n="0" synset="ewn-07547101-n">
         <SenseRelation relType="derivation" target="ewn-complacent__5_00_00_contented_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-despondency-n">
       <Lemma writtenForm="despondency" partOfSpeech="n"/>
       <Sense id="ewn-despondency__1_12_00__" n="0" synset="ewn-07553783-n">
         <SenseRelation relType="derivation" target="ewn-despondent__5_00_00_hopeless_00"/>
         <SenseRelation relType="derivation" target="ewn-despond__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cold_comfort-n">
       <Lemma writtenForm="cold comfort" partOfSpeech="n"/>
@@ -4099,7 +4099,7 @@
       <Sense id="ewn-cheerfulness__1_12_00__" n="1" synset="ewn-07545866-n">
         <SenseRelation relType="antonym" target="ewn-cheerlessness__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-cheerful__5_00_00_optimistic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-joy-n">
       <Lemma writtenForm="joy" partOfSpeech="n"/>
@@ -4108,7 +4108,7 @@
         <SenseRelation relType="derivation" target="ewn-joyous__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-joy__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-joy__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-worship-n">
       <Lemma writtenForm="worship" partOfSpeech="n">
@@ -4117,7 +4117,7 @@
       </Lemma>
       <Sense id="ewn-worship__1_12_01__" n="1" synset="ewn-07516659-n">
         <SenseRelation relType="derivation" target="ewn-worship__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-seriousness-n">
       <Lemma writtenForm="seriousness" partOfSpeech="n">
@@ -4133,7 +4133,7 @@
       <Sense id="ewn-affect__1_12_00__" n="0" synset="ewn-07495066-n">
         <SenseRelation relType="derivation" target="ewn-affectional__5_00_00_emotional_00"/>
         <SenseRelation relType="derivation" target="ewn-affect__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-withdrawal-n">
       <Lemma writtenForm="withdrawal" partOfSpeech="n">
@@ -4141,19 +4141,19 @@
       </Lemma>
       <Sense id="ewn-withdrawal__1_12_00__" n="3" synset="ewn-07521270-n">
         <SenseRelation relType="derivation" target="ewn-withdraw__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-appreciativeness-n">
       <Lemma writtenForm="appreciativeness" partOfSpeech="n"/>
       <Sense id="ewn-appreciativeness__1_12_00__" n="0" synset="ewn-07519768-n">
         <SenseRelation relType="derivation" target="ewn-appreciative__5_00_00_grateful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mellowness-n">
       <Lemma writtenForm="mellowness" partOfSpeech="n"/>
       <Sense id="ewn-mellowness__1_12_00__" n="0" synset="ewn-07569690-n">
         <SenseRelation relType="derivation" target="ewn-mellow__5_00_00_soft_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ardour-n">
       <Lemma writtenForm="ardour" partOfSpeech="n"/>
@@ -4187,13 +4187,13 @@
       </Lemma>
       <Sense id="ewn-hysteria__1_12_01__" n="1" synset="ewn-07535746-n">
         <SenseRelation relType="derivation" target="ewn-hysterical__5_00_00_agitated_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-coldheartedness-n">
       <Lemma writtenForm="coldheartedness" partOfSpeech="n"/>
       <Sense id="ewn-coldheartedness__1_12_00__" n="0" synset="ewn-07521388-n">
         <SenseRelation relType="derivation" target="ewn-coldhearted__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-love-n">
       <Lemma writtenForm="love" partOfSpeech="n"/>
@@ -4202,10 +4202,10 @@
         <SenseRelation relType="derivation" target="ewn-love__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-love__2_37_02__"/>
         <SenseRelation relType="derivation" target="ewn-love__2_37_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-love__1_12_01__" n="3" synset="ewn-07503480-n">
         <SenseRelation relType="derivation" target="ewn-love__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sadness-n">
       <Lemma writtenForm="sadness" partOfSpeech="n">
@@ -4214,7 +4214,7 @@
       <Sense id="ewn-sadness__1_12_00__" n="0" synset="ewn-07547828-n">
         <SenseRelation relType="antonym" target="ewn-happiness__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-sad__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-contrition-n">
       <Lemma writtenForm="contrition" partOfSpeech="n">
@@ -4236,7 +4236,7 @@
       <Lemma writtenForm="oppressiveness" partOfSpeech="n"/>
       <Sense id="ewn-oppressiveness__1_12_00__" n="0" synset="ewn-07554062-n">
         <SenseRelation relType="derivation" target="ewn-oppressive__5_00_00_domineering_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rancor-n">
       <Lemma writtenForm="rancor" partOfSpeech="n">
@@ -4244,7 +4244,7 @@
       </Lemma>
       <Sense id="ewn-rancor__1_12_00__" n="0" synset="ewn-07564444-n">
         <SenseRelation relType="derivation" target="ewn-rancorous__5_00_00_resentful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-confidence-n">
       <Lemma writtenForm="confidence" partOfSpeech="n">
@@ -4253,7 +4253,7 @@
       <Sense id="ewn-confidence__1_12_00__" n="1" synset="ewn-07541744-n">
         <SenseRelation relType="antonym" target="ewn-diffidence__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-confidential__5_00_00_close_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gladfulness-n">
       <Lemma writtenForm="gladfulness" partOfSpeech="n"/>
@@ -4278,13 +4278,13 @@
       <Sense id="ewn-delight__1_12_00__" n="0" synset="ewn-07506178-n">
         <SenseRelation relType="derivation" target="ewn-delight__2_34_00__"/>
         <SenseRelation relType="derivation" target="ewn-delight__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sanguineness-n">
       <Lemma writtenForm="sanguineness" partOfSpeech="n"/>
       <Sense id="ewn-sanguineness__1_12_00__" n="0" synset="ewn-07557148-n">
         <SenseRelation relType="derivation" target="ewn-sanguine__5_00_00_optimistic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-malevolence-n">
       <Lemma writtenForm="malevolence" partOfSpeech="n">
@@ -4293,7 +4293,7 @@
       <Sense id="ewn-malevolence__1_12_00__" n="0" synset="ewn-07565835-n">
         <SenseRelation relType="antonym" target="ewn-benevolence__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-malevolent__5_00_00_malicious_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sadism-n">
       <Lemma writtenForm="sadism" partOfSpeech="n">
@@ -4302,22 +4302,22 @@
       <Sense id="ewn-sadism__1_12_00__" n="0" synset="ewn-07508970-n">
         <SenseRelation relType="derivation" target="ewn-sadistic__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-sadist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sanguinity-n">
       <Lemma writtenForm="sanguinity" partOfSpeech="n"/>
       <Sense id="ewn-sanguinity__1_12_00__" n="0" synset="ewn-07557148-n">
         <SenseRelation relType="derivation" target="ewn-sanguine__5_00_00_optimistic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-infatuation-n">
       <Lemma writtenForm="infatuation" partOfSpeech="n"/>
       <Sense id="ewn-infatuation__1_12_00__" n="0" synset="ewn-07496224-n">
         <SenseRelation relType="derivation" target="ewn-infatuate__2_37_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-infatuation__1_12_02__" n="1" synset="ewn-07559739-n">
         <SenseRelation relType="derivation" target="ewn-infatuate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stab-n">
       <Lemma writtenForm="stab" partOfSpeech="n">
@@ -4329,13 +4329,13 @@
       <Lemma writtenForm="fright" partOfSpeech="n"/>
       <Sense id="ewn-fright__1_12_00__" n="0" synset="ewn-07534492-n">
         <SenseRelation relType="derivation" target="ewn-fright__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-joyousness-n">
       <Lemma writtenForm="joyousness" partOfSpeech="n"/>
       <Sense id="ewn-joyousness__1_12_00__" n="0" synset="ewn-07542591-n">
         <SenseRelation relType="derivation" target="ewn-joyous__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-misology-n">
       <Lemma writtenForm="misology" partOfSpeech="n"/>
@@ -4351,7 +4351,7 @@
       </Lemma>
       <Sense id="ewn-contempt__1_12_00__" n="0" synset="ewn-07518219-n">
         <SenseRelation relType="derivation" target="ewn-contemptuous__5_00_00_disrespectful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-emotion-n">
       <Lemma writtenForm="emotion" partOfSpeech="n">
@@ -4362,7 +4362,7 @@
         <SenseRelation relType="derivation" target="ewn-emotional__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-emotional__3_00_02__"/>
         <SenseRelation relType="derivation" target="ewn-emote__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dolor-n">
       <Lemma writtenForm="dolor" partOfSpeech="n">
@@ -4371,7 +4371,7 @@
       <Sense id="ewn-dolor__1_12_00__" n="0" synset="ewn-07550920-n">
         <SenseRelation relType="derivation" target="ewn-dolourous__5_00_00_sorrowful_00"/>
         <SenseRelation relType="derivation" target="ewn-dolorous__5_00_00_sorrowful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fondness-n">
       <Lemma writtenForm="fondness" partOfSpeech="n">
@@ -4380,10 +4380,10 @@
       </Lemma>
       <Sense id="ewn-fondness__1_12_01__" n="0" synset="ewn-07512937-n">
         <SenseRelation relType="derivation" target="ewn-fond__5_00_00_inclined_02"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-fondness__1_12_00__" n="1" synset="ewn-07560035-n">
         <SenseRelation relType="derivation" target="ewn-fond__5_00_02_loving_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-velleity-n">
       <Lemma writtenForm="velleity" partOfSpeech="n">
@@ -4397,7 +4397,7 @@
       </Lemma>
       <Sense id="ewn-timidity__1_12_00__" n="0" synset="ewn-07537968-n">
         <SenseRelation relType="derivation" target="ewn-timid__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sincerity-n">
       <Lemma writtenForm="sincerity" partOfSpeech="n">
@@ -4405,7 +4405,7 @@
       </Lemma>
       <Sense id="ewn-sincerity__1_12_00__" n="0" synset="ewn-07527554-n">
         <SenseRelation relType="derivation" target="ewn-sincere__5_00_00_serious_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-abashment-n">
       <Lemma writtenForm="abashment" partOfSpeech="n">
@@ -4414,7 +4414,7 @@
       </Lemma>
       <Sense id="ewn-abashment__1_12_00__" n="0" synset="ewn-07523331-n">
         <SenseRelation relType="derivation" target="ewn-abash__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-approbation-n">
       <Lemma writtenForm="approbation" partOfSpeech="n">
@@ -4425,7 +4425,7 @@
         <SenseRelation relType="derivation" target="ewn-approbate__2_32_00__"/>
         <SenseRelation relType="derivation" target="ewn-approbate__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-approve__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-admiration-n">
       <Lemma writtenForm="admiration" partOfSpeech="n">
@@ -4433,14 +4433,14 @@
       </Lemma>
       <Sense id="ewn-admiration__1_12_01__" n="0" synset="ewn-07515980-n">
         <SenseRelation relType="derivation" target="ewn-admire__2_37_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-admiration__1_12_02__" n="1" synset="ewn-07525235-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-jocundity-n">
       <Lemma writtenForm="jocundity" partOfSpeech="n"/>
       <Sense id="ewn-jocundity__1_12_00__" n="0" synset="ewn-07545071-n">
         <SenseRelation relType="derivation" target="ewn-jocund__5_00_00_joyous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-suffering-n">
       <Lemma writtenForm="suffering" partOfSpeech="n">
@@ -4448,11 +4448,11 @@
       </Lemma>
       <Sense id="ewn-suffering__1_12_02__" n="2" synset="ewn-07511603-n">
         <SenseRelation relType="derivation" target="ewn-suffer__2_37_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-suffering__1_12_01__" n="3" synset="ewn-07510467-n">
         <SenseRelation relType="derivation" target="ewn-suffer__2_39_00__"/>
         <SenseRelation relType="derivation" target="ewn-suffer__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-relaxation-n">
       <Lemma writtenForm="relaxation" partOfSpeech="n">
@@ -4461,7 +4461,7 @@
       <Sense id="ewn-relaxation__1_12_00__" n="2" synset="ewn-07531213-n">
         <SenseRelation relType="derivation" target="ewn-relax__2_41_02__"/>
         <SenseRelation relType="derivation" target="ewn-relax__2_29_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-addiction-n">
       <Lemma writtenForm="addiction" partOfSpeech="n">
@@ -4476,13 +4476,13 @@
       <Sense id="ewn-expectation__1_12_00__" n="2" synset="ewn-07526162-n">
         <SenseRelation relType="derivation" target="ewn-expect__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-expect__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gladsomeness-n">
       <Lemma writtenForm="gladsomeness" partOfSpeech="n"/>
       <Sense id="ewn-gladsomeness__1_12_00__" n="0" synset="ewn-07542406-n">
         <SenseRelation relType="derivation" target="ewn-gladsome__5_00_00_glad_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-charge-n">
       <Lemma writtenForm="charge" partOfSpeech="n">
@@ -4491,7 +4491,7 @@
       </Lemma>
       <Sense id="ewn-charge__1_12_00__" n="9" synset="ewn-07543858-n">
         <SenseRelation relType="derivation" target="ewn-charge__2_37_05__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-shame-n">
       <Lemma writtenForm="shame" partOfSpeech="n"/>
@@ -4499,7 +4499,7 @@
         <SenseRelation relType="derivation" target="ewn-shame__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-shame__2_41_01__"/>
         <SenseRelation relType="derivation" target="ewn-shame__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-malignity-n">
       <Lemma writtenForm="malignity" partOfSpeech="n"/>
@@ -4513,19 +4513,19 @@
         <SenseRelation relType="derivation" target="ewn-sympathetic__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-sympathize__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-sympathise__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-togetherness-n">
       <Lemma writtenForm="togetherness" partOfSpeech="n"/>
       <Sense id="ewn-togetherness__1_12_00__" n="0" synset="ewn-07545710-n">
         <SenseRelation relType="derivation" target="ewn-together__5_00_00_unneurotic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fidgetiness-n">
       <Lemma writtenForm="fidgetiness" partOfSpeech="n"/>
       <Sense id="ewn-fidgetiness__1_12_00__" n="0" synset="ewn-07529034-n">
         <SenseRelation relType="derivation" target="ewn-fidgety__5_00_00_tense_03"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-isolation-n">
       <Lemma writtenForm="isolation" partOfSpeech="n">
@@ -4541,7 +4541,7 @@
       <Lemma writtenForm="edginess" partOfSpeech="n"/>
       <Sense id="ewn-edginess__1_12_00__" n="0" synset="ewn-07540296-n">
         <SenseRelation relType="derivation" target="ewn-edgy__5_00_00_tense_03"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-distance-n">
       <Lemma writtenForm="distance" partOfSpeech="n">
@@ -4550,7 +4550,7 @@
       <Sense id="ewn-distance__1_12_00__" n="3" synset="ewn-07521110-n">
         <SenseRelation relType="derivation" target="ewn-distant__5_00_00_reserved_01"/>
         <SenseRelation relType="derivation" target="ewn-distance__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-torture-n">
       <Lemma writtenForm="torture" partOfSpeech="n">
@@ -4559,24 +4559,24 @@
       </Lemma>
       <Sense id="ewn-torture__1_12_02__" n="0" synset="ewn-07511895-n">
         <SenseRelation relType="derivation" target="ewn-torture__2_37_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-torture__1_12_01__" n="2" synset="ewn-07510691-n">
         <SenseRelation relType="derivation" target="ewn-torturous__5_00_00_painful_00"/>
         <SenseRelation relType="derivation" target="ewn-torture__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sulk-n">
       <Lemma writtenForm="sulk" partOfSpeech="n"/>
       <Sense id="ewn-sulk__1_12_00__" n="0" synset="ewn-07566964-n">
         <SenseRelation relType="derivation" target="ewn-sulky__5_00_00_ill-natured_00"/>
         <SenseRelation relType="derivation" target="ewn-sulk__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-yen-n">
       <Lemma writtenForm="yen" partOfSpeech="n"/>
       <Sense id="ewn-yen__1_12_00__" n="0" synset="ewn-07502062-n">
         <SenseRelation relType="derivation" target="ewn-yen__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-regret-n">
       <Lemma writtenForm="regret" partOfSpeech="n">
@@ -4586,13 +4586,13 @@
         <SenseRelation relType="derivation" target="ewn-regret__2_32_02__"/>
         <SenseRelation relType="derivation" target="ewn-regret__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-regret__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-offence-n">
       <Lemma writtenForm="offence" partOfSpeech="n"/>
       <Sense id="ewn-offence__1_12_00__" n="2" synset="ewn-07532789-n">
         <SenseRelation relType="derivation" target="ewn-offend__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-class_feeling-n">
       <Lemma writtenForm="class feeling" partOfSpeech="n"/>
@@ -4602,7 +4602,7 @@
       <Lemma writtenForm="sensualism" partOfSpeech="n"/>
       <Sense id="ewn-sensualism__1_12_00__" n="0" synset="ewn-07504015-n">
         <SenseRelation relType="derivation" target="ewn-sensualist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-belonging-n">
       <Lemma writtenForm="belonging" partOfSpeech="n"/>
@@ -4612,7 +4612,7 @@
       <Lemma writtenForm="affectionateness" partOfSpeech="n"/>
       <Sense id="ewn-affectionateness__1_12_00__" n="0" synset="ewn-07560035-n">
         <SenseRelation relType="derivation" target="ewn-affectionate__5_00_00_loving_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-amicableness-n">
       <Lemma writtenForm="amicableness" partOfSpeech="n"/>
@@ -4629,7 +4629,7 @@
       <Sense id="ewn-helplessness__1_12_00__" n="2" synset="ewn-07553530-n">
         <SenseRelation relType="derivation" target="ewn-helpless__5_00_00_hopeless_00"/>
         <SenseRelation relType="derivation" target="ewn-helpless__5_00_00_dependent_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-misery-n">
       <Lemma writtenForm="misery" partOfSpeech="n">
@@ -4649,13 +4649,13 @@
       <Sense id="ewn-unfriendliness__1_12_00__" n="0" synset="ewn-07517480-n">
         <SenseRelation relType="antonym" target="ewn-friendliness__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-unfriendly__5_00_01_hostile_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lovesickness-n">
       <Lemma writtenForm="lovesickness" partOfSpeech="n"/>
       <Sense id="ewn-lovesickness__1_12_00__" n="0" synset="ewn-07502633-n">
         <SenseRelation relType="derivation" target="ewn-lovesick__5_00_00_unhappy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-euphoria-n">
       <Lemma writtenForm="euphoria" partOfSpeech="n">
@@ -4663,7 +4663,7 @@
       </Lemma>
       <Sense id="ewn-euphoria__1_12_00__" n="0" synset="ewn-07544484-n">
         <SenseRelation relType="antonym" target="ewn-dysphoria__1_12_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hatred-n">
       <Lemma writtenForm="hatred" partOfSpeech="n">
@@ -4678,7 +4678,7 @@
       </Lemma>
       <Sense id="ewn-solace__1_12_00__" n="0" synset="ewn-07507795-n">
         <SenseRelation relType="derivation" target="ewn-solace__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-alarm-n">
       <Lemma writtenForm="alarm" partOfSpeech="n">
@@ -4688,13 +4688,13 @@
       <Sense id="ewn-alarm__1_12_00__" n="0" synset="ewn-07535012-n">
         <SenseRelation relType="derivation" target="ewn-alarm__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-alarm__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ruefulness-n">
       <Lemma writtenForm="ruefulness" partOfSpeech="n"/>
       <Sense id="ewn-ruefulness__1_12_00__" n="0" synset="ewn-07551058-n">
         <SenseRelation relType="derivation" target="ewn-rueful__5_00_00_penitent_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dolour-n">
       <Lemma writtenForm="dolour" partOfSpeech="n"/>
@@ -4706,13 +4706,13 @@
       </Lemma>
       <Sense id="ewn-loneliness__1_12_00__" n="1" synset="ewn-07549496-n">
         <SenseRelation relType="derivation" target="ewn-lonely__5_00_00_dejected_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-complacency-n">
       <Lemma writtenForm="self-complacency" partOfSpeech="n"/>
       <Sense id="ewn-self-complacency__1_12_00__" n="0" synset="ewn-07547101-n">
         <SenseRelation relType="derivation" target="ewn-self-complacent__5_00_00_contented_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-misogyny-n">
       <Lemma writtenForm="misogyny" partOfSpeech="n">
@@ -4724,20 +4724,20 @@
         <SenseRelation relType="derivation" target="ewn-misogynic__5_00_00_distrustful_00"/>
         <SenseRelation relType="derivation" target="ewn-misogynous__5_00_00_ill-natured_00"/>
         <SenseRelation relType="derivation" target="ewn-misogynist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-placidness-n">
       <Lemma writtenForm="placidness" partOfSpeech="n"/>
       <Sense id="ewn-placidness__1_12_00__" n="0" synset="ewn-07530408-n">
         <SenseRelation relType="derivation" target="ewn-placid__5_00_00_good-natured_00"/>
         <SenseRelation relType="derivation" target="ewn-placid__5_00_00_calm_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-testiness-n">
       <Lemma writtenForm="testiness" partOfSpeech="n"/>
       <Sense id="ewn-testiness__1_12_00__" n="0" synset="ewn-07568482-n">
         <SenseRelation relType="derivation" target="ewn-testy__5_00_00_ill-natured_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-torment-n">
       <Lemma writtenForm="self-torment" partOfSpeech="n"/>
@@ -4755,34 +4755,34 @@
       </Lemma>
       <Sense id="ewn-weight__1_12_00__" n="4" synset="ewn-07554200-n">
         <SenseRelation relType="derivation" target="ewn-weighty__5_00_00_heavy_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-heartsickness-n">
       <Lemma writtenForm="heartsickness" partOfSpeech="n"/>
       <Sense id="ewn-heartsickness__1_12_00__" n="0" synset="ewn-07553783-n">
         <SenseRelation relType="derivation" target="ewn-heartsick__5_00_00_sorrowful_00"/>
         <SenseRelation relType="derivation" target="ewn-heartsick__5_00_00_hopeless_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tenderheartedness-n">
       <Lemma writtenForm="tenderheartedness" partOfSpeech="n"/>
       <Sense id="ewn-tenderheartedness__1_12_00__" n="0" synset="ewn-07569907-n">
         <SenseRelation relType="derivation" target="ewn-tenderhearted__5_00_00_loving_00"/>
         <SenseRelation relType="derivation" target="ewn-tenderhearted__5_00_00_compassionate_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-aggravation-n">
       <Lemma writtenForm="aggravation" partOfSpeech="n"/>
       <Sense id="ewn-aggravation__1_12_00__" n="0" synset="ewn-07534117-n">
         <SenseRelation relType="derivation" target="ewn-aggravate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quietness-n">
       <Lemma writtenForm="quietness" partOfSpeech="n"/>
       <Sense id="ewn-quietness__1_12_00__" n="1" synset="ewn-07530799-n">
         <SenseRelation relType="derivation" target="ewn-quiet__5_00_00_calm_00"/>
         <SenseRelation relType="derivation" target="ewn-quiet__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-temper-n">
       <Lemma writtenForm="temper" partOfSpeech="n">
@@ -4791,14 +4791,14 @@
       </Lemma>
       <Sense id="ewn-temper__1_12_01__" n="0" synset="ewn-07533707-n">
         <SenseRelation relType="derivation" target="ewn-temper__2_30_03__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-temper__1_12_00__" n="1" synset="ewn-07566518-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-pruriency-n">
       <Lemma writtenForm="pruriency" partOfSpeech="n"/>
       <Sense id="ewn-pruriency__1_12_00__" n="0" synset="ewn-07505354-n">
         <SenseRelation relType="derivation" target="ewn-prurient__5_00_00_sexy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-soulfulness-n">
       <Lemma writtenForm="soulfulness" partOfSpeech="n">
@@ -4806,7 +4806,7 @@
       </Lemma>
       <Sense id="ewn-soulfulness__1_12_00__" n="0" synset="ewn-07495930-n">
         <SenseRelation relType="derivation" target="ewn-soulful__5_00_00_emotional_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-unpleasantness-n">
       <Lemma writtenForm="unpleasantness" partOfSpeech="n">
@@ -4815,7 +4815,7 @@
       <Sense id="ewn-unpleasantness__1_12_00__" n="0" synset="ewn-07509927-n">
         <SenseRelation relType="antonym" target="ewn-pleasantness__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-unpleasant__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-shamefacedness-n">
       <Lemma writtenForm="shamefacedness" partOfSpeech="n"/>
@@ -4823,7 +4823,7 @@
         <SenseRelation relType="derivation" target="ewn-shamefaced__5_00_02_ashamed_00"/>
         <SenseRelation relType="derivation" target="ewn-shamefaced__5_00_01_ashamed_00"/>
         <SenseRelation relType="derivation" target="ewn-shamefaced__5_00_00_modest_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-warpath-n">
       <Lemma writtenForm="warpath" partOfSpeech="n"/>
@@ -4837,13 +4837,13 @@
       <Lemma writtenForm="sheepishness" partOfSpeech="n"/>
       <Sense id="ewn-sheepishness__1_12_00__" n="0" synset="ewn-07522799-n">
         <SenseRelation relType="derivation" target="ewn-sheepish__5_00_00_ashamed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-passionateness-n">
       <Lemma writtenForm="passionateness" partOfSpeech="n"/>
       <Sense id="ewn-passionateness__1_12_00__" n="0" synset="ewn-07496036-n">
         <SenseRelation relType="derivation" target="ewn-passionate__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pride-n">
       <Lemma writtenForm="pride" partOfSpeech="n">
@@ -4851,22 +4851,22 @@
       </Lemma>
       <Sense id="ewn-pride__1_12_00__" n="0" synset="ewn-07523725-n">
         <SenseRelation relType="antonym" target="ewn-humility__1_12_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-pride__1_12_01__" n="1" synset="ewn-07546924-n">
         <SenseRelation relType="derivation" target="ewn-pride__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-joylessness-n">
       <Lemma writtenForm="joylessness" partOfSpeech="n"/>
       <Sense id="ewn-joylessness__1_12_00__" n="0" synset="ewn-07552764-n">
         <SenseRelation relType="derivation" target="ewn-joyless__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-appetency-n">
       <Lemma writtenForm="appetency" partOfSpeech="n"/>
       <Sense id="ewn-appetency__1_12_00__" n="0" synset="ewn-07500766-n">
         <SenseRelation relType="derivation" target="ewn-appetent__5_00_00_desirous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ego-n">
       <Lemma writtenForm="ego" partOfSpeech="n">
@@ -4888,7 +4888,7 @@
       </Lemma>
       <Sense id="ewn-heartlessness__1_12_00__" n="0" synset="ewn-07521388-n">
         <SenseRelation relType="derivation" target="ewn-heartless__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-diffidence-n">
       <Lemma writtenForm="diffidence" partOfSpeech="n">
@@ -4898,13 +4898,13 @@
         <SenseRelation relType="antonym" target="ewn-confidence__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-diffident__5_00_00_reserved_01"/>
         <SenseRelation relType="derivation" target="ewn-diffident__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dolefulness-n">
       <Lemma writtenForm="dolefulness" partOfSpeech="n"/>
       <Sense id="ewn-dolefulness__1_12_00__" n="0" synset="ewn-07548220-n">
         <SenseRelation relType="derivation" target="ewn-doleful__5_00_00_sad_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-boding-n">
       <Lemma writtenForm="boding" partOfSpeech="n">
@@ -4933,11 +4933,11 @@
         <SenseRelation relType="derivation" target="ewn-thrill__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-thrill__2_37_02__"/>
         <SenseRelation relType="derivation" target="ewn-thrill__2_39_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-thrill__1_12_02__" n="1" synset="ewn-07535351-n">
         <SenseRelation relType="derivation" target="ewn-thrill__2_37_01__"/>
         <SenseRelation relType="derivation" target="ewn-thrill__2_37_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-caring-n">
       <Lemma writtenForm="caring" partOfSpeech="n">
@@ -4947,14 +4947,14 @@
       <Sense id="ewn-caring__1_12_01__" n="0" synset="ewn-07561495-n">
         <SenseRelation relType="derivation" target="ewn-caring__5_00_00_compassionate_00"/>
         <SenseRelation relType="derivation" target="ewn-care__2_37_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Anglophobia-n">
       <Lemma writtenForm="Anglophobia" partOfSpeech="n"/>
       <Sense id="ewn-anglophobia__1_12_00__" n="0" synset="ewn-07517338-n">
         <SenseRelation relType="antonym" target="ewn-anglophilia__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-anglophobic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-discomfort-n">
       <Lemma writtenForm="discomfort" partOfSpeech="n">
@@ -4967,16 +4967,16 @@
       <Lemma writtenForm="warmheartedness" partOfSpeech="n"/>
       <Sense id="ewn-warmheartedness__1_12_01__" n="0" synset="ewn-07561649-n">
         <SenseRelation relType="derivation" target="ewn-warmhearted__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-warmheartedness__1_12_00__" n="1" synset="ewn-07560035-n">
         <SenseRelation relType="derivation" target="ewn-warmhearted__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fulfillment-n">
       <Lemma writtenForm="fulfillment" partOfSpeech="n"/>
       <Sense id="ewn-fulfillment__1_12_00__" n="0" synset="ewn-07547500-n">
         <SenseRelation relType="derivation" target="ewn-fulfill__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-good_will-n">
       <Lemma writtenForm="good will" partOfSpeech="n"/>
@@ -4987,7 +4987,7 @@
       <Sense id="ewn-irascibility__1_12_00__" n="0" synset="ewn-07568015-n">
         <SenseRelation relType="derivation" target="ewn-irascible__5_00_00_ill-natured_00"/>
         <SenseRelation relType="derivation" target="ewn-irascible__5_00_00_angry_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trouble-n">
       <Lemma writtenForm="trouble" partOfSpeech="n">
@@ -4997,7 +4997,7 @@
       <Sense id="ewn-trouble__1_12_03__" n="4" synset="ewn-07539481-n">
         <SenseRelation relType="derivation" target="ewn-trouble__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-trouble__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-brotherhood-n">
       <Lemma writtenForm="brotherhood" partOfSpeech="n">
@@ -5010,7 +5010,7 @@
       <Lemma writtenForm="elation" partOfSpeech="n"/>
       <Sense id="ewn-elation__1_12_00__" n="1" synset="ewn-07543044-n">
         <SenseRelation relType="derivation" target="ewn-elate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fulfilment-n">
       <Lemma writtenForm="fulfilment" partOfSpeech="n">
@@ -5018,7 +5018,7 @@
       </Lemma>
       <Sense id="ewn-fulfilment__1_12_00__" n="0" synset="ewn-07547500-n">
         <SenseRelation relType="derivation" target="ewn-fulfil__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-misanthropy-n">
       <Lemma writtenForm="misanthropy" partOfSpeech="n"/>
@@ -5026,13 +5026,13 @@
         <SenseRelation relType="derivation" target="ewn-misanthropic__5_00_00_ill-natured_00"/>
         <SenseRelation relType="derivation" target="ewn-misanthropical__5_00_00_ill-natured_00"/>
         <SenseRelation relType="derivation" target="ewn-misanthropist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fretfulness-n">
       <Lemma writtenForm="fretfulness" partOfSpeech="n"/>
       <Sense id="ewn-fretfulness__1_12_00__" n="0" synset="ewn-07568195-n">
         <SenseRelation relType="derivation" target="ewn-fretful__5_00_00_complaining_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-surrender-n">
       <Lemma writtenForm="surrender" partOfSpeech="n">
@@ -5047,13 +5047,13 @@
       </Lemma>
       <Sense id="ewn-wonder__1_12_00__" n="0" synset="ewn-07525235-n">
         <SenseRelation relType="derivation" target="ewn-wonder__2_32_12__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-complacency-n">
       <Lemma writtenForm="complacency" partOfSpeech="n"/>
       <Sense id="ewn-complacency__1_12_00__" n="0" synset="ewn-07547101-n">
         <SenseRelation relType="derivation" target="ewn-complacent__5_00_00_contented_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sexual_pleasure-n">
       <Lemma writtenForm="sexual pleasure" partOfSpeech="n"/>
@@ -5063,7 +5063,7 @@
       <Lemma writtenForm="letdown" partOfSpeech="n"/>
       <Sense id="ewn-letdown__1_12_00__" n="0" synset="ewn-07555990-n">
         <SenseRelation relType="derivation" target="ewn-let_down__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-displeasure-n">
       <Lemma writtenForm="displeasure" partOfSpeech="n">
@@ -5072,7 +5072,7 @@
       </Lemma>
       <Sense id="ewn-displeasure__1_12_00__" n="0" synset="ewn-07555812-n">
         <SenseRelation relType="derivation" target="ewn-displease__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sorrow-n">
       <Lemma writtenForm="sorrow" partOfSpeech="n">
@@ -5083,10 +5083,10 @@
       <Sense id="ewn-sorrow__1_12_00__" n="0" synset="ewn-07549818-n">
         <SenseRelation relType="antonym" target="ewn-joy__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-sorrow__2_37_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-sorrow__1_12_01__" n="1" synset="ewn-07551058-n">
         <SenseRelation relType="derivation" target="ewn-sorrow__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Weltschmerz-n">
       <Lemma writtenForm="Weltschmerz" partOfSpeech="n">
@@ -5101,7 +5101,7 @@
       <Sense id="ewn-solemnity__1_12_01__" n="1" synset="ewn-07527386-n">
         <SenseRelation relType="derivation" target="ewn-solemn__5_00_01_serious_00"/>
         <SenseRelation relType="derivation" target="ewn-solemn__5_00_00_serious_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bathos-n">
       <Lemma writtenForm="bathos" partOfSpeech="n">
@@ -5115,7 +5115,7 @@
       </Lemma>
       <Sense id="ewn-irritability__1_12_00__" n="0" synset="ewn-07568195-n">
         <SenseRelation relType="derivation" target="ewn-irritable__5_00_00_ill-natured_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-solicitude-n">
       <Lemma writtenForm="solicitude" partOfSpeech="n">
@@ -5128,14 +5128,14 @@
       <Sense id="ewn-sensualness__1_12_00__" n="0" synset="ewn-07504015-n">
         <SenseRelation relType="derivation" target="ewn-sensual__5_00_00_physical_00"/>
         <SenseRelation relType="derivation" target="ewn-sensual__5_00_00_hot_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sexiness-n">
       <Lemma writtenForm="sexiness" partOfSpeech="n"/>
       <Sense id="ewn-sexiness__1_12_00__" n="0" synset="ewn-07504199-n">
         <SenseRelation relType="derivation" target="ewn-sexy__3_00_04__"/>
         <SenseRelation relType="derivation" target="ewn-sexy__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-inclination-n">
       <Lemma writtenForm="inclination" partOfSpeech="n">
@@ -5145,7 +5145,7 @@
         <SenseRelation relType="antonym" target="ewn-disinclination__1_12_00__"/>
         <SenseRelation relType="derivation" target="ewn-incline__2_42_01__"/>
         <SenseRelation relType="derivation" target="ewn-incline__2_31_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-outrage-n">
       <Lemma writtenForm="outrage" partOfSpeech="n">
@@ -5153,7 +5153,7 @@
       </Lemma>
       <Sense id="ewn-outrage__1_12_00__" n="0" synset="ewn-07532976-n">
         <SenseRelation relType="derivation" target="ewn-outrage__2_37_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-creeps-n">
       <Lemma writtenForm="creeps" partOfSpeech="n">
@@ -5173,7 +5173,7 @@
       </Lemma>
       <Sense id="ewn-closeness__1_12_00__" n="0" synset="ewn-07545512-n">
         <SenseRelation relType="derivation" target="ewn-close__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lassitude-n">
       <Lemma writtenForm="lassitude" partOfSpeech="n">
@@ -5185,20 +5185,20 @@
       <Lemma writtenForm="maliciousness" partOfSpeech="n"/>
       <Sense id="ewn-maliciousness__1_12_00__" n="0" synset="ewn-07566132-n">
         <SenseRelation relType="derivation" target="ewn-malicious__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-disheartenment-n">
       <Lemma writtenForm="disheartenment" partOfSpeech="n"/>
       <Sense id="ewn-disheartenment__1_12_00__" n="0" synset="ewn-07558063-n">
         <SenseRelation relType="derivation" target="ewn-dishearten__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nervousness-n">
       <Lemma writtenForm="nervousness" partOfSpeech="n"/>
       <Sense id="ewn-nervousness__1_12_00__" n="0" synset="ewn-07540999-n">
         <SenseRelation relType="derivation" target="ewn-nervous__5_00_00_troubled_00"/>
         <SenseRelation relType="derivation" target="ewn-nervous__5_00_00_excited_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-execration-n">
       <Lemma writtenForm="execration" partOfSpeech="n">
@@ -5207,13 +5207,13 @@
       </Lemma>
       <Sense id="ewn-execration__1_12_00__" n="0" synset="ewn-07518669-n">
         <SenseRelation relType="derivation" target="ewn-execrate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lasciviousness-n">
       <Lemma writtenForm="lasciviousness" partOfSpeech="n"/>
       <Sense id="ewn-lasciviousness__1_12_00__" n="0" synset="ewn-07505354-n">
         <SenseRelation relType="derivation" target="ewn-lascivious__5_00_00_sexy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-aggressiveness-n">
       <Lemma writtenForm="aggressiveness" partOfSpeech="n"/>
@@ -5225,7 +5225,7 @@
         <SenseRelation relType="derivation" target="ewn-jubilant__5_00_00_joyous_00"/>
         <SenseRelation relType="derivation" target="ewn-jubilant__5_00_00_elated_00"/>
         <SenseRelation relType="derivation" target="ewn-jubilate__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-growing_pains-n">
       <Lemma writtenForm="growing pains" partOfSpeech="n"/>
@@ -5238,7 +5238,7 @@
       <Sense id="ewn-lust__1_12_00__" n="0" synset="ewn-07504854-n">
         <SenseRelation relType="derivation" target="ewn-lusty__5_00_00_passionate_00"/>
         <SenseRelation relType="derivation" target="ewn-lust__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pet-n">
       <Lemma writtenForm="pet" partOfSpeech="n"/>
@@ -5250,7 +5250,7 @@
       </Lemma>
       <Sense id="ewn-peace__1_12_00__" n="2" synset="ewn-07531029-n">
         <SenseRelation relType="derivation" target="ewn-pacify__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-despite-n">
       <Lemma writtenForm="despite" partOfSpeech="n">
@@ -5264,7 +5264,7 @@
       </Lemma>
       <Sense id="ewn-tedium__1_12_00__" n="0" synset="ewn-07555178-n">
         <SenseRelation relType="derivation" target="ewn-tedious__5_00_00_uninteresting_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-aloofness-n">
       <Lemma writtenForm="aloofness" partOfSpeech="n"/>
@@ -5275,7 +5275,7 @@
       <Sense id="ewn-egotism__1_12_00__" n="1" synset="ewn-07524045-n">
         <SenseRelation relType="derivation" target="ewn-egotistic__5_00_00_proud_00"/>
         <SenseRelation relType="derivation" target="ewn-egotist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nausea-n">
       <Lemma writtenForm="nausea" partOfSpeech="n">
@@ -5286,7 +5286,7 @@
         <SenseRelation relType="derivation" target="ewn-nauseous__5_00_00_unwholesome_00"/>
         <SenseRelation relType="derivation" target="ewn-nauseate__2_39_00__"/>
         <SenseRelation relType="derivation" target="ewn-nauseate__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-overzealousness-n">
       <Lemma writtenForm="overzealousness" partOfSpeech="n"/>

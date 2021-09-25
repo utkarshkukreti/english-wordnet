@@ -49,7 +49,7 @@
       </Lemma>
       <Sense id="ewn-culture__1_14_00__" n="0" synset="ewn-08304765-n">
         <SenseRelation relType="derivation" target="ewn-acculturate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sales_department-n">
       <Lemma writtenForm="sales department" partOfSpeech="n"/>
@@ -117,7 +117,7 @@
       <Lemma writtenForm="Hinayana" partOfSpeech="n"/>
       <Sense id="ewn-hinayana__1_14_00__" n="0" synset="ewn-08116441-n">
         <SenseRelation relType="derivation" target="ewn-hinayanist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-social_club-n">
       <Lemma writtenForm="social club" partOfSpeech="n"/>
@@ -135,11 +135,11 @@
       <Lemma writtenForm="fraternity" partOfSpeech="n"/>
       <Sense id="ewn-fraternity__1_14_01__" n="0" synset="ewn-08246388-n">
         <SenseRelation relType="derivation" target="ewn-fraternal__3_01_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-fraternity__1_14_00__" n="1" synset="ewn-08092224-n">
         <SenseRelation relType="derivation" target="ewn-fraternise__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-fraternize__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-baby-boom_generation-n">
       <Lemma writtenForm="baby-boom generation" partOfSpeech="n"/>
@@ -159,7 +159,7 @@
       </Lemma>
       <Sense id="ewn-faithful__1_14_01__" n="0" synset="ewn-08240396-n">
         <SenseRelation relType="derivation" target="ewn-faithful__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-faithful__1_14_00__" n="1" synset="ewn-08007806-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-National_Academy_of_Sciences-n">
@@ -312,7 +312,7 @@
       <Form writtenForm="masses"/>
       <Sense id="ewn-mass__1_14_02__" n="2" synset="ewn-07978738-n">
         <SenseRelation relType="derivation" target="ewn-mass__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mass__1_14_01__" n="4" synset="ewn-08197108-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_Mine_Workers-n">
@@ -375,13 +375,13 @@
       <Lemma writtenForm="turnout" partOfSpeech="n"/>
       <Sense id="ewn-turnout__1_14_00__" n="0" synset="ewn-08003658-n">
         <SenseRelation relType="derivation" target="ewn-turn_out__2_41_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tenantry-n">
       <Lemma writtenForm="tenantry" partOfSpeech="n"/>
       <Sense id="ewn-tenantry__1_14_00__" n="0" synset="ewn-07972340-n">
         <SenseRelation relType="derivation" target="ewn-tenant__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cast-n">
       <Lemma writtenForm="cast" partOfSpeech="n">
@@ -391,7 +391,7 @@
       <Sense id="ewn-cast__1_14_00__" n="0" synset="ewn-08254784-n">
         <SenseRelation relType="derivation" target="ewn-cast__2_41_14__"/>
         <SenseRelation relType="derivation" target="ewn-cast__2_36_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-picket_line-n">
       <Lemma writtenForm="picket line" partOfSpeech="n">
@@ -419,7 +419,7 @@
       </Lemma>
       <Sense id="ewn-meritocracy__1_14_00__" n="0" synset="ewn-07989535-n">
         <SenseRelation relType="derivation" target="ewn-meritocratic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Post_Office-n">
       <Lemma writtenForm="Post Office" partOfSpeech="n">
@@ -453,7 +453,7 @@
         <SenseRelation relType="derivation" target="ewn-feudal__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-feudalistic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-feudalize__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Uniate_Church-n">
       <Lemma writtenForm="Uniate Church" partOfSpeech="n"/>
@@ -494,7 +494,7 @@
       <Lemma writtenForm="Hanover" partOfSpeech="n"/>
       <Sense id="ewn-hanover__1_14_00__" n="1" synset="ewn-08171859-n">
         <SenseRelation relType="derivation" target="ewn-hanoverian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quadrumvirate-n">
       <Lemma writtenForm="quadrumvirate" partOfSpeech="n"/>
@@ -513,13 +513,13 @@
       <Sense id="ewn-gang__1_14_01__" n="0" synset="ewn-08260983-n">
         <SenseRelation relType="derivation" target="ewn-gangdom__1_14_00__"/>
         <SenseRelation relType="derivation" target="ewn-gangster__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-gang__1_14_02__" n="1" synset="ewn-08290764-n">
         <SenseRelation relType="derivation" target="ewn-gang__2_33_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-gang__1_14_00__" n="2" synset="ewn-08259720-n">
         <SenseRelation relType="derivation" target="ewn-gang__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pantheon-n">
       <Lemma writtenForm="pantheon" partOfSpeech="n"/>
@@ -641,7 +641,7 @@
       <Lemma writtenForm="discomfited" partOfSpeech="n"/>
       <Sense id="ewn-discomfited__1_14_00__" n="0" synset="ewn-07962721-n">
         <SenseRelation relType="derivation" target="ewn-discomfited__5_00_00_unsuccessful_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-business_sector-n">
       <Lemma writtenForm="business sector" partOfSpeech="n"/>
@@ -813,7 +813,7 @@
       <Lemma writtenForm="Mahayana" partOfSpeech="n"/>
       <Sense id="ewn-mahayana__1_14_00__" n="0" synset="ewn-08116230-n">
         <SenseRelation relType="derivation" target="ewn-mahayanist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-military_law-n">
       <Lemma writtenForm="military law" partOfSpeech="n"/>
@@ -838,7 +838,7 @@
       <Sense id="ewn-jurisprudence__1_14_00__" n="1" synset="ewn-08458195-n">
         <SenseRelation relType="derivation" target="ewn-jurist__1_18_01__"/>
         <SenseRelation relType="derivation" target="ewn-jurist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-center-n">
       <Lemma writtenForm="center" partOfSpeech="n">
@@ -848,7 +848,7 @@
       <Sense id="ewn-center__1_14_01__" n="7" synset="ewn-08498843-n"/>
       <Sense id="ewn-center__1_14_00__" n="11" synset="ewn-08433480-n">
         <SenseRelation relType="derivation" target="ewn-center__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-oil_business-n">
       <Lemma writtenForm="oil business" partOfSpeech="n"/>
@@ -886,7 +886,7 @@
         <SenseRelation relType="derivation" target="ewn-sum__2_32_00__"/>
         <SenseRelation relType="derivation" target="ewn-summate__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-summate__2_32_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-sum__1_14_01__" n="5" synset="ewn-08015154-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-pack-n">
@@ -910,7 +910,7 @@
       </Lemma>
       <Sense id="ewn-shipper__1_14_00__" n="1" synset="ewn-08498726-n">
         <SenseRelation relType="derivation" target="ewn-ship__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-one-man_rule-n">
       <Lemma writtenForm="one-man rule" partOfSpeech="n"/>
@@ -978,7 +978,7 @@
       <Lemma writtenForm="oecumenism" partOfSpeech="n"/>
       <Sense id="ewn-oecumenism__1_14_00__" n="0" synset="ewn-08488960-n">
         <SenseRelation relType="derivation" target="ewn-oecumenical__5_00_00_nonsectarian_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-refining_industry-n">
       <Lemma writtenForm="refining industry" partOfSpeech="n"/>
@@ -1006,7 +1006,7 @@
       </Lemma>
       <Sense id="ewn-backlog__1_14_00__" n="0" synset="ewn-07970189-n">
         <SenseRelation relType="derivation" target="ewn-backlog__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Conservative_Judaism-n">
       <Lemma writtenForm="Conservative Judaism" partOfSpeech="n"/>
@@ -1044,7 +1044,7 @@
       </Lemma>
       <Sense id="ewn-combine__1_14_00__" n="1" synset="ewn-08253542-n">
         <SenseRelation relType="derivation" target="ewn-combine__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-American_Legion-n">
       <Lemma writtenForm="American Legion" partOfSpeech="n"/>
@@ -1125,22 +1125,22 @@
       <Sense id="ewn-chorus__1_14_00__" n="1" synset="ewn-08204767-n">
         <SenseRelation relType="derivation" target="ewn-choral__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-chorus__2_36_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-chorus__1_14_01__" n="3" synset="ewn-08205379-n">
         <SenseRelation relType="derivation" target="ewn-choral__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-chorus__2_36_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-chorus__1_14_02__" n="4" synset="ewn-08204918-n">
         <SenseRelation relType="derivation" target="ewn-choric__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-chorus__2_36_00__"/>
         <SenseRelation relType="derivation" target="ewn-chorus__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-non-market_economy-n">
       <Lemma writtenForm="non-market economy" partOfSpeech="n"/>
       <Sense id="ewn-non-market_economy__1_14_00__" n="0" synset="ewn-08382271-n">
         <SenseRelation relType="antonym" target="ewn-market_economy__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-board_of_directors-n">
       <Lemma writtenForm="board of directors" partOfSpeech="n"/>
@@ -1165,16 +1165,16 @@
       </Lemma>
       <Sense id="ewn-aristocracy__1_14_01__" n="0" synset="ewn-08404938-n">
         <SenseRelation relType="derivation" target="ewn-aristocratic__5_00_01_noble_02"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-aristocracy__1_14_02__" n="1" synset="ewn-08403944-n">
         <SenseRelation relType="derivation" target="ewn-aristocratic__5_00_01_noble_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gangdom-n">
       <Lemma writtenForm="gangdom" partOfSpeech="n"/>
       <Sense id="ewn-gangdom__1_14_00__" n="0" synset="ewn-08262093-n">
         <SenseRelation relType="derivation" target="ewn-gang__1_14_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-NIPR-n">
       <Lemma writtenForm="NIPR" partOfSpeech="n"/>
@@ -1196,7 +1196,7 @@
       <Lemma writtenForm="trade union" partOfSpeech="n"/>
       <Sense id="ewn-trade_union__1_14_00__" n="0" synset="ewn-08249977-n">
         <SenseRelation relType="derivation" target="ewn-trade_unionist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-FDIC-n">
       <Lemma writtenForm="FDIC" partOfSpeech="n"/>
@@ -1267,7 +1267,7 @@
       <Lemma writtenForm="black market" partOfSpeech="n"/>
       <Sense id="ewn-black_market__1_14_00__" n="0" synset="ewn-08442130-n">
         <SenseRelation relType="derivation" target="ewn-black_market__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-U._S._Army-n">
       <Lemma writtenForm="U. S. Army" partOfSpeech="n"/>
@@ -1286,7 +1286,7 @@
       <Sense id="ewn-brahmin__1_14_00__" n="2" synset="ewn-08323889-n">
         <SenseRelation relType="derivation" target="ewn-brahminic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-brahminical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_States_Department_of_State-n">
       <Lemma writtenForm="United States Department of State" partOfSpeech="n"/>
@@ -1348,7 +1348,7 @@
       </Lemma>
       <Sense id="ewn-symbolism__1_14_00__" n="2" synset="ewn-08487518-n">
         <SenseRelation relType="derivation" target="ewn-symbolist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-publishing_house-n">
       <Lemma writtenForm="publishing house" partOfSpeech="n"/>
@@ -1384,7 +1384,7 @@
       </Lemma>
       <Sense id="ewn-attendance__1_14_00__" n="2" synset="ewn-08201981-n">
         <SenseRelation relType="derivation" target="ewn-attendant__5_00_00_present_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-suite-n">
       <Lemma writtenForm="suite" partOfSpeech="n">
@@ -1397,7 +1397,7 @@
       <Lemma writtenForm="underwriter" partOfSpeech="n"/>
       <Sense id="ewn-underwriter__1_14_00__" n="2" synset="ewn-08087301-n">
         <SenseRelation relType="derivation" target="ewn-underwrite__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-war_machine-n">
       <Lemma writtenForm="war machine" partOfSpeech="n">
@@ -1453,10 +1453,10 @@
       </Lemma>
       <Sense id="ewn-couple__1_14_00__" n="0" synset="ewn-08002070-n">
         <SenseRelation relType="derivation" target="ewn-couple__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-couple__1_14_01__" n="1" synset="ewn-08005299-n">
         <SenseRelation relType="derivation" target="ewn-couple__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Armata_Corsa-n">
       <Lemma writtenForm="Armata Corsa" partOfSpeech="n"/>
@@ -1473,7 +1473,7 @@
       <Sense id="ewn-asia__1_14_00__" n="1" synset="ewn-08189776-n">
         <SenseRelation relType="derivation" target="ewn-asiatic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-asian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Malaysia_Militant_Group-n">
       <Lemma writtenForm="Malaysia Militant Group" partOfSpeech="n"/>
@@ -1487,7 +1487,7 @@
       <Lemma writtenForm="biotype" partOfSpeech="n"/>
       <Sense id="ewn-biotype__1_14_00__" n="0" synset="ewn-07957814-n">
         <SenseRelation relType="derivation" target="ewn-biotypic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-exaltation-n">
       <Lemma writtenForm="exaltation" partOfSpeech="n">
@@ -1515,7 +1515,7 @@
       <Lemma writtenForm="nonalignment" partOfSpeech="n"/>
       <Sense id="ewn-nonalignment__1_14_00__" n="0" synset="ewn-08311316-n">
         <SenseRelation relType="antonym" target="ewn-alignment__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-deco-n">
       <Lemma writtenForm="deco" partOfSpeech="n"/>
@@ -1557,7 +1557,7 @@
       <Sense id="ewn-collectivism__1_14_00__" n="0" synset="ewn-08385235-n">
         <SenseRelation relType="derivation" target="ewn-collectivistic__5_00_00_socialistic_00"/>
         <SenseRelation relType="derivation" target="ewn-collectivist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Forces_of_Umar_Al-Mukhtar-n">
       <Lemma writtenForm="Forces of Umar Al-Mukhtar" partOfSpeech="n"/>
@@ -1726,7 +1726,7 @@
       </Lemma>
       <Sense id="ewn-reserve__1_14_00__" n="5" synset="ewn-08223381-n">
         <SenseRelation relType="derivation" target="ewn-reservist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Tudor-n">
       <Lemma writtenForm="Tudor" partOfSpeech="n">
@@ -1880,7 +1880,7 @@
       <Lemma writtenForm="pointillism" partOfSpeech="n"/>
       <Sense id="ewn-pointillism__1_14_00__" n="0" synset="ewn-08292974-n">
         <SenseRelation relType="derivation" target="ewn-pointillistic__5_00_00_patterned_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-headquarters-n">
       <Lemma writtenForm="headquarters" partOfSpeech="n">
@@ -1919,7 +1919,7 @@
       </Lemma>
       <Sense id="ewn-realism__1_14_00__" n="3" synset="ewn-08486468-n">
         <SenseRelation relType="derivation" target="ewn-realist__1_18_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-night_shift-n">
       <Lemma writtenForm="night shift" partOfSpeech="n"/>
@@ -1936,7 +1936,7 @@
       </Lemma>
       <Sense id="ewn-growth__1_14_00__" n="3" synset="ewn-08455059-n">
         <SenseRelation relType="derivation" target="ewn-grow__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Comptroller_of_the_Currency-n">
       <Lemma writtenForm="Comptroller of the Currency" partOfSpeech="n"/>
@@ -1954,7 +1954,7 @@
       <Sense id="ewn-galaxy__1_14_01__" n="0" synset="ewn-08287859-n"/>
       <Sense id="ewn-galaxy__1_14_00__" n="2" synset="ewn-08287963-n">
         <SenseRelation relType="derivation" target="ewn-galactic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fringe-n">
       <Lemma writtenForm="fringe" partOfSpeech="n">
@@ -1976,7 +1976,7 @@
       </Lemma>
       <Sense id="ewn-vegetation__1_14_00__" n="0" synset="ewn-08453769-n">
         <SenseRelation relType="derivation" target="ewn-vegetate__2_30_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-camp-n">
       <Lemma writtenForm="camp" partOfSpeech="n"/>
@@ -2005,7 +2005,7 @@
       </Lemma>
       <Sense id="ewn-heap__1_14_00__" n="0" synset="ewn-07978094-n">
         <SenseRelation relType="derivation" target="ewn-heap__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-needy-n">
       <Lemma writtenForm="needy" partOfSpeech="n"/>
@@ -2055,7 +2055,7 @@
         <SenseRelation relType="derivation" target="ewn-communist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-communize__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-communize__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-organ-n">
       <Lemma writtenForm="organ" partOfSpeech="n">
@@ -2084,12 +2084,12 @@
       <Lemma writtenForm="crew" partOfSpeech="n"/>
       <Sense id="ewn-crew__1_14_01__" n="0" synset="ewn-08290088-n">
         <SenseRelation relType="derivation" target="ewn-crew__2_33_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-crew__1_14_00__" n="1" synset="ewn-08259720-n"/>
       <Sense id="ewn-crew__1_14_03__" n="2" synset="ewn-08290764-n"/>
       <Sense id="ewn-crew__1_14_02__" n="3" synset="ewn-08290657-n">
         <SenseRelation relType="derivation" target="ewn-crew__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-flower_people-n">
       <Lemma writtenForm="flower people" partOfSpeech="n"/>
@@ -2126,7 +2126,7 @@
       </Lemma>
       <Sense id="ewn-legislature__1_14_00__" n="0" synset="ewn-08180172-n">
         <SenseRelation relType="derivation" target="ewn-legislate__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-town_meeting-n">
       <Lemma writtenForm="town meeting" partOfSpeech="n"/>
@@ -2229,7 +2229,7 @@
       <Sense id="ewn-mailing__1_14_00__" n="0" synset="ewn-08480658-n">
         <SenseRelation relType="derivation" target="ewn-mail__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-mail__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-business-n">
       <Lemma writtenForm="business" partOfSpeech="n">
@@ -2265,7 +2265,7 @@
       <Sense id="ewn-elect__1_14_00__" n="0" synset="ewn-08403584-n">
         <SenseRelation relType="derivation" target="ewn-elect__5_00_00_selected_00"/>
         <SenseRelation relType="derivation" target="ewn-elect__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-judicial_system-n">
       <Lemma writtenForm="judicial system" partOfSpeech="n"/>
@@ -2365,7 +2365,7 @@
       <Lemma writtenForm="few" partOfSpeech="n"/>
       <Sense id="ewn-few__1_14_00__" n="0" synset="ewn-08404805-n">
         <SenseRelation relType="derivation" target="ewn-few__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Brahminism-n">
       <Lemma writtenForm="Brahminism" partOfSpeech="n"/>
@@ -2387,7 +2387,7 @@
       </Lemma>
       <Sense id="ewn-queue__1_14_00__" n="0" synset="ewn-08449355-n">
         <SenseRelation relType="derivation" target="ewn-queue__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gallimaufry-n">
       <Lemma writtenForm="gallimaufry" partOfSpeech="n">
@@ -2441,7 +2441,7 @@
       <Sense id="ewn-partnership__1_14_00__" n="0" synset="ewn-08077530-n">
         <SenseRelation relType="derivation" target="ewn-partner__1_18_02__"/>
         <SenseRelation relType="derivation" target="ewn-partner__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-raider-n">
       <Lemma writtenForm="raider" partOfSpeech="n">
@@ -2449,7 +2449,7 @@
       </Lemma>
       <Sense id="ewn-raider__1_14_00__" n="1" synset="ewn-08093089-n">
         <SenseRelation relType="derivation" target="ewn-raid__2_40_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-medical_institution-n">
       <Lemma writtenForm="medical institution" partOfSpeech="n"/>
@@ -2488,7 +2488,7 @@
       <Sense id="ewn-laity__1_14_00__" n="0" synset="ewn-08170001-n">
         <SenseRelation relType="antonym" target="ewn-clergy__1_14_00__"/>
         <SenseRelation relType="derivation" target="ewn-lay__5_00_00_profane_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Arcado-Cyprians-n">
       <Lemma writtenForm="Arcado-Cyprians" partOfSpeech="n"/>
@@ -2534,7 +2534,7 @@
       </Lemma>
       <Sense id="ewn-clinic__1_14_00__" n="0" synset="ewn-08070828-n">
         <SenseRelation relType="derivation" target="ewn-clinical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-U.S._government-n">
       <Lemma writtenForm="U.S. government" partOfSpeech="n"/>
@@ -2618,7 +2618,7 @@
       <Lemma writtenForm="rich people" partOfSpeech="n"/>
       <Sense id="ewn-rich_people__1_14_00__" n="0" synset="ewn-08196373-n">
         <SenseRelation relType="antonym" target="ewn-poor_people__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Labour_Party-n">
       <Lemma writtenForm="Labour Party" partOfSpeech="n"/>
@@ -2675,7 +2675,7 @@
       <Sense id="ewn-table__1_14_00__" n="0" synset="ewn-08283156-n">
         <SenseRelation relType="derivation" target="ewn-tabulate__2_36_00__"/>
         <SenseRelation relType="derivation" target="ewn-tabular__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-table__1_14_01__" n="4" synset="ewn-08497146-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-dead-n">
@@ -2684,7 +2684,7 @@
       </Lemma>
       <Sense id="ewn-dead__1_14_00__" n="0" synset="ewn-07962243-n">
         <SenseRelation relType="antonym" target="ewn-living__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-age_class-n">
       <Lemma writtenForm="age class" partOfSpeech="n"/>
@@ -2720,7 +2720,7 @@
       </Lemma>
       <Sense id="ewn-plague__1_14_00__" n="2" synset="ewn-08012854-n">
         <SenseRelation relType="derivation" target="ewn-plague__2_43_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vehicle_traffic-n">
       <Lemma writtenForm="vehicle traffic" partOfSpeech="n"/>
@@ -2794,7 +2794,7 @@
         <SenseRelation relType="derivation" target="ewn-regimental__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-regiment__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-regiment__2_41_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bee-n">
       <Lemma writtenForm="bee" partOfSpeech="n"/>
@@ -2807,7 +2807,7 @@
       <Sense id="ewn-priesthood__1_14_00__" n="0" synset="ewn-08130409-n">
         <SenseRelation relType="derivation" target="ewn-priest__1_18_01__"/>
         <SenseRelation relType="derivation" target="ewn-priest__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-auto_manufacturer-n">
       <Lemma writtenForm="auto manufacturer" partOfSpeech="n"/>
@@ -2829,7 +2829,7 @@
       <Lemma writtenForm="Aeolian" partOfSpeech="n"/>
       <Sense id="ewn-aeolian__1_14_00__" n="1" synset="ewn-08177596-n">
         <SenseRelation relType="derivation" target="ewn-aeolian__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-waiting_line-n">
       <Lemma writtenForm="waiting line" partOfSpeech="n"/>
@@ -2855,7 +2855,7 @@
       <Lemma writtenForm="race" partOfSpeech="n"/>
       <Sense id="ewn-race__1_14_00__" n="2" synset="ewn-07984596-n">
         <SenseRelation relType="derivation" target="ewn-racial__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-race__1_14_01__" n="3" synset="ewn-08127614-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-electromotive_force_series-n">
@@ -2910,13 +2910,13 @@
       </Lemma>
       <Sense id="ewn-constitutionalism__1_14_00__" n="0" synset="ewn-08378099-n">
         <SenseRelation relType="derivation" target="ewn-constitutionalist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-psychedelia-n">
       <Lemma writtenForm="psychedelia" partOfSpeech="n"/>
       <Sense id="ewn-psychedelia__1_14_00__" n="0" synset="ewn-08309219-n">
         <SenseRelation relType="derivation" target="ewn-psychedelic__5_00_00_psychoactive_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-threescore-n">
       <Lemma writtenForm="threescore" partOfSpeech="n">
@@ -2985,7 +2985,7 @@
       <Sense id="ewn-woman__1_14_00__" n="3" synset="ewn-08494645-n">
         <SenseRelation relType="derivation" target="ewn-womanhood__1_26_00__"/>
         <SenseRelation relType="derivation" target="ewn-womanhood__1_04_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-electromotive_series-n">
       <Lemma writtenForm="electromotive series" partOfSpeech="n"/>
@@ -3007,7 +3007,7 @@
       </Lemma>
       <Sense id="ewn-rick__1_14_00__" n="1" synset="ewn-07979822-n">
         <SenseRelation relType="derivation" target="ewn-rick__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nobility-n">
       <Lemma writtenForm="nobility" partOfSpeech="n">
@@ -3016,7 +3016,7 @@
       </Lemma>
       <Sense id="ewn-nobility__1_14_00__" n="0" synset="ewn-08404938-n">
         <SenseRelation relType="derivation" target="ewn-noble__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-avant-garde-n">
       <Lemma writtenForm="avant-garde" partOfSpeech="n">
@@ -3074,7 +3074,7 @@
       <Form writtenForm="genus"/>
       <Sense id="ewn-genus__1_14_00__" n="1" synset="ewn-08125938-n">
         <SenseRelation relType="derivation" target="ewn-generic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Mafia-n">
       <Lemma writtenForm="Mafia" partOfSpeech="n">
@@ -3130,13 +3130,13 @@
       <Lemma writtenForm="bush" partOfSpeech="n"/>
       <Sense id="ewn-bush__1_14_00__" n="2" synset="ewn-08455215-n">
         <SenseRelation relType="derivation" target="ewn-bushy__5_00_00_branchy_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-civil_law-n">
       <Lemma writtenForm="civil law" partOfSpeech="n"/>
       <Sense id="ewn-civil_law__1_14_00__" n="0" synset="ewn-08470475-n">
         <SenseRelation relType="antonym" target="ewn-international_law__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Population_Commission-n">
       <Lemma writtenForm="Population Commission" partOfSpeech="n"/>
@@ -3157,7 +3157,7 @@
       </Lemma>
       <Sense id="ewn-leadership__1_14_00__" n="1" synset="ewn-08398167-n">
         <SenseRelation relType="derivation" target="ewn-leader__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-royalty-n">
       <Lemma writtenForm="royalty" partOfSpeech="n">
@@ -3187,7 +3187,7 @@
         <SenseRelation relType="derivation" target="ewn-capitalistic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-capitalistic__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-capitalist__1_18_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Supreme_Allied_Commander_Atlantic-n">
       <Lemma writtenForm="Supreme Allied Commander Atlantic" partOfSpeech="n"/>
@@ -3243,7 +3243,7 @@
       </Lemma>
       <Sense id="ewn-callithump__1_14_00__" n="0" synset="ewn-08445580-n">
         <SenseRelation relType="derivation" target="ewn-callithumpian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Health_and_Human_Services-n">
       <Lemma writtenForm="Health and Human Services" partOfSpeech="n"/>
@@ -3310,7 +3310,7 @@
       <Sense id="ewn-young__1_14_00__" n="1" synset="ewn-07960326-n">
         <SenseRelation relType="antonym" target="ewn-aged__1_14_00__"/>
         <SenseRelation relType="derivation" target="ewn-young__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sturmabteilung-n">
       <Lemma writtenForm="Sturmabteilung" partOfSpeech="n"/>
@@ -3350,7 +3350,7 @@
       </Lemma>
       <Sense id="ewn-summation__1_14_00__" n="2" synset="ewn-07975630-n">
         <SenseRelation relType="derivation" target="ewn-summational__5_00_00_additive_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pontificate-n">
       <Lemma writtenForm="pontificate" partOfSpeech="n">
@@ -3359,7 +3359,7 @@
       </Lemma>
       <Sense id="ewn-pontificate__1_14_00__" n="0" synset="ewn-08070012-n">
         <SenseRelation relType="derivation" target="ewn-pontificate__2_41_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Customs_Service-n">
       <Lemma writtenForm="Customs Service" partOfSpeech="n"/>
@@ -3389,7 +3389,7 @@
       <Lemma writtenForm="boarding school" partOfSpeech="n"/>
       <Sense id="ewn-boarding_school__1_14_00__" n="0" synset="ewn-08428658-n">
         <SenseRelation relType="antonym" target="ewn-day_school__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-SVR-n">
       <Lemma writtenForm="SVR" partOfSpeech="n"/>
@@ -3410,7 +3410,7 @@
       <Sense id="ewn-breed__1_14_00__" n="0" synset="ewn-08118376-n">
         <SenseRelation relType="derivation" target="ewn-breed__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-breed__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tuft-n">
       <Lemma writtenForm="tuft" partOfSpeech="n">
@@ -3515,7 +3515,7 @@
       <Lemma writtenForm="mail" partOfSpeech="n"/>
       <Sense id="ewn-mail__1_14_00__" n="3" synset="ewn-08480074-n">
         <SenseRelation relType="derivation" target="ewn-mail__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Romanoff-n">
       <Lemma writtenForm="Romanoff" partOfSpeech="n"/>
@@ -3641,7 +3641,7 @@
         <SenseRelation relType="derivation" target="ewn-categorical__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-categoric__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-categorize__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-line_of_march-n">
       <Lemma writtenForm="line of march" partOfSpeech="n"/>
@@ -3667,7 +3667,7 @@
       <Sense id="ewn-dinner__1_14_00__" n="1" synset="ewn-08270736-n">
         <SenseRelation relType="derivation" target="ewn-dine__2_34_02__"/>
         <SenseRelation relType="derivation" target="ewn-dine__2_34_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-DOE-n">
       <Lemma writtenForm="DOE" partOfSpeech="n"/>
@@ -3796,7 +3796,7 @@
       </Lemma>
       <Sense id="ewn-education__1_14_00__" n="0" synset="ewn-08149619-n">
         <SenseRelation relType="derivation" target="ewn-educate__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Greek_Church-n">
       <Lemma writtenForm="Greek Church" partOfSpeech="n"/>
@@ -3833,7 +3833,7 @@
       </Lemma>
       <Sense id="ewn-washington__1_14_00__" n="2" synset="ewn-08374056-n">
         <SenseRelation relType="derivation" target="ewn-washingtonian__3_01_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-zumbooruck-n">
       <Lemma writtenForm="zumbooruck" partOfSpeech="n"/>
@@ -3914,13 +3914,13 @@
       </Lemma>
       <Sense id="ewn-array__1_14_00__" n="0" synset="ewn-07955622-n">
         <SenseRelation relType="derivation" target="ewn-array__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Christianity-n">
       <Lemma writtenForm="Christianity" partOfSpeech="n"/>
       <Sense id="ewn-christianity__1_14_02__" n="1" synset="ewn-08099113-n">
         <SenseRelation relType="derivation" target="ewn-christian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Labor-n">
       <Lemma writtenForm="Labor" partOfSpeech="n">
@@ -3941,7 +3941,7 @@
         <SenseRelation relType="derivation" target="ewn-march__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-march__2_38_04__"/>
         <SenseRelation relType="derivation" target="ewn-march__2_38_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-IMU-n">
       <Lemma writtenForm="IMU" partOfSpeech="n"/>
@@ -4036,7 +4036,7 @@
       <Sense id="ewn-jungle__1_14_00__" n="1" synset="ewn-08495182-n"/>
       <Sense id="ewn-jungle__1_14_01__" n="2" synset="ewn-08456014-n">
         <SenseRelation relType="derivation" target="ewn-jungly__5_00_00_wooded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Protestant_Reformation-n">
       <Lemma writtenForm="Protestant Reformation" partOfSpeech="n"/>
@@ -4064,7 +4064,7 @@
       </Lemma>
       <Sense id="ewn-garrison__1_14_00__" n="1" synset="ewn-08414993-n">
         <SenseRelation relType="derivation" target="ewn-garrison__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Lashkar-e-Omar-n">
       <Lemma writtenForm="Lashkar-e-Omar" partOfSpeech="n"/>
@@ -4077,13 +4077,13 @@
       <Sense id="ewn-defence__1_14_01__" n="1" synset="ewn-08098280-n">
         <SenseRelation relType="antonym" target="ewn-offence__1_14_00__"/>
         <SenseRelation relType="derivation" target="ewn-defend__2_33_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-defence__1_14_00__" n="2" synset="ewn-08081359-n">
         <SenseRelation relType="derivation" target="ewn-defend__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-defence__1_14_03__" n="3" synset="ewn-08080966-n">
         <SenseRelation relType="derivation" target="ewn-defend__2_33_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-major-league_team-n">
       <Lemma writtenForm="major-league team" partOfSpeech="n"/>
@@ -4148,7 +4148,7 @@
       </Lemma>
       <Sense id="ewn-fellowship__1_14_00__" n="0" synset="ewn-08244837-n">
         <SenseRelation relType="derivation" target="ewn-fellow__1_18_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-FCS-n">
       <Lemma writtenForm="FCS" partOfSpeech="n"/>
@@ -4213,7 +4213,7 @@
       </Lemma>
       <Sense id="ewn-stockpile__1_14_00__" n="1" synset="ewn-08479216-n">
         <SenseRelation relType="derivation" target="ewn-stockpile__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-screenland-n">
       <Lemma writtenForm="screenland" partOfSpeech="n"/>
@@ -4292,7 +4292,7 @@
       </Lemma>
       <Sense id="ewn-conference__1_14_00__" n="0" synset="ewn-08325427-n">
         <SenseRelation relType="derivation" target="ewn-confer__2_32_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-conference__1_14_01__" n="1" synset="ewn-08248105-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Industrial_Workers_of_the_World-n">
@@ -4315,7 +4315,7 @@
       </Lemma>
       <Sense id="ewn-navy__1_14_00__" n="0" synset="ewn-08208631-n">
         <SenseRelation relType="derivation" target="ewn-naval__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stratum-n">
       <Lemma writtenForm="stratum" partOfSpeech="n">
@@ -4372,7 +4372,7 @@
         <SenseRelation relType="derivation" target="ewn-bunchy__5_00_00_concentrated_00"/>
         <SenseRelation relType="derivation" target="ewn-bunch__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-bunch__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bunch__1_14_01__" n="1" synset="ewn-08290764-n"/>
       <Sense id="ewn-bunch__1_14_02__" n="2" synset="ewn-07971317-n"/>
     </LexicalEntry>
@@ -4409,7 +4409,7 @@
       <Lemma writtenForm="Shaktism" partOfSpeech="n"/>
       <Sense id="ewn-shaktism__1_14_00__" n="0" synset="ewn-08114188-n">
         <SenseRelation relType="derivation" target="ewn-shaktist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Real_Irish_Republican_Army-n">
       <Lemma writtenForm="Real Irish Republican Army" partOfSpeech="n"/>
@@ -4479,7 +4479,7 @@
       </Lemma>
       <Sense id="ewn-poor__1_14_00__" n="0" synset="ewn-08196123-n">
         <SenseRelation relType="antonym" target="ewn-rich__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-community_chest-n">
       <Lemma writtenForm="community chest" partOfSpeech="n"/>
@@ -4634,7 +4634,7 @@
       <Sense id="ewn-motley__1_14_00__" n="0" synset="ewn-08415730-n">
         <SenseRelation relType="derivation" target="ewn-motley__5_00_00_heterogeneous_00"/>
         <SenseRelation relType="derivation" target="ewn-motley__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-foundation-n">
       <Lemma writtenForm="foundation" partOfSpeech="n">
@@ -4642,7 +4642,7 @@
       </Lemma>
       <Sense id="ewn-foundation__1_14_00__" n="1" synset="ewn-08423443-n">
         <SenseRelation relType="derivation" target="ewn-found__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Commonwealth_of_Nations-n">
       <Lemma writtenForm="Commonwealth of Nations" partOfSpeech="n"/>
@@ -4663,7 +4663,7 @@
       <Sense id="ewn-stack__1_14_00__" n="0" synset="ewn-07979701-n">
         <SenseRelation relType="derivation" target="ewn-stack__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-stack__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Arminian_Baptist-n">
       <Lemma writtenForm="Arminian Baptist" partOfSpeech="n"/>
@@ -4708,7 +4708,7 @@
       <Sense id="ewn-bolshevism__1_14_00__" n="0" synset="ewn-08385235-n">
         <SenseRelation relType="derivation" target="ewn-bolshevistic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-bolshevist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-old_boy_network-n">
       <Lemma writtenForm="old boy network" partOfSpeech="n"/>
@@ -4725,7 +4725,7 @@
       </Lemma>
       <Sense id="ewn-household__1_14_00__" n="0" synset="ewn-08094856-n">
         <SenseRelation relType="derivation" target="ewn-householder__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-brethren-n">
       <Lemma writtenForm="brethren" partOfSpeech="n">
@@ -4803,7 +4803,7 @@
         <SenseRelation relType="derivation" target="ewn-industrialist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-industrialize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-industrialise__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_Front-n">
       <Lemma writtenForm="United Front" partOfSpeech="n"/>
@@ -4829,7 +4829,7 @@
       <Lemma writtenForm="South America" partOfSpeech="n"/>
       <Sense id="ewn-south_america__1_14_00__" n="1" synset="ewn-08190188-n">
         <SenseRelation relType="derivation" target="ewn-south_american__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lower_court-n">
       <Lemma writtenForm="lower court" partOfSpeech="n"/>
@@ -4874,7 +4874,7 @@
       </Lemma>
       <Sense id="ewn-society__1_14_00__" n="0" synset="ewn-07982754-n">
         <SenseRelation relType="derivation" target="ewn-societal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-society__1_14_01__" n="1" synset="ewn-08244135-n"/>
       <Sense id="ewn-society__1_14_02__" n="3" synset="ewn-08404661-n"/>
     </LexicalEntry>
@@ -4920,7 +4920,7 @@
       <Lemma writtenForm="fauvism" partOfSpeech="n"/>
       <Sense id="ewn-fauvism__1_14_00__" n="0" synset="ewn-08484882-n">
         <SenseRelation relType="derivation" target="ewn-fauvist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-engagement-n">
       <Lemma writtenForm="engagement" partOfSpeech="n">
@@ -4945,10 +4945,10 @@
         <SenseRelation relType="derivation" target="ewn-order__2_31_01__"/>
         <SenseRelation relType="derivation" target="ewn-order__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-order__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-order__1_14_02__" n="7" synset="ewn-08244135-n">
         <SenseRelation relType="derivation" target="ewn-order__2_41_02__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-order__1_14_03__" n="9" synset="ewn-08164801-n"/>
       <Sense id="ewn-order__1_14_01__" n="10" synset="ewn-08123900-n"/>
     </LexicalEntry>
@@ -4963,10 +4963,10 @@
       </Lemma>
       <Sense id="ewn-conjugation__1_14_02__" n="2" synset="ewn-08023310-n">
         <SenseRelation relType="derivation" target="ewn-conjugate__2_32_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-conjugation__1_14_01__" n="3" synset="ewn-08023183-n">
         <SenseRelation relType="derivation" target="ewn-conjugate__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Federal_Housing_Administration-n">
       <Lemma writtenForm="Federal Housing Administration" partOfSpeech="n"/>
@@ -5038,7 +5038,7 @@
       </Lemma>
       <Sense id="ewn-clew__1_14_00__" n="0" synset="ewn-07977993-n">
         <SenseRelation relType="derivation" target="ewn-clew__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hapsburg-n">
       <Lemma writtenForm="Hapsburg" partOfSpeech="n">
@@ -5087,7 +5087,7 @@
       </Lemma>
       <Sense id="ewn-conspiracy__1_14_00__" n="2" synset="ewn-08268224-n">
         <SenseRelation relType="derivation" target="ewn-conspiratorial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_States_Marshals_Service-n">
       <Lemma writtenForm="United States Marshals Service" partOfSpeech="n"/>
@@ -5103,7 +5103,7 @@
       </Lemma>
       <Sense id="ewn-confederacy__1_14_00__" n="0" synset="ewn-08320205-n">
         <SenseRelation relType="derivation" target="ewn-confederate__2_41_10__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-confederacy__1_14_01__" n="1" synset="ewn-08268224-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_States_Post_Office-n">
@@ -5114,7 +5114,7 @@
       <Lemma writtenForm="matriarchy" partOfSpeech="n"/>
       <Sense id="ewn-matriarchy__1_14_00__" n="0" synset="ewn-07989335-n">
         <SenseRelation relType="derivation" target="ewn-matriarchal__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-musical_soiree-n">
       <Lemma writtenForm="musical soiree" partOfSpeech="n"/>
@@ -5211,7 +5211,7 @@
       <Sense id="ewn-dealership__1_14_00__" n="0" synset="ewn-08077029-n">
         <SenseRelation relType="derivation" target="ewn-dealer__1_18_02__"/>
         <SenseRelation relType="derivation" target="ewn-dealer__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_States_Army-n">
       <Lemma writtenForm="United States Army" partOfSpeech="n"/>
@@ -5333,7 +5333,7 @@
       </Lemma>
       <Sense id="ewn-affiliate__1_14_00__" n="1" synset="ewn-08026210-n">
         <SenseRelation relType="derivation" target="ewn-affiliate__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-junior_college-n">
       <Lemma writtenForm="junior college" partOfSpeech="n"/>
@@ -5451,7 +5451,7 @@
       </Lemma>
       <Sense id="ewn-enterprise__1_14_00__" n="1" synset="ewn-08072983-n">
         <SenseRelation relType="derivation" target="ewn-enterpriser__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-triad-n">
       <Lemma writtenForm="triad" partOfSpeech="n">
@@ -5483,7 +5483,7 @@
       </Lemma>
       <Sense id="ewn-forest__1_14_00__" n="0" synset="ewn-08455525-n">
         <SenseRelation relType="derivation" target="ewn-forest__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dancing_school-n">
       <Lemma writtenForm="dancing school" partOfSpeech="n"/>
@@ -5507,10 +5507,10 @@
       <Lemma writtenForm="Europe" partOfSpeech="n"/>
       <Sense id="ewn-europe__1_14_00__" n="1" synset="ewn-08190414-n">
         <SenseRelation relType="derivation" target="ewn-european__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-europe__1_14_01__" n="2" synset="ewn-08189594-n">
         <SenseRelation relType="derivation" target="ewn-european__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dragnet-n">
       <Lemma writtenForm="dragnet" partOfSpeech="n"/>
@@ -5607,7 +5607,7 @@
       <Sense id="ewn-commonality__1_14_00__" n="0" synset="ewn-08198848-n">
         <SenseRelation relType="derivation" target="ewn-common__5_00_00_unrefined_01"/>
         <SenseRelation relType="derivation" target="ewn-common__5_00_00_lowborn_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Inca-n">
       <Lemma writtenForm="Inca" partOfSpeech="n">
@@ -5631,7 +5631,7 @@
       <Lemma writtenForm="Kokka" partOfSpeech="n"/>
       <Sense id="ewn-kokka__1_14_00__" n="0" synset="ewn-08117447-n">
         <SenseRelation relType="derivation" target="ewn-kokka__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-newsroom-n">
       <Lemma writtenForm="newsroom" partOfSpeech="n">
@@ -5651,7 +5651,7 @@
       <Lemma writtenForm="parish" partOfSpeech="n"/>
       <Sense id="ewn-parish__1_14_00__" n="0" synset="ewn-08240609-n">
         <SenseRelation relType="derivation" target="ewn-parochial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dramatis_personae-n">
       <Lemma writtenForm="dramatis personae" partOfSpeech="n"/>
@@ -5667,7 +5667,7 @@
       </Lemma>
       <Sense id="ewn-brigade__1_14_00__" n="0" synset="ewn-08230899-n">
         <SenseRelation relType="derivation" target="ewn-brigade__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-White_House-n">
       <Lemma writtenForm="White House" partOfSpeech="n"/>
@@ -5702,7 +5702,7 @@
       <Sense id="ewn-aged__1_14_00__" n="0" synset="ewn-07960146-n">
         <SenseRelation relType="antonym" target="ewn-young__1_14_00__"/>
         <SenseRelation relType="derivation" target="ewn-aged__5_00_01_old_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-first_team-n">
       <Lemma writtenForm="first team" partOfSpeech="n"/>
@@ -5715,7 +5715,7 @@
       </Lemma>
       <Sense id="ewn-carrier__1_14_00__" n="4" synset="ewn-08074469-n">
         <SenseRelation relType="derivation" target="ewn-carry__2_35_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-FTO-n">
       <Lemma writtenForm="FTO" partOfSpeech="n"/>
@@ -5763,7 +5763,7 @@
       <Sense id="ewn-calendar__1_14_00__" n="2" synset="ewn-08283770-n">
         <SenseRelation relType="derivation" target="ewn-calendric__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-calendar__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hanseatic_League-n">
       <Lemma writtenForm="Hanseatic League" partOfSpeech="n"/>
@@ -5773,7 +5773,7 @@
       <Lemma writtenForm="recessional" partOfSpeech="n"/>
       <Sense id="ewn-recessional__1_14_00__" n="0" synset="ewn-08446513-n">
         <SenseRelation relType="derivation" target="ewn-recessional__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-corps-n">
       <Lemma writtenForm="corps" partOfSpeech="n">
@@ -5799,7 +5799,7 @@
       <Sense id="ewn-commune__1_14_00__" n="1" synset="ewn-08392296-n">
         <SenseRelation relType="derivation" target="ewn-communise__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-communise__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-family_business-n">
       <Lemma writtenForm="family business" partOfSpeech="n"/>
@@ -5848,10 +5848,10 @@
       <Sense id="ewn-association__1_14_00__" n="0" synset="ewn-08066153-n">
         <SenseRelation relType="derivation" target="ewn-associate__2_41_02__"/>
         <SenseRelation relType="derivation" target="ewn-associate__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-association__1_14_01__" n="7" synset="ewn-08006819-n">
         <SenseRelation relType="derivation" target="ewn-associate__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-voodoo-n">
       <Lemma writtenForm="voodoo" partOfSpeech="n">
@@ -5910,7 +5910,7 @@
       </Lemma>
       <Sense id="ewn-mixture__1_14_00__" n="2" synset="ewn-08415730-n">
         <SenseRelation relType="derivation" target="ewn-mix__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rainforest-n">
       <Lemma writtenForm="rainforest" partOfSpeech="n"/>
@@ -5946,7 +5946,7 @@
       </Lemma>
       <Sense id="ewn-administration__1_14_00__" n="1" synset="ewn-08181484-n">
         <SenseRelation relType="derivation" target="ewn-administer__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Ptolemaic_dynasty-n">
       <Lemma writtenForm="Ptolemaic dynasty" partOfSpeech="n"/>
@@ -5963,7 +5963,7 @@
       </Lemma>
       <Sense id="ewn-biology__1_14_00__" n="2" synset="ewn-08009551-n">
         <SenseRelation relType="derivation" target="ewn-biological__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-screen-n">
       <Lemma writtenForm="screen" partOfSpeech="n">
@@ -5976,7 +5976,7 @@
       <Sense id="ewn-feast__1_14_00__" n="0" synset="ewn-08270561-n">
         <SenseRelation relType="derivation" target="ewn-feast__2_34_01__"/>
         <SenseRelation relType="derivation" target="ewn-feast__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-JI-n">
       <Lemma writtenForm="JI" partOfSpeech="n"/>
@@ -5997,7 +5997,7 @@
       </Lemma>
       <Sense id="ewn-caucus__1_14_00__" n="0" synset="ewn-08325243-n">
         <SenseRelation relType="derivation" target="ewn-caucus__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_States_Treasury-n">
       <Lemma writtenForm="United States Treasury" partOfSpeech="n"/>
@@ -6031,7 +6031,7 @@
       <Sense id="ewn-collective__1_14_00__" n="0" synset="ewn-08073353-n">
         <SenseRelation relType="derivation" target="ewn-collectivize__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-collectivise__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-viewing_audience-n">
       <Lemma writtenForm="viewing audience" partOfSpeech="n"/>
@@ -6044,7 +6044,7 @@
       </Lemma>
       <Sense id="ewn-clone__1_14_00__" n="1" synset="ewn-07956482-n">
         <SenseRelation relType="derivation" target="ewn-clone__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Ferdinand_and_Isabella-n">
       <Lemma writtenForm="Ferdinand and Isabella" partOfSpeech="n"/>
@@ -6077,13 +6077,13 @@
       </Lemma>
       <Sense id="ewn-bureaucracy__1_14_00__" n="0" synset="ewn-08473738-n">
         <SenseRelation relType="derivation" target="ewn-bureaucratic__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bureaucracy__1_14_01__" n="1" synset="ewn-08068317-n">
         <SenseRelation relType="derivation" target="ewn-bureaucratic__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bureaucracy__1_14_02__" n="2" synset="ewn-08026391-n">
         <SenseRelation relType="derivation" target="ewn-bureaucratic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-special_court-martial-n">
       <Lemma writtenForm="special court-martial" partOfSpeech="n"/>
@@ -6141,7 +6141,7 @@
       </Lemma>
       <Sense id="ewn-processor__1_14_00__" n="0" synset="ewn-08082773-n">
         <SenseRelation relType="derivation" target="ewn-process__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-triplet-n">
       <Lemma writtenForm="triplet" partOfSpeech="n"/>
@@ -6175,7 +6175,7 @@
       <Sense id="ewn-company__1_14_00__" n="5" synset="ewn-08201779-n"/>
       <Sense id="ewn-company__1_14_06__" n="6" synset="ewn-08281818-n">
         <SenseRelation relType="derivation" target="ewn-company__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-company__1_14_04__" n="7" synset="ewn-08235980-n"/>
       <Sense id="ewn-company__1_14_05__" n="8" synset="ewn-08094547-n"/>
     </LexicalEntry>
@@ -6236,7 +6236,7 @@
       <Sense id="ewn-expressionism__1_14_00__" n="0" synset="ewn-08484269-n">
         <SenseRelation relType="derivation" target="ewn-expressionistic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-expressionist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Greek_Orthodox_Church-n">
       <Lemma writtenForm="Greek Orthodox Church" partOfSpeech="n"/>
@@ -6282,7 +6282,7 @@
       </Lemma>
       <Sense id="ewn-unit__1_14_00__" n="2" synset="ewn-08206589-n">
         <SenseRelation relType="derivation" target="ewn-unitize__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Former_Armed_Forces-n">
       <Lemma writtenForm="Former Armed Forces" partOfSpeech="n"/>
@@ -6296,10 +6296,10 @@
       <Lemma writtenForm="day school" partOfSpeech="n"/>
       <Sense id="ewn-day_school__1_14_00__" n="0" synset="ewn-08428542-n">
         <SenseRelation relType="antonym" target="ewn-boarding_school__1_14_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-day_school__1_14_01__" n="1" synset="ewn-08428806-n">
         <SenseRelation relType="antonym" target="ewn-night_school__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Defense_Department-n">
       <Lemma writtenForm="Defense Department" partOfSpeech="n"/>
@@ -6320,7 +6320,7 @@
       <Sense id="ewn-chain__1_14_00__" n="0" synset="ewn-08392981-n">
         <SenseRelation relType="derivation" target="ewn-catenulate__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-catenate__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-chain__1_14_02__" n="3" synset="ewn-08074652-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-chunk-n">
@@ -6330,7 +6330,7 @@
       <Sense id="ewn-chunk__1_14_00__" n="0" synset="ewn-07977630-n">
         <SenseRelation relType="derivation" target="ewn-chunky__5_00_00_unshapely_00"/>
         <SenseRelation relType="derivation" target="ewn-chunk__2_31_13__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Allied_Command_Europe-n">
       <Lemma writtenForm="Allied Command Europe" partOfSpeech="n"/>
@@ -6366,7 +6366,7 @@
       </Lemma>
       <Sense id="ewn-industry__1_14_00__" n="0" synset="ewn-08082070-n">
         <SenseRelation relType="derivation" target="ewn-industrialist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-terrorist_cell-n">
       <Lemma writtenForm="terrorist cell" partOfSpeech="n"/>
@@ -6379,11 +6379,11 @@
       <Sense id="ewn-staff__1_14_01__" n="0" synset="ewn-08456947-n">
         <SenseRelation relType="derivation" target="ewn-staff__2_33_01__"/>
         <SenseRelation relType="derivation" target="ewn-staff__2_33_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-staff__1_14_00__" n="2" synset="ewn-08304507-n">
         <SenseRelation relType="derivation" target="ewn-staff__2_33_01__"/>
         <SenseRelation relType="derivation" target="ewn-staff__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bloodstock-n">
       <Lemma writtenForm="bloodstock" partOfSpeech="n"/>
@@ -6394,12 +6394,12 @@
       <Sense id="ewn-pair__1_14_01__" n="0" synset="ewn-08001665-n">
         <SenseRelation relType="derivation" target="ewn-pair__2_35_04__"/>
         <SenseRelation relType="derivation" target="ewn-pair__2_35_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-pair__1_14_00__" n="2" synset="ewn-07993383-n">
         <SenseRelation relType="derivation" target="ewn-pair__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-pair__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-pair__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-pair__1_14_02__" n="3" synset="ewn-07975021-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-convoy-n">
@@ -6408,10 +6408,10 @@
       </Lemma>
       <Sense id="ewn-convoy__1_14_00__" n="0" synset="ewn-08434758-n">
         <SenseRelation relType="derivation" target="ewn-convoy__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-convoy__1_14_01__" n="1" synset="ewn-08434630-n">
         <SenseRelation relType="derivation" target="ewn-convoy__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-colony-n">
       <Lemma writtenForm="colony" partOfSpeech="n">
@@ -6425,10 +6425,10 @@
         <SenseRelation relType="derivation" target="ewn-colonize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-colonise__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-colonise__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-colony__1_14_01__" n="1" synset="ewn-08012298-n">
         <SenseRelation relType="derivation" target="ewn-colonial__3_01_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-colony__1_14_02__" n="4" synset="ewn-08012452-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-OIG-n">
@@ -6583,7 +6583,7 @@
       <Sense id="ewn-date__1_14_00__" n="2" synset="ewn-08401740-n">
         <SenseRelation relType="derivation" target="ewn-date__2_41_01__"/>
         <SenseRelation relType="derivation" target="ewn-date__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-professional_association-n">
       <Lemma writtenForm="professional association" partOfSpeech="n"/>
@@ -6608,7 +6608,7 @@
       </Lemma>
       <Sense id="ewn-command__1_14_00__" n="1" synset="ewn-08207222-n">
         <SenseRelation relType="derivation" target="ewn-command__2_32_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-crime_syndicate-n">
       <Lemma writtenForm="crime syndicate" partOfSpeech="n"/>
@@ -6638,7 +6638,7 @@
       <Lemma writtenForm="categorization" partOfSpeech="n"/>
       <Sense id="ewn-categorization__1_14_00__" n="0" synset="ewn-07955878-n">
         <SenseRelation relType="derivation" target="ewn-categorize__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mutual_fund-n">
       <Lemma writtenForm="mutual fund" partOfSpeech="n"/>
@@ -6660,7 +6660,7 @@
       <Lemma writtenForm="friendly" partOfSpeech="n"/>
       <Sense id="ewn-friendly__1_14_00__" n="0" synset="ewn-08414446-n">
         <SenseRelation relType="antonym" target="ewn-hostile__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-series-n">
       <Lemma writtenForm="series" partOfSpeech="n">
@@ -6671,7 +6671,7 @@
         <SenseRelation relType="derivation" target="ewn-serial__5_00_00_ordered_00"/>
         <SenseRelation relType="derivation" target="ewn-serial__3_01_02__"/>
         <SenseRelation relType="derivation" target="ewn-serial__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-series__1_14_01__" n="5" synset="ewn-08475515-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-fedayeen-n">
@@ -6691,7 +6691,7 @@
       </Lemma>
       <Sense id="ewn-muster__1_14_00__" n="0" synset="ewn-08496626-n">
         <SenseRelation relType="derivation" target="ewn-muster__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-European_Economic_Community-n">
       <Lemma writtenForm="European Economic Community" partOfSpeech="n"/>
@@ -6717,7 +6717,7 @@
       <Sense id="ewn-catena__1_14_00__" n="0" synset="ewn-08393257-n">
         <SenseRelation relType="derivation" target="ewn-catenulate__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-catenate__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-coven-n">
       <Lemma writtenForm="coven" partOfSpeech="n">
@@ -6747,7 +6747,7 @@
       </Lemma>
       <Sense id="ewn-soldiery__1_14_00__" n="0" synset="ewn-08414212-n">
         <SenseRelation relType="derivation" target="ewn-soldier__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Ch-ap-ing_dynasty-n">
       <Lemma writtenForm="Ch&apos;ing dynasty" partOfSpeech="n"/>
@@ -6828,7 +6828,7 @@
       <Lemma writtenForm="pool" partOfSpeech="n"/>
       <Sense id="ewn-pool__1_14_01__" n="2" synset="ewn-08498380-n">
         <SenseRelation relType="derivation" target="ewn-pool__2_33_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-pool__1_14_00__" n="3" synset="ewn-08253359-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-industrial_bank-n">
@@ -6882,7 +6882,7 @@
       <Lemma writtenForm="sex" partOfSpeech="n"/>
       <Sense id="ewn-sex__1_14_00__" n="1" synset="ewn-08015733-n">
         <SenseRelation relType="derivation" target="ewn-sex__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Federal_Law_Enforcement_Training_Center-n">
       <Lemma writtenForm="Federal Law Enforcement Training Center" partOfSpeech="n"/>
@@ -6947,10 +6947,10 @@
       </Lemma>
       <Sense id="ewn-parade__1_14_00__" n="0" synset="ewn-08445442-n">
         <SenseRelation relType="derivation" target="ewn-parade__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-parade__1_14_02__" n="1" synset="ewn-08477406-n">
         <SenseRelation relType="derivation" target="ewn-parade__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hezbollah-n">
       <Lemma writtenForm="Hezbollah" partOfSpeech="n"/>
@@ -7012,7 +7012,7 @@
       </Lemma>
       <Sense id="ewn-fandom__1_14_00__" n="0" synset="ewn-08240502-n">
         <SenseRelation relType="derivation" target="ewn-fan__1_18_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Provisional_IRA-n">
       <Lemma writtenForm="Provisional IRA" partOfSpeech="n"/>
@@ -7025,7 +7025,7 @@
       </Lemma>
       <Sense id="ewn-member__1_14_00__" n="3" synset="ewn-08187585-n">
         <SenseRelation relType="derivation" target="ewn-membership__1_26_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sezession-n">
       <Lemma writtenForm="sezession" partOfSpeech="n"/>
@@ -7098,7 +7098,7 @@
       <Sense id="ewn-cell__1_14_00__" n="3" synset="ewn-08375521-n">
         <SenseRelation relType="derivation" target="ewn-cellular__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-cellular__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-singleton-n">
       <Lemma writtenForm="singleton" partOfSpeech="n"/>
@@ -7124,7 +7124,7 @@
       </Lemma>
       <Sense id="ewn-complexion__1_14_00__" n="1" synset="ewn-07980938-n">
         <SenseRelation relType="derivation" target="ewn-complect__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-folk-n">
       <Lemma writtenForm="folk" partOfSpeech="n">
@@ -7162,7 +7162,7 @@
       <Sense id="ewn-brave__1_14_00__" n="1" synset="ewn-07961030-n">
         <SenseRelation relType="antonym" target="ewn-timid__1_14_00__"/>
         <SenseRelation relType="derivation" target="ewn-brave__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-living_room_set-n">
       <Lemma writtenForm="living room set" partOfSpeech="n"/>
@@ -7278,7 +7278,7 @@
       <Sense id="ewn-immigration__1_14_00__" n="1" synset="ewn-08430791-n">
         <SenseRelation relType="derivation" target="ewn-immigrate__2_30_02__"/>
         <SenseRelation relType="derivation" target="ewn-immigrate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-toy_business-n">
       <Lemma writtenForm="toy business" partOfSpeech="n"/>
@@ -7294,7 +7294,7 @@
       </Lemma>
       <Sense id="ewn-confederation__1_14_00__" n="1" synset="ewn-08320205-n">
         <SenseRelation relType="derivation" target="ewn-confederate__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-British_House_of_Commons-n">
       <Lemma writtenForm="British House of Commons" partOfSpeech="n"/>
@@ -7306,7 +7306,7 @@
       </Lemma>
       <Sense id="ewn-deputation__1_14_00__" n="0" synset="ewn-08419399-n">
         <SenseRelation relType="derivation" target="ewn-depute__2_41_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lunatic_fringe-n">
       <Lemma writtenForm="lunatic fringe" partOfSpeech="n"/>
@@ -7355,11 +7355,11 @@
       </Lemma>
       <Sense id="ewn-generation__1_14_01__" n="0" synset="ewn-08386333-n">
         <SenseRelation relType="derivation" target="ewn-generational__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-generation__1_14_00__" n="1" synset="ewn-08385834-n">
         <SenseRelation relType="derivation" target="ewn-generational__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-generate__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sayeret_Matkal-n">
       <Lemma writtenForm="Sayeret Matkal" partOfSpeech="n"/>
@@ -7373,7 +7373,7 @@
       <Sense id="ewn-orchestra__1_14_00__" n="0" synset="ewn-08265078-n">
         <SenseRelation relType="derivation" target="ewn-orchestral__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-orchestrate__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Protestant-n">
       <Lemma writtenForm="Protestant" partOfSpeech="n">
@@ -7408,7 +7408,7 @@
       </Lemma>
       <Sense id="ewn-amalgam__1_14_00__" n="1" synset="ewn-07980601-n">
         <SenseRelation relType="derivation" target="ewn-amalgamate__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-U.S._House_of_Representatives-n">
       <Lemma writtenForm="U.S. House of Representatives" partOfSpeech="n"/>
@@ -7419,7 +7419,7 @@
       <Sense id="ewn-initiate__1_14_00__" n="2" synset="ewn-07965104-n">
         <SenseRelation relType="antonym" target="ewn-uninitiate__1_14_00__"/>
         <SenseRelation relType="derivation" target="ewn-initiate__2_41_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-city_council-n">
       <Lemma writtenForm="city council" partOfSpeech="n"/>
@@ -7439,7 +7439,7 @@
       </Lemma>
       <Sense id="ewn-aggregate__1_14_00__" n="2" synset="ewn-08435060-n">
         <SenseRelation relType="derivation" target="ewn-aggregate__5_00_01_collective_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nuclear_club-n">
       <Lemma writtenForm="nuclear club" partOfSpeech="n"/>
@@ -7459,7 +7459,7 @@
       </Lemma>
       <Sense id="ewn-web__1_14_00__" n="3" synset="ewn-08451269-n">
         <SenseRelation relType="derivation" target="ewn-web__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hasidism-n">
       <Lemma writtenForm="Hasidism" partOfSpeech="n"/>
@@ -7506,7 +7506,7 @@
       </Lemma>
       <Sense id="ewn-sociable__1_14_00__" n="0" synset="ewn-08273290-n">
         <SenseRelation relType="derivation" target="ewn-sociable__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-printing_concern-n">
       <Lemma writtenForm="printing concern" partOfSpeech="n"/>
@@ -7520,7 +7520,7 @@
       <Sense id="ewn-humanism__1_14_00__" n="2" synset="ewn-08493840-n">
         <SenseRelation relType="derivation" target="ewn-humanistic__3_01_03__"/>
         <SenseRelation relType="derivation" target="ewn-humanist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-head-n">
       <Lemma writtenForm="head" partOfSpeech="n"/>
@@ -7531,7 +7531,7 @@
         <SenseRelation relType="derivation" target="ewn-head__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-head__2_38_02__"/>
         <SenseRelation relType="derivation" target="ewn-head__2_38_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Medici-n">
       <Lemma writtenForm="Medici" partOfSpeech="n"/>
@@ -7562,7 +7562,7 @@
       </Lemma>
       <Sense id="ewn-city__1_14_00__" n="2" synset="ewn-08243256-n">
         <SenseRelation relType="derivation" target="ewn-citify__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fashion_business-n">
       <Lemma writtenForm="fashion business" partOfSpeech="n"/>
@@ -7609,7 +7609,7 @@
         <SenseRelation relType="derivation" target="ewn-deal__2_41_02__"/>
         <SenseRelation relType="derivation" target="ewn-deal__2_40_06__"/>
         <SenseRelation relType="derivation" target="ewn-deal__2_40_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pesantran-n">
       <Lemma writtenForm="pesantran" partOfSpeech="n"/>
@@ -7623,13 +7623,13 @@
       <Lemma writtenForm="mob" partOfSpeech="n"/>
       <Sense id="ewn-mob__1_14_00__" n="0" synset="ewn-08201518-n">
         <SenseRelation relType="derivation" target="ewn-mob__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mob__1_14_02__" n="1" synset="ewn-08263223-n">
         <SenseRelation relType="derivation" target="ewn-mobster__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mob__1_14_01__" n="2" synset="ewn-08260983-n">
         <SenseRelation relType="derivation" target="ewn-mobster__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Xhosa-n">
       <Lemma writtenForm="Xhosa" partOfSpeech="n">
@@ -7662,7 +7662,7 @@
       <Lemma writtenForm="parentage" partOfSpeech="n"/>
       <Sense id="ewn-parentage__1_14_00__" n="2" synset="ewn-08118903-n">
         <SenseRelation relType="derivation" target="ewn-parent__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mods-n">
       <Lemma writtenForm="mods" partOfSpeech="n"/>
@@ -7679,7 +7679,7 @@
       </Lemma>
       <Sense id="ewn-armor__1_14_00__" n="1" synset="ewn-08214682-n">
         <SenseRelation relType="derivation" target="ewn-arm__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Jund-ul-Islam-n">
       <Lemma writtenForm="Jund-ul-Islam" partOfSpeech="n"/>
@@ -7707,13 +7707,13 @@
         <SenseRelation relType="derivation" target="ewn-organize__2_41_02__"/>
         <SenseRelation relType="derivation" target="ewn-organize__2_41_01__"/>
         <SenseRelation relType="derivation" target="ewn-organize__2_36_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-organization__1_14_01__" n="2" synset="ewn-08181484-n">
         <SenseRelation relType="derivation" target="ewn-organize__2_41_01__"/>
         <SenseRelation relType="derivation" target="ewn-organize__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-organize__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-organize__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-NAWCWPNS-n">
       <Lemma writtenForm="NAWCWPNS" partOfSpeech="n"/>
@@ -7742,7 +7742,7 @@
       <Sense id="ewn-cubism__1_14_00__" n="0" synset="ewn-08483186-n">
         <SenseRelation relType="derivation" target="ewn-cubistic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-cubist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Liberal_Party-n">
       <Lemma writtenForm="Liberal Party" partOfSpeech="n"/>
@@ -7787,7 +7787,7 @@
       <Sense id="ewn-flight__1_14_00__" n="4" synset="ewn-08237361-n"/>
       <Sense id="ewn-flight__1_14_02__" n="7" synset="ewn-08237541-n">
         <SenseRelation relType="derivation" target="ewn-flight__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-convention-n">
       <Lemma writtenForm="convention" partOfSpeech="n">
@@ -7795,7 +7795,7 @@
       </Lemma>
       <Sense id="ewn-convention__1_14_00__" n="0" synset="ewn-08326016-n">
         <SenseRelation relType="derivation" target="ewn-conventioneer__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-minyan-n">
       <Lemma writtenForm="minyan" partOfSpeech="n">
@@ -7826,7 +7826,7 @@
         <SenseRelation relType="derivation" target="ewn-mythological__5_00_00_unreal_00"/>
         <SenseRelation relType="derivation" target="ewn-mythologist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-mythologize__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Saxe-Coburg-Gotha-n">
       <Lemma writtenForm="Saxe-Coburg-Gotha" partOfSpeech="n"/>
@@ -7840,7 +7840,7 @@
       <Lemma writtenForm="court-martial" partOfSpeech="n"/>
       <Sense id="ewn-court-martial__1_14_00__" n="0" synset="ewn-08348452-n">
         <SenseRelation relType="derivation" target="ewn-court-martial__2_41_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Transportation-n">
       <Lemma writtenForm="Transportation" partOfSpeech="n">
@@ -7863,7 +7863,7 @@
       <Lemma writtenForm="homeless" partOfSpeech="n"/>
       <Sense id="ewn-homeless__1_14_00__" n="1" synset="ewn-07964900-n">
         <SenseRelation relType="derivation" target="ewn-homeless__5_00_00_unfortunate_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-absolutism-n">
       <Lemma writtenForm="absolutism" partOfSpeech="n">
@@ -7873,7 +7873,7 @@
       <Sense id="ewn-absolutism__1_14_00__" n="1" synset="ewn-08457622-n">
         <SenseRelation relType="derivation" target="ewn-absolutistic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-absolutist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-service_bureau-n">
       <Lemma writtenForm="service bureau" partOfSpeech="n"/>
@@ -7890,7 +7890,7 @@
       <Sense id="ewn-surrealism__1_14_00__" n="0" synset="ewn-08487221-n">
         <SenseRelation relType="derivation" target="ewn-surrealistic__5_00_00_unrealistic_00"/>
         <SenseRelation relType="derivation" target="ewn-surrealist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Union_Army-n">
       <Lemma writtenForm="Union Army" partOfSpeech="n"/>
@@ -7952,7 +7952,7 @@
       <Lemma writtenForm="syndicalism" partOfSpeech="n"/>
       <Sense id="ewn-syndicalism__1_14_00__" n="0" synset="ewn-08338551-n">
         <SenseRelation relType="derivation" target="ewn-syndicalist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Wei-n">
       <Lemma writtenForm="Wei" partOfSpeech="n"/>
@@ -7995,7 +7995,7 @@
       </Lemma>
       <Sense id="ewn-judiciary__1_14_00__" n="0" synset="ewn-08183086-n">
         <SenseRelation relType="derivation" target="ewn-judge__2_41_09__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-judiciary__1_14_01__" n="1" synset="ewn-08183217-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-core-n">
@@ -8121,7 +8121,7 @@
       <Sense id="ewn-agglomerate__1_14_00__" n="1" synset="ewn-07978094-n">
         <SenseRelation relType="derivation" target="ewn-agglomerate__5_00_00_collective_00"/>
         <SenseRelation relType="derivation" target="ewn-agglomerate__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Catholic_Reaction_Force-n">
       <Lemma writtenForm="Catholic Reaction Force" partOfSpeech="n"/>
@@ -8176,7 +8176,7 @@
       <Sense id="ewn-bibliotheca__1_14_00__" n="0" synset="ewn-07994478-n">
         <SenseRelation relType="derivation" target="ewn-bibliothecarial__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-bibliothecal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ethics_panel-n">
       <Lemma writtenForm="ethics panel" partOfSpeech="n"/>
@@ -8191,7 +8191,7 @@
       <Lemma writtenForm="mask" partOfSpeech="n"/>
       <Sense id="ewn-mask__1_14_00__" n="2" synset="ewn-08270371-n">
         <SenseRelation relType="derivation" target="ewn-mask__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-prep_school-n">
       <Lemma writtenForm="prep school" partOfSpeech="n">
@@ -8219,7 +8219,7 @@
       </Lemma>
       <Sense id="ewn-dictatorship__1_14_00__" n="0" synset="ewn-08457622-n">
         <SenseRelation relType="derivation" target="ewn-dictator__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-accumulation-n">
       <Lemma writtenForm="accumulation" partOfSpeech="n">
@@ -8227,7 +8227,7 @@
       </Lemma>
       <Sense id="ewn-accumulation__1_14_00__" n="1" synset="ewn-07968050-n">
         <SenseRelation relType="derivation" target="ewn-accumulate__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Australian_Labor_Party-n">
       <Lemma writtenForm="Australian Labor Party" partOfSpeech="n"/>
@@ -8262,7 +8262,7 @@
       </Lemma>
       <Sense id="ewn-electorate__1_14_00__" n="0" synset="ewn-08177967-n">
         <SenseRelation relType="derivation" target="ewn-elect__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-coalition-n">
       <Lemma writtenForm="coalition" partOfSpeech="n">
@@ -8277,10 +8277,10 @@
       </Lemma>
       <Sense id="ewn-congregation__1_14_00__" n="0" synset="ewn-08007806-n">
         <SenseRelation relType="derivation" target="ewn-congregate__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-congregation__1_14_01__" n="1" synset="ewn-07992628-n">
         <SenseRelation relType="derivation" target="ewn-congregate__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Royal_Canadian_Mounted_Police-n">
       <Lemma writtenForm="Royal Canadian Mounted Police" partOfSpeech="n"/>
@@ -8318,7 +8318,7 @@
       </Lemma>
       <Sense id="ewn-patronage__1_14_00__" n="1" synset="ewn-08418511-n">
         <SenseRelation relType="derivation" target="ewn-patronage__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wounded-n">
       <Lemma writtenForm="wounded" partOfSpeech="n"/>
@@ -8346,7 +8346,7 @@
       <Lemma writtenForm="conglomeration" partOfSpeech="n"/>
       <Sense id="ewn-conglomeration__1_14_00__" n="1" synset="ewn-08435060-n">
         <SenseRelation relType="derivation" target="ewn-conglomerate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-yakuza-n">
       <Lemma writtenForm="yakuza" partOfSpeech="n"/>
@@ -8380,7 +8380,7 @@
       </Lemma>
       <Sense id="ewn-hospital__1_14_00__" n="1" synset="ewn-08071169-n">
         <SenseRelation relType="derivation" target="ewn-hospitalize__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Trusteeship_Council-n">
       <Lemma writtenForm="Trusteeship Council" partOfSpeech="n"/>
@@ -8417,7 +8417,7 @@
       </Lemma>
       <Sense id="ewn-information__1_14_00__" n="3" synset="ewn-08479331-n">
         <SenseRelation relType="derivation" target="ewn-inform__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-IIS-n">
       <Lemma writtenForm="IIS" partOfSpeech="n"/>
@@ -8490,7 +8490,7 @@
       </Lemma>
       <Sense id="ewn-huddle__1_14_00__" n="1" synset="ewn-08201357-n">
         <SenseRelation relType="derivation" target="ewn-huddle__2_38_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Foreign_Intelligence_Service-n">
       <Lemma writtenForm="Foreign Intelligence Service" partOfSpeech="n"/>
@@ -8502,7 +8502,7 @@
       </Lemma>
       <Sense id="ewn-islamism__1_14_01__" n="0" synset="ewn-08112993-n">
         <SenseRelation relType="derivation" target="ewn-islamist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-academic_department-n">
       <Lemma writtenForm="academic department" partOfSpeech="n"/>
@@ -8512,7 +8512,7 @@
       <Lemma writtenForm="homebound" partOfSpeech="n"/>
       <Sense id="ewn-homebound__1_14_00__" n="0" synset="ewn-07964769-n">
         <SenseRelation relType="derivation" target="ewn-homebound__5_00_00_confined_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-East_India_Company-n">
       <Lemma writtenForm="East India Company" partOfSpeech="n"/>
@@ -8617,7 +8617,7 @@
         <SenseRelation relType="derivation" target="ewn-militaristic__5_00_00_military_02"/>
         <SenseRelation relType="derivation" target="ewn-militarize__2_33_00__"/>
         <SenseRelation relType="derivation" target="ewn-militarise__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-old_guard-n">
       <Lemma writtenForm="old guard" partOfSpeech="n"/>
@@ -8629,7 +8629,7 @@
       </Lemma>
       <Sense id="ewn-gaggle__1_14_00__" n="0" synset="ewn-08008558-n">
         <SenseRelation relType="derivation" target="ewn-gaggle__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-DFLP-n">
       <Lemma writtenForm="DFLP" partOfSpeech="n"/>
@@ -8675,7 +8675,7 @@
       <Lemma writtenForm="Saktism" partOfSpeech="n"/>
       <Sense id="ewn-saktism__1_14_00__" n="0" synset="ewn-08114188-n">
         <SenseRelation relType="derivation" target="ewn-shaktist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Organization_of_Petroleum-Exporting_Countries-n">
       <Lemma writtenForm="Organization of Petroleum-Exporting Countries" partOfSpeech="n"/>
@@ -8691,7 +8691,7 @@
       </Lemma>
       <Sense id="ewn-percussion__1_14_00__" n="2" synset="ewn-08234478-n">
         <SenseRelation relType="derivation" target="ewn-percussionist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Al_Nathir-n">
       <Lemma writtenForm="Al Nathir" partOfSpeech="n"/>
@@ -8757,7 +8757,7 @@
       <Sense id="ewn-brass__1_14_00__" n="2" synset="ewn-08181484-n"/>
       <Sense id="ewn-brass__1_14_01__" n="5" synset="ewn-08234056-n">
         <SenseRelation relType="derivation" target="ewn-brassy__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-battery-n">
       <Lemma writtenForm="battery" partOfSpeech="n">
@@ -8808,11 +8808,11 @@
         <SenseRelation relType="derivation" target="ewn-choral__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-chorister__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-choir__2_36_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-choir__1_14_01__" n="1" synset="ewn-08205744-n">
         <SenseRelation relType="derivation" target="ewn-choral__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-choir__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mates-n">
       <Lemma writtenForm="mates" partOfSpeech="n">
@@ -8851,7 +8851,7 @@
       <Sense id="ewn-buddhism__1_14_00__" n="0" synset="ewn-08115674-n">
         <SenseRelation relType="derivation" target="ewn-buddhistic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-buddhist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-home_front-n">
       <Lemma writtenForm="home front" partOfSpeech="n"/>
@@ -8871,7 +8871,7 @@
       <Lemma writtenForm="nonsingular matrix" partOfSpeech="n"/>
       <Sense id="ewn-nonsingular_matrix__1_14_00__" n="0" synset="ewn-08286860-n">
         <SenseRelation relType="antonym" target="ewn-singular_matrix__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Provos-n">
       <Lemma writtenForm="Provos" partOfSpeech="n"/>
@@ -8963,7 +8963,7 @@
         <SenseRelation relType="derivation" target="ewn-pile__2_35_03__"/>
         <SenseRelation relType="derivation" target="ewn-pile__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-pile__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-geometric_progression-n">
       <Lemma writtenForm="geometric progression" partOfSpeech="n"/>
@@ -8983,7 +8983,7 @@
         <SenseRelation relType="derivation" target="ewn-monarchal__5_00_00_undemocratic_00"/>
         <SenseRelation relType="derivation" target="ewn-monarchic__5_00_00_undemocratic_00"/>
         <SenseRelation relType="derivation" target="ewn-monarchical__5_00_00_undemocratic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-world_organisation-n">
       <Lemma writtenForm="world organisation" partOfSpeech="n"/>
@@ -9011,7 +9011,7 @@
       <Sense id="ewn-sisterhood__1_14_01__" n="1" synset="ewn-08424406-n"/>
       <Sense id="ewn-sisterhood__1_14_00__" n="2" synset="ewn-08092483-n">
         <SenseRelation relType="derivation" target="ewn-sister__1_18_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hen_party-n">
       <Lemma writtenForm="hen party" partOfSpeech="n"/>
@@ -9054,7 +9054,7 @@
       <Sense id="ewn-cluster__1_14_00__" n="0" synset="ewn-07976557-n">
         <SenseRelation relType="derivation" target="ewn-cluster__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-cluster__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-circle-n">
       <Lemma writtenForm="circle" partOfSpeech="n">
@@ -9236,7 +9236,7 @@
       </Lemma>
       <Sense id="ewn-type__1_14_01__" n="2" synset="ewn-08128385-n">
         <SenseRelation relType="derivation" target="ewn-typify__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-peer_group-n">
       <Lemma writtenForm="peer group" partOfSpeech="n"/>
@@ -9246,7 +9246,7 @@
       <Lemma writtenForm="monotype" partOfSpeech="n"/>
       <Sense id="ewn-monotype__1_14_00__" n="0" synset="ewn-08126738-n">
         <SenseRelation relType="derivation" target="ewn-monotypic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-high_society-n">
       <Lemma writtenForm="high society" partOfSpeech="n"/>
@@ -9266,7 +9266,7 @@
       </Lemma>
       <Sense id="ewn-academia__1_14_00__" n="0" synset="ewn-08291844-n">
         <SenseRelation relType="derivation" target="ewn-academic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-knighthood-n">
       <Lemma writtenForm="knighthood" partOfSpeech="n"/>
@@ -9330,7 +9330,7 @@
       <Sense id="ewn-troop__1_14_02__" n="2" synset="ewn-08291639-n"/>
       <Sense id="ewn-troop__1_14_01__" n="3" synset="ewn-08291486-n">
         <SenseRelation relType="derivation" target="ewn-troop__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-consortium-n">
       <Lemma writtenForm="consortium" partOfSpeech="n">
@@ -9343,7 +9343,7 @@
       <Lemma writtenForm="naturalism" partOfSpeech="n"/>
       <Sense id="ewn-naturalism__1_14_00__" n="1" synset="ewn-08486468-n">
         <SenseRelation relType="derivation" target="ewn-naturalistic__5_00_00_representational_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-GIA-n">
       <Lemma writtenForm="GIA" partOfSpeech="n"/>
@@ -9386,7 +9386,7 @@
       <Sense id="ewn-stamp__1_14_00__" n="1" synset="ewn-08015015-n">
         <SenseRelation relType="derivation" target="ewn-stamp__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-stamp__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mafia-n">
       <Lemma writtenForm="mafia" partOfSpeech="n">
@@ -9406,7 +9406,7 @@
       </Lemma>
       <Sense id="ewn-nursing__1_14_00__" n="1" synset="ewn-08129942-n">
         <SenseRelation relType="derivation" target="ewn-nurse__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Food_and_Agriculture_Organization-n">
       <Lemma writtenForm="Food and Agriculture Organization" partOfSpeech="n"/>
@@ -9466,7 +9466,7 @@
       <Lemma writtenForm="Flemish" partOfSpeech="n"/>
       <Sense id="ewn-flemish__1_14_00__" n="0" synset="ewn-08500799-n">
         <SenseRelation relType="derivation" target="ewn-flemish__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Black_September-n">
       <Lemma writtenForm="Black September" partOfSpeech="n"/>
@@ -9482,7 +9482,7 @@
       </Lemma>
       <Sense id="ewn-cumulation__1_14_00__" n="0" synset="ewn-07978094-n">
         <SenseRelation relType="derivation" target="ewn-cumulate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-British_House_of_Lords-n">
       <Lemma writtenForm="British House of Lords" partOfSpeech="n"/>
@@ -9537,7 +9537,7 @@
       </Lemma>
       <Sense id="ewn-futurism__1_14_00__" n="0" synset="ewn-08485095-n">
         <SenseRelation relType="derivation" target="ewn-futuristic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-agriculture-n">
       <Lemma writtenForm="agriculture" partOfSpeech="n">
@@ -9560,7 +9560,7 @@
       </Lemma>
       <Sense id="ewn-parliament__1_14_00__" n="0" synset="ewn-08336128-n">
         <SenseRelation relType="derivation" target="ewn-parliamentary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tableau_vivant-n">
       <Lemma writtenForm="tableau vivant" partOfSpeech="n"/>
@@ -9587,7 +9587,7 @@
       <Lemma writtenForm="bracket" partOfSpeech="n"/>
       <Sense id="ewn-bracket__1_14_00__" n="0" synset="ewn-08022536-n">
         <SenseRelation relType="derivation" target="ewn-bracket__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ancien_regime-n">
       <Lemma writtenForm="ancien regime" partOfSpeech="n"/>
@@ -9670,7 +9670,7 @@
       <Lemma writtenForm="press" partOfSpeech="n"/>
       <Sense id="ewn-press__1_14_01__" n="3" synset="ewn-08200316-n">
         <SenseRelation relType="derivation" target="ewn-press__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-revolutionary_group-n">
       <Lemma writtenForm="revolutionary group" partOfSpeech="n"/>
@@ -9719,7 +9719,7 @@
       <Lemma writtenForm="Stalinism" partOfSpeech="n"/>
       <Sense id="ewn-stalinism__1_14_00__" n="0" synset="ewn-08457622-n">
         <SenseRelation relType="derivation" target="ewn-stalinist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-troops-n">
       <Lemma writtenForm="troops" partOfSpeech="n">
@@ -9756,7 +9756,7 @@
         <SenseRelation relType="derivation" target="ewn-national__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-national__3_00_01__"/>
         <SenseRelation relType="derivation" target="ewn-national__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chain_gang-n">
       <Lemma writtenForm="chain gang" partOfSpeech="n"/>
@@ -9809,7 +9809,7 @@
       <Sense id="ewn-stock__1_14_01__" n="5" synset="ewn-08118903-n"/>
       <Sense id="ewn-stock__1_14_00__" n="6" synset="ewn-08118376-n">
         <SenseRelation relType="derivation" target="ewn-stock__2_40_05__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ISN-n">
       <Lemma writtenForm="ISN" partOfSpeech="n"/>
@@ -9829,7 +9829,7 @@
       </Lemma>
       <Sense id="ewn-christendom__1_14_00__" n="0" synset="ewn-08099113-n">
         <SenseRelation relType="derivation" target="ewn-christian__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-PIJ-n">
       <Lemma writtenForm="PIJ" partOfSpeech="n"/>
@@ -9857,7 +9857,7 @@
       </Lemma>
       <Sense id="ewn-bengali__1_14_00__" n="1" synset="ewn-08500364-n">
         <SenseRelation relType="derivation" target="ewn-bengali__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-alinement-n">
       <Lemma writtenForm="alinement" partOfSpeech="n"/>
@@ -9878,7 +9878,7 @@
       <Lemma writtenForm="franchise" partOfSpeech="n"/>
       <Sense id="ewn-franchise__1_14_00__" n="1" synset="ewn-08077029-n">
         <SenseRelation relType="derivation" target="ewn-franchise__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mission-n">
       <Lemma writtenForm="mission" partOfSpeech="n">
@@ -9886,10 +9886,10 @@
       </Lemma>
       <Sense id="ewn-mission__1_14_01__" n="0" synset="ewn-08420182-n">
         <SenseRelation relType="derivation" target="ewn-missioner__1_18_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mission__1_14_00__" n="4" synset="ewn-08419399-n">
         <SenseRelation relType="derivation" target="ewn-missioner__1_18_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-American_Federation_of_Labor_and_Congress_of_Industrial_Organizations-n">
       <Lemma writtenForm="American Federation of Labor and Congress of Industrial Organizations" partOfSpeech="n"/>
@@ -9899,7 +9899,7 @@
       <Lemma writtenForm="poor people" partOfSpeech="n"/>
       <Sense id="ewn-poor_people__1_14_00__" n="0" synset="ewn-08196123-n">
         <SenseRelation relType="antonym" target="ewn-rich_people__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_States-n">
       <Lemma writtenForm="United States" partOfSpeech="n"/>
@@ -9924,10 +9924,10 @@
       </Lemma>
       <Sense id="ewn-seminary__1_14_01__" n="0" synset="ewn-08301915-n">
         <SenseRelation relType="derivation" target="ewn-seminarist__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-seminary__1_14_00__" n="1" synset="ewn-08302030-n">
         <SenseRelation relType="derivation" target="ewn-seminarist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-zamboorak-n">
       <Lemma writtenForm="zamboorak" partOfSpeech="n"/>
@@ -10066,7 +10066,7 @@
       <Sense id="ewn-infestation__1_14_00__" n="1" synset="ewn-08012854-n">
         <SenseRelation relType="derivation" target="ewn-infest__2_42_02__"/>
         <SenseRelation relType="derivation" target="ewn-infest__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lycee-n">
       <Lemma writtenForm="lycee" partOfSpeech="n"/>
@@ -10118,7 +10118,7 @@
       <Lemma writtenForm="officialdom" partOfSpeech="n"/>
       <Sense id="ewn-officialdom__1_14_00__" n="0" synset="ewn-08374711-n">
         <SenseRelation relType="derivation" target="ewn-official__1_18_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-product-n">
       <Lemma writtenForm="product" partOfSpeech="n">
@@ -10193,10 +10193,10 @@
       <Lemma writtenForm="team" partOfSpeech="n"/>
       <Sense id="ewn-team__1_14_00__" n="0" synset="ewn-08225481-n">
         <SenseRelation relType="derivation" target="ewn-team__2_33_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-team__1_14_01__" n="1" synset="ewn-08001826-n">
         <SenseRelation relType="derivation" target="ewn-teamster__1_18_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-repertory_company-n">
       <Lemma writtenForm="repertory company" partOfSpeech="n"/>
@@ -10237,7 +10237,7 @@
       </Lemma>
       <Sense id="ewn-underground__1_14_00__" n="0" synset="ewn-08377599-n">
         <SenseRelation relType="derivation" target="ewn-underground__5_00_00_covert_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-skiffle_group-n">
       <Lemma writtenForm="skiffle group" partOfSpeech="n"/>
@@ -10254,7 +10254,7 @@
       <Sense id="ewn-religion__1_14_00__" n="1" synset="ewn-08098545-n">
         <SenseRelation relType="derivation" target="ewn-religious__5_00_00_sacred_00"/>
         <SenseRelation relType="derivation" target="ewn-religionist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-military_intelligence-n">
       <Lemma writtenForm="military intelligence" partOfSpeech="n"/>
@@ -10319,7 +10319,7 @@
       </Lemma>
       <Sense id="ewn-litter__1_14_00__" n="0" synset="ewn-08417288-n">
         <SenseRelation relType="derivation" target="ewn-litter__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quintuplet-n">
       <Lemma writtenForm="quintuplet" partOfSpeech="n"/>
@@ -10337,7 +10337,7 @@
       <Lemma writtenForm="service" partOfSpeech="n"/>
       <Sense id="ewn-service__1_14_05__" n="3" synset="ewn-08202965-n">
         <SenseRelation relType="derivation" target="ewn-service__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-service__1_14_00__" n="5" synset="ewn-08215077-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-auto_maker-n">
@@ -10399,7 +10399,7 @@
       <Sense id="ewn-flock__1_14_03__" n="3" synset="ewn-08291486-n">
         <SenseRelation relType="derivation" target="ewn-flock__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-flock__2_38_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-flock__1_14_01__" n="4" synset="ewn-08007611-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-family-n">
@@ -10411,7 +10411,7 @@
       <Sense id="ewn-family__1_14_02__" n="0" synset="ewn-08094856-n"/>
       <Sense id="ewn-family__1_14_00__" n="1" synset="ewn-07986853-n">
         <SenseRelation relType="derivation" target="ewn-familial__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-family__1_14_04__" n="2" synset="ewn-08014145-n"/>
       <Sense id="ewn-family__1_14_01__" n="3" synset="ewn-07987168-n"/>
       <Sense id="ewn-family__1_14_03__" n="5" synset="ewn-08124465-n"/>
@@ -10453,7 +10453,7 @@
       </Lemma>
       <Sense id="ewn-free__1_14_00__" n="0" synset="ewn-07964544-n">
         <SenseRelation relType="derivation" target="ewn-free__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-shock_troops-n">
       <Lemma writtenForm="shock troops" partOfSpeech="n"/>
@@ -10485,7 +10485,7 @@
       </Lemma>
       <Sense id="ewn-neighborhood__1_14_00__" n="1" synset="ewn-08242011-n">
         <SenseRelation relType="derivation" target="ewn-neighbor__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Partiya_Karkeran_Kurdistan-n">
       <Lemma writtenForm="Partiya Karkeran Kurdistan" partOfSpeech="n"/>
@@ -10503,7 +10503,7 @@
       <Sense id="ewn-oligarchy__1_14_00__" n="0" synset="ewn-08379382-n">
         <SenseRelation relType="derivation" target="ewn-oligarchic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-oligarchical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-diet-n">
       <Lemma writtenForm="diet" partOfSpeech="n"/>
@@ -10515,10 +10515,10 @@
       </Lemma>
       <Sense id="ewn-commission__1_14_00__" n="0" synset="ewn-08341444-n">
         <SenseRelation relType="derivation" target="ewn-commissioner__1_18_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-commission__1_14_01__" n="4" synset="ewn-08419399-n">
         <SenseRelation relType="derivation" target="ewn-commissioner__1_18_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-underwood-n">
       <Lemma writtenForm="underwood" partOfSpeech="n">
@@ -10655,7 +10655,7 @@
       <Sense id="ewn-islam__1_14_00__" n="0" synset="ewn-08112613-n">
         <SenseRelation relType="derivation" target="ewn-islamic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-islamist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-organized_labor-n">
       <Lemma writtenForm="organized labor" partOfSpeech="n"/>
@@ -10726,13 +10726,13 @@
       <Sense id="ewn-segregation__1_14_00__" n="1" synset="ewn-08397071-n">
         <SenseRelation relType="derivation" target="ewn-segregationist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-segregate__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dot-com-n">
       <Lemma writtenForm="dot-com" partOfSpeech="n"/>
       <Sense id="ewn-dot-com__1_14_00__" n="0" synset="ewn-08018826-n">
         <SenseRelation relType="derivation" target="ewn-dot-com__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fish_species-n">
       <Lemma writtenForm="fish species" partOfSpeech="n"/>
@@ -10797,7 +10797,7 @@
       </Lemma>
       <Sense id="ewn-civilization__1_14_00__" n="0" synset="ewn-08128749-n">
         <SenseRelation relType="derivation" target="ewn-civilize__2_30_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-civilization__1_14_01__" n="2" synset="ewn-08304765-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-US_House_of_Representatives-n">
@@ -10880,16 +10880,16 @@
         <SenseRelation relType="derivation" target="ewn-panellist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-panelist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-panel__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-panel__1_14_02__" n="2" synset="ewn-08431565-n">
         <SenseRelation relType="derivation" target="ewn-panellist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-panelist__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-panel__1_14_00__" n="3" synset="ewn-08431338-n">
         <SenseRelation relType="derivation" target="ewn-panellist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-panelist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-panel__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Fatah-RC-n">
       <Lemma writtenForm="Fatah-RC" partOfSpeech="n"/>
@@ -10936,7 +10936,7 @@
         <SenseRelation relType="derivation" target="ewn-vicar__1_18_02__"/>
         <SenseRelation relType="derivation" target="ewn-vicar__1_18_01__"/>
         <SenseRelation relType="derivation" target="ewn-vicar__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Red_Sun-n">
       <Lemma writtenForm="Red Sun" partOfSpeech="n"/>
@@ -11015,7 +11015,7 @@
       <Sense id="ewn-union__1_14_01__" n="0" synset="ewn-08249977-n">
         <SenseRelation relType="derivation" target="ewn-unionize__2_41_01__"/>
         <SenseRelation relType="derivation" target="ewn-unionize__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-union__1_14_02__" n="5" synset="ewn-08321825-n"/>
       <Sense id="ewn-union__1_14_03__" n="6" synset="ewn-08015154-n"/>
     </LexicalEntry>
@@ -11071,7 +11071,7 @@
       <Lemma writtenForm="neighbourhood" partOfSpeech="n"/>
       <Sense id="ewn-neighbourhood__1_14_00__" n="1" synset="ewn-08242011-n">
         <SenseRelation relType="derivation" target="ewn-neighbour__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Lautaro_Popular_Rebel_Forces-n">
       <Lemma writtenForm="Lautaro Popular Rebel Forces" partOfSpeech="n"/>
@@ -11135,7 +11135,7 @@
       </Lemma>
       <Sense id="ewn-dance__1_14_00__" n="1" synset="ewn-08270062-n">
         <SenseRelation relType="derivation" target="ewn-dance__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sunday_school-n">
       <Lemma writtenForm="Sunday school" partOfSpeech="n"/>
@@ -11167,7 +11167,7 @@
       </Lemma>
       <Sense id="ewn-insurer__1_14_00__" n="0" synset="ewn-08087301-n">
         <SenseRelation relType="derivation" target="ewn-insure__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-warren-n">
       <Lemma writtenForm="warren" partOfSpeech="n">
@@ -11202,7 +11202,7 @@
       </Lemma>
       <Sense id="ewn-formation__1_14_00__" n="0" synset="ewn-08443418-n">
         <SenseRelation relType="derivation" target="ewn-form__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Achaean-n">
       <Lemma writtenForm="Achaean" partOfSpeech="n">
@@ -11215,7 +11215,7 @@
       <Sense id="ewn-party__1_14_01__" n="0" synset="ewn-08273889-n"/>
       <Sense id="ewn-party__1_14_00__" n="1" synset="ewn-08269523-n">
         <SenseRelation relType="derivation" target="ewn-party__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-party__1_14_02__" n="2" synset="ewn-08281818-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-youth_culture-n">
@@ -11249,7 +11249,7 @@
       <Sense id="ewn-kin__1_14_00__" n="1" synset="ewn-07986142-n">
         <SenseRelation relType="derivation" target="ewn-kin__5_00_00_related_01"/>
         <SenseRelation relType="derivation" target="ewn-kinship__1_24_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-service_agency-n">
       <Lemma writtenForm="service agency" partOfSpeech="n"/>
@@ -11263,10 +11263,10 @@
       <Lemma writtenForm="brokerage" partOfSpeech="n"/>
       <Sense id="ewn-brokerage__1_14_00__" n="0" synset="ewn-08086714-n">
         <SenseRelation relType="derivation" target="ewn-broker__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-brokerage__1_14_01__" n="1" synset="ewn-08074296-n">
         <SenseRelation relType="derivation" target="ewn-broker__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-complement-n">
       <Lemma writtenForm="complement" partOfSpeech="n">
@@ -11275,7 +11275,7 @@
       </Lemma>
       <Sense id="ewn-complement__1_14_00__" n="2" synset="ewn-08235133-n">
         <SenseRelation relType="derivation" target="ewn-complemental__5_00_00_additive_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nondepository_financial_institution-n">
       <Lemma writtenForm="nondepository financial institution" partOfSpeech="n"/>
@@ -11299,7 +11299,7 @@
         <SenseRelation relType="derivation" target="ewn-crowd__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-crowd__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-crowd__2_38_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-crowd__1_14_01__" n="1" synset="ewn-08290764-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-biotic_community-n">
@@ -11340,7 +11340,7 @@
       <Sense id="ewn-match__1_14_00__" n="7" synset="ewn-08005299-n">
         <SenseRelation relType="derivation" target="ewn-match__2_35_10__"/>
         <SenseRelation relType="derivation" target="ewn-match__2_35_08__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mentally_retarded-n">
       <Lemma writtenForm="mentally retarded" partOfSpeech="n"/>
@@ -11386,7 +11386,7 @@
       <Lemma writtenForm="identity parade" partOfSpeech="n"/>
       <Sense id="ewn-identity_parade__1_14_00__" n="0" synset="ewn-08448162-n">
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-little_league-n">
       <Lemma writtenForm="little league" partOfSpeech="n"/>
@@ -11452,7 +11452,7 @@
       </Lemma>
       <Sense id="ewn-office__1_14_01__" n="1" synset="ewn-08354251-n">
         <SenseRelation relType="derivation" target="ewn-official__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-office__1_14_00__" n="4" synset="ewn-08369230-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-patriarchy-n">
@@ -11462,7 +11462,7 @@
       <Sense id="ewn-patriarchy__1_14_00__" n="0" synset="ewn-07989121-n">
         <SenseRelation relType="derivation" target="ewn-patriarchic__5_00_00_patriarchal_00"/>
         <SenseRelation relType="derivation" target="ewn-patriarchal__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-university-n">
       <Lemma writtenForm="university" partOfSpeech="n">
@@ -11495,7 +11495,7 @@
       <Lemma writtenForm="police" partOfSpeech="n"/>
       <Sense id="ewn-police__1_14_00__" n="0" synset="ewn-08226608-n">
         <SenseRelation relType="derivation" target="ewn-police__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-moot_court-n">
       <Lemma writtenForm="moot court" partOfSpeech="n"/>
@@ -11534,17 +11534,17 @@
       <Sense id="ewn-academy__1_14_00__" n="0" synset="ewn-08296219-n">
         <SenseRelation relType="derivation" target="ewn-academician__1_18_01__"/>
         <SenseRelation relType="derivation" target="ewn-academician__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-academy__1_14_02__" n="1" synset="ewn-08297045-n">
         <SenseRelation relType="derivation" target="ewn-academic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-academician__1_18_02__"/>
         <SenseRelation relType="derivation" target="ewn-academician__1_18_01__"/>
         <SenseRelation relType="derivation" target="ewn-academician__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-academy__1_14_01__" n="2" synset="ewn-08294726-n">
         <SenseRelation relType="derivation" target="ewn-academician__1_18_01__"/>
         <SenseRelation relType="derivation" target="ewn-academician__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cordon-n">
       <Lemma writtenForm="cordon" partOfSpeech="n">
@@ -11606,7 +11606,7 @@
       <Sense id="ewn-batch__1_14_01__" n="0" synset="ewn-08417729-n"/>
       <Sense id="ewn-batch__1_14_00__" n="2" synset="ewn-08417409-n">
         <SenseRelation relType="derivation" target="ewn-batch__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-traffic-n">
       <Lemma writtenForm="traffic" partOfSpeech="n">
@@ -11742,7 +11742,7 @@
         <SenseRelation relType="derivation" target="ewn-clubby__5_00_00_private_00"/>
         <SenseRelation relType="derivation" target="ewn-club__2_41_10__"/>
         <SenseRelation relType="derivation" target="ewn-club__2_41_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-FTC-n">
       <Lemma writtenForm="FTC" partOfSpeech="n"/>
@@ -11869,7 +11869,7 @@
       </Lemma>
       <Sense id="ewn-bodyguard__1_14_00__" n="1" synset="ewn-08232722-n">
         <SenseRelation relType="derivation" target="ewn-body_guard__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-JV-n">
       <Lemma writtenForm="JV" partOfSpeech="n"/>
@@ -11916,7 +11916,7 @@
       <Sense id="ewn-sainthood__1_14_00__" n="0" synset="ewn-08169654-n">
         <SenseRelation relType="derivation" target="ewn-saint__1_18_03__"/>
         <SenseRelation relType="derivation" target="ewn-saint__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-septet-n">
       <Lemma writtenForm="septet" partOfSpeech="n">
@@ -11942,13 +11942,13 @@
       <Lemma writtenForm="acquirer" partOfSpeech="n"/>
       <Sense id="ewn-acquirer__1_14_00__" n="1" synset="ewn-08436519-n">
         <SenseRelation relType="derivation" target="ewn-acquire__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-acquirer__1_14_01__" n="2" synset="ewn-08436311-n">
         <SenseRelation relType="derivation" target="ewn-acquire__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-acquirer__1_14_02__" n="3" synset="ewn-08436120-n">
         <SenseRelation relType="derivation" target="ewn-acquire__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-military_force-n">
       <Lemma writtenForm="military force" partOfSpeech="n"/>
@@ -11960,7 +11960,7 @@
       </Lemma>
       <Sense id="ewn-ally__1_14_00__" n="0" synset="ewn-08322872-n">
         <SenseRelation relType="derivation" target="ewn-ally__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-NASA-n">
       <Lemma writtenForm="NASA" partOfSpeech="n"/>
@@ -12021,14 +12021,14 @@
       </Lemma>
       <Sense id="ewn-tribe__1_14_00__" n="0" synset="ewn-08389338-n">
         <SenseRelation relType="derivation" target="ewn-tribal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-tribe__1_14_01__" n="1" synset="ewn-08185430-n">
         <SenseRelation relType="derivation" target="ewn-tribal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-tribe__1_14_03__" n="2" synset="ewn-08125750-n"/>
       <Sense id="ewn-tribe__1_14_02__" n="3" synset="ewn-07986142-n">
         <SenseRelation relType="derivation" target="ewn-tribal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Jewry-n">
       <Lemma writtenForm="Jewry" partOfSpeech="n">
@@ -12072,7 +12072,7 @@
       <Lemma writtenForm="Judaism" partOfSpeech="n"/>
       <Sense id="ewn-judaism__1_14_00__" n="0" synset="ewn-08110979-n">
         <SenseRelation relType="derivation" target="ewn-judaical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ICC-n">
       <Lemma writtenForm="ICC" partOfSpeech="n"/>
@@ -12165,7 +12165,7 @@
         <SenseRelation relType="derivation" target="ewn-economic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-economical__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-economist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-SBA-n">
       <Lemma writtenForm="SBA" partOfSpeech="n"/>
@@ -12249,10 +12249,10 @@
       <Sense id="ewn-syndicate__1_14_00__" n="1" synset="ewn-08253359-n">
         <SenseRelation relType="derivation" target="ewn-syndicate__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-syndicate__2_41_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-syndicate__1_14_02__" n="2" synset="ewn-08372251-n">
         <SenseRelation relType="derivation" target="ewn-syndicate__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quorum-n">
       <Lemma writtenForm="quorum" partOfSpeech="n">
@@ -12408,7 +12408,7 @@
       <Lemma writtenForm="jam" partOfSpeech="n"/>
       <Sense id="ewn-jam__1_14_00__" n="2" synset="ewn-08200316-n">
         <SenseRelation relType="derivation" target="ewn-jam__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-House_of_Tudor-n">
       <Lemma writtenForm="House of Tudor" partOfSpeech="n"/>
@@ -12421,7 +12421,7 @@
       <Sense id="ewn-aviation__1_14_00__" n="0" synset="ewn-08450737-n"/>
       <Sense id="ewn-aviation__1_14_01__" n="1" synset="ewn-08084054-n">
         <SenseRelation relType="derivation" target="ewn-aviate__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-broadcasting_company-n">
       <Lemma writtenForm="broadcasting company" partOfSpeech="n"/>
@@ -12558,21 +12558,21 @@
         <SenseRelation relType="derivation" target="ewn-combine__2_35_03__"/>
         <SenseRelation relType="derivation" target="ewn-combine__2_30_02__"/>
         <SenseRelation relType="derivation" target="ewn-combine__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-combination__1_14_04__" n="1" synset="ewn-08390650-n"/>
       <Sense id="ewn-combination__1_14_02__" n="2" synset="ewn-08390471-n">
         <SenseRelation relType="derivation" target="ewn-combinatorial__5_00_00_integrative_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-combination__1_14_01__" n="3" synset="ewn-08289882-n">
         <SenseRelation relType="derivation" target="ewn-combinatorial__5_00_00_integrative_00"/>
         <SenseRelation relType="derivation" target="ewn-combine__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-combine__2_35_03__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-combination__1_14_03__" n="4" synset="ewn-07981109-n">
         <SenseRelation relType="derivation" target="ewn-combinatorial__5_00_00_integrative_00"/>
         <SenseRelation relType="derivation" target="ewn-combine__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-combine__2_35_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-OMB-n">
       <Lemma writtenForm="OMB" partOfSpeech="n"/>
@@ -12600,7 +12600,7 @@
       </Lemma>
       <Sense id="ewn-kindred__1_14_00__" n="0" synset="ewn-07986142-n">
         <SenseRelation relType="derivation" target="ewn-kindred__5_00_00_related_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-FPS-n">
       <Lemma writtenForm="FPS" partOfSpeech="n"/>
@@ -12647,7 +12647,7 @@
       </Lemma>
       <Sense id="ewn-dynasty__1_14_00__" n="0" synset="ewn-07988029-n">
         <SenseRelation relType="derivation" target="ewn-dynastic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-metropolis-n">
       <Lemma writtenForm="metropolis" partOfSpeech="n">
@@ -12705,7 +12705,7 @@
       <Sense id="ewn-dichotomy__1_14_00__" n="0" synset="ewn-07956120-n">
         <SenseRelation relType="derivation" target="ewn-dichotomous__5_00_00_divided_00"/>
         <SenseRelation relType="derivation" target="ewn-dichotomize__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bomber_crew-n">
       <Lemma writtenForm="bomber crew" partOfSpeech="n"/>
@@ -12727,7 +12727,7 @@
       <Sense id="ewn-empire__1_14_01__" n="1" synset="ewn-08069165-n"/>
       <Sense id="ewn-empire__1_14_00__" n="2" synset="ewn-08422680-n">
         <SenseRelation relType="derivation" target="ewn-imperial__3_01_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-empire__1_14_02__" n="3" synset="ewn-08075773-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Shinto-n">
@@ -12741,7 +12741,7 @@
       <Lemma writtenForm="left wing" partOfSpeech="n"/>
       <Sense id="ewn-left_wing__1_14_00__" n="0" synset="ewn-08433285-n">
         <SenseRelation relType="derivation" target="ewn-collectivist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-horse-n">
       <Lemma writtenForm="horse" partOfSpeech="n"/>
@@ -12773,7 +12773,7 @@
       </Lemma>
       <Sense id="ewn-bohemia__1_14_00__" n="0" synset="ewn-08258230-n">
         <SenseRelation relType="derivation" target="ewn-bohemian__5_00_00_unconventional_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-printing_business-n">
       <Lemma writtenForm="printing business" partOfSpeech="n"/>
@@ -12789,7 +12789,7 @@
       </Lemma>
       <Sense id="ewn-overpopulation__1_14_00__" n="0" synset="ewn-08195853-n">
         <SenseRelation relType="derivation" target="ewn-overpopulate__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Markaz-ud-Dawa-wal-Irshad-n">
       <Lemma writtenForm="Markaz-ud-Dawa-wal-Irshad" partOfSpeech="n"/>
@@ -12834,7 +12834,7 @@
       <Lemma writtenForm="double date" partOfSpeech="n"/>
       <Sense id="ewn-double_date__1_14_00__" n="0" synset="ewn-08402333-n">
         <SenseRelation relType="derivation" target="ewn-double-date__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-scum-n">
       <Lemma writtenForm="scum" partOfSpeech="n">
@@ -12872,13 +12872,13 @@
       </Lemma>
       <Sense id="ewn-womanhood__1_14_00__" n="1" synset="ewn-08494645-n">
         <SenseRelation relType="derivation" target="ewn-woman__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ordering-n">
       <Lemma writtenForm="ordering" partOfSpeech="n"/>
       <Sense id="ewn-ordering__1_14_00__" n="0" synset="ewn-08474004-n">
         <SenseRelation relType="derivation" target="ewn-order__2_31_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-advertising_department-n">
       <Lemma writtenForm="advertising department" partOfSpeech="n"/>
@@ -12892,7 +12892,7 @@
       </Lemma>
       <Sense id="ewn-home__1_14_00__" n="7" synset="ewn-08094856-n">
         <SenseRelation relType="derivation" target="ewn-home__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Congress-n">
       <Lemma writtenForm="Congress" partOfSpeech="n">
@@ -12972,7 +12972,7 @@
       </Lemma>
       <Sense id="ewn-number__1_14_00__" n="6" synset="ewn-08497523-n">
         <SenseRelation relType="derivation" target="ewn-number__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-board_of_education-n">
       <Lemma writtenForm="board of education" partOfSpeech="n"/>
@@ -13001,7 +13001,7 @@
       <Lemma writtenForm="Shivaism" partOfSpeech="n"/>
       <Sense id="ewn-shivaism__1_14_00__" n="0" synset="ewn-08114038-n">
         <SenseRelation relType="derivation" target="ewn-shivaist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-schmeer-n">
       <Lemma writtenForm="schmeer" partOfSpeech="n"/>
@@ -13059,7 +13059,7 @@
       </Lemma>
       <Sense id="ewn-parcel__1_14_00__" n="3" synset="ewn-08024575-n">
         <SenseRelation relType="derivation" target="ewn-parcel__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Atomic_Energy_Commission-n">
       <Lemma writtenForm="Atomic Energy Commission" partOfSpeech="n"/>
@@ -13155,7 +13155,7 @@
       <Lemma writtenForm="international law" partOfSpeech="n"/>
       <Sense id="ewn-international_law__1_14_00__" n="0" synset="ewn-08471014-n">
         <SenseRelation relType="antonym" target="ewn-civil_law__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-day_shift-n">
       <Lemma writtenForm="day shift" partOfSpeech="n"/>
@@ -13242,7 +13242,7 @@
       <Sense id="ewn-plutocracy__1_14_00__" n="0" synset="ewn-08379702-n">
         <SenseRelation relType="derivation" target="ewn-plutocratic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-plutocratical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-color_scheme-n">
       <Lemma writtenForm="color scheme" partOfSpeech="n"/>
@@ -13276,7 +13276,7 @@
       <Sense id="ewn-clustering__1_14_00__" n="0" synset="ewn-07976557-n">
         <SenseRelation relType="derivation" target="ewn-cluster__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-cluster__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hizb_ut-Tahrir-n">
       <Lemma writtenForm="Hizb ut-Tahrir" partOfSpeech="n"/>
@@ -13324,7 +13324,7 @@
         <SenseRelation relType="derivation" target="ewn-dealership__1_14_00__"/>
         <SenseRelation relType="derivation" target="ewn-deal__2_40_11__"/>
         <SenseRelation relType="derivation" target="ewn-deal__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ecumenical_movement-n">
       <Lemma writtenForm="ecumenical movement" partOfSpeech="n"/>
@@ -13493,7 +13493,7 @@
       <Lemma writtenForm="disabled" partOfSpeech="n"/>
       <Sense id="ewn-disabled__1_14_00__" n="0" synset="ewn-07962874-n">
         <SenseRelation relType="derivation" target="ewn-disabled__5_00_00_unfit_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Force_17-n">
       <Lemma writtenForm="Force 17" partOfSpeech="n"/>
@@ -13505,7 +13505,7 @@
       </Lemma>
       <Sense id="ewn-symphony__1_14_00__" n="1" synset="ewn-08265777-n">
         <SenseRelation relType="derivation" target="ewn-symphonize__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-craft-n">
       <Lemma writtenForm="craft" partOfSpeech="n">
@@ -13514,7 +13514,7 @@
       </Lemma>
       <Sense id="ewn-craft__1_14_00__" n="2" synset="ewn-08453572-n">
         <SenseRelation relType="derivation" target="ewn-craft__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-class-n">
       <Lemma writtenForm="class" partOfSpeech="n">
@@ -13524,21 +13524,21 @@
         <SenseRelation relType="derivation" target="ewn-classify__2_31_01__"/>
         <SenseRelation relType="derivation" target="ewn-class__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-classify__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-class__1_14_03__" n="1" synset="ewn-08255384-n"/>
       <Sense id="ewn-class__1_14_01__" n="2" synset="ewn-07990472-n">
         <SenseRelation relType="derivation" target="ewn-classify__2_31_01__"/>
         <SenseRelation relType="derivation" target="ewn-classify__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-class__1_14_05__" n="4" synset="ewn-08256729-n">
         <SenseRelation relType="derivation" target="ewn-classify__2_31_01__"/>
         <SenseRelation relType="derivation" target="ewn-classify__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-class__1_14_04__" n="5" synset="ewn-08255581-n"/>
       <Sense id="ewn-class__1_14_02__" n="6" synset="ewn-08120743-n">
         <SenseRelation relType="derivation" target="ewn-classify__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-classify__2_31_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-straggle-n">
       <Lemma writtenForm="straggle" partOfSpeech="n">
@@ -13548,7 +13548,7 @@
         <SenseRelation relType="derivation" target="ewn-straggly__5_00_00_untidy_00"/>
         <SenseRelation relType="derivation" target="ewn-straggle__2_38_01__"/>
         <SenseRelation relType="derivation" target="ewn-straggle__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Canadian_Security_Intelligence_Service-n">
       <Lemma writtenForm="Canadian Security Intelligence Service" partOfSpeech="n"/>
@@ -13565,7 +13565,7 @@
       </Lemma>
       <Sense id="ewn-hostile__1_14_00__" n="0" synset="ewn-08414632-n">
         <SenseRelation relType="antonym" target="ewn-friendly__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-elderly-n">
       <Lemma writtenForm="elderly" partOfSpeech="n">
@@ -13590,13 +13590,13 @@
       <Sense id="ewn-avifauna__1_14_00__" n="0" synset="ewn-08010085-n">
         <SenseRelation relType="derivation" target="ewn-avifaunal__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-avifaunistic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-supper-n">
       <Lemma writtenForm="supper" partOfSpeech="n"/>
       <Sense id="ewn-supper__1_14_00__" n="1" synset="ewn-08273488-n">
         <SenseRelation relType="derivation" target="ewn-sup__2_34_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Nag_Hammadi-n">
       <Lemma writtenForm="Nag Hammadi" partOfSpeech="n"/>
@@ -13609,10 +13609,10 @@
       </Lemma>
       <Sense id="ewn-college__1_14_00__" n="0" synset="ewn-08295090-n">
         <SenseRelation relType="derivation" target="ewn-collegial__3_01_02__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-college__1_14_01__" n="1" synset="ewn-08295245-n">
         <SenseRelation relType="derivation" target="ewn-collegial__3_01_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-visit-n">
       <Lemma writtenForm="visit" partOfSpeech="n">
@@ -13620,7 +13620,7 @@
       </Lemma>
       <Sense id="ewn-visit__1_14_00__" n="1" synset="ewn-08402011-n">
         <SenseRelation relType="derivation" target="ewn-visit__2_38_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-package-n">
       <Lemma writtenForm="package" partOfSpeech="n">
@@ -13629,7 +13629,7 @@
       <Sense id="ewn-package__1_14_00__" n="0" synset="ewn-08024575-n">
         <SenseRelation relType="derivation" target="ewn-package__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-pack__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-automobile_traffic-n">
       <Lemma writtenForm="automobile traffic" partOfSpeech="n"/>
@@ -13662,7 +13662,7 @@
       <Sense id="ewn-sequence__1_14_00__" n="0" synset="ewn-08476263-n">
         <SenseRelation relType="derivation" target="ewn-sequence__2_32_00__"/>
         <SenseRelation relType="derivation" target="ewn-sequence__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Dominican_order-n">
       <Lemma writtenForm="Dominican order" partOfSpeech="n"/>
@@ -13722,7 +13722,7 @@
       <Lemma writtenForm="Zen" partOfSpeech="n"/>
       <Sense id="ewn-zen__1_14_00__" n="0" synset="ewn-08115995-n">
         <SenseRelation relType="derivation" target="ewn-zen_buddhist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Al-Jama-ap-a_al-Islamiyyah_al-Muqatilah_bi-Libya-n">
       <Lemma writtenForm="Al-Jama&apos;a al-Islamiyyah al-Muqatilah bi-Libya" partOfSpeech="n"/>
@@ -13797,7 +13797,7 @@
       <Sense id="ewn-law__1_14_00__" n="0" synset="ewn-08458195-n">
         <SenseRelation relType="has_domain_topic" target="ewn-settlor__1_18_00__"/>
         <SenseRelation relType="has_domain_topic" target="ewn-trustor__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-law__1_14_01__" n="6" synset="ewn-08226608-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-MEK-n">
@@ -13876,7 +13876,7 @@
       </Lemma>
       <Sense id="ewn-prosecution__1_14_00__" n="1" synset="ewn-08081578-n">
         <SenseRelation relType="antonym" target="ewn-defense__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Tadzhik-n">
       <Lemma writtenForm="Tadzhik" partOfSpeech="n"/>
@@ -13992,7 +13992,7 @@
       </Lemma>
       <Sense id="ewn-retrospective__1_14_00__" n="0" synset="ewn-08424926-n">
         <SenseRelation relType="derivation" target="ewn-retrospective__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-high_school-n">
       <Lemma writtenForm="high school" partOfSpeech="n">
@@ -14004,7 +14004,7 @@
       <Lemma writtenForm="market economy" partOfSpeech="n"/>
       <Sense id="ewn-market_economy__1_14_00__" n="0" synset="ewn-08381886-n">
         <SenseRelation relType="antonym" target="ewn-non-market_economy__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rendezvous-n">
       <Lemma writtenForm="rendezvous" partOfSpeech="n">
@@ -14013,7 +14013,7 @@
       </Lemma>
       <Sense id="ewn-rendezvous__1_14_00__" n="2" synset="ewn-08402448-n">
         <SenseRelation relType="derivation" target="ewn-rendezvous__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Catholic_Church-n">
       <Lemma writtenForm="Catholic Church" partOfSpeech="n"/>
@@ -14053,7 +14053,7 @@
       </Lemma>
       <Sense id="ewn-lump__1_14_00__" n="0" synset="ewn-07977630-n">
         <SenseRelation relType="derivation" target="ewn-lumpy__5_00_00_uneven_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Paleo-Indian_culture-n">
       <Lemma writtenForm="Paleo-Indian culture" partOfSpeech="n"/>
@@ -14116,7 +14116,7 @@
       </Lemma>
       <Sense id="ewn-network__1_14_00__" n="0" synset="ewn-08451269-n">
         <SenseRelation relType="derivation" target="ewn-network__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bank_of_Japan-n">
       <Lemma writtenForm="Bank of Japan" partOfSpeech="n"/>
@@ -14174,7 +14174,7 @@
       </Lemma>
       <Sense id="ewn-bosk__1_14_00__" n="0" synset="ewn-08455832-n">
         <SenseRelation relType="derivation" target="ewn-bosky__5_00_00_wooded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-closed_corporation-n">
       <Lemma writtenForm="closed corporation" partOfSpeech="n"/>
@@ -14238,7 +14238,7 @@
       </Lemma>
       <Sense id="ewn-theocracy__1_14_00__" n="0" synset="ewn-08380355-n">
         <SenseRelation relType="derivation" target="ewn-theocratic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-denomination-n">
       <Lemma writtenForm="denomination" partOfSpeech="n">
@@ -14246,10 +14246,10 @@
       </Lemma>
       <Sense id="ewn-denomination__1_14_00__" n="0" synset="ewn-08163789-n">
         <SenseRelation relType="derivation" target="ewn-denominate__2_32_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-denomination__1_14_01__" n="1" synset="ewn-08023431-n">
         <SenseRelation relType="derivation" target="ewn-denominate__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bureau_of_Customs-n">
       <Lemma writtenForm="Bureau of Customs" partOfSpeech="n"/>
@@ -14344,7 +14344,7 @@
       </Lemma>
       <Sense id="ewn-sampler__1_14_00__" n="2" synset="ewn-08480828-n">
         <SenseRelation relType="derivation" target="ewn-sample__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Seanad_Eireann-n">
       <Lemma writtenForm="Seanad Eireann" partOfSpeech="n"/>
@@ -14354,16 +14354,16 @@
       <Lemma writtenForm="unionism" partOfSpeech="n"/>
       <Sense id="ewn-unionism__1_14_00__" n="0" synset="ewn-08490493-n">
         <SenseRelation relType="derivation" target="ewn-unionist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-patrol-n">
       <Lemma writtenForm="patrol" partOfSpeech="n"/>
       <Sense id="ewn-patrol__1_14_00__" n="0" synset="ewn-08233097-n">
         <SenseRelation relType="derivation" target="ewn-patrol__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-patrol__1_14_01__" n="2" synset="ewn-08346040-n">
         <SenseRelation relType="derivation" target="ewn-patrol__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ATF-n">
       <Lemma writtenForm="ATF" partOfSpeech="n"/>
@@ -14488,7 +14488,7 @@
       </Lemma>
       <Sense id="ewn-kingdom__1_14_01__" n="3" synset="ewn-08422560-n">
         <SenseRelation relType="derivation" target="ewn-king__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-kingdom__1_14_02__" n="4" synset="ewn-07956792-n"/>
       <Sense id="ewn-kingdom__1_14_00__" n="5" synset="ewn-07956688-n"/>
     </LexicalEntry>
@@ -14515,10 +14515,10 @@
       </Lemma>
       <Sense id="ewn-federation__1_14_01__" n="0" synset="ewn-08320434-n">
         <SenseRelation relType="derivation" target="ewn-federate__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-federation__1_14_00__" n="1" synset="ewn-08320205-n">
         <SenseRelation relType="derivation" target="ewn-federate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Kashag-n">
       <Lemma writtenForm="Kashag" partOfSpeech="n"/>
@@ -14563,7 +14563,7 @@
       <Sense id="ewn-institution__1_14_00__" n="0" synset="ewn-08070328-n">
         <SenseRelation relType="derivation" target="ewn-institutional__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-institutional__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fire_company-n">
       <Lemma writtenForm="fire company" partOfSpeech="n"/>
@@ -14577,7 +14577,7 @@
       <Lemma writtenForm="underperformer" partOfSpeech="n"/>
       <Sense id="ewn-underperformer__1_14_00__" n="1" synset="ewn-08093414-n">
         <SenseRelation relType="derivation" target="ewn-underperform__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-War_Department-n">
       <Lemma writtenForm="War Department" partOfSpeech="n"/>
@@ -14599,16 +14599,16 @@
       <Sense id="ewn-swarm__1_14_01__" n="0" synset="ewn-08201135-n">
         <SenseRelation relType="derivation" target="ewn-swarm__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-swarm__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-swarm__1_14_00__" n="1" synset="ewn-08012591-n">
         <SenseRelation relType="derivation" target="ewn-swarm__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Lancaster-n">
       <Lemma writtenForm="Lancaster" partOfSpeech="n"/>
       <Sense id="ewn-lancaster__1_14_00__" n="1" synset="ewn-08172664-n">
         <SenseRelation relType="derivation" target="ewn-lancastrian__3_01_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sick_call-n">
       <Lemma writtenForm="sick call" partOfSpeech="n"/>
@@ -14702,7 +14702,7 @@
       </Lemma>
       <Sense id="ewn-convent__1_14_00__" n="1" synset="ewn-08241334-n">
         <SenseRelation relType="derivation" target="ewn-conventual__5_00_00_unworldly_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pastorate-n">
       <Lemma writtenForm="pastorate" partOfSpeech="n"/>
@@ -14715,7 +14715,7 @@
       </Lemma>
       <Sense id="ewn-masquerade__1_14_00__" n="0" synset="ewn-08270371-n">
         <SenseRelation relType="derivation" target="ewn-masquerade__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Baader-Meinhof_Gang-n">
       <Lemma writtenForm="Baader-Meinhof Gang" partOfSpeech="n"/>
@@ -14735,7 +14735,7 @@
       <Sense id="ewn-lobby__1_14_00__" n="2" synset="ewn-07985266-n">
         <SenseRelation relType="derivation" target="ewn-lobbyist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-lobby__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Third_Council_of_Constantinople-n">
       <Lemma writtenForm="Third Council of Constantinople" partOfSpeech="n"/>
@@ -14773,7 +14773,7 @@
       </Lemma>
       <Sense id="ewn-market__1_14_00__" n="1" synset="ewn-08441908-n">
         <SenseRelation relType="derivation" target="ewn-market__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-market__1_14_01__" n="3" synset="ewn-08089673-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-communion-n">
@@ -14795,7 +14795,7 @@
       </Lemma>
       <Sense id="ewn-autarchy__1_14_00__" n="1" synset="ewn-08377928-n">
         <SenseRelation relType="derivation" target="ewn-autarchical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-LABLINK-n">
       <Lemma writtenForm="LABLINK" partOfSpeech="n"/>
@@ -14821,7 +14821,7 @@
       <Lemma writtenForm="right wing" partOfSpeech="n"/>
       <Sense id="ewn-right_wing__1_14_00__" n="0" synset="ewn-08433609-n">
         <SenseRelation relType="derivation" target="ewn-rightist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-revival_meeting-n">
       <Lemma writtenForm="revival meeting" partOfSpeech="n"/>
@@ -14891,7 +14891,7 @@
       <Sense id="ewn-pietism__1_14_00__" n="0" synset="ewn-08492733-n">
         <SenseRelation relType="derivation" target="ewn-pietistical__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-pietistic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-elite-n">
       <Lemma writtenForm="elite" partOfSpeech="n">
@@ -14899,7 +14899,7 @@
       </Lemma>
       <Sense id="ewn-elite__1_14_00__" n="0" synset="ewn-08403286-n">
         <SenseRelation relType="derivation" target="ewn-elite__5_00_00_selected_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-DRMS-n">
       <Lemma writtenForm="DRMS" partOfSpeech="n"/>
@@ -14943,7 +14943,7 @@
       </Lemma>
       <Sense id="ewn-division__1_14_00__" n="0" synset="ewn-08230126-n">
         <SenseRelation relType="derivation" target="ewn-divisional__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-division__1_14_03__" n="3" synset="ewn-08237635-n"/>
       <Sense id="ewn-division__1_14_06__" n="5" synset="ewn-08256729-n"/>
       <Sense id="ewn-division__1_14_05__" n="6" synset="ewn-08238269-n"/>
@@ -15013,10 +15013,10 @@
       </Lemma>
       <Sense id="ewn-range__1_14_00__" n="5" synset="ewn-08416543-n">
         <SenseRelation relType="derivation" target="ewn-range__2_42_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-range__1_14_01__" n="6" synset="ewn-08016746-n">
         <SenseRelation relType="derivation" target="ewn-range__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quadruple-n">
       <Lemma writtenForm="quadruple" partOfSpeech="n">
@@ -15030,15 +15030,15 @@
       <Sense id="ewn-school__1_14_00__" n="0" synset="ewn-08293641-n">
         <SenseRelation relType="derivation" target="ewn-scholastic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-school__2_41_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-school__1_14_02__" n="3" synset="ewn-08292106-n"/>
       <Sense id="ewn-school__1_14_03__" n="5" synset="ewn-08294314-n">
         <SenseRelation relType="derivation" target="ewn-scholastic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-school__2_41_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-school__1_14_01__" n="6" synset="ewn-08011895-n">
         <SenseRelation relType="derivation" target="ewn-school__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_Self-Defense_Group_of_Colombia-n">
       <Lemma writtenForm="United Self-Defense Group of Colombia" partOfSpeech="n"/>
@@ -15155,7 +15155,7 @@
       <Sense id="ewn-bench__1_14_00__" n="2" synset="ewn-08183086-n"/>
       <Sense id="ewn-bench__1_14_02__" n="4" synset="ewn-08226440-n">
         <SenseRelation relType="derivation" target="ewn-bench__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-menage-n">
       <Lemma writtenForm="menage" partOfSpeech="n"/>
@@ -15219,7 +15219,7 @@
       <Sense id="ewn-membership__1_14_00__" n="0" synset="ewn-08417922-n">
         <SenseRelation relType="derivation" target="ewn-member__1_24_00__"/>
         <SenseRelation relType="derivation" target="ewn-member__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rout-n">
       <Lemma writtenForm="rout" partOfSpeech="n">
@@ -15257,7 +15257,7 @@
       </Lemma>
       <Sense id="ewn-variant__1_14_00__" n="1" synset="ewn-08128123-n">
         <SenseRelation relType="derivation" target="ewn-variant__5_00_00_variable_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-law-makers-n">
       <Lemma writtenForm="law-makers" partOfSpeech="n"/>
@@ -15275,7 +15275,7 @@
       <Lemma writtenForm="shock" partOfSpeech="n"/>
       <Sense id="ewn-shock__1_14_00__" n="6" synset="ewn-07979321-n">
         <SenseRelation relType="derivation" target="ewn-shock__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-shock__1_14_01__" n="7" synset="ewn-07979114-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-body-n">
@@ -15345,7 +15345,7 @@
       <Sense id="ewn-alignment__1_14_00__" n="0" synset="ewn-08310903-n">
         <SenseRelation relType="antonym" target="ewn-nonalignment__1_14_00__"/>
         <SenseRelation relType="derivation" target="ewn-align__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_Nations_International_Children-ap-s_Emergency_Fund-n">
       <Lemma writtenForm="United Nations International Children&apos;s Emergency Fund" partOfSpeech="n"/>
@@ -15364,7 +15364,7 @@
       <Sense id="ewn-issuer__1_14_00__" n="0" synset="ewn-08071902-n">
         <SenseRelation relType="derivation" target="ewn-issue__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-issue__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-appellate_court-n">
       <Lemma writtenForm="appellate court" partOfSpeech="n"/>
@@ -15419,16 +15419,16 @@
       <Sense id="ewn-assemblage__1_14_00__" n="0" synset="ewn-07991473-n">
         <SenseRelation relType="derivation" target="ewn-assemble__2_41_03__"/>
         <SenseRelation relType="derivation" target="ewn-assemble__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-assemblage__1_14_01__" n="3" synset="ewn-07968050-n">
         <SenseRelation relType="derivation" target="ewn-assemble__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-scrub-n">
       <Lemma writtenForm="scrub" partOfSpeech="n"/>
       <Sense id="ewn-scrub__1_14_00__" n="0" synset="ewn-08455215-n">
         <SenseRelation relType="derivation" target="ewn-scrubby__5_00_00_wooded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-art_deco-n">
       <Lemma writtenForm="art deco" partOfSpeech="n"/>
@@ -15452,7 +15452,7 @@
       </Lemma>
       <Sense id="ewn-timid__1_14_00__" n="0" synset="ewn-07961176-n">
         <SenseRelation relType="antonym" target="ewn-brave__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-OAS-n">
       <Lemma writtenForm="OAS" partOfSpeech="n"/>
@@ -15472,7 +15472,7 @@
       </Lemma>
       <Sense id="ewn-paramilitary__1_14_00__" n="0" synset="ewn-08224130-n">
         <SenseRelation relType="derivation" target="ewn-paramilitary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Palestinian_Islamic_Jihad-n">
       <Lemma writtenForm="Palestinian Islamic Jihad" partOfSpeech="n"/>
@@ -15501,7 +15501,7 @@
       <Sense id="ewn-fund__1_14_00__" n="2" synset="ewn-08087686-n">
         <SenseRelation relType="derivation" target="ewn-fund__2_40_04__"/>
         <SenseRelation relType="derivation" target="ewn-fund__2_40_05__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rash-n">
       <Lemma writtenForm="rash" partOfSpeech="n"/>
@@ -15591,7 +15591,7 @@
       <Sense id="ewn-folks__1_14_00__" n="0" synset="ewn-07987470-n"/>
       <Sense id="ewn-folks__1_14_01__" n="1" synset="ewn-07963841-n">
         <SenseRelation relType="derivation" target="ewn-folksy__5_00_00_informal_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-representation-n">
       <Lemma writtenForm="representation" partOfSpeech="n">
@@ -15599,7 +15599,7 @@
       </Lemma>
       <Sense id="ewn-representation__1_14_00__" n="4" synset="ewn-08354035-n">
         <SenseRelation relType="derivation" target="ewn-represent__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-profession-n">
       <Lemma writtenForm="profession" partOfSpeech="n">
@@ -15628,7 +15628,7 @@
       <Sense id="ewn-faction__1_14_01__" n="0" synset="ewn-08258719-n"/>
       <Sense id="ewn-faction__1_14_00__" n="1" synset="ewn-08268798-n">
         <SenseRelation relType="derivation" target="ewn-factious__5_00_00_discordant_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-proletariat-n">
       <Lemma writtenForm="proletariat" partOfSpeech="n">
@@ -15637,13 +15637,13 @@
       </Lemma>
       <Sense id="ewn-proletariat__1_14_00__" n="0" synset="ewn-08197557-n">
         <SenseRelation relType="derivation" target="ewn-proletarian__5_00_00_lower-class_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bottler-n">
       <Lemma writtenForm="bottler" partOfSpeech="n"/>
       <Sense id="ewn-bottler__1_14_00__" n="0" synset="ewn-08083480-n">
         <SenseRelation relType="derivation" target="ewn-bottle__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-armed_forces-n">
       <Lemma writtenForm="armed forces" partOfSpeech="n"/>
@@ -15695,7 +15695,7 @@
       <Lemma writtenForm="Jainism" partOfSpeech="n"/>
       <Sense id="ewn-jainism__1_14_00__" n="0" synset="ewn-08115158-n">
         <SenseRelation relType="derivation" target="ewn-jainist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bundesbank-n">
       <Lemma writtenForm="Bundesbank" partOfSpeech="n"/>
@@ -15741,7 +15741,7 @@
       <Sense id="ewn-following__1_14_00__" n="0" synset="ewn-08240184-n">
         <SenseRelation relType="derivation" target="ewn-follow__2_41_10__"/>
         <SenseRelation relType="derivation" target="ewn-follow__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-locus-n">
       <Lemma writtenForm="locus" partOfSpeech="n">
@@ -15865,7 +15865,7 @@
       <Lemma writtenForm="Greek mythology" partOfSpeech="n"/>
       <Sense id="ewn-greek_mythology__1_14_00__" n="0" synset="ewn-07995848-n">
         <SenseRelation relType="has_domain_topic" target="ewn-hades__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lighting_industry-n">
       <Lemma writtenForm="lighting industry" partOfSpeech="n"/>
@@ -15920,7 +15920,7 @@
       </Lemma>
       <Sense id="ewn-brush__1_14_00__" n="0" synset="ewn-08454507-n">
         <SenseRelation relType="derivation" target="ewn-brushy__5_00_00_wooded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lost-n">
       <Lemma writtenForm="lost" partOfSpeech="n">
@@ -15946,7 +15946,7 @@
       <Sense id="ewn-readership__1_14_00__" n="0" synset="ewn-08239492-n">
         <SenseRelation relType="derivation" target="ewn-reader__1_18_03__"/>
         <SenseRelation relType="derivation" target="ewn-reader__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-General_Security_Services-n">
       <Lemma writtenForm="General Security Services" partOfSpeech="n"/>
@@ -15960,7 +15960,7 @@
       <Lemma writtenForm="Gironde" partOfSpeech="n"/>
       <Sense id="ewn-gironde__1_14_00__" n="0" synset="ewn-08277141-n">
         <SenseRelation relType="derivation" target="ewn-girondist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bon_ton-n">
       <Lemma writtenForm="bon ton" partOfSpeech="n"/>
@@ -16028,7 +16028,7 @@
       </Lemma>
       <Sense id="ewn-lineup__1_14_00__" n="1" synset="ewn-08448162-n">
         <SenseRelation relType="derivation" target="ewn-line_up__2_38_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Europol-n">
       <Lemma writtenForm="Europol" partOfSpeech="n"/>
@@ -16045,7 +16045,7 @@
       <Sense id="ewn-classification__1_14_00__" n="1" synset="ewn-07955878-n">
         <SenseRelation relType="derivation" target="ewn-classify__2_31_01__"/>
         <SenseRelation relType="derivation" target="ewn-classify__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Labour-n">
       <Lemma writtenForm="Labour" partOfSpeech="n">
@@ -16090,7 +16090,7 @@
       <Lemma writtenForm="white separatism" partOfSpeech="n"/>
       <Sense id="ewn-white_separatism__1_14_00__" n="0" synset="ewn-08397337-n">
         <SenseRelation relType="derivation" target="ewn-white_separatist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Army_National_Guard-n">
       <Lemma writtenForm="Army National Guard" partOfSpeech="n"/>
@@ -16121,7 +16121,7 @@
       <Lemma writtenForm="Albigenses" partOfSpeech="n"/>
       <Sense id="ewn-albigenses__1_14_00__" n="0" synset="ewn-08102074-n">
         <SenseRelation relType="derivation" target="ewn-albigensian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cult-n">
       <Lemma writtenForm="cult" partOfSpeech="n">
@@ -16129,10 +16129,10 @@
       </Lemma>
       <Sense id="ewn-cult__1_14_00__" n="0" synset="ewn-08168497-n">
         <SenseRelation relType="derivation" target="ewn-cultist__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cult__1_14_01__" n="2" synset="ewn-08168236-n">
         <SenseRelation relType="derivation" target="ewn-cultist__1_18_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-High_Anglican_Church-n">
       <Lemma writtenForm="High Anglican Church" partOfSpeech="n"/>
@@ -16229,7 +16229,7 @@
         <SenseRelation relType="derivation" target="ewn-democratic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-democratize__2_41_01__"/>
         <SenseRelation relType="derivation" target="ewn-democratize__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Association_of_Islamic_Groups_and_Communities-n">
       <Lemma writtenForm="Association of Islamic Groups and Communities" partOfSpeech="n"/>
@@ -16265,7 +16265,7 @@
       <Sense id="ewn-gathering__1_14_00__" n="0" synset="ewn-07991473-n">
         <SenseRelation relType="derivation" target="ewn-gather__2_41_02__"/>
         <SenseRelation relType="derivation" target="ewn-gather__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-NSC-n">
       <Lemma writtenForm="NSC" partOfSpeech="n"/>
@@ -16382,14 +16382,14 @@
       <Lemma writtenForm="herd" partOfSpeech="n"/>
       <Sense id="ewn-herd__1_14_00__" n="0" synset="ewn-08010773-n">
         <SenseRelation relType="derivation" target="ewn-herd__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-herd__1_14_01__" n="1" synset="ewn-08010997-n">
         <SenseRelation relType="derivation" target="ewn-herd__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-herd__1_14_02__" n="2" synset="ewn-08199964-n">
         <SenseRelation relType="derivation" target="ewn-herd__2_38_01__"/>
         <SenseRelation relType="derivation" target="ewn-herd__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mujahideen-n">
       <Lemma writtenForm="mujahideen" partOfSpeech="n">
@@ -16413,7 +16413,7 @@
       <Sense id="ewn-clergy__1_14_00__" n="0" synset="ewn-08169784-n">
         <SenseRelation relType="antonym" target="ewn-laity__1_14_00__"/>
         <SenseRelation relType="derivation" target="ewn-clerical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-slumber_party-n">
       <Lemma writtenForm="slumber party" partOfSpeech="n"/>
@@ -16431,10 +16431,10 @@
       </Lemma>
       <Sense id="ewn-revisionism__1_14_01__" n="0" synset="ewn-08385558-n">
         <SenseRelation relType="derivation" target="ewn-revisionist__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-revisionism__1_14_00__" n="1" synset="ewn-08385443-n">
         <SenseRelation relType="derivation" target="ewn-revisionist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-reception-n">
       <Lemma writtenForm="reception" partOfSpeech="n">
@@ -16442,7 +16442,7 @@
       </Lemma>
       <Sense id="ewn-reception__1_14_00__" n="1" synset="ewn-08271252-n">
         <SenseRelation relType="derivation" target="ewn-receive__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-beats-n">
       <Lemma writtenForm="beats" partOfSpeech="n">
@@ -16471,7 +16471,7 @@
       <Sense id="ewn-tantrism__1_14_00__" n="0" synset="ewn-08116613-n">
         <SenseRelation relType="derivation" target="ewn-tantric__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-tantrist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-CNPZ-n">
       <Lemma writtenForm="CNPZ" partOfSpeech="n"/>
@@ -16488,16 +16488,16 @@
       </Lemma>
       <Sense id="ewn-detail__1_14_01__" n="3" synset="ewn-08260002-n">
         <SenseRelation relType="derivation" target="ewn-detail__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-detail__1_14_00__" n="4" synset="ewn-08421506-n">
         <SenseRelation relType="derivation" target="ewn-detail__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-brake-n">
       <Lemma writtenForm="brake" partOfSpeech="n"/>
       <Sense id="ewn-brake__1_14_00__" n="3" synset="ewn-08454713-n">
         <SenseRelation relType="derivation" target="ewn-braky__5_00_00_wooded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lynch_mob-n">
       <Lemma writtenForm="lynch mob" partOfSpeech="n"/>
@@ -16507,11 +16507,11 @@
       <Lemma writtenForm="meeting" partOfSpeech="n"/>
       <Sense id="ewn-meeting__1_14_00__" n="0" synset="ewn-08324519-n">
         <SenseRelation relType="derivation" target="ewn-meet__2_38_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-meeting__1_14_01__" n="1" synset="ewn-08327319-n">
         <SenseRelation relType="derivation" target="ewn-meet__2_41_01__"/>
         <SenseRelation relType="derivation" target="ewn-meet__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-state_bank-n">
       <Lemma writtenForm="state bank" partOfSpeech="n"/>
@@ -16530,7 +16530,7 @@
       </Lemma>
       <Sense id="ewn-banquet__1_14_00__" n="0" synset="ewn-08270561-n">
         <SenseRelation relType="derivation" target="ewn-banquet__2_34_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-detective_agency-n">
       <Lemma writtenForm="detective agency" partOfSpeech="n"/>
@@ -16562,7 +16562,7 @@
       <Sense id="ewn-genealogy__1_14_00__" n="0" synset="ewn-08119368-n">
         <SenseRelation relType="derivation" target="ewn-genealogical__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-genealogist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-publishing_conglomerate-n">
       <Lemma writtenForm="publishing conglomerate" partOfSpeech="n"/>
@@ -16579,14 +16579,14 @@
       <Form writtenForm="plena"/>
       <Sense id="ewn-plenum__1_14_00__" n="0" synset="ewn-08326784-n">
         <SenseRelation relType="derivation" target="ewn-plenary__5_00_00_comprehensive_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-genotype-n">
       <Lemma writtenForm="genotype" partOfSpeech="n"/>
       <Sense id="ewn-genotype__1_14_00__" n="0" synset="ewn-07957645-n">
         <SenseRelation relType="derivation" target="ewn-genotypic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-genotypical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nursery_school-n">
       <Lemma writtenForm="nursery school" partOfSpeech="n"/>
@@ -16629,7 +16629,7 @@
       </Lemma>
       <Sense id="ewn-enlightened__1_14_00__" n="0" synset="ewn-07965104-n">
         <SenseRelation relType="derivation" target="ewn-enlightened__5_00_00_informed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-settlement-n">
       <Lemma writtenForm="settlement" partOfSpeech="n">
@@ -16639,7 +16639,7 @@
         <SenseRelation relType="derivation" target="ewn-settle__2_30_03__"/>
         <SenseRelation relType="derivation" target="ewn-settle__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-settle__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-settlement__1_14_01__" n="1" synset="ewn-08243620-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Quechua-n">
@@ -16691,7 +16691,7 @@
       </Lemma>
       <Sense id="ewn-brood__1_14_00__" n="0" synset="ewn-08007266-n">
         <SenseRelation relType="derivation" target="ewn-brood__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-police_force-n">
       <Lemma writtenForm="police force" partOfSpeech="n"/>
@@ -16752,7 +16752,7 @@
       </Lemma>
       <Sense id="ewn-rich__1_14_00__" n="0" synset="ewn-08196373-n">
         <SenseRelation relType="antonym" target="ewn-poor__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Benedictine_order-n">
       <Lemma writtenForm="Benedictine order" partOfSpeech="n"/>
@@ -16815,12 +16815,12 @@
       </Lemma>
       <Sense id="ewn-diagonal__1_14_00__" n="2" synset="ewn-08287338-n">
         <SenseRelation relType="derivation" target="ewn-diagonal__5_00_00_inclined_01"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-diagonal__1_14_01__" n="3" synset="ewn-08285242-n">
         <SenseRelation relType="derivation" target="ewn-diagonal__5_00_00_inclined_01"/>
         <SenseRelation relType="derivation" target="ewn-diagonalize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-diagonalise__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-brain_trust-n">
       <Lemma writtenForm="brain trust" partOfSpeech="n"/>
@@ -16890,7 +16890,7 @@
       <Lemma writtenForm="doomed" partOfSpeech="n"/>
       <Sense id="ewn-doomed__1_14_00__" n="0" synset="ewn-07963280-n">
         <SenseRelation relType="derivation" target="ewn-doomed__5_00_00_dead_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Chasidim-n">
       <Lemma writtenForm="Chasidim" partOfSpeech="n"/>
@@ -16906,7 +16906,7 @@
       </Lemma>
       <Sense id="ewn-caravan__1_14_00__" n="0" synset="ewn-08444586-n">
         <SenseRelation relType="derivation" target="ewn-caravan__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-banking_concern-n">
       <Lemma writtenForm="banking concern" partOfSpeech="n"/>
@@ -16934,13 +16934,13 @@
       <Lemma writtenForm="offence" partOfSpeech="n"/>
       <Sense id="ewn-offence__1_14_00__" n="1" synset="ewn-08098121-n">
         <SenseRelation relType="antonym" target="ewn-defence__1_14_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-singular_matrix-n">
       <Lemma writtenForm="singular matrix" partOfSpeech="n"/>
       <Sense id="ewn-singular_matrix__1_14_00__" n="0" synset="ewn-08287090-n">
         <SenseRelation relType="antonym" target="ewn-nonsingular_matrix__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hunt-n">
       <Lemma writtenForm="hunt" partOfSpeech="n">
@@ -16974,7 +16974,7 @@
       </Lemma>
       <Sense id="ewn-string__1_14_00__" n="3" synset="ewn-08476659-n">
         <SenseRelation relType="derivation" target="ewn-string__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-people-n">
       <Lemma writtenForm="people" partOfSpeech="n">
@@ -16984,16 +16984,16 @@
       <Sense id="ewn-people__1_14_00__" n="0" synset="ewn-07958392-n">
         <SenseRelation relType="derivation" target="ewn-people__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-people__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-people__1_14_01__" n="1" synset="ewn-08177175-n">
         <SenseRelation relType="derivation" target="ewn-people__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-people__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-people__1_14_02__" n="2" synset="ewn-07987588-n"/>
       <Sense id="ewn-people__1_14_03__" n="3" synset="ewn-08197108-n">
         <SenseRelation relType="derivation" target="ewn-people__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-people__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Alex_Boncayao_Brigade-n">
       <Lemma writtenForm="Alex Boncayao Brigade" partOfSpeech="n"/>
@@ -17065,7 +17065,7 @@
         <SenseRelation relType="derivation" target="ewn-taxonomist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-taxonomic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-taxonomical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gray-n">
       <Lemma writtenForm="gray" partOfSpeech="n">
@@ -17080,7 +17080,7 @@
       <Form writtenForm="faunae"/>
       <Sense id="ewn-fauna__1_14_00__" n="0" synset="ewn-08009721-n">
         <SenseRelation relType="antonym" target="ewn-flora__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-scheduled_territories-n">
       <Lemma writtenForm="scheduled territories" partOfSpeech="n"/>
@@ -17109,7 +17109,7 @@
       </Lemma>
       <Sense id="ewn-conglomerate__1_14_00__" n="1" synset="ewn-08075773-n">
         <SenseRelation relType="derivation" target="ewn-conglomerate__5_00_00_combined_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-al-Muhajiroun-n">
       <Lemma writtenForm="al-Muhajiroun" partOfSpeech="n"/>
@@ -17123,7 +17123,7 @@
       <Lemma writtenForm="damned" partOfSpeech="n"/>
       <Sense id="ewn-damned__1_14_00__" n="0" synset="ewn-07962076-n">
         <SenseRelation relType="derivation" target="ewn-damned__5_00_00_cursed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cadre-n">
       <Lemma writtenForm="cadre" partOfSpeech="n">
@@ -17137,7 +17137,7 @@
       <Lemma writtenForm="night school" partOfSpeech="n"/>
       <Sense id="ewn-night_school__1_14_00__" n="0" synset="ewn-08428927-n">
         <SenseRelation relType="antonym" target="ewn-day_school__1_14_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-DINK-n">
       <Lemma writtenForm="DINK" partOfSpeech="n">
@@ -17166,7 +17166,7 @@
       <Sense id="ewn-pluralism__1_14_00__" n="0" synset="ewn-08384610-n">
         <SenseRelation relType="derivation" target="ewn-pluralist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-pluralistic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-clowder-n">
       <Lemma writtenForm="clowder" partOfSpeech="n">
@@ -17193,7 +17193,7 @@
       </Lemma>
       <Sense id="ewn-sect__1_14_01__" n="0" synset="ewn-08166788-n">
         <SenseRelation relType="derivation" target="ewn-sectarian__3_01_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-sect__1_14_00__" n="1" synset="ewn-08268798-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-viewers-n">
@@ -17214,7 +17214,7 @@
       </Lemma>
       <Sense id="ewn-pick__1_14_00__" n="2" synset="ewn-08403766-n">
         <SenseRelation relType="derivation" target="ewn-pick__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bollywood-n">
       <Lemma writtenForm="Bollywood" partOfSpeech="n"/>
@@ -17311,7 +17311,7 @@
       </Lemma>
       <Sense id="ewn-migration__1_14_00__" n="1" synset="ewn-07983035-n">
         <SenseRelation relType="derivation" target="ewn-migrate__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Holy_War_Warriors-n">
       <Lemma writtenForm="Holy War Warriors" partOfSpeech="n"/>
@@ -17347,10 +17347,10 @@
       </Lemma>
       <Sense id="ewn-defense__1_14_01__" n="2" synset="ewn-08098280-n">
         <SenseRelation relType="antonym" target="ewn-offense__1_14_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-defense__1_14_00__" n="5" synset="ewn-08081359-n">
         <SenseRelation relType="antonym" target="ewn-prosecution__1_14_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-defense__1_14_03__" n="7" synset="ewn-08080966-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Coptic_Church-n">
@@ -17379,7 +17379,7 @@
       </Lemma>
       <Sense id="ewn-population__1_14_00__" n="0" synset="ewn-08196797-n">
         <SenseRelation relType="derivation" target="ewn-populate__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-population__1_14_01__" n="1" synset="ewn-08195659-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_States_Cabinet-n">
@@ -17541,7 +17541,7 @@
       <Lemma writtenForm="mover" partOfSpeech="n"/>
       <Sense id="ewn-mover__1_14_00__" n="3" synset="ewn-08495493-n">
         <SenseRelation relType="derivation" target="ewn-move__2_38_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-giro-n">
       <Lemma writtenForm="giro" partOfSpeech="n">
@@ -17561,10 +17561,10 @@
       <Lemma writtenForm="Taoism" partOfSpeech="n"/>
       <Sense id="ewn-taoism__1_14_02__" n="0" synset="ewn-08115465-n">
         <SenseRelation relType="derivation" target="ewn-taoist__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-taoism__1_14_00__" n="1" synset="ewn-08115312-n">
         <SenseRelation relType="derivation" target="ewn-taoist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-NSW-n">
       <Lemma writtenForm="NSW" partOfSpeech="n"/>
@@ -17609,7 +17609,7 @@
         <SenseRelation relType="derivation" target="ewn-bank__2_40_02__"/>
         <SenseRelation relType="derivation" target="ewn-bank__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-bank__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bank__1_14_01__" n="3" synset="ewn-08479077-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Han_dynasty-n">
@@ -17675,7 +17675,7 @@
       <Lemma writtenForm="constructivism" partOfSpeech="n"/>
       <Sense id="ewn-constructivism__1_14_00__" n="0" synset="ewn-08482787-n">
         <SenseRelation relType="derivation" target="ewn-constructivist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Justice-n">
       <Lemma writtenForm="Justice" partOfSpeech="n">
@@ -17729,7 +17729,7 @@
       </Lemma>
       <Sense id="ewn-organism__1_14_00__" n="1" synset="ewn-08453046-n">
         <SenseRelation relType="derivation" target="ewn-organismal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-British_Labour_Party-n">
       <Lemma writtenForm="British Labour Party" partOfSpeech="n"/>
@@ -17750,7 +17750,7 @@
       <Lemma writtenForm="Zionism" partOfSpeech="n"/>
       <Sense id="ewn-zionism__1_14_00__" n="1" synset="ewn-08496213-n">
         <SenseRelation relType="derivation" target="ewn-zionist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-multiversity-n">
       <Lemma writtenForm="multiversity" partOfSpeech="n"/>
@@ -17765,7 +17765,7 @@
       <Sense id="ewn-get_together__1_14_00__" n="0" synset="ewn-08327319-n">
         <SenseRelation relType="derivation" target="ewn-get_together__2_41_01__"/>
         <SenseRelation relType="derivation" target="ewn-get_together__2_41_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-international_intelligence_agency-n">
       <Lemma writtenForm="international intelligence agency" partOfSpeech="n"/>
@@ -17811,7 +17811,7 @@
       </Lemma>
       <Sense id="ewn-hierarchy__1_14_00__" n="0" synset="ewn-08394537-n">
         <SenseRelation relType="derivation" target="ewn-hierarchical__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-hierarchy__1_14_01__" n="1" synset="ewn-08392782-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-professional_organization-n">
@@ -17836,7 +17836,7 @@
       <Lemma writtenForm="minimalism" partOfSpeech="n"/>
       <Sense id="ewn-minimalism__1_14_00__" n="0" synset="ewn-08486244-n">
         <SenseRelation relType="derivation" target="ewn-minimalist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hudson_River_school-n">
       <Lemma writtenForm="Hudson River school" partOfSpeech="n"/>
@@ -17859,7 +17859,7 @@
       <Sense id="ewn-blind__1_14_00__" n="0" synset="ewn-07960684-n">
         <SenseRelation relType="derivation" target="ewn-blind__2_39_01__"/>
         <SenseRelation relType="derivation" target="ewn-blind__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-clump-n">
       <Lemma writtenForm="clump" partOfSpeech="n">
@@ -17868,7 +17868,7 @@
       <Sense id="ewn-clump__1_14_00__" n="0" synset="ewn-07976557-n">
         <SenseRelation relType="derivation" target="ewn-clump__2_38_01__"/>
         <SenseRelation relType="derivation" target="ewn-clump__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-clump__1_14_01__" n="1" synset="ewn-07977630-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-municipality-n">
@@ -17881,10 +17881,10 @@
       <Lemma writtenForm="league" partOfSpeech="n"/>
       <Sense id="ewn-league__1_14_01__" n="0" synset="ewn-08248105-n">
         <SenseRelation relType="derivation" target="ewn-league__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-league__1_14_00__" n="1" synset="ewn-08322044-n">
         <SenseRelation relType="derivation" target="ewn-league__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tropical_rain_forest-n">
       <Lemma writtenForm="tropical rain forest" partOfSpeech="n"/>
@@ -17962,7 +17962,7 @@
       <Sense id="ewn-social__1_14_00__" n="0" synset="ewn-08273290-n">
         <SenseRelation relType="derivation" target="ewn-social__5_00_00_sociable_00"/>
         <SenseRelation relType="derivation" target="ewn-social__5_00_00_friendly_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Roman_Catholic_Church-n">
       <Lemma writtenForm="Roman Catholic Church" partOfSpeech="n"/>
@@ -17988,7 +17988,7 @@
       <Lemma writtenForm="cautious" partOfSpeech="n"/>
       <Sense id="ewn-cautious__1_14_00__" n="0" synset="ewn-07961176-n">
         <SenseRelation relType="derivation" target="ewn-cautious__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-administrative_unit-n">
       <Lemma writtenForm="administrative unit" partOfSpeech="n"/>
@@ -18026,7 +18026,7 @@
       <Sense id="ewn-cumulus__1_14_00__" n="1" synset="ewn-07978094-n">
         <SenseRelation relType="derivation" target="ewn-cumulous__5_00_00_concentrated_00"/>
         <SenseRelation relType="derivation" target="ewn-cumulate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-home_reserve-n">
       <Lemma writtenForm="home reserve" partOfSpeech="n"/>
@@ -18036,7 +18036,7 @@
       <Lemma writtenForm="Nazism" partOfSpeech="n"/>
       <Sense id="ewn-nazism__1_14_00__" n="0" synset="ewn-08383367-n">
         <SenseRelation relType="derivation" target="ewn-nazify__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pride-n">
       <Lemma writtenForm="pride" partOfSpeech="n">
@@ -18104,7 +18104,7 @@
       <Lemma writtenForm="file" partOfSpeech="n"/>
       <Sense id="ewn-file__1_14_00__" n="1" synset="ewn-08445713-n">
         <SenseRelation relType="derivation" target="ewn-file__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-panchayat-n">
       <Lemma writtenForm="panchayat" partOfSpeech="n">
@@ -18127,7 +18127,7 @@
       <Sense id="ewn-publisher__1_14_00__" n="0" synset="ewn-08079459-n">
         <SenseRelation relType="derivation" target="ewn-publish__2_36_01__"/>
         <SenseRelation relType="derivation" target="ewn-publish__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-brokerage_firm-n">
       <Lemma writtenForm="brokerage firm" partOfSpeech="n"/>
@@ -18140,7 +18140,7 @@
       </Lemma>
       <Sense id="ewn-guard__1_14_00__" n="5" synset="ewn-08232524-n">
         <SenseRelation relType="derivation" target="ewn-guard__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-member_bank-n">
       <Lemma writtenForm="member bank" partOfSpeech="n"/>
@@ -18240,7 +18240,7 @@
       <Sense id="ewn-bundle__1_14_00__" n="0" synset="ewn-08024575-n">
         <SenseRelation relType="derivation" target="ewn-bundle__2_35_03__"/>
         <SenseRelation relType="derivation" target="ewn-bundle__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ECOSOC-n">
       <Lemma writtenForm="ECOSOC" partOfSpeech="n"/>
@@ -18252,7 +18252,7 @@
       </Lemma>
       <Sense id="ewn-detachment__1_14_00__" n="3" synset="ewn-08232169-n">
         <SenseRelation relType="derivation" target="ewn-detach__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-local_post_office-n">
       <Lemma writtenForm="local post office" partOfSpeech="n"/>
@@ -18273,7 +18273,7 @@
       </Lemma>
       <Sense id="ewn-government__1_14_00__" n="0" synset="ewn-08067430-n">
         <SenseRelation relType="derivation" target="ewn-govern__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bottle_collection-n">
       <Lemma writtenForm="bottle collection" partOfSpeech="n"/>
@@ -18289,7 +18289,7 @@
       </Lemma>
       <Sense id="ewn-manufacturer__1_14_00__" n="0" synset="ewn-08077282-n">
         <SenseRelation relType="derivation" target="ewn-manufacture__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-paratroops-n">
       <Lemma writtenForm="paratroops" partOfSpeech="n"/>
@@ -18311,7 +18311,7 @@
       <Lemma writtenForm="rear" partOfSpeech="n"/>
       <Sense id="ewn-rear__1_14_00__" n="0" synset="ewn-08499711-n">
         <SenseRelation relType="antonym" target="ewn-head__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Socialist_Party-n">
       <Lemma writtenForm="Socialist Party" partOfSpeech="n"/>
@@ -18330,11 +18330,11 @@
       <Sense id="ewn-line__1_14_03__" n="0" synset="ewn-08447525-n"/>
       <Sense id="ewn-line__1_14_01__" n="2" synset="ewn-08447160-n">
         <SenseRelation relType="derivation" target="ewn-line__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-line__1_14_02__" n="9" synset="ewn-08393816-n"/>
       <Sense id="ewn-line__1_14_00__" n="16" synset="ewn-08118903-n">
         <SenseRelation relType="derivation" target="ewn-lineal__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sales_division-n">
       <Lemma writtenForm="sales division" partOfSpeech="n"/>
@@ -18394,7 +18394,7 @@
       </Lemma>
       <Sense id="ewn-sodality__1_14_00__" n="0" synset="ewn-08092224-n">
         <SenseRelation relType="derivation" target="ewn-sodalist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Windsor-n">
       <Lemma writtenForm="Windsor" partOfSpeech="n"/>
@@ -18406,7 +18406,7 @@
       </Lemma>
       <Sense id="ewn-delegation__1_14_00__" n="0" synset="ewn-08419399-n">
         <SenseRelation relType="derivation" target="ewn-delegate__2_41_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Church_of_the_Brethren-n">
       <Lemma writtenForm="Church of the Brethren" partOfSpeech="n"/>
@@ -18454,7 +18454,7 @@
       <Lemma writtenForm="copartnership" partOfSpeech="n"/>
       <Sense id="ewn-copartnership__1_14_00__" n="0" synset="ewn-08077714-n">
         <SenseRelation relType="derivation" target="ewn-copartner__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Kach-n">
       <Lemma writtenForm="Kach" partOfSpeech="n"/>
@@ -18485,7 +18485,7 @@
         <SenseRelation relType="antonym" target="ewn-capitalism__1_14_00__"/>
         <SenseRelation relType="derivation" target="ewn-socialistic__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-socialist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-National_Archives_and_Records_Administration-n">
       <Lemma writtenForm="National Archives and Records Administration" partOfSpeech="n"/>
@@ -18503,7 +18503,7 @@
       <Lemma writtenForm="unconfessed" partOfSpeech="n"/>
       <Sense id="ewn-unconfessed__1_14_00__" n="0" synset="ewn-08494175-n">
         <SenseRelation relType="derivation" target="ewn-unconfessed__5_00_00_unacknowledged_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Maya-n">
       <Lemma writtenForm="Maya" partOfSpeech="n"/>
@@ -18523,7 +18523,7 @@
       </Lemma>
       <Sense id="ewn-subsidiary__1_14_00__" n="1" synset="ewn-08020377-n">
         <SenseRelation relType="derivation" target="ewn-subsidiary__5_00_00_secondary_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-third_estate-n">
       <Lemma writtenForm="third estate" partOfSpeech="n"/>
@@ -18571,7 +18571,7 @@
       </Lemma>
       <Sense id="ewn-brotherhood__1_14_00__" n="1" synset="ewn-08092224-n">
         <SenseRelation relType="derivation" target="ewn-brother__1_18_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-brotherhood__1_14_01__" n="3" synset="ewn-08249977-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-trigon-n">
@@ -18674,7 +18674,7 @@
       </Lemma>
       <Sense id="ewn-woods__1_14_00__" n="0" synset="ewn-08455525-n">
         <SenseRelation relType="derivation" target="ewn-woodsy__5_00_01_wooded_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vote-n">
       <Lemma writtenForm="vote" partOfSpeech="n">
@@ -18684,7 +18684,7 @@
       <Sense id="ewn-vote__1_14_00__" n="3" synset="ewn-08497673-n">
         <SenseRelation relType="derivation" target="ewn-vote__2_41_10__"/>
         <SenseRelation relType="derivation" target="ewn-vote__2_41_13__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Open_University-n">
       <Lemma writtenForm="Open University" partOfSpeech="n"/>
@@ -18783,7 +18783,7 @@
       <Form writtenForm="florae"/>
       <Sense id="ewn-flora__1_14_00__" n="0" synset="ewn-08453769-n">
         <SenseRelation relType="antonym" target="ewn-fauna__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-military_intelligence_agency-n">
       <Lemma writtenForm="military intelligence agency" partOfSpeech="n"/>
@@ -18850,7 +18850,7 @@
       </Lemma>
       <Sense id="ewn-descent__1_14_00__" n="5" synset="ewn-08118903-n">
         <SenseRelation relType="derivation" target="ewn-descend__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-National_Socialist_German_Workers-ap-_Party-n">
       <Lemma writtenForm="National Socialist German Workers&apos; Party" partOfSpeech="n"/>
@@ -18924,7 +18924,7 @@
       </Lemma>
       <Sense id="ewn-living__1_14_00__" n="1" synset="ewn-07962404-n">
         <SenseRelation relType="antonym" target="ewn-dead__1_14_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-normal_school-n">
       <Lemma writtenForm="normal school" partOfSpeech="n"/>
@@ -18948,7 +18948,7 @@
       <Lemma writtenForm="committee" partOfSpeech="n"/>
       <Sense id="ewn-committee__1_14_00__" n="0" synset="ewn-08341444-n">
         <SenseRelation relType="derivation" target="ewn-commit__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-committee__1_14_01__" n="1" synset="ewn-08342616-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-military_service-n">
@@ -19096,7 +19096,7 @@
       </Lemma>
       <Sense id="ewn-maker__1_14_00__" n="1" synset="ewn-08077282-n">
         <SenseRelation relType="derivation" target="ewn-make__2_36_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-open_house-n">
       <Lemma writtenForm="open house" partOfSpeech="n"/>
@@ -19127,7 +19127,7 @@
       </Lemma>
       <Sense id="ewn-throng__1_14_00__" n="0" synset="ewn-08199634-n">
         <SenseRelation relType="derivation" target="ewn-throng__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-national_socialism-n">
       <Lemma writtenForm="national socialism" partOfSpeech="n"/>
@@ -19165,7 +19165,7 @@
       </Lemma>
       <Sense id="ewn-offense__1_14_00__" n="3" synset="ewn-08098121-n">
         <SenseRelation relType="antonym" target="ewn-defense__1_14_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-International_Association_of_Lions_clubs-n">
       <Lemma writtenForm="International Association of Lions clubs" partOfSpeech="n"/>
@@ -19182,7 +19182,7 @@
       </Lemma>
       <Sense id="ewn-department__1_14_00__" n="0" synset="ewn-08131836-n">
         <SenseRelation relType="derivation" target="ewn-departmental__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Saddam-ap-s_Martyrs-n">
       <Lemma writtenForm="Saddam&apos;s Martyrs" partOfSpeech="n"/>
@@ -19206,7 +19206,7 @@
       </Lemma>
       <Sense id="ewn-arrangement__1_14_00__" n="1" synset="ewn-07955013-n">
         <SenseRelation relType="derivation" target="ewn-arrange__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-organized_crime-n">
       <Lemma writtenForm="organized crime" partOfSpeech="n"/>
@@ -19278,7 +19278,7 @@
       </Lemma>
       <Sense id="ewn-declension__1_14_00__" n="3" synset="ewn-08022953-n">
         <SenseRelation relType="derivation" target="ewn-decline__2_32_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-subcommittee-n">
       <Lemma writtenForm="subcommittee" partOfSpeech="n">
@@ -19293,7 +19293,7 @@
       </Lemma>
       <Sense id="ewn-garden__1_14_00__" n="1" synset="ewn-08456800-n">
         <SenseRelation relType="derivation" target="ewn-garden__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-identity_matrix-n">
       <Lemma writtenForm="identity matrix" partOfSpeech="n"/>
@@ -19357,7 +19357,7 @@
         <SenseRelation relType="derivation" target="ewn-sick__5_00_00_insane_00"/>
         <SenseRelation relType="derivation" target="ewn-sick__3_00_01__"/>
         <SenseRelation relType="derivation" target="ewn-sick__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-DARPA-n">
       <Lemma writtenForm="DARPA" partOfSpeech="n"/>
@@ -19376,18 +19376,18 @@
         <SenseRelation relType="derivation" target="ewn-organise__2_41_01__"/>
         <SenseRelation relType="derivation" target="ewn-organise__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-organise__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-organisation__1_14_00__" n="1" synset="ewn-08024893-n">
         <SenseRelation relType="derivation" target="ewn-organise__2_41_02__"/>
         <SenseRelation relType="derivation" target="ewn-organise__2_41_01__"/>
         <SenseRelation relType="derivation" target="ewn-organise__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-convocation-n">
       <Lemma writtenForm="convocation" partOfSpeech="n"/>
       <Sense id="ewn-convocation__1_14_00__" n="0" synset="ewn-08419179-n">
         <SenseRelation relType="derivation" target="ewn-convoke__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-men-n">
       <Lemma writtenForm="men" partOfSpeech="n">
@@ -19505,7 +19505,7 @@
       <Sense id="ewn-uninitiate__1_14_00__" n="0" synset="ewn-07965340-n">
         <SenseRelation relType="antonym" target="ewn-initiate__1_14_00__"/>
         <SenseRelation relType="derivation" target="ewn-uninitiate__5_00_00_inexperienced_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-RAF-n">
       <Lemma writtenForm="RAF" partOfSpeech="n"/>
@@ -19536,7 +19536,7 @@
       </Lemma>
       <Sense id="ewn-duality__1_14_00__" n="0" synset="ewn-07956120-n">
         <SenseRelation relType="derivation" target="ewn-dual__5_00_00_multiple_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-giant-n">
       <Lemma writtenForm="giant" partOfSpeech="n">
@@ -19544,7 +19544,7 @@
       </Lemma>
       <Sense id="ewn-giant__1_14_00__" n="2" synset="ewn-08073223-n">
         <SenseRelation relType="derivation" target="ewn-gigantic__5_00_01_large_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-deaf-n">
       <Lemma writtenForm="deaf" partOfSpeech="n">
@@ -19553,13 +19553,13 @@
       <Sense id="ewn-deaf__1_14_00__" n="0" synset="ewn-07962535-n">
         <SenseRelation relType="derivation" target="ewn-deaf__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-deaf__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-crammer-n">
       <Lemma writtenForm="crammer" partOfSpeech="n"/>
       <Sense id="ewn-crammer__1_14_00__" n="2" synset="ewn-08295628-n">
         <SenseRelation relType="derivation" target="ewn-cram__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lawn_party-n">
       <Lemma writtenForm="lawn party" partOfSpeech="n"/>
@@ -19652,10 +19652,10 @@
       <Sense id="ewn-court__1_14_00__" n="0" synset="ewn-08346380-n"/>
       <Sense id="ewn-court__1_14_01__" n="2" synset="ewn-08068698-n">
         <SenseRelation relType="derivation" target="ewn-courtly__5_00_00_dignified_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-court__1_14_02__" n="4" synset="ewn-08346249-n">
         <SenseRelation relType="derivation" target="ewn-courtly__5_00_00_dignified_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-panoply-n">
       <Lemma writtenForm="panoply" partOfSpeech="n">

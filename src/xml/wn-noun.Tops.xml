@@ -23,7 +23,7 @@
       <Sense id="ewn-motive__1_03_00__" n="0" synset="ewn-00023953-n">
         <SenseRelation relType="derivation" target="ewn-motive__5_00_02_causative_00"/>
         <SenseRelation relType="derivation" target="ewn-motivate__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-infinite-n">
       <Lemma writtenForm="infinite" partOfSpeech="n">
@@ -41,7 +41,7 @@
         <SenseRelation relType="derivation" target="ewn-measure__2_31_01__"/>
         <SenseRelation relType="derivation" target="ewn-measure__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-measure__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-substance-n">
       <Lemma writtenForm="substance" partOfSpeech="n">
@@ -49,7 +49,7 @@
       </Lemma>
       <Sense id="ewn-substance__1_03_00__" n="0" synset="ewn-00019793-n">
         <SenseRelation relType="derivation" target="ewn-substantial__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-substance__1_03_01__" n="7" synset="ewn-00020270-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-physical_process-n">
@@ -81,7 +81,7 @@
       <Sense id="ewn-nutrient__1_03_00__" n="0" synset="ewn-00021445-n">
         <SenseRelation relType="derivation" target="ewn-nutrient__5_00_00_wholesome_00"/>
         <SenseRelation relType="derivation" target="ewn-nutrify__2_34_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-nutrient__1_03_01__" n="1" synset="ewn-00021914-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-shape-n">
@@ -97,7 +97,7 @@
       <Sense id="ewn-beast__1_03_00__" n="0" synset="ewn-00015568-n">
         <SenseRelation relType="derivation" target="ewn-beastly__5_00_00_inhumane_00"/>
         <SenseRelation relType="derivation" target="ewn-bestial__5_00_00_inhumane_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plant_life-n">
       <Lemma writtenForm="plant life" partOfSpeech="n"/>
@@ -110,7 +110,7 @@
       </Lemma>
       <Sense id="ewn-whole__1_03_00__" n="1" synset="ewn-00003553-n">
         <SenseRelation relType="derivation" target="ewn-whole__5_00_00_undiversified_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-being-n">
       <Lemma writtenForm="being" partOfSpeech="n">
@@ -119,7 +119,7 @@
       </Lemma>
       <Sense id="ewn-being__1_03_00__" n="1" synset="ewn-00004475-n">
         <SenseRelation relType="derivation" target="ewn-be__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-noesis-n">
       <Lemma writtenForm="noesis" partOfSpeech="n">
@@ -128,13 +128,13 @@
       </Lemma>
       <Sense id="ewn-noesis__1_03_00__" n="0" synset="ewn-00023451-n">
         <SenseRelation relType="derivation" target="ewn-noetic__5_00_00_mental_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-natural_object-n">
       <Lemma writtenForm="natural object" partOfSpeech="n"/>
       <Sense id="ewn-natural_object__1_03_00__" n="0" synset="ewn-00019308-n">
         <SenseRelation relType="antonym" target="ewn-artifact__1_03_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-person-n">
       <Lemma writtenForm="person" partOfSpeech="n">
@@ -144,7 +144,7 @@
       <Sense id="ewn-person__1_03_00__" n="0" synset="ewn-00007846-n">
         <SenseRelation relType="derivation" target="ewn-personhood__1_07_00__"/>
         <SenseRelation relType="derivation" target="ewn-personify__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-native-n">
       <Lemma writtenForm="native" partOfSpeech="n">
@@ -161,7 +161,7 @@
         <SenseRelation relType="derivation" target="ewn-unify__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-unitize__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-unitize__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-life-n">
       <Lemma writtenForm="life" partOfSpeech="n">
@@ -190,14 +190,14 @@
       <Sense id="ewn-cell__1_03_00__" n="1" synset="ewn-00006484-n">
         <SenseRelation relType="derivation" target="ewn-cellular__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-cellular__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-motivation-n">
       <Lemma writtenForm="motivation" partOfSpeech="n"/>
       <Sense id="ewn-motivation__1_03_00__" n="0" synset="ewn-00023953-n">
         <SenseRelation relType="derivation" target="ewn-motivational__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-motivate__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-amount-n">
       <Lemma writtenForm="amount" partOfSpeech="n">
@@ -205,7 +205,7 @@
       </Lemma>
       <Sense id="ewn-amount__1_03_00__" n="2" synset="ewn-00033914-n">
         <SenseRelation relType="derivation" target="ewn-amount__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-article-n">
       <Lemma writtenForm="article" partOfSpeech="n">
@@ -223,7 +223,7 @@
         <SenseRelation relType="derivation" target="ewn-causal__5_00_00_causative_00"/>
         <SenseRelation relType="derivation" target="ewn-cause__2_36_00__"/>
         <SenseRelation relType="derivation" target="ewn-cause__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-thing-n">
       <Lemma writtenForm="thing" partOfSpeech="n">
@@ -269,7 +269,7 @@
       </Lemma>
       <Sense id="ewn-abstraction__1_03_00__" n="5" synset="ewn-00002137-n">
         <SenseRelation relType="derivation" target="ewn-abstract__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-soul-n">
       <Lemma writtenForm="soul" partOfSpeech="n">
@@ -286,7 +286,7 @@
         <SenseRelation relType="derivation" target="ewn-plantal__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-plantlet__1_20_00__"/>
         <SenseRelation relType="derivation" target="ewn-plant__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-causal_agent-n">
       <Lemma writtenForm="causal agent" partOfSpeech="n"/>
@@ -309,7 +309,7 @@
       </Lemma>
       <Sense id="ewn-benthos__1_03_00__" n="1" synset="ewn-00005787-n">
         <SenseRelation relType="derivation" target="ewn-benthonic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-communication-n">
       <Lemma writtenForm="communication" partOfSpeech="n">
@@ -323,7 +323,7 @@
         <SenseRelation relType="derivation" target="ewn-communicate__2_32_02__"/>
         <SenseRelation relType="derivation" target="ewn-communicate__2_32_01__"/>
         <SenseRelation relType="derivation" target="ewn-communicate__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-brute-n">
       <Lemma writtenForm="brute" partOfSpeech="n"/>
@@ -337,7 +337,7 @@
       <Sense id="ewn-artifact__1_03_00__" n="0" synset="ewn-00022119-n">
         <SenseRelation relType="antonym" target="ewn-natural_object__1_03_00__"/>
         <SenseRelation relType="derivation" target="ewn-artifactual__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-need-n">
       <Lemma writtenForm="need" partOfSpeech="n"/>
@@ -354,7 +354,7 @@
       <Sense id="ewn-space__1_03_00__" n="0" synset="ewn-00028950-n">
         <SenseRelation relType="derivation" target="ewn-spacial__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-spatial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-process-n">
       <Lemma writtenForm="process" partOfSpeech="n">
@@ -393,14 +393,14 @@
       </Lemma>
       <Sense id="ewn-creature__1_03_00__" n="0" synset="ewn-00015568-n">
         <SenseRelation relType="derivation" target="ewn-create__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-animal-n">
       <Lemma writtenForm="animal" partOfSpeech="n"/>
       <Sense id="ewn-animal__1_03_00__" n="0" synset="ewn-00015568-n">
         <SenseRelation relType="derivation" target="ewn-animalize__2_36_00__"/>
         <SenseRelation relType="derivation" target="ewn-animalise__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mortal-n">
       <Lemma writtenForm="mortal" partOfSpeech="n">
@@ -409,7 +409,7 @@
       </Lemma>
       <Sense id="ewn-mortal__1_03_00__" n="0" synset="ewn-00007846-n">
         <SenseRelation relType="derivation" target="ewn-mortal__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-social_relation-n">
       <Lemma writtenForm="social relation" partOfSpeech="n"/>
@@ -419,7 +419,7 @@
       <Lemma writtenForm="artefact" partOfSpeech="n"/>
       <Sense id="ewn-artefact__1_03_00__" n="0" synset="ewn-00022119-n">
         <SenseRelation relType="derivation" target="ewn-artefactual__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-form-n">
       <Lemma writtenForm="form" partOfSpeech="n">
@@ -436,7 +436,7 @@
       </Lemma>
       <Sense id="ewn-individual__1_03_00__" n="0" synset="ewn-00007846-n">
         <SenseRelation relType="derivation" target="ewn-individualize__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-biont-n">
       <Lemma writtenForm="biont" partOfSpeech="n"/>
@@ -472,7 +472,7 @@
         <SenseRelation relType="derivation" target="ewn-relationship__1_24_00__"/>
         <SenseRelation relType="derivation" target="ewn-relate__2_42_01__"/>
         <SenseRelation relType="derivation" target="ewn-relate__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quantity-n">
       <Lemma writtenForm="quantity" partOfSpeech="n">
@@ -500,7 +500,7 @@
         <SenseRelation relType="derivation" target="ewn-actuate__2_36_02__"/>
         <SenseRelation relType="derivation" target="ewn-actuate__2_36_00__"/>
         <SenseRelation relType="derivation" target="ewn-act__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-causal_agency-n">
       <Lemma writtenForm="causal agency" partOfSpeech="n"/>
@@ -529,7 +529,7 @@
         <SenseRelation relType="derivation" target="ewn-organismic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-organic__3_00_02__"/>
         <SenseRelation relType="derivation" target="ewn-organic__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-absolute_space-n">
       <Lemma writtenForm="absolute space" partOfSpeech="n">
@@ -544,7 +544,7 @@
       <Sense id="ewn-group__1_03_00__" n="0" synset="ewn-00031563-n">
         <SenseRelation relType="derivation" target="ewn-group__2_33_00__"/>
         <SenseRelation relType="derivation" target="ewn-group__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-possession-n">
       <Lemma writtenForm="possession" partOfSpeech="n">
@@ -559,7 +559,7 @@
       </Lemma>
       <Sense id="ewn-feeling__1_03_00__" n="0" synset="ewn-00026390-n">
         <SenseRelation relType="derivation" target="ewn-feel__2_37_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-congener-n">
       <Lemma writtenForm="congener" partOfSpeech="n"/>
@@ -576,7 +576,7 @@
       <Form writtenForm="florae"/>
       <Sense id="ewn-flora__1_03_00__" n="1" synset="ewn-00017402-n">
         <SenseRelation relType="derivation" target="ewn-floral__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-object-n">
       <Lemma writtenForm="object" partOfSpeech="n">
@@ -586,7 +586,7 @@
       </Lemma>
       <Sense id="ewn-object__1_03_00__" n="0" synset="ewn-00002684-n">
         <SenseRelation relType="derivation" target="ewn-objectify__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-food-n">
       <Lemma writtenForm="food" partOfSpeech="n">
@@ -605,7 +605,7 @@
         <SenseRelation relType="derivation" target="ewn-locate__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-locate__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-locate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <!-- entity -->
     <Synset id="ewn-00001740-n" ili="i35545" members="ewn-entity-n" partOfSpeech="n" dc:subject="noun.Tops">

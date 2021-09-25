@@ -263,7 +263,7 @@ class Sense:
 """ % (self.id, n_str, subcat_str, self.synset, sk_str))
             for rel in self.sense_relations:
                 rel.to_xml(xml_file, comments)
-            xml_file.write("""        </Sense>
+            xml_file.write("""      </Sense>
 """)
         else:
             xml_file.write("""      <Sense id="%s"%s%s synset="%s"%s/>

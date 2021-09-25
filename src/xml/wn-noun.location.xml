@@ -51,7 +51,7 @@
       <Lemma writtenForm="light" partOfSpeech="n"/>
       <Sense id="ewn-light__1_15_00__" n="4" synset="ewn-08663763-n">
         <SenseRelation relType="derivation" target="ewn-light__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-graveyard-n">
       <Lemma writtenForm="graveyard" partOfSpeech="n">
@@ -79,11 +79,11 @@
       <Lemma writtenForm="Georgia" partOfSpeech="n"/>
       <Sense id="ewn-georgia__1_15_00__" n="0" synset="ewn-09098347-n">
         <SenseRelation relType="derivation" target="ewn-georgian__3_01_04__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-georgia__1_15_02__" n="1" synset="ewn-09098932-n"/>
       <Sense id="ewn-georgia__1_15_01__" n="2" synset="ewn-09041218-n">
         <SenseRelation relType="derivation" target="ewn-georgian__3_01_05__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Rubicon-n">
       <Lemma writtenForm="Rubicon" partOfSpeech="n">
@@ -120,7 +120,7 @@
       <Lemma writtenForm="Nicaragua" partOfSpeech="n"/>
       <Sense id="ewn-nicaragua__1_15_00__" n="0" synset="ewn-08756653-n">
         <SenseRelation relType="derivation" target="ewn-nicaraguan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Damascus-n">
       <Lemma writtenForm="Damascus" partOfSpeech="n"/>
@@ -177,7 +177,7 @@
       </Lemma>
       <Sense id="ewn-chad__1_15_00__" n="1" synset="ewn-08737870-n">
         <SenseRelation relType="derivation" target="ewn-chadian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Leon-n">
       <Lemma writtenForm="Leon" partOfSpeech="n"/>
@@ -213,7 +213,7 @@
       </Lemma>
       <Sense id="ewn-common__1_15_00__" n="0" synset="ewn-08632949-n">
         <SenseRelation relType="derivation" target="ewn-common__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Crete-n">
       <Lemma writtenForm="Crete" partOfSpeech="n">
@@ -336,7 +336,7 @@
       </Lemma>
       <Sense id="ewn-sheikdom__1_15_00__" n="0" synset="ewn-08576307-n">
         <SenseRelation relType="derivation" target="ewn-sheik__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Plzen-n">
       <Lemma writtenForm="Plzen" partOfSpeech="n"/>
@@ -393,7 +393,7 @@
       <Sense id="ewn-aram__1_15_00__" n="0" synset="ewn-09056288-n">
         <SenseRelation relType="derivation" target="ewn-aramean__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-aramaean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-North_Star_State-n">
       <Lemma writtenForm="North Star State" partOfSpeech="n"/>
@@ -420,7 +420,7 @@
       <Sense id="ewn-delimitation__1_15_00__" n="0" synset="ewn-08529808-n">
         <SenseRelation relType="derivation" target="ewn-delimitate__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-delimit__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Columbia-n">
       <Lemma writtenForm="Columbia" partOfSpeech="n"/>
@@ -440,7 +440,7 @@
       <Lemma writtenForm="Delphi" partOfSpeech="n"/>
       <Sense id="ewn-delphi__1_15_00__" n="0" synset="ewn-08804707-n">
         <SenseRelation relType="derivation" target="ewn-delphian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-NY-n">
       <Lemma writtenForm="NY" partOfSpeech="n"/>
@@ -502,7 +502,7 @@
       <Sense id="ewn-centre_stage__1_15_00__" n="1" synset="ewn-08541470-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-confluence-n">
       <Lemma writtenForm="confluence" partOfSpeech="n">
@@ -510,7 +510,7 @@
       </Lemma>
       <Sense id="ewn-confluence__1_15_00__" n="0" synset="ewn-08560197-n">
         <SenseRelation relType="derivation" target="ewn-confluent__5_00_00_convergent_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hanover-n">
       <Lemma writtenForm="Hanover" partOfSpeech="n"/>
@@ -547,7 +547,7 @@
       </Lemma>
       <Sense id="ewn-panama__1_15_00__" n="0" synset="ewn-08757039-n">
         <SenseRelation relType="derivation" target="ewn-panamanian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-headwater-n">
       <Lemma writtenForm="headwater" partOfSpeech="n"/>
@@ -583,7 +583,7 @@
       <Lemma writtenForm="point of periapsis" partOfSpeech="n"/>
       <Sense id="ewn-point_of_periapsis__1_15_00__" n="0" synset="ewn-08635954-n">
         <SenseRelation relType="antonym" target="ewn-point_of_apoapsis__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Yunnan_province-n">
       <Lemma writtenForm="Yunnan province" partOfSpeech="n"/>
@@ -617,7 +617,7 @@
       <Lemma writtenForm="Cambria" partOfSpeech="n"/>
       <Sense id="ewn-cambria__1_15_00__" n="0" synset="ewn-08914683-n">
         <SenseRelation relType="derivation" target="ewn-cambrian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Virgo_the_Virgin-n">
       <Lemma writtenForm="Virgo the Virgin" partOfSpeech="n"/>
@@ -671,7 +671,7 @@
       <Lemma writtenForm="layer" partOfSpeech="n"/>
       <Sense id="ewn-layer__1_15_00__" n="1" synset="ewn-08609236-n">
         <SenseRelation relType="derivation" target="ewn-layer__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Kumasi-n">
       <Lemma writtenForm="Kumasi" partOfSpeech="n"/>
@@ -744,10 +744,10 @@
       <Lemma writtenForm="Hawaii" partOfSpeech="n"/>
       <Sense id="ewn-hawaii__1_15_00__" n="0" synset="ewn-09100742-n">
         <SenseRelation relType="derivation" target="ewn-hawaiian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-hawaii__1_15_01__" n="1" synset="ewn-09102030-n">
         <SenseRelation relType="derivation" target="ewn-hawaiian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Cadiz-n">
       <Lemma writtenForm="Cadiz" partOfSpeech="n"/>
@@ -783,7 +783,7 @@
       <Sense id="ewn-slum__1_15_00__" n="0" synset="ewn-08669407-n">
         <SenseRelation relType="derivation" target="ewn-slummy__5_00_00_poor_03"/>
         <SenseRelation relType="derivation" target="ewn-slum__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Toyota-n">
       <Lemma writtenForm="Toyota" partOfSpeech="n">
@@ -840,21 +840,21 @@
         <SenseRelation relType="derivation" target="ewn-central__3_00_01__"/>
         <SenseRelation relType="derivation" target="ewn-centric__5_00_00_central_01"/>
         <SenseRelation relType="derivation" target="ewn-centrical__5_00_00_central_01"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-center__1_15_00__" n="3" synset="ewn-08538999-n">
         <SenseRelation relType="derivation" target="ewn-center__5_00_00_central_01"/>
         <SenseRelation relType="derivation" target="ewn-central__3_00_01__"/>
         <SenseRelation relType="derivation" target="ewn-centric__5_00_00_central_01"/>
         <SenseRelation relType="derivation" target="ewn-centrical__5_00_00_central_01"/>
         <SenseRelation relType="derivation" target="ewn-center__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-center__1_15_02__" n="10" synset="ewn-08531106-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-point_of_apoapsis-n">
       <Lemma writtenForm="point of apoapsis" partOfSpeech="n"/>
       <Sense id="ewn-point_of_apoapsis__1_15_00__" n="0" synset="ewn-08512627-n">
         <SenseRelation relType="antonym" target="ewn-point_of_periapsis__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sumatra-n">
       <Lemma writtenForm="Sumatra" partOfSpeech="n"/>
@@ -1138,7 +1138,7 @@
       <Lemma writtenForm="Namibia" partOfSpeech="n"/>
       <Sense id="ewn-namibia__1_15_00__" n="0" synset="ewn-08717468-n">
         <SenseRelation relType="derivation" target="ewn-namibian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sayda-n">
       <Lemma writtenForm="Sayda" partOfSpeech="n"/>
@@ -1219,7 +1219,7 @@
       <Lemma writtenForm="ascending node" partOfSpeech="n"/>
       <Sense id="ewn-ascending_node__1_15_00__" n="0" synset="ewn-08515307-n">
         <SenseRelation relType="antonym" target="ewn-descending_node__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Nizhni_Novgorod-n">
       <Lemma writtenForm="Nizhni Novgorod" partOfSpeech="n"/>
@@ -1253,13 +1253,13 @@
       <Lemma writtenForm="Trinidad" partOfSpeech="n"/>
       <Sense id="ewn-trinidad__1_15_00__" n="0" synset="ewn-08773685-n">
         <SenseRelation relType="derivation" target="ewn-trinidadian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Iran-n">
       <Lemma writtenForm="Iran" partOfSpeech="n"/>
       <Sense id="ewn-iran__1_15_00__" n="0" synset="ewn-08930441-n">
         <SenseRelation relType="derivation" target="ewn-iranian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Turkestan_Desert-n">
       <Lemma writtenForm="Turkestan Desert" partOfSpeech="n"/>
@@ -1319,7 +1319,7 @@
         <SenseRelation relType="derivation" target="ewn-derive__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-derive__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-derive__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Jylland-n">
       <Lemma writtenForm="Jylland" partOfSpeech="n"/>
@@ -1510,7 +1510,7 @@
       <Sense id="ewn-dukedom__1_15_00__" n="1" synset="ewn-08574668-n">
         <SenseRelation relType="derivation" target="ewn-duke__1_18_01__"/>
         <SenseRelation relType="derivation" target="ewn-duke__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Antananarivo-n">
       <Lemma writtenForm="Antananarivo" partOfSpeech="n"/>
@@ -1566,7 +1566,7 @@
       <Lemma writtenForm="Mexico" partOfSpeech="n"/>
       <Sense id="ewn-mexico__1_15_00__" n="0" synset="ewn-08758708-n">
         <SenseRelation relType="derivation" target="ewn-mexican__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hejaz-n">
       <Lemma writtenForm="Hejaz" partOfSpeech="n"/>
@@ -1626,7 +1626,7 @@
       <Lemma writtenForm="Bahamas" partOfSpeech="n"/>
       <Sense id="ewn-bahamas__1_15_00__" n="0" synset="ewn-08866260-n">
         <SenseRelation relType="derivation" target="ewn-bahamian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-TX-n">
       <Lemma writtenForm="TX" partOfSpeech="n"/>
@@ -1680,7 +1680,7 @@
       </Lemma>
       <Sense id="ewn-cyprus__1_15_00__" n="0" synset="ewn-08774717-n">
         <SenseRelation relType="derivation" target="ewn-cyprian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cyprus__1_15_01__" n="1" synset="ewn-08774568-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-refuse_heap-n">
@@ -1723,7 +1723,7 @@
       <Lemma writtenForm="Latin America" partOfSpeech="n"/>
       <Sense id="ewn-latin_america__1_15_00__" n="0" synset="ewn-09045201-n">
         <SenseRelation relType="derivation" target="ewn-latin-american__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Jubbulpore-n">
       <Lemma writtenForm="Jubbulpore" partOfSpeech="n"/>
@@ -1734,7 +1734,7 @@
       <Sense id="ewn-tip__1_15_00__" n="0" synset="ewn-08680894-n">
         <SenseRelation relType="derivation" target="ewn-tip__2_30_04__"/>
         <SenseRelation relType="derivation" target="ewn-tip__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-tip__1_15_01__" n="4" synset="ewn-08635538-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Weimar-n">
@@ -1769,7 +1769,7 @@
       <Form writtenForm="foci"/>
       <Sense id="ewn-focus__1_15_00__" n="6" synset="ewn-08589882-n">
         <SenseRelation relType="derivation" target="ewn-focal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Laramie-n">
       <Lemma writtenForm="Laramie" partOfSpeech="n"/>
@@ -1817,7 +1817,7 @@
       </Lemma>
       <Sense id="ewn-darkness__1_15_00__" n="1" synset="ewn-08663881-n">
         <SenseRelation relType="derivation" target="ewn-dark__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Karbala-n">
       <Lemma writtenForm="Karbala" partOfSpeech="n"/>
@@ -1917,7 +1917,7 @@
       <Sense id="ewn-port__1_15_00__" n="0" synset="ewn-08651532-n">
         <SenseRelation relType="derivation" target="ewn-port__2_38_05__"/>
         <SenseRelation relType="derivation" target="ewn-port__2_38_06__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Limerick-n">
       <Lemma writtenForm="Limerick" partOfSpeech="n">
@@ -1989,7 +1989,7 @@
       <Lemma writtenForm="Colombia" partOfSpeech="n"/>
       <Sense id="ewn-colombia__1_15_00__" n="0" synset="ewn-08749949-n">
         <SenseRelation relType="derivation" target="ewn-colombian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Elam-n">
       <Lemma writtenForm="Elam" partOfSpeech="n"/>
@@ -2072,7 +2072,7 @@
       <Lemma writtenForm="Papua" partOfSpeech="n"/>
       <Sense id="ewn-papua__1_15_00__" n="0" synset="ewn-08863915-n">
         <SenseRelation relType="derivation" target="ewn-papuan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Timbuktu-n">
       <Lemma writtenForm="Timbuktu" partOfSpeech="n"/>
@@ -2117,7 +2117,7 @@
       </Lemma>
       <Sense id="ewn-left__1_15_00__" n="0" synset="ewn-08643037-n">
         <SenseRelation relType="antonym" target="ewn-right__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Muenchen-n">
       <Lemma writtenForm="Muenchen" partOfSpeech="n"/>
@@ -2185,7 +2185,7 @@
       <Lemma writtenForm="dark" partOfSpeech="n"/>
       <Sense id="ewn-dark__1_15_00__" n="2" synset="ewn-08663881-n">
         <SenseRelation relType="derivation" target="ewn-dark__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_Malta-n">
       <Lemma writtenForm="Republic of Malta" partOfSpeech="n"/>
@@ -2207,7 +2207,7 @@
       <Lemma writtenForm="Ethiopia" partOfSpeech="n"/>
       <Sense id="ewn-ethiopia__1_15_00__" n="0" synset="ewn-08795913-n">
         <SenseRelation relType="derivation" target="ewn-ethiopian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Byzantium-n">
       <Lemma writtenForm="Byzantium" partOfSpeech="n">
@@ -2302,7 +2302,7 @@
       </Lemma>
       <Sense id="ewn-dependency__1_15_00__" n="2" synset="ewn-08516868-n">
         <SenseRelation relType="derivation" target="ewn-dependent__5_00_00_subordinate_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Kyrgyz_Republic-n">
       <Lemma writtenForm="Kyrgyz Republic" partOfSpeech="n"/>
@@ -2348,7 +2348,7 @@
         <SenseRelation relType="derivation" target="ewn-dig__2_35_02__"/>
         <SenseRelation relType="derivation" target="ewn-dig__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-dig__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Turkmen-n">
       <Lemma writtenForm="Turkmen" partOfSpeech="n">
@@ -2393,10 +2393,10 @@
       <Lemma writtenForm="Mauritius" partOfSpeech="n"/>
       <Sense id="ewn-mauritius__1_15_00__" n="0" synset="ewn-08989835-n">
         <SenseRelation relType="derivation" target="ewn-mauritian__3_01_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mauritius__1_15_01__" n="1" synset="ewn-08989680-n">
         <SenseRelation relType="derivation" target="ewn-mauritian__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-eye-n">
       <Lemma writtenForm="eye" partOfSpeech="n"/>
@@ -2406,7 +2406,7 @@
       <Lemma writtenForm="Zimbabwe" partOfSpeech="n"/>
       <Sense id="ewn-zimbabwe__1_15_00__" n="0" synset="ewn-09189894-n">
         <SenseRelation relType="derivation" target="ewn-zimbabwean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bahrain-n">
       <Lemma writtenForm="Bahrain" partOfSpeech="n"/>
@@ -2495,7 +2495,7 @@
       <Lemma writtenForm="hangout" partOfSpeech="n"/>
       <Sense id="ewn-hangout__1_15_00__" n="0" synset="ewn-08599031-n">
         <SenseRelation relType="derivation" target="ewn-hang_out__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Cali-n">
       <Lemma writtenForm="Cali" partOfSpeech="n"/>
@@ -2512,7 +2512,7 @@
       </Lemma>
       <Sense id="ewn-origin__1_15_00__" n="0" synset="ewn-08524579-n">
         <SenseRelation relType="derivation" target="ewn-originate__2_42_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Coats_Land-n">
       <Lemma writtenForm="Coats Land" partOfSpeech="n"/>
@@ -2576,7 +2576,7 @@
       </Lemma>
       <Sense id="ewn-chile__1_15_00__" n="0" synset="ewn-08738314-n">
         <SenseRelation relType="derivation" target="ewn-chilean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Asian_country-n">
       <Lemma writtenForm="Asian country" partOfSpeech="n"/>
@@ -2620,11 +2620,11 @@
       </Lemma>
       <Sense id="ewn-position__1_15_00__" n="0" synset="ewn-08639173-n">
         <SenseRelation relType="derivation" target="ewn-position__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-position__1_15_02__" n="1" synset="ewn-08640161-n"/>
       <Sense id="ewn-position__1_15_03__" n="7" synset="ewn-08639776-n">
         <SenseRelation relType="derivation" target="ewn-position__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Shenandoah_National_Park-n">
       <Lemma writtenForm="Shenandoah National Park" partOfSpeech="n"/>
@@ -2751,7 +2751,7 @@
       <Lemma writtenForm="Rumania" partOfSpeech="n"/>
       <Sense id="ewn-rumania__1_15_00__" n="0" synset="ewn-08831830-n">
         <SenseRelation relType="derivation" target="ewn-rumanian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Clinton-n">
       <Lemma writtenForm="Clinton" partOfSpeech="n"/>
@@ -2774,7 +2774,7 @@
       <Sense id="ewn-iberia__1_15_01__" n="0" synset="ewn-09041017-n"/>
       <Sense id="ewn-iberia__1_15_00__" n="1" synset="ewn-09006937-n">
         <SenseRelation relType="derivation" target="ewn-iberian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_Niger-n">
       <Lemma writtenForm="Republic of Niger" partOfSpeech="n"/>
@@ -2800,7 +2800,7 @@
       <Lemma writtenForm="Afghanistan" partOfSpeech="n"/>
       <Sense id="ewn-afghanistan__1_15_00__" n="0" synset="ewn-08721268-n">
         <SenseRelation relType="derivation" target="ewn-afghan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Owensboro-n">
       <Lemma writtenForm="Owensboro" partOfSpeech="n"/>
@@ -2883,7 +2883,7 @@
       </Lemma>
       <Sense id="ewn-preserve__1_15_00__" n="1" synset="ewn-08604994-n">
         <SenseRelation relType="derivation" target="ewn-preserve__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-campground-n">
       <Lemma writtenForm="campground" partOfSpeech="n"/>
@@ -2939,7 +2939,7 @@
       <Sense id="ewn-highlands__1_15_00__" n="0" synset="ewn-08911822-n">
         <SenseRelation relType="derivation" target="ewn-highlander__1_18_01__"/>
         <SenseRelation relType="derivation" target="ewn-highlander__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Colorado_Desert-n">
       <Lemma writtenForm="Colorado Desert" partOfSpeech="n"/>
@@ -2957,10 +2957,10 @@
       <Lemma writtenForm="Cuba" partOfSpeech="n"/>
       <Sense id="ewn-cuba__1_15_00__" n="0" synset="ewn-08768167-n">
         <SenseRelation relType="derivation" target="ewn-cuban__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cuba__1_15_01__" n="1" synset="ewn-08767984-n">
         <SenseRelation relType="derivation" target="ewn-cuban__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_Austria-n">
       <Lemma writtenForm="Republic of Austria" partOfSpeech="n"/>
@@ -3044,13 +3044,13 @@
       <Lemma writtenForm="Hispaniola" partOfSpeech="n"/>
       <Sense id="ewn-hispaniola__1_15_00__" n="0" synset="ewn-08769150-n">
         <SenseRelation relType="derivation" target="ewn-hispaniolan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-California-n">
       <Lemma writtenForm="California" partOfSpeech="n"/>
       <Sense id="ewn-california__1_15_00__" n="0" synset="ewn-09083238-n">
         <SenseRelation relType="derivation" target="ewn-californian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Mount_Etna-n">
       <Lemma writtenForm="Mount Etna" partOfSpeech="n"/>
@@ -3165,7 +3165,7 @@
       <Lemma writtenForm="Zaire" partOfSpeech="n"/>
       <Sense id="ewn-zaire__1_15_00__" n="0" synset="ewn-08752218-n">
         <SenseRelation relType="derivation" target="ewn-zairean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-earshot-n">
       <Lemma writtenForm="earshot" partOfSpeech="n">
@@ -3206,7 +3206,7 @@
       <Lemma writtenForm="Cappadocia" partOfSpeech="n"/>
       <Sense id="ewn-cappadocia__1_15_00__" n="0" synset="ewn-08718975-n">
         <SenseRelation relType="derivation" target="ewn-cappadocian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Inchon-n">
       <Lemma writtenForm="Inchon" partOfSpeech="n"/>
@@ -3217,7 +3217,7 @@
       <Sense id="ewn-persia__1_15_01__" n="0" synset="ewn-08932615-n"/>
       <Sense id="ewn-persia__1_15_00__" n="1" synset="ewn-08930441-n">
         <SenseRelation relType="derivation" target="ewn-persian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hondo-n">
       <Lemma writtenForm="Hondo" partOfSpeech="n"/>
@@ -3227,7 +3227,7 @@
       <Lemma writtenForm="site" partOfSpeech="n"/>
       <Sense id="ewn-site__1_15_00__" n="0" synset="ewn-08668822-n">
         <SenseRelation relType="derivation" target="ewn-site__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-site__1_15_02__" n="1" synset="ewn-08640525-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Greater_New_York-n">
@@ -3347,7 +3347,7 @@
       <Sense id="ewn-city_centre__1_15_00__" n="0" synset="ewn-08541617-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-grazing_land-n">
       <Lemma writtenForm="grazing land" partOfSpeech="n"/>
@@ -3364,7 +3364,7 @@
       <Sense id="ewn-ghana__1_15_00__" n="0" synset="ewn-08965960-n">
         <SenseRelation relType="derivation" target="ewn-ghanian__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-ghanaian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_Malawi-n">
       <Lemma writtenForm="Republic of Malawi" partOfSpeech="n"/>
@@ -3437,7 +3437,7 @@
       </Lemma>
       <Sense id="ewn-apojove__1_15_00__" n="0" synset="ewn-08513105-n">
         <SenseRelation relType="antonym" target="ewn-perijove__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-apogee-n">
       <Lemma writtenForm="apogee" partOfSpeech="n">
@@ -3446,7 +3446,7 @@
       <Sense id="ewn-apogee__1_15_00__" n="1" synset="ewn-08512430-n">
         <SenseRelation relType="antonym" target="ewn-perigee__1_15_00__"/>
         <SenseRelation relType="derivation" target="ewn-apogean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Orono-n">
       <Lemma writtenForm="Orono" partOfSpeech="n"/>
@@ -3479,7 +3479,7 @@
       <Lemma writtenForm="Austronesia" partOfSpeech="n"/>
       <Sense id="ewn-austronesia__1_15_00__" n="0" synset="ewn-08855321-n">
         <SenseRelation relType="derivation" target="ewn-austronesian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vicinity-n">
       <Lemma writtenForm="vicinity" partOfSpeech="n">
@@ -3487,7 +3487,7 @@
       </Lemma>
       <Sense id="ewn-vicinity__1_15_00__" n="0" synset="ewn-08658688-n">
         <SenseRelation relType="derivation" target="ewn-vicinal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Antwerp-n">
       <Lemma writtenForm="Antwerp" partOfSpeech="n"/>
@@ -3512,10 +3512,10 @@
       </Lemma>
       <Sense id="ewn-latitude__1_15_00__" n="0" synset="ewn-08613087-n">
         <SenseRelation relType="derivation" target="ewn-latitudinal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-latitude__1_15_01__" n="2" synset="ewn-08613276-n">
         <SenseRelation relType="derivation" target="ewn-latitudinal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Taymyr_Peninsula-n">
       <Lemma writtenForm="Taymyr Peninsula" partOfSpeech="n"/>
@@ -3536,7 +3536,7 @@
       </Lemma>
       <Sense id="ewn-meridian__1_15_00__" n="1" synset="ewn-08616379-n">
         <SenseRelation relType="derivation" target="ewn-meridional__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Amarillo-n">
       <Lemma writtenForm="Amarillo" partOfSpeech="n"/>
@@ -3560,7 +3560,7 @@
       <Sense id="ewn-centre_of_mass__1_15_00__" n="0" synset="ewn-08540245-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Salvadoran_capital-n">
       <Lemma writtenForm="Salvadoran capital" partOfSpeech="n"/>
@@ -3638,7 +3638,7 @@
       <Lemma writtenForm="Glasgow" partOfSpeech="n"/>
       <Sense id="ewn-glasgow__1_15_00__" n="0" synset="ewn-08913198-n">
         <SenseRelation relType="derivation" target="ewn-glaswegian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Malaysian_state-n">
       <Lemma writtenForm="Malaysian state" partOfSpeech="n"/>
@@ -3707,7 +3707,7 @@
       <Lemma writtenForm="Syria" partOfSpeech="n"/>
       <Sense id="ewn-syria__1_15_00__" n="0" synset="ewn-09055808-n">
         <SenseRelation relType="derivation" target="ewn-syrian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Geneve-n">
       <Lemma writtenForm="Geneve" partOfSpeech="n"/>
@@ -3721,7 +3721,7 @@
       <Lemma writtenForm="Bolivia" partOfSpeech="n"/>
       <Sense id="ewn-bolivia__1_15_00__" n="0" synset="ewn-08871835-n">
         <SenseRelation relType="derivation" target="ewn-bolivian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Baltimore-n">
       <Lemma writtenForm="Baltimore" partOfSpeech="n">
@@ -3768,7 +3768,7 @@
       </Lemma>
       <Sense id="ewn-texas__1_15_00__" n="0" synset="ewn-09164256-n">
         <SenseRelation relType="derivation" target="ewn-texan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-winner-ap-s_circle-n">
       <Lemma writtenForm="winner&apos;s circle" partOfSpeech="n"/>
@@ -3786,7 +3786,7 @@
       <Sense id="ewn-epicentre__1_15_00__" n="0" synset="ewn-08595522-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Balkan_country-n">
       <Lemma writtenForm="Balkan country" partOfSpeech="n"/>
@@ -3812,7 +3812,7 @@
       <Lemma writtenForm="Czechoslovakia" partOfSpeech="n"/>
       <Sense id="ewn-czechoslovakia__1_15_00__" n="0" synset="ewn-08775402-n">
         <SenseRelation relType="derivation" target="ewn-czechoslovakian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mecca-n">
       <Lemma writtenForm="mecca" partOfSpeech="n">
@@ -3831,7 +3831,7 @@
       <Sense id="ewn-sicily__1_15_00__" n="0" synset="ewn-08829067-n"/>
       <Sense id="ewn-sicily__1_15_01__" n="1" synset="ewn-08828851-n">
         <SenseRelation relType="derivation" target="ewn-sicilian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-southeast-n">
       <Lemma writtenForm="southeast" partOfSpeech="n"/>
@@ -3868,7 +3868,7 @@
       <Sense id="ewn-heading__1_15_00__" n="1" synset="ewn-08698626-n">
         <SenseRelation relType="derivation" target="ewn-head__2_38_01__"/>
         <SenseRelation relType="derivation" target="ewn-head__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Kisumu-n">
       <Lemma writtenForm="Kisumu" partOfSpeech="n"/>
@@ -4010,7 +4010,7 @@
       </Lemma>
       <Sense id="ewn-inferno__1_15_00__" n="0" synset="ewn-08600365-n">
         <SenseRelation relType="derivation" target="ewn-infernal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-meteorological_observation_post-n">
       <Lemma writtenForm="meteorological observation post" partOfSpeech="n"/>
@@ -4080,7 +4080,7 @@
       <Lemma writtenForm="Eritrea" partOfSpeech="n"/>
       <Sense id="ewn-eritrea__1_15_00__" n="0" synset="ewn-08795396-n">
         <SenseRelation relType="derivation" target="ewn-eritrean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-buffer_state-n">
       <Lemma writtenForm="buffer state" partOfSpeech="n"/>
@@ -4111,7 +4111,7 @@
       <Sense id="ewn-bound__1_15_00__" n="1" synset="ewn-08529331-n">
         <SenseRelation relType="derivation" target="ewn-bound__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-bound__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-transshipment_center-n">
       <Lemma writtenForm="transshipment center" partOfSpeech="n"/>
@@ -4140,7 +4140,7 @@
       </Lemma>
       <Sense id="ewn-here__1_15_00__" n="0" synset="ewn-08506507-n">
         <SenseRelation relType="antonym" target="ewn-there__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Nepal-n">
       <Lemma writtenForm="Nepal" partOfSpeech="n"/>
@@ -4180,7 +4180,7 @@
       </Lemma>
       <Sense id="ewn-retreat__1_15_00__" n="1" synset="ewn-08660590-n">
         <SenseRelation relType="derivation" target="ewn-retreat__2_38_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Gettysburg-n">
       <Lemma writtenForm="Gettysburg" partOfSpeech="n"/>
@@ -4193,7 +4193,7 @@
       </Lemma>
       <Sense id="ewn-crossing__1_15_00__" n="2" synset="ewn-08565513-n">
         <SenseRelation relType="derivation" target="ewn-cross__2_38_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Gomel-n">
       <Lemma writtenForm="Gomel" partOfSpeech="n"/>
@@ -4286,7 +4286,7 @@
       <Lemma writtenForm="Lowlands" partOfSpeech="n"/>
       <Sense id="ewn-lowlands__1_15_00__" n="0" synset="ewn-08912116-n">
         <SenseRelation relType="derivation" target="ewn-lowlander__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bent-n">
       <Lemma writtenForm="bent" partOfSpeech="n"/>
@@ -4344,7 +4344,7 @@
       <Lemma writtenForm="Mali" partOfSpeech="n"/>
       <Sense id="ewn-mali__1_15_00__" n="0" synset="ewn-08987949-n">
         <SenseRelation relType="derivation" target="ewn-malian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-faubourg-n">
       <Lemma writtenForm="faubourg" partOfSpeech="n">
@@ -4402,10 +4402,10 @@
       </Lemma>
       <Sense id="ewn-washington__1_15_01__" n="0" synset="ewn-09093291-n">
         <SenseRelation relType="derivation" target="ewn-washingtonian__3_01_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-washington__1_15_00__" n="1" synset="ewn-09175699-n">
         <SenseRelation relType="derivation" target="ewn-washingtonian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plaza-n">
       <Lemma writtenForm="plaza" partOfSpeech="n">
@@ -4506,13 +4506,13 @@
       <Lemma writtenForm="march" partOfSpeech="n"/>
       <Sense id="ewn-march__1_15_00__" n="3" synset="ewn-08530235-n">
         <SenseRelation relType="derivation" target="ewn-march__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-East_Africa-n">
       <Lemma writtenForm="East Africa" partOfSpeech="n"/>
       <Sense id="ewn-east_africa__1_15_00__" n="0" synset="ewn-08717240-n">
         <SenseRelation relType="derivation" target="ewn-east_african__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Kolonia-n">
       <Lemma writtenForm="Kolonia" partOfSpeech="n"/>
@@ -4561,7 +4561,7 @@
       </Lemma>
       <Sense id="ewn-outline__1_15_00__" n="0" synset="ewn-08630343-n">
         <SenseRelation relType="derivation" target="ewn-outline__2_36_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tape-n">
       <Lemma writtenForm="tape" partOfSpeech="n">
@@ -4599,7 +4599,7 @@
       </Lemma>
       <Sense id="ewn-haunt__1_15_00__" n="0" synset="ewn-08599031-n">
         <SenseRelation relType="derivation" target="ewn-haunt__2_38_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-boundary_line-n">
       <Lemma writtenForm="boundary line" partOfSpeech="n"/>
@@ -4845,7 +4845,7 @@
       <Lemma writtenForm="El Salvador" partOfSpeech="n"/>
       <Sense id="ewn-el_salvador__1_15_00__" n="0" synset="ewn-08756105-n">
         <SenseRelation relType="derivation" target="ewn-salvadorean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bangalore-n">
       <Lemma writtenForm="Bangalore" partOfSpeech="n"/>
@@ -4976,10 +4976,10 @@
       </Lemma>
       <Sense id="ewn-inside__1_15_01__" n="0" synset="ewn-08605849-n">
         <SenseRelation relType="antonym" target="ewn-outside__1_15_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-inside__1_15_00__" n="1" synset="ewn-08605707-n">
         <SenseRelation relType="antonym" target="ewn-outside__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stratum-n">
       <Lemma writtenForm="stratum" partOfSpeech="n">
@@ -4989,19 +4989,19 @@
       <Sense id="ewn-stratum__1_15_00__" n="0" synset="ewn-08674880-n">
         <SenseRelation relType="derivation" target="ewn-stratify__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-stratify__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Serbia-n">
       <Lemma writtenForm="Serbia" partOfSpeech="n"/>
       <Sense id="ewn-serbia__1_15_00__" n="0" synset="ewn-08834821-n">
         <SenseRelation relType="derivation" target="ewn-serbian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Liechtenstein-n">
       <Lemma writtenForm="Liechtenstein" partOfSpeech="n"/>
       <Sense id="ewn-liechtenstein__1_15_00__" n="0" synset="ewn-08980321-n">
         <SenseRelation relType="derivation" target="ewn-liechtensteiner__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-approach-n">
       <Lemma writtenForm="approach" partOfSpeech="n"/>
@@ -5146,7 +5146,7 @@
       <Sense id="ewn-irredenta__1_15_00__" n="0" synset="ewn-08606696-n">
         <SenseRelation relType="derivation" target="ewn-irridentist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-irredentist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Halicarnassus-n">
       <Lemma writtenForm="Halicarnassus" partOfSpeech="n"/>
@@ -5159,7 +5159,7 @@
       </Lemma>
       <Sense id="ewn-belarus__1_15_00__" n="0" synset="ewn-09033521-n">
         <SenseRelation relType="derivation" target="ewn-belarusian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Taurus-n">
       <Lemma writtenForm="Taurus" partOfSpeech="n"/>
@@ -5229,7 +5229,7 @@
       <Lemma writtenForm="Yugoslavia" partOfSpeech="n"/>
       <Sense id="ewn-yugoslavia__1_15_00__" n="0" synset="ewn-08834088-n">
         <SenseRelation relType="derivation" target="ewn-yugoslavian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-yugoslavia__1_15_01__" n="1" synset="ewn-08833365-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Fredericton-n">
@@ -5379,7 +5379,7 @@
         <SenseRelation relType="has_domain_region" target="ewn-mo__1_28_00__"/>
         <SenseRelation relType="has_domain_region" target="ewn-myriametre__1_23_00__"/>
         <SenseRelation relType="has_domain_region" target="ewn-epicentre__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Savannah-n">
       <Lemma writtenForm="Savannah" partOfSpeech="n"/>
@@ -5417,7 +5417,7 @@
       <Lemma writtenForm="repair" partOfSpeech="n"/>
       <Sense id="ewn-repair__1_15_00__" n="2" synset="ewn-08599031-n">
         <SenseRelation relType="derivation" target="ewn-repair__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Brazzaville-n">
       <Lemma writtenForm="Brazzaville" partOfSpeech="n"/>
@@ -5455,7 +5455,7 @@
       <Lemma writtenForm="Maine" partOfSpeech="n"/>
       <Sense id="ewn-maine__1_15_00__" n="0" synset="ewn-09115069-n">
         <SenseRelation relType="derivation" target="ewn-mainer__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-necropolis-n">
       <Lemma writtenForm="necropolis" partOfSpeech="n">
@@ -5511,7 +5511,7 @@
       </Lemma>
       <Sense id="ewn-occident__1_15_00__" n="0" synset="ewn-08700313-n">
         <SenseRelation relType="derivation" target="ewn-occidental__5_00_00_western_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Superior-n">
       <Lemma writtenForm="Superior" partOfSpeech="n">
@@ -5546,7 +5546,7 @@
       </Lemma>
       <Sense id="ewn-resort__1_15_00__" n="0" synset="ewn-08658106-n">
         <SenseRelation relType="derivation" target="ewn-resort__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-resort__1_15_01__" n="1" synset="ewn-08599031-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Milan-n">
@@ -5584,7 +5584,7 @@
       </Lemma>
       <Sense id="ewn-culmination__1_15_00__" n="1" synset="ewn-08565814-n">
         <SenseRelation relType="derivation" target="ewn-culminate__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Buganda-n">
       <Lemma writtenForm="Buganda" partOfSpeech="n"/>
@@ -5646,7 +5646,7 @@
       <Sense id="ewn-manchester__1_15_01__" n="0" synset="ewn-09134601-n"/>
       <Sense id="ewn-manchester__1_15_00__" n="1" synset="ewn-08897202-n">
         <SenseRelation relType="derivation" target="ewn-mancunian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Camp_David-n">
       <Lemma writtenForm="Camp David" partOfSpeech="n"/>
@@ -5720,7 +5720,7 @@
       <Lemma writtenForm="Boeotia" partOfSpeech="n"/>
       <Sense id="ewn-boeotia__1_15_00__" n="0" synset="ewn-08807095-n">
         <SenseRelation relType="derivation" target="ewn-boeotian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Chancellorsville-n">
       <Lemma writtenForm="Chancellorsville" partOfSpeech="n"/>
@@ -5744,7 +5744,7 @@
       </Lemma>
       <Sense id="ewn-canton__1_15_01__" n="0" synset="ewn-08558333-n">
         <SenseRelation relType="derivation" target="ewn-canton__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hannibal-n">
       <Lemma writtenForm="Hannibal" partOfSpeech="n"/>
@@ -5757,7 +5757,7 @@
       <Sense id="ewn-surround__1_15_00__" n="0" synset="ewn-08584764-n">
         <SenseRelation relType="derivation" target="ewn-surround__2_33_01__"/>
         <SenseRelation relType="derivation" target="ewn-surround__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Cape_of_Good_Hope-n">
       <Lemma writtenForm="Cape of Good Hope" partOfSpeech="n"/>
@@ -5883,7 +5883,7 @@
       <Lemma writtenForm="Venice" partOfSpeech="n"/>
       <Sense id="ewn-venice__1_15_00__" n="0" synset="ewn-08831116-n">
         <SenseRelation relType="derivation" target="ewn-venetian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Nihon-n">
       <Lemma writtenForm="Nihon" partOfSpeech="n"/>
@@ -5893,14 +5893,14 @@
       <Lemma writtenForm="Guatemala" partOfSpeech="n"/>
       <Sense id="ewn-guatemala__1_15_00__" n="0" synset="ewn-08754874-n">
         <SenseRelation relType="derivation" target="ewn-guatemalan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-storm_centre-n">
       <Lemma writtenForm="storm centre" partOfSpeech="n"/>
       <Sense id="ewn-storm_centre__1_15_00__" n="1" synset="ewn-08542097-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Lut_Desert-n">
       <Lemma writtenForm="Lut Desert" partOfSpeech="n"/>
@@ -5914,7 +5914,7 @@
       <Lemma writtenForm="Sri Lanka" partOfSpeech="n"/>
       <Sense id="ewn-sri_lanka__1_15_00__" n="0" synset="ewn-08736933-n">
         <SenseRelation relType="derivation" target="ewn-sri_lankan__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-sri_lanka__1_15_01__" n="1" synset="ewn-08736795-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sinai_Peninsula-n">
@@ -5944,13 +5944,13 @@
       <Lemma writtenForm="Athens" partOfSpeech="n"/>
       <Sense id="ewn-athens__1_15_00__" n="0" synset="ewn-08803195-n">
         <SenseRelation relType="derivation" target="ewn-athenian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-athens__1_15_02__" n="1" synset="ewn-09153279-n">
         <SenseRelation relType="derivation" target="ewn-athenian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-athens__1_15_01__" n="2" synset="ewn-09099493-n">
         <SenseRelation relType="derivation" target="ewn-athenian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Muscat-n">
       <Lemma writtenForm="Muscat" partOfSpeech="n">
@@ -6030,7 +6030,7 @@
       <Lemma writtenForm="Nicaea" partOfSpeech="n"/>
       <Sense id="ewn-nicaea__1_15_00__" n="0" synset="ewn-08521172-n">
         <SenseRelation relType="derivation" target="ewn-nicaean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-abutment-n">
       <Lemma writtenForm="abutment" partOfSpeech="n">
@@ -6039,7 +6039,7 @@
       </Lemma>
       <Sense id="ewn-abutment__1_15_00__" n="0" synset="ewn-08638338-n">
         <SenseRelation relType="derivation" target="ewn-abut__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-grounds-n">
       <Lemma writtenForm="grounds" partOfSpeech="n"/>
@@ -6159,7 +6159,7 @@
       </Lemma>
       <Sense id="ewn-middle__1_15_00__" n="0" synset="ewn-08540894-n">
         <SenseRelation relType="derivation" target="ewn-middle__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-acme-n">
       <Lemma writtenForm="acme" partOfSpeech="n">
@@ -6189,7 +6189,7 @@
       </Lemma>
       <Sense id="ewn-empyrean__1_15_00__" n="0" synset="ewn-08538450-n">
         <SenseRelation relType="derivation" target="ewn-empyreal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-celestial_equator-n">
       <Lemma writtenForm="celestial equator" partOfSpeech="n"/>
@@ -6218,7 +6218,7 @@
       </Lemma>
       <Sense id="ewn-area__1_15_01__" n="0" synset="ewn-08514304-n">
         <SenseRelation relType="derivation" target="ewn-areal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-shadow-n">
       <Lemma writtenForm="shadow" partOfSpeech="n">
@@ -6227,7 +6227,7 @@
       </Lemma>
       <Sense id="ewn-shadow__1_15_00__" n="1" synset="ewn-08663881-n">
         <SenseRelation relType="derivation" target="ewn-shadow__2_43_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Luzon-n">
       <Lemma writtenForm="Luzon" partOfSpeech="n"/>
@@ -6255,7 +6255,7 @@
       <Lemma writtenForm="Scythia" partOfSpeech="n"/>
       <Sense id="ewn-scythia__1_15_00__" n="0" synset="ewn-09200544-n">
         <SenseRelation relType="derivation" target="ewn-scythian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-paint-n">
       <Lemma writtenForm="paint" partOfSpeech="n">
@@ -6285,7 +6285,7 @@
       <Lemma writtenForm="Malawi" partOfSpeech="n"/>
       <Sense id="ewn-malawi__1_15_00__" n="0" synset="ewn-08982383-n">
         <SenseRelation relType="derivation" target="ewn-malawian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Arlington-n">
       <Lemma writtenForm="Arlington" partOfSpeech="n"/>
@@ -6345,7 +6345,7 @@
       </Lemma>
       <Sense id="ewn-pattern__1_15_00__" n="6" synset="ewn-08509757-n">
         <SenseRelation relType="derivation" target="ewn-pattern__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Patagonian_Desert-n">
       <Lemma writtenForm="Patagonian Desert" partOfSpeech="n"/>
@@ -6434,7 +6434,7 @@
       </Lemma>
       <Sense id="ewn-stop__1_15_00__" n="4" synset="ewn-08674524-n">
         <SenseRelation relType="derivation" target="ewn-stop__2_38_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-capital_of_San_Marino-n">
       <Lemma writtenForm="capital of San Marino" partOfSpeech="n"/>
@@ -6448,7 +6448,7 @@
       <Sense id="ewn-locale__1_15_00__" n="0" synset="ewn-08695366-n">
         <SenseRelation relType="derivation" target="ewn-localize__2_42_01__"/>
         <SenseRelation relType="derivation" target="ewn-localize__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Tuamotu_Archipelago-n">
       <Lemma writtenForm="Tuamotu Archipelago" partOfSpeech="n"/>
@@ -6478,7 +6478,7 @@
       <Lemma writtenForm="parish" partOfSpeech="n"/>
       <Sense id="ewn-parish__1_15_00__" n="1" synset="ewn-08632576-n">
         <SenseRelation relType="derivation" target="ewn-parochial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Waterford-n">
       <Lemma writtenForm="Waterford" partOfSpeech="n"/>
@@ -6511,7 +6511,7 @@
       <Sense id="ewn-zenith__1_15_01__" n="0" synset="ewn-08702507-n">
         <SenseRelation relType="antonym" target="ewn-nadir__1_15_01__"/>
         <SenseRelation relType="derivation" target="ewn-zenithal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Siracusa-n">
       <Lemma writtenForm="Siracusa" partOfSpeech="n"/>
@@ -6533,16 +6533,16 @@
       <Lemma writtenForm="Madagascar" partOfSpeech="n"/>
       <Sense id="ewn-madagascar__1_15_00__" n="0" synset="ewn-08981960-n">
         <SenseRelation relType="derivation" target="ewn-madagascan__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-madagascar__1_15_01__" n="1" synset="ewn-08981743-n">
         <SenseRelation relType="derivation" target="ewn-madagascan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Dalmatia-n">
       <Lemma writtenForm="Dalmatia" partOfSpeech="n"/>
       <Sense id="ewn-dalmatia__1_15_00__" n="0" synset="ewn-08837075-n">
         <SenseRelation relType="derivation" target="ewn-dalmatian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sub-Saharan_Africa-n">
       <Lemma writtenForm="Sub-Saharan Africa" partOfSpeech="n"/>
@@ -6571,7 +6571,7 @@
       </Lemma>
       <Sense id="ewn-korea__1_15_00__" n="0" synset="ewn-08974384-n">
         <SenseRelation relType="derivation" target="ewn-korean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Alsatia-n">
       <Lemma writtenForm="Alsatia" partOfSpeech="n"/>
@@ -6595,7 +6595,7 @@
       </Lemma>
       <Sense id="ewn-zodiac__1_15_00__" n="0" synset="ewn-08702926-n">
         <SenseRelation relType="derivation" target="ewn-zodiacal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-line_of_sight-n">
       <Lemma writtenForm="line of sight" partOfSpeech="n"/>
@@ -6639,10 +6639,10 @@
       <Lemma writtenForm="Mongolia" partOfSpeech="n"/>
       <Sense id="ewn-mongolia__1_15_00__" n="0" synset="ewn-08991230-n">
         <SenseRelation relType="derivation" target="ewn-mongolian__3_01_02__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mongolia__1_15_01__" n="1" synset="ewn-08991028-n">
         <SenseRelation relType="derivation" target="ewn-mongolian__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-commune-n">
       <Lemma writtenForm="commune" partOfSpeech="n">
@@ -6651,7 +6651,7 @@
       <Sense id="ewn-commune__1_15_00__" n="0" synset="ewn-08559172-n">
         <SenseRelation relType="derivation" target="ewn-communise__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-communise__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bikini-n">
       <Lemma writtenForm="Bikini" partOfSpeech="n">
@@ -6671,7 +6671,7 @@
       <Lemma writtenForm="Slovakia" partOfSpeech="n"/>
       <Sense id="ewn-slovakia__1_15_00__" n="0" synset="ewn-08776846-n">
         <SenseRelation relType="derivation" target="ewn-slovakian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Molokai-n">
       <Lemma writtenForm="Molokai" partOfSpeech="n"/>
@@ -6743,7 +6743,7 @@
       </Lemma>
       <Sense id="ewn-presence__1_15_00__" n="1" synset="ewn-08660207-n">
         <SenseRelation relType="derivation" target="ewn-present__3_00_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-outport-n">
       <Lemma writtenForm="outport" partOfSpeech="n"/>
@@ -6761,7 +6761,7 @@
       <Lemma writtenForm="Sumer" partOfSpeech="n"/>
       <Sense id="ewn-sumer__1_15_00__" n="0" synset="ewn-08938021-n">
         <SenseRelation relType="derivation" target="ewn-sumerian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-HI-n">
       <Lemma writtenForm="HI" partOfSpeech="n">
@@ -6826,7 +6826,7 @@
       <Form writtenForm="ghettoes"/>
       <Sense id="ewn-ghetto__1_15_00__" n="0" synset="ewn-08596479-n">
         <SenseRelation relType="derivation" target="ewn-ghettoize__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-ghetto__1_15_01__" n="2" synset="ewn-08566867-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-eastern_United_States-n">
@@ -6837,7 +6837,7 @@
       <Lemma writtenForm="Australasia" partOfSpeech="n"/>
       <Sense id="ewn-australasia__1_15_00__" n="0" synset="ewn-08855157-n">
         <SenseRelation relType="derivation" target="ewn-australasian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-capital_of_Rhode_Island-n">
       <Lemma writtenForm="capital of Rhode Island" partOfSpeech="n"/>
@@ -6893,11 +6893,11 @@
       <Lemma writtenForm="Ireland" partOfSpeech="n"/>
       <Sense id="ewn-ireland__1_15_01__" n="0" synset="ewn-08908903-n">
         <SenseRelation relType="derivation" target="ewn-irelander__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-ireland__1_15_00__" n="1" synset="ewn-08878165-n">
         <SenseRelation relType="derivation" target="ewn-irish__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-irelander__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Denali_National_Park-n">
       <Lemma writtenForm="Denali National Park" partOfSpeech="n"/>
@@ -6977,7 +6977,7 @@
       <Lemma writtenForm="Rhodesia" partOfSpeech="n"/>
       <Sense id="ewn-rhodesia__1_15_00__" n="0" synset="ewn-09189894-n">
         <SenseRelation relType="derivation" target="ewn-rhodesian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Terre_Adelie-n">
       <Lemma writtenForm="Terre Adelie" partOfSpeech="n"/>
@@ -7028,7 +7028,7 @@
       <Lemma writtenForm="Venezuela" partOfSpeech="n"/>
       <Sense id="ewn-venezuela__1_15_00__" n="0" synset="ewn-09184596-n">
         <SenseRelation relType="derivation" target="ewn-venezuelan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Fort_Meade-n">
       <Lemma writtenForm="Fort Meade" partOfSpeech="n"/>
@@ -7101,7 +7101,7 @@
       <Sense id="ewn-landscape__1_15_00__" n="0" synset="ewn-08664477-n">
         <SenseRelation relType="derivation" target="ewn-landscapist__1_18_01__"/>
         <SenseRelation relType="derivation" target="ewn-landscapist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-El_Paso-n">
       <Lemma writtenForm="El Paso" partOfSpeech="n"/>
@@ -7138,7 +7138,7 @@
       </Lemma>
       <Sense id="ewn-arctic__1_15_00__" n="0" synset="ewn-08513487-n">
         <SenseRelation relType="derivation" target="ewn-arctic__5_00_00_polar_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hadrian-ap-s_Wall-n">
       <Lemma writtenForm="Hadrian&apos;s Wall" partOfSpeech="n"/>
@@ -7182,7 +7182,7 @@
       <Lemma writtenForm="Peru" partOfSpeech="n"/>
       <Sense id="ewn-peru__1_15_00__" n="0" synset="ewn-09001424-n">
         <SenseRelation relType="derivation" target="ewn-peruvian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Luta-n">
       <Lemma writtenForm="Luta" partOfSpeech="n"/>
@@ -7259,7 +7259,7 @@
       <Sense id="ewn-colony__1_15_01__" n="3" synset="ewn-08516868-n">
         <SenseRelation relType="derivation" target="ewn-colonial__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-colonist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Mount_Rainier_National_Park-n">
       <Lemma writtenForm="Mount Rainier National Park" partOfSpeech="n"/>
@@ -7289,7 +7289,7 @@
       <Lemma writtenForm="urban area" partOfSpeech="n"/>
       <Sense id="ewn-urban_area__1_15_00__" n="0" synset="ewn-08693705-n">
         <SenseRelation relType="antonym" target="ewn-rural_area__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-RA-n">
       <Lemma writtenForm="RA" partOfSpeech="n"/>
@@ -7383,7 +7383,7 @@
       </Lemma>
       <Sense id="ewn-air__1_15_00__" n="1" synset="ewn-08670889-n">
         <SenseRelation relType="derivation" target="ewn-aerial__3_00_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-air__1_15_01__" n="4" synset="ewn-08516085-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-barrio-n">
@@ -7472,7 +7472,7 @@
       </Lemma>
       <Sense id="ewn-boundary__1_15_00__" n="0" synset="ewn-08529331-n">
         <SenseRelation relType="derivation" target="ewn-bound__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Qum-n">
       <Lemma writtenForm="Qum" partOfSpeech="n"/>
@@ -7488,7 +7488,7 @@
       </Lemma>
       <Sense id="ewn-fiefdom__1_15_00__" n="0" synset="ewn-08575291-n">
         <SenseRelation relType="derivation" target="ewn-fief__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-barycenter-n">
       <Lemma writtenForm="barycenter" partOfSpeech="n"/>
@@ -7542,7 +7542,7 @@
       <Lemma writtenForm="tack" partOfSpeech="n"/>
       <Sense id="ewn-tack__1_15_00__" n="0" synset="ewn-08698822-n">
         <SenseRelation relType="derivation" target="ewn-tack__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-AK-n">
       <Lemma writtenForm="AK" partOfSpeech="n"/>
@@ -7717,7 +7717,7 @@
       <Lemma writtenForm="Indonesia" partOfSpeech="n"/>
       <Sense id="ewn-indonesia__1_15_00__" n="0" synset="ewn-08927379-n">
         <SenseRelation relType="derivation" target="ewn-indonesian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-borscht_belt-n">
       <Lemma writtenForm="borscht belt" partOfSpeech="n"/>
@@ -7871,16 +7871,16 @@
       <Sense id="ewn-centre__1_15_01__" n="0" synset="ewn-08540894-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-centre__1_15_00__" n="1" synset="ewn-08538999-n">
         <SenseRelation relType="derivation" target="ewn-centre__2_38_00__"/>
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-centre__1_15_03__" n="2" synset="ewn-08531106-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Spanish_Guinea-n">
       <Lemma writtenForm="Spanish Guinea" partOfSpeech="n"/>
@@ -7950,7 +7950,7 @@
       </Lemma>
       <Sense id="ewn-guinea__1_15_00__" n="1" synset="ewn-08967092-n">
         <SenseRelation relType="derivation" target="ewn-guinean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hub_of_the_Universe-n">
       <Lemma writtenForm="Hub of the Universe" partOfSpeech="n"/>
@@ -7968,7 +7968,7 @@
       <Lemma writtenForm="Paraguay" partOfSpeech="n"/>
       <Sense id="ewn-paraguay__1_15_00__" n="0" synset="ewn-09000713-n">
         <SenseRelation relType="derivation" target="ewn-paraguayan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Michigan-n">
       <Lemma writtenForm="Michigan" partOfSpeech="n">
@@ -8018,7 +8018,7 @@
       <Lemma writtenForm="Parthia" partOfSpeech="n"/>
       <Sense id="ewn-parthia__1_15_00__" n="0" synset="ewn-09001191-n">
         <SenseRelation relType="derivation" target="ewn-parthian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Juda-n">
       <Lemma writtenForm="Juda" partOfSpeech="n"/>
@@ -8078,7 +8078,7 @@
       </Lemma>
       <Sense id="ewn-hatchery__1_15_00__" n="0" synset="ewn-08598827-n">
         <SenseRelation relType="derivation" target="ewn-hatch__2_29_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Muscat_and_Oman-n">
       <Lemma writtenForm="Muscat and Oman" partOfSpeech="n"/>
@@ -8108,7 +8108,7 @@
       <Lemma writtenForm="aposelene" partOfSpeech="n"/>
       <Sense id="ewn-aposelene__1_15_00__" n="0" synset="ewn-08513209-n">
         <SenseRelation relType="antonym" target="ewn-periselene__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-FRG-n">
       <Lemma writtenForm="FRG" partOfSpeech="n"/>
@@ -8177,10 +8177,10 @@
         <SenseRelation relType="derivation" target="ewn-seat__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-seat__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-seat__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-seat__1_15_00__" n="4" synset="ewn-08665520-n">
         <SenseRelation relType="derivation" target="ewn-seat__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-seat__1_15_02__" n="5" synset="ewn-08507049-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Canadian_Maritime_Provinces-n">
@@ -8212,7 +8212,7 @@
       <Sense id="ewn-route__1_15_00__" n="0" synset="ewn-08633886-n">
         <SenseRelation relType="derivation" target="ewn-route__2_38_01__"/>
         <SenseRelation relType="derivation" target="ewn-route__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Ottoman_Empire-n">
       <Lemma writtenForm="Ottoman Empire" partOfSpeech="n"/>
@@ -8249,7 +8249,7 @@
       <Lemma writtenForm="Hebrides" partOfSpeech="n"/>
       <Sense id="ewn-hebrides__1_15_00__" n="0" synset="ewn-08913450-n">
         <SenseRelation relType="derivation" target="ewn-hebridean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pesthole-n">
       <Lemma writtenForm="pesthole" partOfSpeech="n"/>
@@ -8327,7 +8327,7 @@
       </Lemma>
       <Sense id="ewn-alaska__1_15_00__" n="0" synset="ewn-09077478-n">
         <SenseRelation relType="derivation" target="ewn-alaskan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Badger_State-n">
       <Lemma writtenForm="Badger State" partOfSpeech="n"/>
@@ -8362,7 +8362,7 @@
         <SenseRelation relType="derivation" target="ewn-berth__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-berth__2_35_03__"/>
         <SenseRelation relType="derivation" target="ewn-berth__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Kuwait_City-n">
       <Lemma writtenForm="Kuwait City" partOfSpeech="n"/>
@@ -8419,7 +8419,7 @@
       <Sense id="ewn-rearward__1_15_00__" n="0" synset="ewn-08647321-n">
         <SenseRelation relType="derivation" target="ewn-rearward__5_00_00_back_00"/>
         <SenseRelation relType="derivation" target="ewn-rearward__5_00_00_backward_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_Cuba-n">
       <Lemma writtenForm="Republic of Cuba" partOfSpeech="n"/>
@@ -8433,7 +8433,7 @@
       <Lemma writtenForm="Numidia" partOfSpeech="n"/>
       <Sense id="ewn-numidia__1_15_00__" n="0" synset="ewn-08725524-n">
         <SenseRelation relType="derivation" target="ewn-numidian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-coalface-n">
       <Lemma writtenForm="coalface" partOfSpeech="n"/>
@@ -8467,11 +8467,11 @@
       <Form writtenForm="apices"/>
       <Sense id="ewn-apex__1_15_00__" n="0" synset="ewn-08695539-n">
         <SenseRelation relType="derivation" target="ewn-apical__5_00_00_top_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-apex__1_15_01__" n="1" synset="ewn-08511997-n">
         <SenseRelation relType="antonym" target="ewn-antapex__1_15_00__"/>
         <SenseRelation relType="derivation" target="ewn-apical__5_00_00_top_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Great_Lakes_State-n">
       <Lemma writtenForm="Great Lakes State" partOfSpeech="n"/>
@@ -8529,7 +8529,7 @@
       <Sense id="ewn-lineation__1_15_00__" n="0" synset="ewn-08630343-n">
         <SenseRelation relType="derivation" target="ewn-line__2_35_02__"/>
         <SenseRelation relType="derivation" target="ewn-line__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-theater_of_operations-n">
       <Lemma writtenForm="theater of operations" partOfSpeech="n"/>
@@ -8583,7 +8583,7 @@
       <Lemma writtenForm="Cambodia" partOfSpeech="n"/>
       <Sense id="ewn-cambodia__1_15_00__" n="0" synset="ewn-08734571-n">
         <SenseRelation relType="derivation" target="ewn-cambodian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Turkistan-n">
       <Lemma writtenForm="Turkistan" partOfSpeech="n"/>
@@ -8632,7 +8632,7 @@
       <Sense id="ewn-head__1_15_00__" n="6" synset="ewn-08681922-n">
         <SenseRelation relType="antonym" target="ewn-foot__1_15_00__"/>
         <SenseRelation relType="derivation" target="ewn-head__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-head__1_15_01__" n="7" synset="ewn-08525470-n"/>
       <Sense id="ewn-head__1_15_02__" n="18" synset="ewn-08590014-n">
         <SenseRelation relType="derivation" target="ewn-head__2_42_00__"/>
@@ -8640,7 +8640,7 @@
         <SenseRelation relType="derivation" target="ewn-head__2_42_01__"/>
         <SenseRelation relType="derivation" target="ewn-head__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-head__2_38_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bali-n">
       <Lemma writtenForm="Bali" partOfSpeech="n"/>
@@ -8650,10 +8650,10 @@
       <Lemma writtenForm="Scandinavia" partOfSpeech="n"/>
       <Sense id="ewn-scandinavia__1_15_01__" n="0" synset="ewn-08778689-n">
         <SenseRelation relType="derivation" target="ewn-scandinavian__3_01_02__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-scandinavia__1_15_00__" n="1" synset="ewn-08778343-n">
         <SenseRelation relType="derivation" target="ewn-scandinavian__3_01_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Buckingham_Palace-n">
       <Lemma writtenForm="Buckingham Palace" partOfSpeech="n"/>
@@ -8681,7 +8681,7 @@
       </Lemma>
       <Sense id="ewn-antipodes__1_15_00__" n="0" synset="ewn-08649325-n">
         <SenseRelation relType="derivation" target="ewn-antipodal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Gorky-n">
       <Lemma writtenForm="Gorky" partOfSpeech="n"/>
@@ -8713,7 +8713,7 @@
       </Lemma>
       <Sense id="ewn-city__1_15_00__" n="0" synset="ewn-08542298-n">
         <SenseRelation relType="derivation" target="ewn-citify__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-city__1_15_01__" n="1" synset="ewn-08558466-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-centre_of_buoyancy-n">
@@ -8721,13 +8721,13 @@
       <Sense id="ewn-centre_of_buoyancy__1_15_00__" n="0" synset="ewn-08539508-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Corinth-n">
       <Lemma writtenForm="Corinth" partOfSpeech="n"/>
       <Sense id="ewn-corinth__1_15_00__" n="0" synset="ewn-08804284-n">
         <SenseRelation relType="derivation" target="ewn-corinthian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mete-n">
       <Lemma writtenForm="mete" partOfSpeech="n"/>
@@ -8747,7 +8747,7 @@
       <Sense id="ewn-pole__1_15_00__" n="5" synset="ewn-08638456-n">
         <SenseRelation relType="derivation" target="ewn-polar__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-polar__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-surroundings-n">
       <Lemma writtenForm="surroundings" partOfSpeech="n">
@@ -8755,7 +8755,7 @@
       </Lemma>
       <Sense id="ewn-surroundings__1_15_00__" n="1" synset="ewn-08584764-n">
         <SenseRelation relType="derivation" target="ewn-surround__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_Croatia-n">
       <Lemma writtenForm="Republic of Croatia" partOfSpeech="n"/>
@@ -8803,7 +8803,7 @@
       </Lemma>
       <Sense id="ewn-monument__1_15_00__" n="1" synset="ewn-08617999-n">
         <SenseRelation relType="derivation" target="ewn-monumental__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-battleground-n">
       <Lemma writtenForm="battleground" partOfSpeech="n">
@@ -8823,7 +8823,7 @@
       <Lemma writtenForm="Alsace" partOfSpeech="n"/>
       <Sense id="ewn-alsace__1_15_00__" n="0" synset="ewn-08959982-n">
         <SenseRelation relType="derivation" target="ewn-alsatian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Netherlands_Antilles-n">
       <Lemma writtenForm="Netherlands Antilles" partOfSpeech="n"/>
@@ -8833,7 +8833,7 @@
       <Lemma writtenForm="Romania" partOfSpeech="n"/>
       <Sense id="ewn-romania__1_15_00__" n="0" synset="ewn-08831830-n">
         <SenseRelation relType="derivation" target="ewn-romanian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Scranton-n">
       <Lemma writtenForm="Scranton" partOfSpeech="n"/>
@@ -8947,7 +8947,7 @@
       <Lemma writtenForm="waste" partOfSpeech="n"/>
       <Sense id="ewn-waste__1_15_00__" n="3" synset="ewn-08521615-n">
         <SenseRelation relType="derivation" target="ewn-waste__5_00_00_inhospitable_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Leicester-n">
       <Lemma writtenForm="Leicester" partOfSpeech="n">
@@ -9024,7 +9024,7 @@
       <Lemma writtenForm="South Pole" partOfSpeech="n"/>
       <Sense id="ewn-south_pole__1_15_00__" n="0" synset="ewn-08670292-n">
         <SenseRelation relType="derivation" target="ewn-south-polar__5_00_00_polar_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kasbah-n">
       <Lemma writtenForm="kasbah" partOfSpeech="n"/>
@@ -9226,14 +9226,14 @@
       </Lemma>
       <Sense id="ewn-suburbia__1_15_00__" n="0" synset="ewn-08571977-n">
         <SenseRelation relType="derivation" target="ewn-suburban__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nerve_centre-n">
       <Lemma writtenForm="nerve centre" partOfSpeech="n"/>
       <Sense id="ewn-nerve_centre__1_15_00__" n="0" synset="ewn-08531522-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Santo_Domingo-n">
       <Lemma writtenForm="Santo Domingo" partOfSpeech="n"/>
@@ -9243,7 +9243,7 @@
       <Lemma writtenForm="core" partOfSpeech="n"/>
       <Sense id="ewn-core__1_15_00__" n="1" synset="ewn-08541787-n">
         <SenseRelation relType="derivation" target="ewn-core__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Valle_D-ap-Aosta-n">
       <Lemma writtenForm="Valle D&apos;Aosta" partOfSpeech="n"/>
@@ -9261,7 +9261,7 @@
       <Lemma writtenForm="Lappland" partOfSpeech="n"/>
       <Sense id="ewn-lappland__1_15_00__" n="0" synset="ewn-08976985-n">
         <SenseRelation relType="derivation" target="ewn-lapplander__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Calif.-n">
       <Lemma writtenForm="Calif." partOfSpeech="n"/>
@@ -9290,7 +9290,7 @@
       <Sense id="ewn-field__1_15_02__" n="7" synset="ewn-08588287-n">
         <SenseRelation relType="derivation" target="ewn-field__2_33_01__"/>
         <SenseRelation relType="derivation" target="ewn-field__2_33_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-field__1_15_03__" n="10" synset="ewn-08569203-n"/>
       <Sense id="ewn-field__1_15_05__" n="13" synset="ewn-08677077-n"/>
     </LexicalEntry>
@@ -9324,7 +9324,7 @@
       <Lemma writtenForm="outback" partOfSpeech="n"/>
       <Sense id="ewn-outback__1_15_00__" n="0" synset="ewn-08522131-n">
         <SenseRelation relType="derivation" target="ewn-outback__5_00_00_inaccessible_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-capital_of_Slovakia-n">
       <Lemma writtenForm="capital of Slovakia" partOfSpeech="n"/>
@@ -9404,7 +9404,7 @@
       <Lemma writtenForm="England" partOfSpeech="n"/>
       <Sense id="ewn-england__1_15_00__" n="0" synset="ewn-08891234-n">
         <SenseRelation relType="derivation" target="ewn-english__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-New_York_State_Barge_Canal-n">
       <Lemma writtenForm="New York State Barge Canal" partOfSpeech="n"/>
@@ -9430,10 +9430,10 @@
       <Lemma writtenForm="Corsica" partOfSpeech="n"/>
       <Sense id="ewn-corsica__1_15_01__" n="0" synset="ewn-08961864-n">
         <SenseRelation relType="derivation" target="ewn-corsican__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-corsica__1_15_00__" n="1" synset="ewn-08961668-n">
         <SenseRelation relType="derivation" target="ewn-corsican__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Mount_Vesuvius-n">
       <Lemma writtenForm="Mount Vesuvius" partOfSpeech="n"/>
@@ -9443,7 +9443,7 @@
       <Lemma writtenForm="circuit" partOfSpeech="n"/>
       <Sense id="ewn-circuit__1_15_00__" n="2" synset="ewn-08634560-n">
         <SenseRelation relType="derivation" target="ewn-circuit__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-circuit__1_15_01__" n="3" synset="ewn-08531740-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sun_Valley-n">
@@ -9462,7 +9462,7 @@
       <Sense id="ewn-wilderness__1_15_00__" n="1" synset="ewn-08701286-n">
         <SenseRelation relType="derivation" target="ewn-wild__5_00_00_inhospitable_00"/>
         <SenseRelation relType="derivation" target="ewn-wild__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nirvana-n">
       <Lemma writtenForm="nirvana" partOfSpeech="n">
@@ -9486,7 +9486,7 @@
       <Lemma writtenForm="Austria" partOfSpeech="n"/>
       <Sense id="ewn-austria__1_15_00__" n="0" synset="ewn-08864547-n">
         <SenseRelation relType="derivation" target="ewn-austrian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tropic-n">
       <Lemma writtenForm="tropic" partOfSpeech="n">
@@ -9496,7 +9496,7 @@
         <SenseRelation relType="derivation" target="ewn-tropical__5_00_00_hot_01"/>
         <SenseRelation relType="derivation" target="ewn-tropical__5_00_00_equatorial_00"/>
         <SenseRelation relType="derivation" target="ewn-tropical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sapporo-n">
       <Lemma writtenForm="Sapporo" partOfSpeech="n"/>
@@ -9554,7 +9554,7 @@
       <Lemma writtenForm="Sabah" partOfSpeech="n"/>
       <Sense id="ewn-sabah__1_15_00__" n="0" synset="ewn-08986934-n">
         <SenseRelation relType="derivation" target="ewn-sabahan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sao_Louis-n">
       <Lemma writtenForm="Sao Louis" partOfSpeech="n"/>
@@ -9608,7 +9608,7 @@
       <Sense id="ewn-nauru__1_15_00__" n="0" synset="ewn-08860475-n"/>
       <Sense id="ewn-nauru__1_15_01__" n="1" synset="ewn-08860201-n">
         <SenseRelation relType="derivation" target="ewn-nauruan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-St._Kitts-n">
       <Lemma writtenForm="St. Kitts" partOfSpeech="n"/>
@@ -9618,7 +9618,7 @@
       <Lemma writtenForm="course" partOfSpeech="n"/>
       <Sense id="ewn-course__1_15_00__" n="2" synset="ewn-08698960-n">
         <SenseRelation relType="derivation" target="ewn-course__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plane_section-n">
       <Lemma writtenForm="plane section" partOfSpeech="n"/>
@@ -9628,7 +9628,7 @@
       <Lemma writtenForm="Caucasus" partOfSpeech="n"/>
       <Sense id="ewn-caucasus__1_15_00__" n="1" synset="ewn-08536807-n">
         <SenseRelation relType="derivation" target="ewn-caucasic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-south-n">
       <Lemma writtenForm="south" partOfSpeech="n">
@@ -9688,7 +9688,7 @@
       <Sense id="ewn-clearing__1_15_00__" n="0" synset="ewn-08558851-n">
         <SenseRelation relType="derivation" target="ewn-clear__2_30_09__"/>
         <SenseRelation relType="derivation" target="ewn-clear__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Vladivostok-n">
       <Lemma writtenForm="Vladivostok" partOfSpeech="n"/>
@@ -9712,7 +9712,7 @@
       </Lemma>
       <Sense id="ewn-longitude__1_15_00__" n="0" synset="ewn-08614224-n">
         <SenseRelation relType="derivation" target="ewn-longitudinal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-scenery-n">
       <Lemma writtenForm="scenery" partOfSpeech="n">
@@ -9759,7 +9759,7 @@
       </Lemma>
       <Sense id="ewn-jordan__1_15_00__" n="1" synset="ewn-08946959-n">
         <SenseRelation relType="derivation" target="ewn-jordanian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Singan-n">
       <Lemma writtenForm="Singan" partOfSpeech="n"/>
@@ -9882,16 +9882,16 @@
         <SenseRelation relType="derivation" target="ewn-frontal__5_00_01_anterior_00"/>
         <SenseRelation relType="derivation" target="ewn-front__2_33_00__"/>
         <SenseRelation relType="derivation" target="ewn-front__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-front__1_15_01__" n="1" synset="ewn-08591221-n">
         <SenseRelation relType="derivation" target="ewn-frontal__5_00_00_front_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-front__1_15_03__" n="7" synset="ewn-08660207-n"/>
       <Sense id="ewn-front__1_15_02__" n="8" synset="ewn-08643655-n">
         <SenseRelation relType="antonym" target="ewn-back__1_15_02__"/>
         <SenseRelation relType="derivation" target="ewn-frontal__5_00_01_anterior_00"/>
         <SenseRelation relType="derivation" target="ewn-front__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Villa_Hermosa-n">
       <Lemma writtenForm="Villa Hermosa" partOfSpeech="n"/>
@@ -9916,7 +9916,7 @@
       <Form writtenForm="aphelia"/>
       <Sense id="ewn-aphelion__1_15_00__" n="0" synset="ewn-08512918-n">
         <SenseRelation relType="antonym" target="ewn-perihelion__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_the_Sudan-n">
       <Lemma writtenForm="Republic of the Sudan" partOfSpeech="n"/>
@@ -9928,7 +9928,7 @@
       </Lemma>
       <Sense id="ewn-earldom__1_15_00__" n="1" synset="ewn-08574808-n">
         <SenseRelation relType="derivation" target="ewn-earl__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-capital-n">
       <Lemma writtenForm="capital" partOfSpeech="n">
@@ -9951,7 +9951,7 @@
       </Lemma>
       <Sense id="ewn-section__1_15_01__" n="2" synset="ewn-08665897-n">
         <SenseRelation relType="derivation" target="ewn-section__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-section__1_15_00__" n="7" synset="ewn-08665728-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Prescott-n">
@@ -9972,7 +9972,7 @@
       </Lemma>
       <Sense id="ewn-india__1_15_00__" n="0" synset="ewn-08920762-n">
         <SenseRelation relType="derivation" target="ewn-indian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Cotswold_Hills-n">
       <Lemma writtenForm="Cotswold Hills" partOfSpeech="n"/>
@@ -9996,7 +9996,7 @@
       </Lemma>
       <Sense id="ewn-juxtaposition__1_15_00__" n="1" synset="ewn-08641670-n">
         <SenseRelation relType="derivation" target="ewn-juxtapose__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Paducah-n">
       <Lemma writtenForm="Paducah" partOfSpeech="n">
@@ -10086,10 +10086,10 @@
       </Lemma>
       <Sense id="ewn-tasmania__1_15_01__" n="0" synset="ewn-08853115-n">
         <SenseRelation relType="derivation" target="ewn-tasmanian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-tasmania__1_15_00__" n="1" synset="ewn-08852973-n">
         <SenseRelation relType="derivation" target="ewn-tasmanian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Limeira-n">
       <Lemma writtenForm="Limeira" partOfSpeech="n"/>
@@ -10138,14 +10138,14 @@
       <Lemma writtenForm="Samoa" partOfSpeech="n"/>
       <Sense id="ewn-samoa__1_15_00__" n="0" synset="ewn-09013861-n">
         <SenseRelation relType="derivation" target="ewn-samoan__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-samoa__1_15_01__" n="1" synset="ewn-09013552-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-subtropics-n">
       <Lemma writtenForm="subtropics" partOfSpeech="n"/>
       <Sense id="ewn-subtropics__1_15_00__" n="0" synset="ewn-08692082-n">
         <SenseRelation relType="derivation" target="ewn-subtropic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Eastern_Samoa-n">
       <Lemma writtenForm="Eastern Samoa" partOfSpeech="n"/>
@@ -10159,7 +10159,7 @@
       <Lemma writtenForm="Latvia" partOfSpeech="n"/>
       <Sense id="ewn-latvia__1_15_00__" n="0" synset="ewn-09035444-n">
         <SenseRelation relType="derivation" target="ewn-latvian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-village_green-n">
       <Lemma writtenForm="village green" partOfSpeech="n"/>
@@ -10234,7 +10234,7 @@
       <Lemma writtenForm="Brunei" partOfSpeech="n"/>
       <Sense id="ewn-brunei__1_15_00__" n="0" synset="ewn-08916319-n">
         <SenseRelation relType="derivation" target="ewn-bruneian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-home_away_from_home-n">
       <Lemma writtenForm="home away from home" partOfSpeech="n"/>
@@ -10268,7 +10268,7 @@
       <Lemma writtenForm="Ecuador" partOfSpeech="n"/>
       <Sense id="ewn-ecuador__1_15_00__" n="0" synset="ewn-08794520-n">
         <SenseRelation relType="derivation" target="ewn-ecuadorian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Giza-n">
       <Lemma writtenForm="Giza" partOfSpeech="n"/>
@@ -10369,7 +10369,7 @@
       <Lemma writtenForm="Antarctic" partOfSpeech="n"/>
       <Sense id="ewn-antarctic__1_15_00__" n="0" synset="ewn-08511469-n">
         <SenseRelation relType="derivation" target="ewn-antarctic__5_00_00_polar_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-West_End-n">
       <Lemma writtenForm="West End" partOfSpeech="n"/>
@@ -10409,10 +10409,10 @@
       </Lemma>
       <Sense id="ewn-palestine__1_15_01__" n="0" synset="ewn-08816623-n">
         <SenseRelation relType="derivation" target="ewn-palestinian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-palestine__1_15_00__" n="1" synset="ewn-08816234-n">
         <SenseRelation relType="derivation" target="ewn-palestinian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-holy_place-n">
       <Lemma writtenForm="holy place" partOfSpeech="n"/>
@@ -10548,16 +10548,16 @@
       </Lemma>
       <Sense id="ewn-territory__1_15_00__" n="0" synset="ewn-08569713-n">
         <SenseRelation relType="derivation" target="ewn-territorial__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-territory__1_15_01__" n="2" synset="ewn-08510074-n">
         <SenseRelation relType="derivation" target="ewn-territorial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Monaco-n">
       <Lemma writtenForm="Monaco" partOfSpeech="n"/>
       <Sense id="ewn-monaco__1_15_00__" n="0" synset="ewn-08990219-n">
         <SenseRelation relType="derivation" target="ewn-monacan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Black_Africa-n">
       <Lemma writtenForm="Black Africa" partOfSpeech="n"/>
@@ -10623,7 +10623,7 @@
       <Lemma writtenForm="Bulgaria" partOfSpeech="n"/>
       <Sense id="ewn-bulgaria__1_15_00__" n="0" synset="ewn-08731965-n">
         <SenseRelation relType="derivation" target="ewn-bulgarian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-outpost-n">
       <Lemma writtenForm="outpost" partOfSpeech="n">
@@ -10672,7 +10672,7 @@
       <Sense id="ewn-cameroon__1_15_01__" n="0" synset="ewn-09196520-n"/>
       <Sense id="ewn-cameroon__1_15_00__" n="1" synset="ewn-08735042-n">
         <SenseRelation relType="derivation" target="ewn-cameroonian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Uppsala-n">
       <Lemma writtenForm="Uppsala" partOfSpeech="n"/>
@@ -10750,7 +10750,7 @@
       <Sense id="ewn-trend__1_15_02__" n="0" synset="ewn-08699515-n"/>
       <Sense id="ewn-trend__1_15_01__" n="1" synset="ewn-08698960-n">
         <SenseRelation relType="derivation" target="ewn-trend__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-St._Louis-n">
       <Lemma writtenForm="St. Louis" partOfSpeech="n"/>
@@ -10782,7 +10782,7 @@
       <Lemma writtenForm="Continent" partOfSpeech="n"/>
       <Sense id="ewn-continent__1_15_00__" n="0" synset="ewn-08714551-n">
         <SenseRelation relType="derivation" target="ewn-continental__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Marseille-n">
       <Lemma writtenForm="Marseille" partOfSpeech="n"/>
@@ -10798,7 +10798,7 @@
       </Lemma>
       <Sense id="ewn-galloway__1_15_00__" n="0" synset="ewn-08912285-n">
         <SenseRelation relType="derivation" target="ewn-galwegian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Fort_Myers-n">
       <Lemma writtenForm="Fort Myers" partOfSpeech="n"/>
@@ -10811,7 +10811,7 @@
       </Lemma>
       <Sense id="ewn-earth__1_15_00__" n="1" synset="ewn-08579604-n">
         <SenseRelation relType="derivation" target="ewn-earthly__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Brownsville-n">
       <Lemma writtenForm="Brownsville" partOfSpeech="n"/>
@@ -10890,7 +10890,7 @@
       <Lemma writtenForm="Lithuania" partOfSpeech="n"/>
       <Sense id="ewn-lithuania__1_15_00__" n="0" synset="ewn-09036200-n">
         <SenseRelation relType="derivation" target="ewn-lithuanian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sunflower_State-n">
       <Lemma writtenForm="Sunflower State" partOfSpeech="n"/>
@@ -10900,7 +10900,7 @@
       <Lemma writtenForm="back" partOfSpeech="n"/>
       <Sense id="ewn-back__1_15_02__" n="2" synset="ewn-08643421-n">
         <SenseRelation relType="antonym" target="ewn-front__1_15_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-polling_station-n">
       <Lemma writtenForm="polling station" partOfSpeech="n"/>
@@ -11002,7 +11002,7 @@
       <Sense id="ewn-mozambique__1_15_00__" n="0" synset="ewn-08993376-n">
         <SenseRelation relType="derivation" target="ewn-mozambican__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-mozambican__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Spain-n">
       <Lemma writtenForm="Spain" partOfSpeech="n"/>
@@ -11139,10 +11139,10 @@
       </Lemma>
       <Sense id="ewn-town__1_15_00__" n="0" synset="ewn-08683242-n">
         <SenseRelation relType="derivation" target="ewn-township__1_15_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-town__1_15_01__" n="2" synset="ewn-08689937-n">
         <SenseRelation relType="derivation" target="ewn-township__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Libreville-n">
       <Lemma writtenForm="Libreville" partOfSpeech="n"/>
@@ -11180,7 +11180,7 @@
       <Lemma writtenForm="mooring" partOfSpeech="n"/>
       <Sense id="ewn-mooring__1_15_00__" n="0" synset="ewn-08657686-n">
         <SenseRelation relType="derivation" target="ewn-moor__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-North-n">
       <Lemma writtenForm="North" partOfSpeech="n">
@@ -11210,7 +11210,7 @@
       </Lemma>
       <Sense id="ewn-north_pole__1_15_00__" n="0" synset="ewn-08629393-n">
         <SenseRelation relType="derivation" target="ewn-north-polar__5_00_00_polar_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Okla.-n">
       <Lemma writtenForm="Okla." partOfSpeech="n"/>
@@ -11235,7 +11235,7 @@
       <Sense id="ewn-township__1_15_00__" n="0" synset="ewn-08689937-n">
         <SenseRelation relType="derivation" target="ewn-town__1_15_01__"/>
         <SenseRelation relType="derivation" target="ewn-town__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Stambul-n">
       <Lemma writtenForm="Stambul" partOfSpeech="n"/>
@@ -11383,7 +11383,7 @@
       </Lemma>
       <Sense id="ewn-stage__1_15_00__" n="6" synset="ewn-08664141-n">
         <SenseRelation relType="derivation" target="ewn-stage__2_36_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Oujda-n">
       <Lemma writtenForm="Oujda" partOfSpeech="n"/>
@@ -11396,7 +11396,7 @@
       <Form writtenForm="feet"/>
       <Sense id="ewn-foot__1_15_00__" n="2" synset="ewn-08528642-n">
         <SenseRelation relType="antonym" target="ewn-head__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-finish-n">
       <Lemma writtenForm="finish" partOfSpeech="n">
@@ -11492,14 +11492,14 @@
       </Lemma>
       <Sense id="ewn-edge__1_15_00__" n="0" synset="ewn-08583230-n">
         <SenseRelation relType="derivation" target="ewn-edge__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sardinia-n">
       <Lemma writtenForm="Sardinia" partOfSpeech="n"/>
       <Sense id="ewn-sardinia__1_15_00__" n="0" synset="ewn-08828638-n"/>
       <Sense id="ewn-sardinia__1_15_01__" n="1" synset="ewn-08828483-n">
         <SenseRelation relType="derivation" target="ewn-sardinian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Suriname-n">
       <Lemma writtenForm="Suriname" partOfSpeech="n"/>
@@ -11515,7 +11515,7 @@
       </Lemma>
       <Sense id="ewn-domicile__1_15_00__" n="0" synset="ewn-08576692-n">
         <SenseRelation relType="derivation" target="ewn-domiciliary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Seville-n">
       <Lemma writtenForm="Seville" partOfSpeech="n"/>
@@ -11561,7 +11561,7 @@
       <Lemma writtenForm="North Korea" partOfSpeech="n"/>
       <Sense id="ewn-north_korea__1_15_00__" n="0" synset="ewn-08974855-n">
         <SenseRelation relType="derivation" target="ewn-north_korean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Mt._St._Helens-n">
       <Lemma writtenForm="Mt. St. Helens" partOfSpeech="n"/>
@@ -11588,7 +11588,7 @@
       <Sense id="ewn-united_states__1_15_00__" n="0" synset="ewn-09067337-n">
         <SenseRelation relType="has_domain_region" target="ewn-scallion__1_13_00__"/>
         <SenseRelation relType="has_domain_region" target="ewn-checking_account__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Guangzhou-n">
       <Lemma writtenForm="Guangzhou" partOfSpeech="n"/>
@@ -11648,7 +11648,7 @@
       <Lemma writtenForm="Sierra Leone" partOfSpeech="n"/>
       <Sense id="ewn-sierra_leone__1_15_00__" n="0" synset="ewn-09019241-n">
         <SenseRelation relType="derivation" target="ewn-sierra_leonean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-northland-n">
       <Lemma writtenForm="northland" partOfSpeech="n"/>
@@ -11725,7 +11725,7 @@
         <SenseRelation relType="derivation" target="ewn-malaysian__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-malayan__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-malayan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Tibur-n">
       <Lemma writtenForm="Tibur" partOfSpeech="n"/>
@@ -11745,7 +11745,7 @@
       </Lemma>
       <Sense id="ewn-view__1_15_00__" n="3" synset="ewn-08578489-n">
         <SenseRelation relType="derivation" target="ewn-view__2_39_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Goteborg-n">
       <Lemma writtenForm="Goteborg" partOfSpeech="n"/>
@@ -11762,7 +11762,7 @@
       </Lemma>
       <Sense id="ewn-prefecture__1_15_00__" n="0" synset="ewn-08644522-n">
         <SenseRelation relType="derivation" target="ewn-prefectural__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Palm_Beach-n">
       <Lemma writtenForm="Palm Beach" partOfSpeech="n"/>
@@ -11772,7 +11772,7 @@
       <Lemma writtenForm="South Africa" partOfSpeech="n"/>
       <Sense id="ewn-south_africa__1_15_00__" n="0" synset="ewn-09021852-n">
         <SenseRelation relType="derivation" target="ewn-south_african__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-baulk-n">
       <Lemma writtenForm="baulk" partOfSpeech="n">
@@ -11832,7 +11832,7 @@
       <Lemma writtenForm="rootage" partOfSpeech="n"/>
       <Sense id="ewn-rootage__1_15_00__" n="2" synset="ewn-08524579-n">
         <SenseRelation relType="derivation" target="ewn-root__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Reykjavik-n">
       <Lemma writtenForm="Reykjavik" partOfSpeech="n"/>
@@ -11858,7 +11858,7 @@
       <Lemma writtenForm="centroid" partOfSpeech="n"/>
       <Sense id="ewn-centroid__1_15_00__" n="0" synset="ewn-08540628-n">
         <SenseRelation relType="derivation" target="ewn-centroidal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Dijon-n">
       <Lemma writtenForm="Dijon" partOfSpeech="n">
@@ -11949,7 +11949,7 @@
       <Lemma writtenForm="Sarawak" partOfSpeech="n"/>
       <Sense id="ewn-sarawak__1_15_00__" n="0" synset="ewn-08987197-n">
         <SenseRelation relType="derivation" target="ewn-sarawakian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-polar_circle-n">
       <Lemma writtenForm="polar circle" partOfSpeech="n"/>
@@ -11995,7 +11995,7 @@
       <Lemma writtenForm="apolune" partOfSpeech="n"/>
       <Sense id="ewn-apolune__1_15_00__" n="0" synset="ewn-08513209-n">
         <SenseRelation relType="antonym" target="ewn-perilune__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Mysore-n">
       <Lemma writtenForm="Mysore" partOfSpeech="n"/>
@@ -12009,7 +12009,7 @@
       </Lemma>
       <Sense id="ewn-norway__1_15_00__" n="0" synset="ewn-08781940-n">
         <SenseRelation relType="derivation" target="ewn-norwegian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Crown_Colony-n">
       <Lemma writtenForm="Crown Colony" partOfSpeech="n"/>
@@ -12100,7 +12100,7 @@
       <Lemma writtenForm="Tyrol" partOfSpeech="n"/>
       <Sense id="ewn-tyrol__1_15_00__" n="0" synset="ewn-08865127-n">
         <SenseRelation relType="derivation" target="ewn-tyrolean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Tidewater-n">
       <Lemma writtenForm="Tidewater" partOfSpeech="n"/>
@@ -12147,10 +12147,10 @@
       <Lemma writtenForm="Egypt" partOfSpeech="n"/>
       <Sense id="ewn-egypt__1_15_00__" n="0" synset="ewn-08917311-n">
         <SenseRelation relType="derivation" target="ewn-egyptian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-egypt__1_15_01__" n="1" synset="ewn-08917077-n">
         <SenseRelation relType="derivation" target="ewn-egyptian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-imperium-n">
       <Lemma writtenForm="imperium" partOfSpeech="n">
@@ -12184,7 +12184,7 @@
       </Lemma>
       <Sense id="ewn-hideout__1_15_00__" n="0" synset="ewn-08601745-n">
         <SenseRelation relType="derivation" target="ewn-hide_out__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Lisboa-n">
       <Lemma writtenForm="Lisboa" partOfSpeech="n"/>
@@ -12202,7 +12202,7 @@
       <Sense id="ewn-neighborhood__1_15_00__" n="0" synset="ewn-08658688-n">
         <SenseRelation relType="derivation" target="ewn-neighbor__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-neighbor__1_17_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-neighborhood__1_15_01__" n="3" synset="ewn-08659906-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-City_of_Bridges-n">
@@ -12220,7 +12220,7 @@
       <Sense id="ewn-benthos__1_15_00__" n="0" synset="ewn-08596045-n">
         <SenseRelation relType="derivation" target="ewn-benthonic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-benthal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Angolan_capital-n">
       <Lemma writtenForm="Angolan capital" partOfSpeech="n"/>
@@ -12335,13 +12335,13 @@
       <Lemma writtenForm="Caucasia" partOfSpeech="n"/>
       <Sense id="ewn-caucasia__1_15_00__" n="0" synset="ewn-08536807-n">
         <SenseRelation relType="derivation" target="ewn-caucasian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Roumania-n">
       <Lemma writtenForm="Roumania" partOfSpeech="n"/>
       <Sense id="ewn-roumania__1_15_00__" n="0" synset="ewn-08831830-n">
         <SenseRelation relType="derivation" target="ewn-roumanian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-anchorage-n">
       <Lemma writtenForm="anchorage" partOfSpeech="n">
@@ -12349,7 +12349,7 @@
       </Lemma>
       <Sense id="ewn-anchorage__1_15_00__" n="1" synset="ewn-08657351-n">
         <SenseRelation relType="derivation" target="ewn-anchor__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Virginia-n">
       <Lemma writtenForm="Virginia" partOfSpeech="n"/>
@@ -12405,7 +12405,7 @@
       </Lemma>
       <Sense id="ewn-outdoors__1_15_00__" n="0" synset="ewn-08631308-n">
         <SenseRelation relType="derivation" target="ewn-outdoorsy__5_00_00_outdoor_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Wessex-n">
       <Lemma writtenForm="Wessex" partOfSpeech="n"/>
@@ -12442,7 +12442,7 @@
       </Lemma>
       <Sense id="ewn-diocese__1_15_00__" n="0" synset="ewn-08568541-n">
         <SenseRelation relType="derivation" target="ewn-diocesan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-burial_site-n">
       <Lemma writtenForm="burial site" partOfSpeech="n"/>
@@ -12537,7 +12537,7 @@
       <Lemma writtenForm="downtown" partOfSpeech="n"/>
       <Sense id="ewn-downtown__1_15_00__" n="0" synset="ewn-08556635-n">
         <SenseRelation relType="derivation" target="ewn-downtown__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Prague-n">
       <Lemma writtenForm="Prague" partOfSpeech="n"/>
@@ -12561,7 +12561,7 @@
       <Lemma writtenForm="Arabia" partOfSpeech="n"/>
       <Sense id="ewn-arabia__1_15_00__" n="0" synset="ewn-08866686-n">
         <SenseRelation relType="derivation" target="ewn-arabian__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-capital_of_Turkey-n">
       <Lemma writtenForm="capital of Turkey" partOfSpeech="n"/>
@@ -12589,7 +12589,7 @@
       </Lemma>
       <Sense id="ewn-jurisdiction__1_15_00__" n="1" synset="ewn-08607925-n">
         <SenseRelation relType="derivation" target="ewn-jurisdictional__5_00_00_territorial_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tax_haven-n">
       <Lemma writtenForm="tax haven" partOfSpeech="n"/>
@@ -12615,7 +12615,7 @@
       <Lemma writtenForm="Chios" partOfSpeech="n"/>
       <Sense id="ewn-chios__1_15_00__" n="0" synset="ewn-08800828-n">
         <SenseRelation relType="derivation" target="ewn-chian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Caribbean-n">
       <Lemma writtenForm="Caribbean" partOfSpeech="n">
@@ -12803,7 +12803,7 @@
       <Sense id="ewn-neighbourhood__1_15_00__" n="0" synset="ewn-08658688-n">
         <SenseRelation relType="derivation" target="ewn-neighbour__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-neighbour__1_17_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-inner_city-n">
       <Lemma writtenForm="inner city" partOfSpeech="n"/>
@@ -12895,7 +12895,7 @@
       <Lemma writtenForm="Uruguay" partOfSpeech="n"/>
       <Sense id="ewn-uruguay__1_15_00__" n="0" synset="ewn-09183088-n">
         <SenseRelation relType="derivation" target="ewn-uruguayan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Graz-n">
       <Lemma writtenForm="Graz" partOfSpeech="n"/>
@@ -12953,7 +12953,7 @@
       </Lemma>
       <Sense id="ewn-profile__1_15_01__" n="1" synset="ewn-08630777-n">
         <SenseRelation relType="derivation" target="ewn-profile__2_36_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-profile__1_15_00__" n="4" synset="ewn-08565990-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Federated_States_of_Micronesia-n">
@@ -12991,7 +12991,7 @@
       </Lemma>
       <Sense id="ewn-moldova__1_15_00__" n="0" synset="ewn-09036956-n">
         <SenseRelation relType="derivation" target="ewn-moldovan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Platt_National_Park-n">
       <Lemma writtenForm="Platt National Park" partOfSpeech="n"/>
@@ -13012,7 +13012,7 @@
       </Lemma>
       <Sense id="ewn-colony__1_15_00__" n="0" synset="ewn-09070916-n">
         <SenseRelation relType="derivation" target="ewn-colonist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Johor-n">
       <Lemma writtenForm="Johor" partOfSpeech="n"/>
@@ -13122,7 +13122,7 @@
       <Lemma writtenForm="Naples" partOfSpeech="n"/>
       <Sense id="ewn-naples__1_15_00__" n="0" synset="ewn-08823417-n">
         <SenseRelation relType="derivation" target="ewn-neapolitan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-barren-n">
       <Lemma writtenForm="barren" partOfSpeech="n">
@@ -13130,7 +13130,7 @@
       </Lemma>
       <Sense id="ewn-barren__1_15_00__" n="0" synset="ewn-08521615-n">
         <SenseRelation relType="derivation" target="ewn-barren__5_00_00_inhospitable_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-scour-n">
       <Lemma writtenForm="scour" partOfSpeech="n"/>
@@ -13138,7 +13138,7 @@
         <SenseRelation relType="derivation" target="ewn-scour__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-scour__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-scour__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Iberian_Peninsula-n">
       <Lemma writtenForm="Iberian Peninsula" partOfSpeech="n"/>
@@ -13250,7 +13250,7 @@
       </Lemma>
       <Sense id="ewn-space__1_15_00__" n="2" synset="ewn-08670545-n">
         <SenseRelation relType="derivation" target="ewn-spacious__5_00_00_commodious_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-space__1_15_01__" n="3" synset="ewn-08517454-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Nei_Monggol-n">
@@ -13312,7 +13312,7 @@
       <Lemma writtenForm="Calcutta" partOfSpeech="n"/>
       <Sense id="ewn-calcutta__1_15_00__" n="0" synset="ewn-08923604-n">
         <SenseRelation relType="derivation" target="ewn-calcuttan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Honshu-n">
       <Lemma writtenForm="Honshu" partOfSpeech="n"/>
@@ -13322,7 +13322,7 @@
       <Lemma writtenForm="wild" partOfSpeech="n"/>
       <Sense id="ewn-wild__1_15_00__" n="1" synset="ewn-08701286-n">
         <SenseRelation relType="derivation" target="ewn-wild__5_00_00_inhospitable_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sarasota-n">
       <Lemma writtenForm="Sarasota" partOfSpeech="n"/>
@@ -13332,7 +13332,7 @@
       <Lemma writtenForm="Libya" partOfSpeech="n"/>
       <Sense id="ewn-libya__1_15_00__" n="0" synset="ewn-08979456-n">
         <SenseRelation relType="derivation" target="ewn-libyan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Indochina-n">
       <Lemma writtenForm="Indochina" partOfSpeech="n"/>
@@ -13343,7 +13343,7 @@
       <Sense id="ewn-excavation__1_15_00__" n="1" synset="ewn-08567651-n">
         <SenseRelation relType="derivation" target="ewn-excavate__2_39_00__"/>
         <SenseRelation relType="derivation" target="ewn-excavate__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Uzbek-n">
       <Lemma writtenForm="Uzbek" partOfSpeech="n"/>
@@ -13398,7 +13398,7 @@
       </Lemma>
       <Sense id="ewn-surface__1_15_00__" n="1" synset="ewn-08677970-n">
         <SenseRelation relType="derivation" target="ewn-surface__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Okinawa-n">
       <Lemma writtenForm="Okinawa" partOfSpeech="n"/>
@@ -13436,7 +13436,7 @@
       <Lemma writtenForm="periapsis" partOfSpeech="n"/>
       <Sense id="ewn-periapsis__1_15_00__" n="0" synset="ewn-08635954-n">
         <SenseRelation relType="antonym" target="ewn-apoapsis__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-side-n">
       <Lemma writtenForm="side" partOfSpeech="n"/>
@@ -13483,10 +13483,10 @@
       <Lemma writtenForm="open" partOfSpeech="n"/>
       <Sense id="ewn-open__1_15_01__" n="0" synset="ewn-08649998-n">
         <SenseRelation relType="derivation" target="ewn-open__5_00_00_unobstructed_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-open__1_15_02__" n="1" synset="ewn-08631308-n">
         <SenseRelation relType="derivation" target="ewn-open__5_00_00_unenclosed_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-British_Honduras-n">
       <Lemma writtenForm="British Honduras" partOfSpeech="n"/>
@@ -13503,7 +13503,7 @@
       <Lemma writtenForm="antinode" partOfSpeech="n"/>
       <Sense id="ewn-antinode__1_15_00__" n="0" synset="ewn-08515760-n">
         <SenseRelation relType="antonym" target="ewn-node__1_15_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bangui-n">
       <Lemma writtenForm="Bangui" partOfSpeech="n"/>
@@ -13546,7 +13546,7 @@
       <Form writtenForm="perihelia"/>
       <Sense id="ewn-perihelion__1_15_00__" n="0" synset="ewn-08636406-n">
         <SenseRelation relType="antonym" target="ewn-aphelion__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Arequipa-n">
       <Lemma writtenForm="Arequipa" partOfSpeech="n"/>
@@ -13845,7 +13845,7 @@
       <Lemma writtenForm="East India" partOfSpeech="n"/>
       <Sense id="ewn-east_india__1_15_00__" n="0" synset="ewn-08860948-n">
         <SenseRelation relType="derivation" target="ewn-east_indian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Lassa-n">
       <Lemma writtenForm="Lassa" partOfSpeech="n"/>
@@ -13855,7 +13855,7 @@
       <Lemma writtenForm="Mesoamerica" partOfSpeech="n"/>
       <Sense id="ewn-mesoamerica__1_15_00__" n="0" synset="ewn-08753397-n">
         <SenseRelation relType="derivation" target="ewn-mesoamerican__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-International_Date_Line-n">
       <Lemma writtenForm="International Date Line" partOfSpeech="n"/>
@@ -13889,7 +13889,7 @@
       <Lemma writtenForm="Lusitania" partOfSpeech="n"/>
       <Sense id="ewn-lusitania__1_15_00__" n="0" synset="ewn-09189097-n">
         <SenseRelation relType="derivation" target="ewn-lusitanian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Dalian-n">
       <Lemma writtenForm="Dalian" partOfSpeech="n"/>
@@ -13899,7 +13899,7 @@
       <Lemma writtenForm="Costa Rica" partOfSpeech="n"/>
       <Sense id="ewn-costa_rica__1_15_00__" n="0" synset="ewn-08753940-n">
         <SenseRelation relType="derivation" target="ewn-costa_rican__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Molise-n">
       <Lemma writtenForm="Molise" partOfSpeech="n"/>
@@ -14017,7 +14017,7 @@
       </Lemma>
       <Sense id="ewn-divide__1_15_00__" n="1" synset="ewn-08697107-n">
         <SenseRelation relType="derivation" target="ewn-divide__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Castilla-n">
       <Lemma writtenForm="Castilla" partOfSpeech="n"/>
@@ -14059,7 +14059,7 @@
       <Lemma writtenForm="right" partOfSpeech="n"/>
       <Sense id="ewn-right__1_15_00__" n="1" synset="ewn-08642648-n">
         <SenseRelation relType="antonym" target="ewn-left__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-F_layer-n">
       <Lemma writtenForm="F layer" partOfSpeech="n"/>
@@ -14084,7 +14084,7 @@
       </Lemma>
       <Sense id="ewn-brazil__1_15_00__" n="0" synset="ewn-08872733-n">
         <SenseRelation relType="derivation" target="ewn-brazilian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-place_of_origin-n">
       <Lemma writtenForm="place of origin" partOfSpeech="n"/>
@@ -14120,7 +14120,7 @@
       </Lemma>
       <Sense id="ewn-bivouac__1_15_00__" n="1" synset="ewn-08535449-n">
         <SenseRelation relType="derivation" target="ewn-bivouac__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Thebes-n">
       <Lemma writtenForm="Thebes" partOfSpeech="n"/>
@@ -14191,7 +14191,7 @@
       <Lemma writtenForm="Gibraltar" partOfSpeech="n"/>
       <Sense id="ewn-gibraltar__1_15_00__" n="0" synset="ewn-09051211-n">
         <SenseRelation relType="derivation" target="ewn-gibraltarian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Galilee-n">
       <Lemma writtenForm="Galilee" partOfSpeech="n"/>
@@ -14199,7 +14199,7 @@
         <SenseRelation relType="derivation" target="ewn-galilean__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-galilean__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-galilaean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Dallas-n">
       <Lemma writtenForm="Dallas" partOfSpeech="n"/>
@@ -14210,7 +14210,7 @@
       <Sense id="ewn-djibouti__1_15_01__" n="0" synset="ewn-08780656-n"/>
       <Sense id="ewn-djibouti__1_15_00__" n="1" synset="ewn-08780328-n">
         <SenseRelation relType="derivation" target="ewn-djiboutian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-isogonal_line-n">
       <Lemma writtenForm="isogonal line" partOfSpeech="n"/>
@@ -14236,7 +14236,7 @@
       <Lemma writtenForm="root" partOfSpeech="n"/>
       <Sense id="ewn-root__1_15_00__" n="1" synset="ewn-08524579-n">
         <SenseRelation relType="derivation" target="ewn-root__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Rand-n">
       <Lemma writtenForm="Rand" partOfSpeech="n"/>
@@ -14268,10 +14268,10 @@
       </Lemma>
       <Sense id="ewn-outside__1_15_01__" n="0" synset="ewn-08631168-n">
         <SenseRelation relType="antonym" target="ewn-inside__1_15_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-outside__1_15_00__" n="1" synset="ewn-08631047-n">
         <SenseRelation relType="antonym" target="ewn-inside__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sfax-n">
       <Lemma writtenForm="Sfax" partOfSpeech="n"/>
@@ -14289,7 +14289,7 @@
       <Form writtenForm="minima"/>
       <Sense id="ewn-minimum__1_15_00__" n="1" synset="ewn-08617830-n">
         <SenseRelation relType="antonym" target="ewn-maximum__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-aim-n">
       <Lemma writtenForm="aim" partOfSpeech="n"/>
@@ -14299,7 +14299,7 @@
       <Lemma writtenForm="Zambia" partOfSpeech="n"/>
       <Sense id="ewn-zambia__1_15_00__" n="0" synset="ewn-09188406-n">
         <SenseRelation relType="derivation" target="ewn-zambian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-West_Country-n">
       <Lemma writtenForm="West Country" partOfSpeech="n"/>
@@ -14333,7 +14333,7 @@
       <Sense id="ewn-province__1_15_00__" n="0" synset="ewn-08671935-n">
         <SenseRelation relType="derivation" target="ewn-provincial__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-provincial__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-North_Frigid_Zone-n">
       <Lemma writtenForm="North Frigid Zone" partOfSpeech="n"/>
@@ -14384,10 +14384,10 @@
       </Lemma>
       <Sense id="ewn-jamaica__1_15_00__" n="0" synset="ewn-08771766-n">
         <SenseRelation relType="derivation" target="ewn-jamaican__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-jamaica__1_15_01__" n="1" synset="ewn-08771562-n">
         <SenseRelation relType="derivation" target="ewn-jamaican__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Equatorial_Guinea-n">
       <Lemma writtenForm="Equatorial Guinea" partOfSpeech="n"/>
@@ -14405,7 +14405,7 @@
       <Lemma writtenForm="harbourage" partOfSpeech="n"/>
       <Sense id="ewn-harbourage__1_15_00__" n="0" synset="ewn-08661620-n">
         <SenseRelation relType="derivation" target="ewn-harbour__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-resort_hotel-n">
       <Lemma writtenForm="resort hotel" partOfSpeech="n"/>
@@ -14417,7 +14417,7 @@
       </Lemma>
       <Sense id="ewn-isotherm__1_15_00__" n="0" synset="ewn-08607728-n">
         <SenseRelation relType="derivation" target="ewn-isothermal__5_00_00_equal_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Kingdom_of_Tonga-n">
       <Lemma writtenForm="Kingdom of Tonga" partOfSpeech="n"/>
@@ -14441,7 +14441,7 @@
       </Lemma>
       <Sense id="ewn-situation__1_15_00__" n="3" synset="ewn-08640525-n">
         <SenseRelation relType="derivation" target="ewn-situate__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-approach_pattern-n">
       <Lemma writtenForm="approach pattern" partOfSpeech="n"/>
@@ -14487,7 +14487,7 @@
       </Lemma>
       <Sense id="ewn-equinoctial__1_15_00__" n="0" synset="ewn-08537373-n">
         <SenseRelation relType="derivation" target="ewn-equinoctial__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-IA-n">
       <Lemma writtenForm="IA" partOfSpeech="n"/>
@@ -14511,7 +14511,7 @@
       </Lemma>
       <Sense id="ewn-summit__1_15_00__" n="1" synset="ewn-08635538-n">
         <SenseRelation relType="derivation" target="ewn-summit__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Pisces_the_Fishes-n">
       <Lemma writtenForm="Pisces the Fishes" partOfSpeech="n"/>
@@ -14537,13 +14537,13 @@
       <Lemma writtenForm="Hungary" partOfSpeech="n"/>
       <Sense id="ewn-hungary__1_15_00__" n="0" synset="ewn-08971963-n">
         <SenseRelation relType="derivation" target="ewn-hungarian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Montserrat-n">
       <Lemma writtenForm="Montserrat" partOfSpeech="n"/>
       <Sense id="ewn-montserrat__1_15_00__" n="0" synset="ewn-08729133-n">
         <SenseRelation relType="derivation" target="ewn-montserratian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Mount_Athos-n">
       <Lemma writtenForm="Mount Athos" partOfSpeech="n"/>
@@ -14619,7 +14619,7 @@
       </Lemma>
       <Sense id="ewn-lot__1_15_00__" n="1" synset="ewn-08692708-n">
         <SenseRelation relType="derivation" target="ewn-lot__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Yerevan-n">
       <Lemma writtenForm="Yerevan" partOfSpeech="n"/>
@@ -14655,13 +14655,13 @@
       <Sense id="ewn-catalonia__1_15_00__" n="0" synset="ewn-09050432-n">
         <SenseRelation relType="derivation" target="ewn-catalan__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-catalan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Somalia-n">
       <Lemma writtenForm="Somalia" partOfSpeech="n"/>
       <Sense id="ewn-somalia__1_15_00__" n="0" synset="ewn-09020930-n">
         <SenseRelation relType="derivation" target="ewn-somalian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Victoria_Land-n">
       <Lemma writtenForm="Victoria Land" partOfSpeech="n"/>
@@ -14712,7 +14712,7 @@
       </Lemma>
       <Sense id="ewn-metropolis__1_15_00__" n="0" synset="ewn-08542298-n">
         <SenseRelation relType="derivation" target="ewn-metropolitan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-southland-n">
       <Lemma writtenForm="southland" partOfSpeech="n"/>
@@ -14783,7 +14783,7 @@
       <Lemma writtenForm="tee" partOfSpeech="n"/>
       <Sense id="ewn-tee__1_15_00__" n="0" synset="ewn-08679015-n">
         <SenseRelation relType="derivation" target="ewn-tee__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-post-office_box_number-n">
       <Lemma writtenForm="post-office box number" partOfSpeech="n"/>
@@ -14813,7 +14813,7 @@
       </Lemma>
       <Sense id="ewn-empire__1_15_00__" n="0" synset="ewn-08575019-n">
         <SenseRelation relType="derivation" target="ewn-imperial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-grand_duchy-n">
       <Lemma writtenForm="grand duchy" partOfSpeech="n"/>
@@ -14823,7 +14823,7 @@
       <Lemma writtenForm="Kenya" partOfSpeech="n"/>
       <Sense id="ewn-kenya__1_15_00__" n="0" synset="ewn-08947966-n">
         <SenseRelation relType="derivation" target="ewn-kenyan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Cheviots-n">
       <Lemma writtenForm="Cheviots" partOfSpeech="n"/>
@@ -14856,11 +14856,11 @@
       <Sense id="ewn-chaldea__1_15_00__" n="0" synset="ewn-08937654-n">
         <SenseRelation relType="derivation" target="ewn-chaldean__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-chaldaean__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-chaldea__1_15_01__" n="1" synset="ewn-08937276-n">
         <SenseRelation relType="derivation" target="ewn-chaldean__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-chaldaean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mailing_address-n">
       <Lemma writtenForm="mailing address" partOfSpeech="n"/>
@@ -14880,7 +14880,7 @@
       </Lemma>
       <Sense id="ewn-bohemia__1_15_00__" n="0" synset="ewn-08776715-n">
         <SenseRelation relType="derivation" target="ewn-bohemian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Port-of-Spain-n">
       <Lemma writtenForm="Port-of-Spain" partOfSpeech="n"/>
@@ -14918,7 +14918,7 @@
       <Lemma writtenForm="Siberia" partOfSpeech="n"/>
       <Sense id="ewn-siberia__1_15_00__" n="0" synset="ewn-09028082-n">
         <SenseRelation relType="derivation" target="ewn-siberian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-S.D.-n">
       <Lemma writtenForm="S.D." partOfSpeech="n"/>
@@ -14980,7 +14980,7 @@
       <Lemma writtenForm="leeward" partOfSpeech="n"/>
       <Sense id="ewn-leeward__1_15_00__" n="1" synset="ewn-08609908-n">
         <SenseRelation relType="antonym" target="ewn-windward__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-home-n">
       <Lemma writtenForm="home" partOfSpeech="n">
@@ -14991,7 +14991,7 @@
       <Sense id="ewn-home__1_15_04__" n="0" synset="ewn-08577045-n">
         <SenseRelation relType="derivation" target="ewn-homely__5_00_00_comfortable_00"/>
         <SenseRelation relType="derivation" target="ewn-home__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-home__1_15_02__" n="2" synset="ewn-08507209-n"/>
       <Sense id="ewn-home__1_15_05__" n="4" synset="ewn-08507412-n"/>
       <Sense id="ewn-home__1_15_03__" n="5" synset="ewn-08602685-n"/>
@@ -15009,7 +15009,7 @@
       <Sense id="ewn-centre_of_gravity__1_15_00__" n="0" synset="ewn-08539815-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Kerbela-n">
       <Lemma writtenForm="Kerbela" partOfSpeech="n"/>
@@ -15061,7 +15061,7 @@
       <Lemma writtenForm="antapex" partOfSpeech="n"/>
       <Sense id="ewn-antapex__1_15_00__" n="0" synset="ewn-08512259-n">
         <SenseRelation relType="antonym" target="ewn-apex__1_15_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Great_Sandy_Desert-n">
       <Lemma writtenForm="Great Sandy Desert" partOfSpeech="n"/>
@@ -15180,7 +15180,7 @@
       <Sense id="ewn-paradise__1_15_01__" n="0" synset="ewn-08583035-n">
         <SenseRelation relType="derivation" target="ewn-paradisiacal__5_00_00_heavenly_00"/>
         <SenseRelation relType="derivation" target="ewn-paradisal__5_00_00_heavenly_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Asheville-n">
       <Lemma writtenForm="Asheville" partOfSpeech="n"/>
@@ -15250,12 +15250,12 @@
         <SenseRelation relType="derivation" target="ewn-border__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-border__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-border__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-border__1_15_01__" n="2" synset="ewn-08583230-n">
         <SenseRelation relType="derivation" target="ewn-border__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-border__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-border__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-village-n">
       <Lemma writtenForm="village" partOfSpeech="n">
@@ -15283,7 +15283,7 @@
       </Lemma>
       <Sense id="ewn-parcel__1_15_00__" n="2" synset="ewn-08691133-n">
         <SenseRelation relType="derivation" target="ewn-parcel__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Moravia-n">
       <Lemma writtenForm="Moravia" partOfSpeech="n"/>
@@ -15541,7 +15541,7 @@
       <Lemma writtenForm="Morocco" partOfSpeech="n"/>
       <Sense id="ewn-morocco__1_15_00__" n="0" synset="ewn-08991642-n">
         <SenseRelation relType="derivation" target="ewn-moroccan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bowling_Green-n">
       <Lemma writtenForm="Bowling Green" partOfSpeech="n"/>
@@ -15568,7 +15568,7 @@
       <Lemma writtenForm="Italy" partOfSpeech="n"/>
       <Sense id="ewn-italy__1_15_00__" n="0" synset="ewn-08819530-n">
         <SenseRelation relType="derivation" target="ewn-italian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Old_World-n">
       <Lemma writtenForm="Old World" partOfSpeech="n"/>
@@ -15581,7 +15581,7 @@
       </Lemma>
       <Sense id="ewn-oxford__1_15_00__" n="0" synset="ewn-08898034-n">
         <SenseRelation relType="derivation" target="ewn-oxonian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-oxford__1_15_01__" n="1" synset="ewn-09100192-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Han-Gook-n">
@@ -15615,7 +15615,7 @@
       </Lemma>
       <Sense id="ewn-locality__1_15_00__" n="0" synset="ewn-08658688-n">
         <SenseRelation relType="derivation" target="ewn-local__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Yerwa-Maiduguri-n">
       <Lemma writtenForm="Yerwa-Maiduguri" partOfSpeech="n"/>
@@ -15678,7 +15678,7 @@
       <Lemma writtenForm="Anguilla" partOfSpeech="n"/>
       <Sense id="ewn-anguilla__1_15_00__" n="0" synset="ewn-08726575-n">
         <SenseRelation relType="derivation" target="ewn-anguillan__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-aclinic_line-n">
       <Lemma writtenForm="aclinic line" partOfSpeech="n"/>
@@ -15708,7 +15708,7 @@
       <Lemma writtenForm="Grenada" partOfSpeech="n"/>
       <Sense id="ewn-grenada__1_15_00__" n="0" synset="ewn-08966682-n">
         <SenseRelation relType="derivation" target="ewn-grenadian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Lilongwe-n">
       <Lemma writtenForm="Lilongwe" partOfSpeech="n"/>
@@ -15963,7 +15963,7 @@
       <Lemma writtenForm="perijove" partOfSpeech="n"/>
       <Sense id="ewn-perijove__1_15_00__" n="0" synset="ewn-08636581-n">
         <SenseRelation relType="antonym" target="ewn-apojove__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Ljubljana-n">
       <Lemma writtenForm="Ljubljana" partOfSpeech="n"/>
@@ -16033,7 +16033,7 @@
       </Lemma>
       <Sense id="ewn-crosscut__1_15_00__" n="0" synset="ewn-08634886-n">
         <SenseRelation relType="derivation" target="ewn-crosscut__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bismarck-n">
       <Lemma writtenForm="Bismarck" partOfSpeech="n">
@@ -16197,7 +16197,7 @@
       </Lemma>
       <Sense id="ewn-orient__1_15_00__" n="0" synset="ewn-08580157-n">
         <SenseRelation relType="derivation" target="ewn-oriental__5_00_00_eastern_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-string_line-n">
       <Lemma writtenForm="string line" partOfSpeech="n"/>
@@ -16248,7 +16248,7 @@
       <Sense id="ewn-olympia__1_15_00__" n="0" synset="ewn-09176763-n"/>
       <Sense id="ewn-olympia__1_15_01__" n="1" synset="ewn-08808805-n">
         <SenseRelation relType="derivation" target="ewn-olympic__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Land_of_Enchantment-n">
       <Lemma writtenForm="Land of Enchantment" partOfSpeech="n"/>
@@ -16319,7 +16319,7 @@
       </Lemma>
       <Sense id="ewn-earth__1_15_01__" n="3" synset="ewn-08579604-n">
         <SenseRelation relType="derivation" target="ewn-earthly__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trailhead-n">
       <Lemma writtenForm="trailhead" partOfSpeech="n"/>
@@ -16389,7 +16389,7 @@
       <Lemma writtenForm="Frisia" partOfSpeech="n"/>
       <Sense id="ewn-frisia__1_15_00__" n="0" synset="ewn-08971550-n">
         <SenseRelation relType="derivation" target="ewn-frisian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Picardie-n">
       <Lemma writtenForm="Picardie" partOfSpeech="n"/>
@@ -16422,7 +16422,7 @@
       <Sense id="ewn-argos__1_15_00__" n="0" synset="ewn-08804512-n">
         <SenseRelation relType="derivation" target="ewn-argive__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-argive__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Balance-n">
       <Lemma writtenForm="Balance" partOfSpeech="n">
@@ -16502,7 +16502,7 @@
       <Sense id="ewn-bosnia__1_15_01__" n="0" synset="ewn-08835987-n"/>
       <Sense id="ewn-bosnia__1_15_00__" n="1" synset="ewn-08835482-n">
         <SenseRelation relType="derivation" target="ewn-bosnian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Ibadan-n">
       <Lemma writtenForm="Ibadan" partOfSpeech="n"/>
@@ -16552,7 +16552,7 @@
       </Lemma>
       <Sense id="ewn-rendezvous__1_15_00__" n="1" synset="ewn-08660445-n">
         <SenseRelation relType="derivation" target="ewn-rendezvous__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Beira-n">
       <Lemma writtenForm="Beira" partOfSpeech="n"/>
@@ -16590,7 +16590,7 @@
       <Lemma writtenForm="Scotland" partOfSpeech="n"/>
       <Sense id="ewn-scotland__1_15_00__" n="0" synset="ewn-08910324-n">
         <SenseRelation relType="has_domain_region" target="ewn-braw__5_00_00_colorful_03"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Vichy-n">
       <Lemma writtenForm="Vichy" partOfSpeech="n"/>
@@ -16615,7 +16615,7 @@
       <Lemma writtenForm="Liverpool" partOfSpeech="n"/>
       <Sense id="ewn-liverpool__1_15_00__" n="0" synset="ewn-08897609-n">
         <SenseRelation relType="derivation" target="ewn-liverpudlian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Montego_Bay-n">
       <Lemma writtenForm="Montego Bay" partOfSpeech="n"/>
@@ -16628,7 +16628,7 @@
       <Sense id="ewn-demarcation__1_15_00__" n="0" synset="ewn-08610212-n">
         <SenseRelation relType="derivation" target="ewn-demarcate__2_31_01__"/>
         <SenseRelation relType="derivation" target="ewn-demarcate__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Morgantown-n">
       <Lemma writtenForm="Morgantown" partOfSpeech="n"/>
@@ -16725,10 +16725,10 @@
       </Lemma>
       <Sense id="ewn-crest__1_15_00__" n="0" synset="ewn-08565119-n">
         <SenseRelation relType="derivation" target="ewn-crest__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-crest__1_15_01__" n="1" synset="ewn-08635538-n">
         <SenseRelation relType="derivation" target="ewn-crest__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Guayaquil-n">
       <Lemma writtenForm="Guayaquil" partOfSpeech="n"/>
@@ -16740,7 +16740,7 @@
       </Lemma>
       <Sense id="ewn-reach__1_15_00__" n="0" synset="ewn-08646496-n">
         <SenseRelation relType="derivation" target="ewn-reach__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Maghreb-n">
       <Lemma writtenForm="Maghreb" partOfSpeech="n"/>
@@ -16906,7 +16906,7 @@
       </Lemma>
       <Sense id="ewn-interior__1_15_01__" n="0" synset="ewn-08605849-n">
         <SenseRelation relType="derivation" target="ewn-interiorize__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-interior__1_15_00__" n="1" synset="ewn-08605707-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-precinct-n">
@@ -16942,7 +16942,7 @@
       </Lemma>
       <Sense id="ewn-danger__1_15_00__" n="3" synset="ewn-08661788-n">
         <SenseRelation relType="derivation" target="ewn-dangerous__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-savannah-n">
       <Lemma writtenForm="savannah" partOfSpeech="n"/>
@@ -16960,7 +16960,7 @@
       <Lemma writtenForm="Mycenae" partOfSpeech="n"/>
       <Sense id="ewn-mycenae__1_15_00__" n="0" synset="ewn-08804901-n">
         <SenseRelation relType="derivation" target="ewn-mycenaean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Dodecanese-n">
       <Lemma writtenForm="Dodecanese" partOfSpeech="n"/>
@@ -17020,7 +17020,7 @@
       <Lemma writtenForm="harborage" partOfSpeech="n"/>
       <Sense id="ewn-harborage__1_15_00__" n="0" synset="ewn-08661620-n">
         <SenseRelation relType="derivation" target="ewn-harbor__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Federation_of_Saint_Kitts_and_Nevis-n">
       <Lemma writtenForm="Federation of Saint Kitts and Nevis" partOfSpeech="n"/>
@@ -17044,7 +17044,7 @@
       <Lemma writtenForm="Troy" partOfSpeech="n"/>
       <Sense id="ewn-troy__1_15_00__" n="0" synset="ewn-08806739-n">
         <SenseRelation relType="derivation" target="ewn-trojan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trusteeship-n">
       <Lemma writtenForm="trusteeship" partOfSpeech="n"/>
@@ -17165,7 +17165,7 @@
       <Sense id="ewn-kingdom__1_15_01__" n="1" synset="ewn-08608825-n"/>
       <Sense id="ewn-kingdom__1_15_00__" n="2" synset="ewn-08575692-n">
         <SenseRelation relType="derivation" target="ewn-king__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Djanet-n">
       <Lemma writtenForm="Djanet" partOfSpeech="n"/>
@@ -17183,10 +17183,10 @@
       <Lemma writtenForm="Luxemburg" partOfSpeech="n"/>
       <Sense id="ewn-luxemburg__1_15_01__" n="0" synset="ewn-08981175-n">
         <SenseRelation relType="derivation" target="ewn-luxemburger__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-luxemburg__1_15_00__" n="1" synset="ewn-08980760-n">
         <SenseRelation relType="derivation" target="ewn-luxemburger__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-West_Bengal-n">
       <Lemma writtenForm="West Bengal" partOfSpeech="n"/>
@@ -17252,7 +17252,7 @@
       <Sense id="ewn-base__1_15_00__" n="4" synset="ewn-08528849-n">
         <SenseRelation relType="derivation" target="ewn-basal__3_00_02__"/>
         <SenseRelation relType="derivation" target="ewn-basilary__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-base__1_15_01__" n="13" synset="ewn-08507412-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-snake_pit-n">
@@ -17271,7 +17271,7 @@
       <Sense id="ewn-setting__1_15_02__" n="4" synset="ewn-08641502-n">
         <SenseRelation relType="derivation" target="ewn-set__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-set__2_30_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-United_Arab_Emirates-ap-s_capital-n">
       <Lemma writtenForm="United Arab Emirates&apos;s capital" partOfSpeech="n"/>
@@ -17289,7 +17289,7 @@
       <Lemma writtenForm="Lancaster" partOfSpeech="n"/>
       <Sense id="ewn-lancaster__1_15_00__" n="0" synset="ewn-08893496-n">
         <SenseRelation relType="derivation" target="ewn-lancastrian__3_01_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Fla.-n">
       <Lemma writtenForm="Fla." partOfSpeech="n"/>
@@ -17327,7 +17327,7 @@
       <Lemma writtenForm="Argentina" partOfSpeech="n"/>
       <Sense id="ewn-argentina__1_15_00__" n="0" synset="ewn-08729807-n">
         <SenseRelation relType="derivation" target="ewn-argentinian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Suez_Canal-n">
       <Lemma writtenForm="Suez Canal" partOfSpeech="n"/>
@@ -17349,7 +17349,7 @@
       <Lemma writtenForm="perilune" partOfSpeech="n"/>
       <Sense id="ewn-perilune__1_15_00__" n="0" synset="ewn-08636687-n">
         <SenseRelation relType="antonym" target="ewn-apolune__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Port_Arthur-n">
       <Lemma writtenForm="Port Arthur" partOfSpeech="n"/>
@@ -17380,17 +17380,17 @@
         <SenseRelation relType="derivation" target="ewn-place__2_36_00__"/>
         <SenseRelation relType="derivation" target="ewn-place__2_33_03__"/>
         <SenseRelation relType="derivation" target="ewn-place__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-place__1_15_04__" n="1" synset="ewn-08530790-n">
         <SenseRelation relType="derivation" target="ewn-place__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-place__1_15_01__" n="3" synset="ewn-08659612-n"/>
       <Sense id="ewn-place__1_15_06__" n="6" synset="ewn-08577045-n">
         <SenseRelation relType="derivation" target="ewn-place__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-place__1_15_05__" n="8" synset="ewn-08639173-n">
         <SenseRelation relType="derivation" target="ewn-place__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-place__1_15_03__" n="10" synset="ewn-08665191-n"/>
       <Sense id="ewn-place__1_15_02__" n="13" synset="ewn-08637370-n"/>
     </LexicalEntry>
@@ -17468,7 +17468,7 @@
       <Sense id="ewn-appalachia__1_15_00__" n="0" synset="ewn-08510503-n">
         <SenseRelation relType="derivation" target="ewn-appalachian__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-appalachian__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Castile-n">
       <Lemma writtenForm="Castile" partOfSpeech="n"/>
@@ -17566,7 +17566,7 @@
       </Lemma>
       <Sense id="ewn-babylon__1_15_00__" n="0" synset="ewn-08936605-n">
         <SenseRelation relType="derivation" target="ewn-babylonian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-heaven-n">
       <Lemma writtenForm="heaven" partOfSpeech="n">
@@ -17578,7 +17578,7 @@
       <Lemma writtenForm="Peloponnesus" partOfSpeech="n"/>
       <Sense id="ewn-peloponnesus__1_15_00__" n="0" synset="ewn-08808347-n">
         <SenseRelation relType="derivation" target="ewn-peloponnesian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Boise-n">
       <Lemma writtenForm="Boise" partOfSpeech="n"/>
@@ -17692,7 +17692,7 @@
       <Lemma writtenForm="descending node" partOfSpeech="n"/>
       <Sense id="ewn-descending_node__1_15_00__" n="0" synset="ewn-08566499-n">
         <SenseRelation relType="antonym" target="ewn-ascending_node__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Chablis-n">
       <Lemma writtenForm="Chablis" partOfSpeech="n"/>
@@ -17702,7 +17702,7 @@
       <Lemma writtenForm="Croatia" partOfSpeech="n"/>
       <Sense id="ewn-croatia__1_15_00__" n="0" synset="ewn-08833710-n">
         <SenseRelation relType="derivation" target="ewn-croatian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hiroshima-n">
       <Lemma writtenForm="Hiroshima" partOfSpeech="n"/>
@@ -17730,7 +17730,7 @@
       <Lemma writtenForm="Belgium" partOfSpeech="n"/>
       <Sense id="ewn-belgium__1_15_00__" n="0" synset="ewn-08868745-n">
         <SenseRelation relType="derivation" target="ewn-belgian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-San_Bernardino-n">
       <Lemma writtenForm="San Bernardino" partOfSpeech="n"/>
@@ -17740,7 +17740,7 @@
       <Lemma writtenForm="Tuscany" partOfSpeech="n"/>
       <Sense id="ewn-tuscany__1_15_00__" n="0" synset="ewn-08829834-n">
         <SenseRelation relType="derivation" target="ewn-tuscan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Austrian_capital-n">
       <Lemma writtenForm="Austrian capital" partOfSpeech="n"/>
@@ -17753,13 +17753,13 @@
       <Sense id="ewn-range__1_15_01__" n="1" synset="ewn-08646496-n">
         <SenseRelation relType="derivation" target="ewn-range__2_42_03__"/>
         <SenseRelation relType="derivation" target="ewn-range__2_42_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-range__1_15_02__" n="2" synset="ewn-08646774-n">
         <SenseRelation relType="derivation" target="ewn-rangy__5_00_00_mobile_00"/>
         <SenseRelation relType="derivation" target="ewn-rangy__5_00_00_large_00"/>
         <SenseRelation relType="derivation" target="ewn-range__2_34_00__"/>
         <SenseRelation relType="derivation" target="ewn-range__2_35_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Wroclaw-n">
       <Lemma writtenForm="Wroclaw" partOfSpeech="n"/>
@@ -17788,7 +17788,7 @@
       </Lemma>
       <Sense id="ewn-perigee__1_15_00__" n="0" synset="ewn-08636244-n">
         <SenseRelation relType="antonym" target="ewn-apogee__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-LA-n">
       <Lemma writtenForm="LA" partOfSpeech="n">
@@ -17815,7 +17815,7 @@
       <Form writtenForm="maxima"/>
       <Sense id="ewn-maximum__1_15_00__" n="2" synset="ewn-08615688-n">
         <SenseRelation relType="antonym" target="ewn-minimum__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Westminster_Abbey-n">
       <Lemma writtenForm="Westminster Abbey" partOfSpeech="n"/>
@@ -17924,7 +17924,7 @@
       <Lemma writtenForm="Algeria" partOfSpeech="n"/>
       <Sense id="ewn-algeria__1_15_00__" n="0" synset="ewn-08723211-n">
         <SenseRelation relType="derivation" target="ewn-algerian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Omaha-n">
       <Lemma writtenForm="Omaha" partOfSpeech="n"/>
@@ -18083,7 +18083,7 @@
       <Lemma writtenForm="America" partOfSpeech="n"/>
       <Sense id="ewn-america__1_15_00__" n="0" synset="ewn-09067337-n">
         <SenseRelation relType="derivation" target="ewn-american__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-new_town-n">
       <Lemma writtenForm="new town" partOfSpeech="n"/>
@@ -18117,11 +18117,11 @@
       <Sense id="ewn-orbit__1_15_00__" n="0" synset="ewn-08629606-n">
         <SenseRelation relType="derivation" target="ewn-orbital__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-orbit__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-orbit__1_15_01__" n="3" synset="ewn-08629897-n">
         <SenseRelation relType="derivation" target="ewn-orbital__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-orbit__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-San_Marino-n">
       <Lemma writtenForm="San Marino" partOfSpeech="n">
@@ -18157,7 +18157,7 @@
       </Lemma>
       <Sense id="ewn-burundi__1_15_00__" n="0" synset="ewn-08734052-n">
         <SenseRelation relType="derivation" target="ewn-burundian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vantage_point-n">
       <Lemma writtenForm="vantage point" partOfSpeech="n">
@@ -18199,7 +18199,7 @@
       <Lemma writtenForm="free state" partOfSpeech="n"/>
       <Sense id="ewn-free_state__1_15_00__" n="0" synset="ewn-09072545-n">
         <SenseRelation relType="antonym" target="ewn-slave_state__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Viti_Levu-n">
       <Lemma writtenForm="Viti Levu" partOfSpeech="n"/>
@@ -18263,7 +18263,7 @@
       <Lemma writtenForm="Manchuria" partOfSpeech="n"/>
       <Sense id="ewn-manchuria__1_15_00__" n="0" synset="ewn-08740677-n">
         <SenseRelation relType="derivation" target="ewn-manchurian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_Tunisia-n">
       <Lemma writtenForm="Republic of Tunisia" partOfSpeech="n"/>
@@ -18273,7 +18273,7 @@
       <Lemma writtenForm="Gambia" partOfSpeech="n"/>
       <Sense id="ewn-gambia__1_15_00__" n="0" synset="ewn-08965594-n">
         <SenseRelation relType="derivation" target="ewn-gambian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Laos-n">
       <Lemma writtenForm="Laos" partOfSpeech="n">
@@ -18281,7 +18281,7 @@
       </Lemma>
       <Sense id="ewn-laos__1_15_00__" n="0" synset="ewn-08976533-n">
         <SenseRelation relType="derivation" target="ewn-laotian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sagebrush_State-n">
       <Lemma writtenForm="Sagebrush State" partOfSpeech="n"/>
@@ -18291,7 +18291,7 @@
       <Lemma writtenForm="apoapsis" partOfSpeech="n"/>
       <Sense id="ewn-apoapsis__1_15_00__" n="0" synset="ewn-08512627-n">
         <SenseRelation relType="antonym" target="ewn-periapsis__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_Hungary-n">
       <Lemma writtenForm="Republic of Hungary" partOfSpeech="n"/>
@@ -18358,7 +18358,7 @@
       <Lemma writtenForm="slave state" partOfSpeech="n"/>
       <Sense id="ewn-slave_state__1_15_00__" n="0" synset="ewn-09072365-n">
         <SenseRelation relType="antonym" target="ewn-free_state__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Fujiyama-n">
       <Lemma writtenForm="Fujiyama" partOfSpeech="n"/>
@@ -18401,7 +18401,7 @@
       <Lemma writtenForm="pitch" partOfSpeech="n"/>
       <Sense id="ewn-pitch__1_15_00__" n="2" synset="ewn-08642231-n">
         <SenseRelation relType="derivation" target="ewn-pitch__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-pitch__1_15_03__" n="6" synset="ewn-08533915-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-target-n">
@@ -18450,7 +18450,7 @@
       <Lemma writtenForm="London" partOfSpeech="n"/>
       <Sense id="ewn-london__1_15_00__" n="0" synset="ewn-08893849-n">
         <SenseRelation relType="derivation" target="ewn-londoner__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Mason-Dixon_line-n">
       <Lemma writtenForm="Mason-Dixon line" partOfSpeech="n"/>
@@ -18468,11 +18468,11 @@
       <Lemma writtenForm="Luxembourg" partOfSpeech="n"/>
       <Sense id="ewn-luxembourg__1_15_01__" n="0" synset="ewn-08981175-n">
         <SenseRelation relType="derivation" target="ewn-luxembourger__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-luxembourg__1_15_00__" n="1" synset="ewn-08980760-n">
         <SenseRelation relType="derivation" target="ewn-luxembourgian__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-luxembourger__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Cape_Colony-n">
       <Lemma writtenForm="Cape Colony" partOfSpeech="n"/>
@@ -18485,7 +18485,7 @@
       </Lemma>
       <Sense id="ewn-extremity__1_15_00__" n="3" synset="ewn-08586507-n">
         <SenseRelation relType="derivation" target="ewn-extreme__5_00_00_distant_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Jonesboro-n">
       <Lemma writtenForm="Jonesboro" partOfSpeech="n"/>
@@ -18597,7 +18597,7 @@
       </Lemma>
       <Sense id="ewn-firmament__1_15_00__" n="0" synset="ewn-08538450-n">
         <SenseRelation relType="derivation" target="ewn-firmamental__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sphere-n">
       <Lemma writtenForm="sphere" partOfSpeech="n">
@@ -18625,7 +18625,7 @@
       </Lemma>
       <Sense id="ewn-address__1_15_00__" n="1" synset="ewn-08508037-n">
         <SenseRelation relType="derivation" target="ewn-address__2_32_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Low_Countries-n">
       <Lemma writtenForm="Low Countries" partOfSpeech="n"/>
@@ -18681,13 +18681,13 @@
       <Lemma writtenForm="Prussia" partOfSpeech="n"/>
       <Sense id="ewn-prussia__1_15_00__" n="0" synset="ewn-08793617-n">
         <SenseRelation relType="derivation" target="ewn-prussian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Australia-n">
       <Lemma writtenForm="Australia" partOfSpeech="n"/>
       <Sense id="ewn-australia__1_15_00__" n="0" synset="ewn-08849996-n">
         <SenseRelation relType="derivation" target="ewn-australian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-El_Aaium-n">
       <Lemma writtenForm="El Aaium" partOfSpeech="n"/>
@@ -18754,7 +18754,7 @@
       <Lemma writtenForm="South Korea" partOfSpeech="n"/>
       <Sense id="ewn-south_korea__1_15_00__" n="0" synset="ewn-08975399-n">
         <SenseRelation relType="derivation" target="ewn-south_korean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-CO-n">
       <Lemma writtenForm="CO" partOfSpeech="n">
@@ -18910,7 +18910,7 @@
       <Lemma writtenForm="Kampuchea" partOfSpeech="n"/>
       <Sense id="ewn-kampuchea__1_15_00__" n="0" synset="ewn-08734571-n">
         <SenseRelation relType="derivation" target="ewn-kampuchean__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lie-n">
       <Lemma writtenForm="lie" partOfSpeech="n"/>
@@ -18920,7 +18920,7 @@
         <SenseRelation relType="derivation" target="ewn-lie__2_42_01__"/>
         <SenseRelation relType="derivation" target="ewn-lie__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-lie__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Aegadean_Isles-n">
       <Lemma writtenForm="Aegadean Isles" partOfSpeech="n"/>
@@ -18963,7 +18963,7 @@
       </Lemma>
       <Sense id="ewn-nadir__1_15_01__" n="1" synset="ewn-08618316-n">
         <SenseRelation relType="antonym" target="ewn-zenith__1_15_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sanctum-n">
       <Lemma writtenForm="sanctum" partOfSpeech="n">
@@ -19162,13 +19162,13 @@
       <Sense id="ewn-overlook__1_15_00__" n="0" synset="ewn-08631679-n">
         <SenseRelation relType="derivation" target="ewn-overlook__2_42_01__"/>
         <SenseRelation relType="derivation" target="ewn-overlook__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Mauritania-n">
       <Lemma writtenForm="Mauritania" partOfSpeech="n"/>
       <Sense id="ewn-mauritania__1_15_00__" n="0" synset="ewn-08989171-n">
         <SenseRelation relType="derivation" target="ewn-mauritanian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Ur-n">
       <Lemma writtenForm="Ur" partOfSpeech="n"/>
@@ -19201,16 +19201,16 @@
       </Lemma>
       <Sense id="ewn-aberdeen__1_15_03__" n="0" synset="ewn-09176333-n">
         <SenseRelation relType="derivation" target="ewn-aberdonian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-aberdeen__1_15_02__" n="1" synset="ewn-09162102-n">
         <SenseRelation relType="derivation" target="ewn-aberdonian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-aberdeen__1_15_01__" n="2" synset="ewn-09116677-n">
         <SenseRelation relType="derivation" target="ewn-aberdonian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-aberdeen__1_15_00__" n="3" synset="ewn-08912413-n">
         <SenseRelation relType="derivation" target="ewn-aberdonian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_Belarus-n">
       <Lemma writtenForm="Republic of Belarus" partOfSpeech="n"/>
@@ -19239,7 +19239,7 @@
       <Lemma writtenForm="Haiti" partOfSpeech="n"/>
       <Sense id="ewn-haiti__1_15_00__" n="0" synset="ewn-08769327-n">
         <SenseRelation relType="derivation" target="ewn-haitian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-haiti__1_15_01__" n="1" synset="ewn-08769150-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Cape_Horn-n">
@@ -19299,10 +19299,10 @@
       <Lemma writtenForm="Barbados" partOfSpeech="n"/>
       <Sense id="ewn-barbados__1_15_01__" n="0" synset="ewn-08773269-n">
         <SenseRelation relType="derivation" target="ewn-barbadian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-barbados__1_15_00__" n="1" synset="ewn-08773047-n">
         <SenseRelation relType="derivation" target="ewn-barbadian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-New_Jersey-n">
       <Lemma writtenForm="New Jersey" partOfSpeech="n"/>
@@ -19328,7 +19328,7 @@
       </Lemma>
       <Sense id="ewn-equator__1_15_00__" n="0" synset="ewn-08586248-n">
         <SenseRelation relType="derivation" target="ewn-equatorial__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-borderland-n">
       <Lemma writtenForm="borderland" partOfSpeech="n"/>
@@ -19354,7 +19354,7 @@
       <Lemma writtenForm="Andalusia" partOfSpeech="n"/>
       <Sense id="ewn-andalusia__1_15_00__" n="0" synset="ewn-08510271-n">
         <SenseRelation relType="derivation" target="ewn-andalusian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Racine-n">
       <Lemma writtenForm="Racine" partOfSpeech="n"/>
@@ -19380,7 +19380,7 @@
       <Lemma writtenForm="Albania" partOfSpeech="n"/>
       <Sense id="ewn-albania__1_15_00__" n="0" synset="ewn-08722636-n">
         <SenseRelation relType="derivation" target="ewn-albanian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sandlot-n">
       <Lemma writtenForm="sandlot" partOfSpeech="n"/>
@@ -19471,7 +19471,7 @@
       <Lemma writtenForm="Armenia" partOfSpeech="n"/>
       <Sense id="ewn-armenia__1_15_00__" n="0" synset="ewn-09039896-n">
         <SenseRelation relType="derivation" target="ewn-armenian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bahama_Islands-n">
       <Lemma writtenForm="Bahama Islands" partOfSpeech="n"/>
@@ -19490,7 +19490,7 @@
       <Sense id="ewn-bavaria__1_15_00__" n="0" synset="ewn-08789429-n">
         <SenseRelation relType="derivation" target="ewn-bavarian__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-bavarian__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-center_of_flotation-n">
       <Lemma writtenForm="center of flotation" partOfSpeech="n"/>
@@ -19517,14 +19517,14 @@
       <Lemma writtenForm="Saudi Arabia" partOfSpeech="n"/>
       <Sense id="ewn-saudi_arabia__1_15_00__" n="0" synset="ewn-09015658-n">
         <SenseRelation relType="derivation" target="ewn-saudi-arabian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-centre_of_flotation-n">
       <Lemma writtenForm="centre of flotation" partOfSpeech="n"/>
       <Sense id="ewn-centre_of_flotation__1_15_00__" n="0" synset="ewn-08540077-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-district-n">
       <Lemma writtenForm="district" partOfSpeech="n">
@@ -19532,7 +19532,7 @@
       </Lemma>
       <Sense id="ewn-district__1_15_00__" n="0" synset="ewn-08569713-n">
         <SenseRelation relType="derivation" target="ewn-district__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Kursk-n">
       <Lemma writtenForm="Kursk" partOfSpeech="n"/>
@@ -19546,7 +19546,7 @@
       <Lemma writtenForm="Ukraine" partOfSpeech="n"/>
       <Sense id="ewn-ukraine__1_15_00__" n="0" synset="ewn-09037349-n">
         <SenseRelation relType="derivation" target="ewn-ukrainian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-watering_hole-n">
       <Lemma writtenForm="watering hole" partOfSpeech="n"/>
@@ -19636,7 +19636,7 @@
       </Lemma>
       <Sense id="ewn-development__1_15_00__" n="5" synset="ewn-08566645-n">
         <SenseRelation relType="derivation" target="ewn-develop__2_30_04__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Independent_State_of_Papua_New_Guinea-n">
       <Lemma writtenForm="Independent State of Papua New Guinea" partOfSpeech="n"/>
@@ -19683,7 +19683,7 @@
         <SenseRelation relType="derivation" target="ewn-settle__2_30_03__"/>
         <SenseRelation relType="derivation" target="ewn-settle__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-settle__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hawkeye_State-n">
       <Lemma writtenForm="Hawkeye State" partOfSpeech="n"/>
@@ -19726,14 +19726,14 @@
       <Lemma writtenForm="Singapore" partOfSpeech="n"/>
       <Sense id="ewn-singapore__1_15_02__" n="0" synset="ewn-09020171-n">
         <SenseRelation relType="derivation" target="ewn-singaporean__3_01_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-singapore__1_15_00__" n="1" synset="ewn-09019857-n">
         <SenseRelation relType="derivation" target="ewn-singaporean__3_01_02__"/>
         <SenseRelation relType="derivation" target="ewn-singaporean__3_01_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-singapore__1_15_01__" n="2" synset="ewn-09019680-n">
         <SenseRelation relType="derivation" target="ewn-singaporean__3_01_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Greensboro-n">
       <Lemma writtenForm="Greensboro" partOfSpeech="n"/>
@@ -19779,7 +19779,7 @@
       </Lemma>
       <Sense id="ewn-berlin__1_15_00__" n="0" synset="ewn-08787478-n">
         <SenseRelation relType="derivation" target="ewn-berliner__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Princeton-n">
       <Lemma writtenForm="Princeton" partOfSpeech="n"/>
@@ -19793,7 +19793,7 @@
       <Lemma writtenForm="New Caledonia" partOfSpeech="n"/>
       <Sense id="ewn-new_caledonia__1_15_00__" n="0" synset="ewn-08863100-n">
         <SenseRelation relType="derivation" target="ewn-new_caledonian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-forepart-n">
       <Lemma writtenForm="forepart" partOfSpeech="n"/>
@@ -19831,7 +19831,7 @@
       <Lemma writtenForm="Carthage" partOfSpeech="n"/>
       <Sense id="ewn-carthage__1_15_00__" n="0" synset="ewn-08939722-n">
         <SenseRelation relType="derivation" target="ewn-carthaginian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Ahvenanmaa-n">
       <Lemma writtenForm="Ahvenanmaa" partOfSpeech="n"/>
@@ -19904,7 +19904,7 @@
       <Lemma writtenForm="rural area" partOfSpeech="n"/>
       <Sense id="ewn-rural_area__1_15_00__" n="0" synset="ewn-08662297-n">
         <SenseRelation relType="antonym" target="ewn-urban_area__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-superstrate-n">
       <Lemma writtenForm="superstrate" partOfSpeech="n"/>
@@ -19973,7 +19973,7 @@
       <Lemma writtenForm="node" partOfSpeech="n"/>
       <Sense id="ewn-node__1_15_01__" n="3" synset="ewn-08515608-n">
         <SenseRelation relType="antonym" target="ewn-antinode__1_15_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-node__1_15_00__" n="4" synset="ewn-08515452-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Anzio-n">
@@ -20003,7 +20003,7 @@
       <Lemma writtenForm="Estonia" partOfSpeech="n"/>
       <Sense id="ewn-estonia__1_15_00__" n="0" synset="ewn-09034667-n">
         <SenseRelation relType="derivation" target="ewn-estonian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Almaty-n">
       <Lemma writtenForm="Almaty" partOfSpeech="n"/>
@@ -20079,7 +20079,7 @@
       <Sense id="ewn-circumference__1_15_00__" n="1" synset="ewn-08531740-n">
         <SenseRelation relType="derivation" target="ewn-circumferential__5_00_00_peripheral_00"/>
         <SenseRelation relType="derivation" target="ewn-circumferent__5_00_00_close_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-face-n">
       <Lemma writtenForm="face" partOfSpeech="n">
@@ -20088,7 +20088,7 @@
       <Sense id="ewn-face__1_15_00__" n="5" synset="ewn-08527687-n">
         <SenseRelation relType="derivation" target="ewn-facial__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-face__2_39_04__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Rustbelt-n">
       <Lemma writtenForm="Rustbelt" partOfSpeech="n"/>
@@ -20142,7 +20142,7 @@
       </Lemma>
       <Sense id="ewn-lookout__1_15_00__" n="1" synset="ewn-08614732-n">
         <SenseRelation relType="derivation" target="ewn-look_out__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Jugoslavija-n">
       <Lemma writtenForm="Jugoslavija" partOfSpeech="n"/>
@@ -20164,7 +20164,7 @@
       </Lemma>
       <Sense id="ewn-there__1_15_00__" n="0" synset="ewn-08506637-n">
         <SenseRelation relType="antonym" target="ewn-here__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-parade_ground-n">
       <Lemma writtenForm="parade ground" partOfSpeech="n"/>
@@ -20174,7 +20174,7 @@
       <Lemma writtenForm="Tobago" partOfSpeech="n"/>
       <Sense id="ewn-tobago__1_15_00__" n="0" synset="ewn-08773885-n">
         <SenseRelation relType="derivation" target="ewn-tobagonian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Stalinabad-n">
       <Lemma writtenForm="Stalinabad" partOfSpeech="n"/>
@@ -20222,7 +20222,7 @@
       <Lemma writtenForm="Paris" partOfSpeech="n"/>
       <Sense id="ewn-paris__1_15_00__" n="0" synset="ewn-08952341-n">
         <SenseRelation relType="derivation" target="ewn-parisian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-paris__1_15_01__" n="3" synset="ewn-09168488-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Anglesey-n">
@@ -20263,7 +20263,7 @@
       <Lemma writtenForm="cross section" partOfSpeech="n"/>
       <Sense id="ewn-cross_section__1_15_00__" n="0" synset="ewn-08565640-n">
         <SenseRelation relType="derivation" target="ewn-cross-sectional__5_00_00_crosswise_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-solar_apex-n">
       <Lemma writtenForm="solar apex" partOfSpeech="n"/>
@@ -20325,7 +20325,7 @@
       <Lemma writtenForm="high" partOfSpeech="n"/>
       <Sense id="ewn-high__1_15_00__" n="4" synset="ewn-08602145-n">
         <SenseRelation relType="derivation" target="ewn-high__3_00_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Central_African_Republic-n">
       <Lemma writtenForm="Central African Republic" partOfSpeech="n"/>
@@ -20379,7 +20379,7 @@
       </Lemma>
       <Sense id="ewn-archdiocese__1_15_00__" n="0" synset="ewn-08568437-n">
         <SenseRelation relType="derivation" target="ewn-archdiocesan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Low_Archipelago-n">
       <Lemma writtenForm="Low Archipelago" partOfSpeech="n"/>
@@ -20394,7 +20394,7 @@
       <Sense id="ewn-dump__1_15_00__" n="1" synset="ewn-08577564-n">
         <SenseRelation relType="derivation" target="ewn-dumpy__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-dump__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Detroit-n">
       <Lemma writtenForm="Detroit" partOfSpeech="n"/>
@@ -20426,7 +20426,7 @@
       </Lemma>
       <Sense id="ewn-silhouette__1_15_00__" n="0" synset="ewn-08630920-n">
         <SenseRelation relType="derivation" target="ewn-silhouette__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Seychelles_islands-n">
       <Lemma writtenForm="Seychelles islands" partOfSpeech="n"/>
@@ -20551,7 +20551,7 @@
       <Lemma writtenForm="princedom" partOfSpeech="n"/>
       <Sense id="ewn-princedom__1_15_00__" n="1" synset="ewn-08576025-n">
         <SenseRelation relType="derivation" target="ewn-prince__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Qandahar-n">
       <Lemma writtenForm="Qandahar" partOfSpeech="n"/>
@@ -20818,7 +20818,7 @@
         <SenseRelation relType="has_domain_region" target="ewn-millimetre__1_23_00__"/>
         <SenseRelation relType="has_domain_region" target="ewn-myriametre__1_23_00__"/>
         <SenseRelation relType="has_domain_region" target="ewn-epicentre__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_Cyprus-n">
       <Lemma writtenForm="Republic of Cyprus" partOfSpeech="n"/>
@@ -20830,7 +20830,7 @@
       </Lemma>
       <Sense id="ewn-windward__1_15_00__" n="1" synset="ewn-08627580-n">
         <SenseRelation relType="antonym" target="ewn-leeward__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Nafud-n">
       <Lemma writtenForm="Nafud" partOfSpeech="n"/>
@@ -20902,14 +20902,14 @@
       <Sense id="ewn-zone__1_15_00__" n="0" synset="ewn-08705985-n">
         <SenseRelation relType="derivation" target="ewn-zonary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-zone__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-zone__1_15_02__" n="1" synset="ewn-08559404-n">
         <SenseRelation relType="derivation" target="ewn-zonary__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-zone__1_15_01__" n="2" synset="ewn-08526463-n">
         <SenseRelation relType="derivation" target="ewn-zonary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-zone__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Negev_Desert-n">
       <Lemma writtenForm="Negev Desert" partOfSpeech="n"/>
@@ -20952,7 +20952,7 @@
       <Form writtenForm="termini"/>
       <Sense id="ewn-terminus__1_15_00__" n="0" synset="ewn-08584083-n">
         <SenseRelation relType="derivation" target="ewn-terminate__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Me.-n">
       <Lemma writtenForm="Me." partOfSpeech="n"/>
@@ -20962,7 +20962,7 @@
       <Lemma writtenForm="Tunisia" partOfSpeech="n"/>
       <Sense id="ewn-tunisia__1_15_00__" n="0" synset="ewn-09059869-n">
         <SenseRelation relType="derivation" target="ewn-tunisian__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Winston-Salem-n">
       <Lemma writtenForm="Winston-Salem" partOfSpeech="n"/>
@@ -20976,7 +20976,7 @@
         <SenseRelation relType="derivation" target="ewn-stand__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-stand__2_42_01__"/>
         <SenseRelation relType="derivation" target="ewn-stand__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_Ecuador-n">
       <Lemma writtenForm="Republic of Ecuador" partOfSpeech="n"/>
@@ -21012,7 +21012,7 @@
       <Sense id="ewn-municipality__1_15_00__" n="0" synset="ewn-08643858-n">
         <SenseRelation relType="derivation" target="ewn-municipal__5_00_00_domestic_00"/>
         <SenseRelation relType="derivation" target="ewn-municipal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Malay_Peninsula-n">
       <Lemma writtenForm="Malay Peninsula" partOfSpeech="n"/>
@@ -21078,11 +21078,11 @@
       <Sense id="ewn-bottom__1_15_00__" n="0" synset="ewn-08528313-n">
         <SenseRelation relType="derivation" target="ewn-bottom__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-bottom__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bottom__1_15_01__" n="1" synset="ewn-08529042-n">
         <SenseRelation relType="derivation" target="ewn-bottom__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-bottom__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Cathay-n">
       <Lemma writtenForm="Cathay" partOfSpeech="n"/>
@@ -21104,7 +21104,7 @@
       <Sense id="ewn-atmosphere__1_15_00__" n="2" synset="ewn-08516085-n">
         <SenseRelation relType="derivation" target="ewn-atmospheric__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-atmospherical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Aegean_island-n">
       <Lemma writtenForm="Aegean island" partOfSpeech="n"/>
@@ -21133,7 +21133,7 @@
         <SenseRelation relType="derivation" target="ewn-clear__2_30_09__"/>
         <SenseRelation relType="derivation" target="ewn-clear__2_30_02__"/>
         <SenseRelation relType="derivation" target="ewn-clear__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Venezia-n">
       <Lemma writtenForm="Venezia" partOfSpeech="n"/>
@@ -21180,10 +21180,10 @@
       </Lemma>
       <Sense id="ewn-station__1_15_01__" n="2" synset="ewn-08674221-n">
         <SenseRelation relType="derivation" target="ewn-station__2_33_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-station__1_15_00__" n="3" synset="ewn-08641960-n">
         <SenseRelation relType="derivation" target="ewn-station__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Porto_Rico-n">
       <Lemma writtenForm="Porto Rico" partOfSpeech="n"/>
@@ -21223,7 +21223,7 @@
       <Lemma writtenForm="Tanzania" partOfSpeech="n"/>
       <Sense id="ewn-tanzania__1_15_00__" n="0" synset="ewn-09057025-n">
         <SenseRelation relType="derivation" target="ewn-tanzanian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Plymouth_Rock-n">
       <Lemma writtenForm="Plymouth Rock" partOfSpeech="n"/>
@@ -21237,7 +21237,7 @@
       <Lemma writtenForm="Macedonia" partOfSpeech="n"/>
       <Sense id="ewn-macedonia__1_15_00__" n="0" synset="ewn-08981403-n">
         <SenseRelation relType="derivation" target="ewn-macedonian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-macedonia__1_15_01__" n="1" synset="ewn-08935145-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Guinea-Bissau-n">
@@ -21281,7 +21281,7 @@
       </Lemma>
       <Sense id="ewn-java__1_15_00__" n="0" synset="ewn-08928021-n">
         <SenseRelation relType="derivation" target="ewn-javan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-capital_of_the_Russian_Federation-n">
       <Lemma writtenForm="capital of the Russian Federation" partOfSpeech="n"/>
@@ -21353,7 +21353,7 @@
       </Lemma>
       <Sense id="ewn-hemisphere__1_15_00__" n="0" synset="ewn-08600622-n">
         <SenseRelation relType="derivation" target="ewn-hemispherical__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-East_Coast-n">
       <Lemma writtenForm="East Coast" partOfSpeech="n"/>
@@ -21380,7 +21380,7 @@
       <Lemma writtenForm="Angola" partOfSpeech="n"/>
       <Sense id="ewn-angola__1_15_00__" n="0" synset="ewn-08725731-n">
         <SenseRelation relType="derivation" target="ewn-angolan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Dubrovnik-n">
       <Lemma writtenForm="Dubrovnik" partOfSpeech="n"/>
@@ -21395,7 +21395,7 @@
       <Sense id="ewn-corner__1_15_00__" n="1" synset="ewn-08561850-n"/>
       <Sense id="ewn-corner__1_15_01__" n="4" synset="ewn-08677624-n">
         <SenseRelation relType="derivation" target="ewn-corner__2_38_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-corner__1_15_03__" n="9" synset="ewn-08562168-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Republic_of_Estonia-n">
@@ -21443,17 +21443,17 @@
       </Lemma>
       <Sense id="ewn-tibet__1_15_00__" n="0" synset="ewn-08926725-n">
         <SenseRelation relType="derivation" target="ewn-tibetan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rear-n">
       <Lemma writtenForm="rear" partOfSpeech="n"/>
       <Sense id="ewn-rear__1_15_00__" n="1" synset="ewn-08647083-n">
         <SenseRelation relType="antonym" target="ewn-front__1_15_00__"/>
         <SenseRelation relType="derivation" target="ewn-rear__5_00_00_back_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-rear__1_15_01__" n="2" synset="ewn-08643421-n">
         <SenseRelation relType="derivation" target="ewn-rear__5_00_00_back_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Mecca-n">
       <Lemma writtenForm="Mecca" partOfSpeech="n">
@@ -21474,7 +21474,7 @@
       <Sense id="ewn-line__1_15_02__" n="6" synset="ewn-08611842-n"/>
       <Sense id="ewn-line__1_15_00__" n="10" synset="ewn-08610818-n">
         <SenseRelation relType="derivation" target="ewn-lineal__5_00_00_linear_01"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-line__1_15_01__" n="19" synset="ewn-08611480-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Tampa-n">
@@ -21497,7 +21497,7 @@
       <Lemma writtenForm="Tonga" partOfSpeech="n"/>
       <Sense id="ewn-tonga__1_15_00__" n="0" synset="ewn-09059608-n">
         <SenseRelation relType="derivation" target="ewn-tongan__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Windsor-n">
       <Lemma writtenForm="Windsor" partOfSpeech="n"/>
@@ -21546,7 +21546,7 @@
       <Lemma writtenForm="Antigua" partOfSpeech="n"/>
       <Sense id="ewn-antigua__1_15_00__" n="0" synset="ewn-08727778-n">
         <SenseRelation relType="derivation" target="ewn-antiguan__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-possession-n">
       <Lemma writtenForm="possession" partOfSpeech="n">
@@ -21577,7 +21577,7 @@
       <Sense id="ewn-niger__1_15_00__" n="1" synset="ewn-08995681-n">
         <SenseRelation relType="derivation" target="ewn-nigerian__3_01_01__"/>
         <SenseRelation relType="derivation" target="ewn-nigerian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-toxic_site-n">
       <Lemma writtenForm="toxic site" partOfSpeech="n"/>
@@ -21666,7 +21666,7 @@
       <Lemma writtenForm="Fiji" partOfSpeech="n"/>
       <Sense id="ewn-fiji__1_15_00__" n="0" synset="ewn-08797001-n">
         <SenseRelation relType="derivation" target="ewn-fijian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-used-car_lot-n">
       <Lemma writtenForm="used-car lot" partOfSpeech="n"/>
@@ -21698,7 +21698,7 @@
       <Lemma writtenForm="Sparta" partOfSpeech="n"/>
       <Sense id="ewn-sparta__1_15_00__" n="0" synset="ewn-08805092-n">
         <SenseRelation relType="derivation" target="ewn-spartan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Jefferson_City-n">
       <Lemma writtenForm="Jefferson City" partOfSpeech="n"/>
@@ -21714,7 +21714,7 @@
       </Lemma>
       <Sense id="ewn-destination__1_15_00__" n="0" synset="ewn-08585406-n">
         <SenseRelation relType="derivation" target="ewn-destine__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Livonia-n">
       <Lemma writtenForm="Livonia" partOfSpeech="n"/>
@@ -21764,7 +21764,7 @@
       <Lemma writtenForm="periselene" partOfSpeech="n"/>
       <Sense id="ewn-periselene__1_15_00__" n="0" synset="ewn-08636687-n">
         <SenseRelation relType="antonym" target="ewn-aposelene__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-farmland-n">
       <Lemma writtenForm="farmland" partOfSpeech="n">
@@ -21965,10 +21965,10 @@
       <Lemma writtenForm="eparchy" partOfSpeech="n"/>
       <Sense id="ewn-eparchy__1_15_01__" n="0" synset="ewn-08671835-n">
         <SenseRelation relType="derivation" target="ewn-eparchial__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-eparchy__1_15_00__" n="1" synset="ewn-08568871-n">
         <SenseRelation relType="derivation" target="ewn-eparchial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-restriction_site-n">
       <Lemma writtenForm="restriction site" partOfSpeech="n"/>
@@ -22011,7 +22011,7 @@
       <Lemma writtenForm="Holland" partOfSpeech="n"/>
       <Sense id="ewn-holland__1_15_00__" n="0" synset="ewn-08968866-n">
         <SenseRelation relType="derivation" target="ewn-hollander__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Sandwich_Islands-n">
       <Lemma writtenForm="Sandwich Islands" partOfSpeech="n"/>
@@ -22069,10 +22069,10 @@
       <Lemma writtenForm="Iceland" partOfSpeech="n"/>
       <Sense id="ewn-iceland__1_15_00__" n="0" synset="ewn-08973097-n">
         <SenseRelation relType="derivation" target="ewn-icelander__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-iceland__1_15_01__" n="1" synset="ewn-08972924-n">
         <SenseRelation relType="derivation" target="ewn-icelander__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Cnossus-n">
       <Lemma writtenForm="Cnossus" partOfSpeech="n"/>
@@ -22240,7 +22240,7 @@
       <Lemma writtenForm="Liberia" partOfSpeech="n"/>
       <Sense id="ewn-liberia__1_15_00__" n="0" synset="ewn-08979027-n">
         <SenseRelation relType="derivation" target="ewn-liberian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-district_line-n">
       <Lemma writtenForm="district line" partOfSpeech="n"/>
@@ -22254,7 +22254,7 @@
       <Lemma writtenForm="Dipylon" partOfSpeech="n"/>
       <Sense id="ewn-dipylon__1_15_00__" n="0" synset="ewn-08803810-n">
         <SenseRelation relType="derivation" target="ewn-dipylon__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Baku-n">
       <Lemma writtenForm="Baku" partOfSpeech="n"/>
@@ -22317,15 +22317,15 @@
         <SenseRelation relType="derivation" target="ewn-top__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-top__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-top__2_42_02__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-top__1_15_00__" n="1" synset="ewn-08681092-n">
         <SenseRelation relType="derivation" target="ewn-top__2_35_02__"/>
         <SenseRelation relType="derivation" target="ewn-top__2_38_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-top__1_15_02__" n="2" synset="ewn-08635538-n">
         <SenseRelation relType="derivation" target="ewn-top__2_38_04__"/>
         <SenseRelation relType="derivation" target="ewn-top__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-capital_of_Israel-n">
       <Lemma writtenForm="capital of Israel" partOfSpeech="n"/>
@@ -22362,13 +22362,13 @@
       </Lemma>
       <Sense id="ewn-department__1_15_00__" n="1" synset="ewn-08566308-n">
         <SenseRelation relType="derivation" target="ewn-departmental__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Tahiti-n">
       <Lemma writtenForm="Tahiti" partOfSpeech="n"/>
       <Sense id="ewn-tahiti__1_15_00__" n="0" synset="ewn-09012311-n">
         <SenseRelation relType="derivation" target="ewn-tahitian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Ezo-n">
       <Lemma writtenForm="Ezo" partOfSpeech="n"/>
@@ -22513,10 +22513,10 @@
       <Sense id="ewn-russia__1_15_01__" n="1" synset="ewn-09030093-n"/>
       <Sense id="ewn-russia__1_15_02__" n="2" synset="ewn-09025184-n">
         <SenseRelation relType="derivation" target="ewn-russian__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-russia__1_15_04__" n="3" synset="ewn-09028783-n">
         <SenseRelation relType="derivation" target="ewn-russian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Orange_Free_State-n">
       <Lemma writtenForm="Orange Free State" partOfSpeech="n"/>
@@ -22614,7 +22614,7 @@
       <Sense id="ewn-pasture__1_15_00__" n="0" synset="ewn-08633625-n">
         <SenseRelation relType="derivation" target="ewn-pasture__2_35_10__"/>
         <SenseRelation relType="derivation" target="ewn-pasture__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-high_country-n">
       <Lemma writtenForm="high country" partOfSpeech="n"/>
@@ -22644,7 +22644,7 @@
       <Lemma writtenForm="Formosa" partOfSpeech="n"/>
       <Sense id="ewn-formosa__1_15_00__" n="0" synset="ewn-08748187-n">
         <SenseRelation relType="derivation" target="ewn-formosan__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Thorshavn-n">
       <Lemma writtenForm="Thorshavn" partOfSpeech="n"/>
@@ -22862,7 +22862,7 @@
       <Sense id="ewn-park__1_15_02__" n="3" synset="ewn-08633213-n">
         <SenseRelation relType="derivation" target="ewn-park__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-park__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-capital_of_the_United_States-n">
       <Lemma writtenForm="capital of the United States" partOfSpeech="n"/>
@@ -22921,7 +22921,7 @@
       <Lemma writtenForm="tropics" partOfSpeech="n"/>
       <Sense id="ewn-tropics__1_15_00__" n="0" synset="ewn-08683019-n">
         <SenseRelation relType="derivation" target="ewn-tropic__5_00_00_equatorial_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sector-n">
       <Lemma writtenForm="sector" partOfSpeech="n">
@@ -22934,7 +22934,7 @@
       <Sense id="ewn-centre_of_immersion__1_15_00__" n="0" synset="ewn-08539508-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-San_Pedro_Sula-n">
       <Lemma writtenForm="San Pedro Sula" partOfSpeech="n"/>
@@ -22957,13 +22957,13 @@
       </Lemma>
       <Sense id="ewn-end__1_15_00__" n="0" synset="ewn-08583557-n">
         <SenseRelation relType="derivation" target="ewn-end__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-end__1_15_02__" n="6" synset="ewn-08584236-n">
         <SenseRelation relType="derivation" target="ewn-end__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-end__1_15_01__" n="8" synset="ewn-08583423-n">
         <SenseRelation relType="derivation" target="ewn-end__2_42_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-end__1_15_03__" n="9" synset="ewn-08584413-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-equinoctial_circle-n">
@@ -22986,7 +22986,7 @@
       <Lemma writtenForm="Slovenia" partOfSpeech="n"/>
       <Sense id="ewn-slovenia__1_15_00__" n="0" synset="ewn-08836296-n">
         <SenseRelation relType="derivation" target="ewn-slovenian__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Constantina-n">
       <Lemma writtenForm="Constantina" partOfSpeech="n"/>

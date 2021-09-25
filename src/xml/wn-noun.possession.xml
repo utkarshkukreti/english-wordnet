@@ -16,7 +16,7 @@
       <Lemma writtenForm="hoard" partOfSpeech="n"/>
       <Sense id="ewn-hoard__1_21_00__" n="0" synset="ewn-13388085-n">
         <SenseRelation relType="derivation" target="ewn-hoard__2_40_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-straight_life_insurance-n">
       <Lemma writtenForm="straight life insurance" partOfSpeech="n"/>
@@ -34,7 +34,7 @@
         <SenseRelation relType="antonym" target="ewn-losings__1_21_00__"/>
         <SenseRelation relType="derivation" target="ewn-win__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-win__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rent-rebate-n">
       <Lemma writtenForm="rent-rebate" partOfSpeech="n"/>
@@ -46,7 +46,7 @@
       </Lemma>
       <Sense id="ewn-pledge__1_21_02__" n="0" synset="ewn-13371717-n">
         <SenseRelation relType="derivation" target="ewn-pledge__2_32_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sublet-n">
       <Lemma writtenForm="sublet" partOfSpeech="n">
@@ -54,7 +54,7 @@
       </Lemma>
       <Sense id="ewn-sublet__1_21_00__" n="0" synset="ewn-13269827-n">
         <SenseRelation relType="derivation" target="ewn-sublet__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-allowance-n">
       <Lemma writtenForm="allowance" partOfSpeech="n">
@@ -63,7 +63,7 @@
       <Sense id="ewn-allowance__1_21_00__" n="0" synset="ewn-13307277-n">
         <SenseRelation relType="derivation" target="ewn-allowance__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-allow__2_31_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-allowance__1_21_02__" n="1" synset="ewn-13314400-n"/>
       <Sense id="ewn-allowance__1_21_01__" n="2" synset="ewn-13295115-n"/>
       <Sense id="ewn-allowance__1_21_03__" n="4" synset="ewn-13391388-n"/>
@@ -73,7 +73,7 @@
       <Sense id="ewn-subsidisation__1_21_00__" n="0" synset="ewn-13406756-n">
         <SenseRelation relType="derivation" target="ewn-subsidise__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-subsidise__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gift-n">
       <Lemma writtenForm="gift" partOfSpeech="n">
@@ -82,13 +82,13 @@
       <Sense id="ewn-gift__1_21_00__" n="0" synset="ewn-13285910-n">
         <SenseRelation relType="derivation" target="ewn-gift__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-gift__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cleanup-n">
       <Lemma writtenForm="cleanup" partOfSpeech="n"/>
       <Sense id="ewn-cleanup__1_21_00__" n="0" synset="ewn-13280696-n">
         <SenseRelation relType="derivation" target="ewn-clean_up__2_40_04__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-profit_and_loss_account-n">
       <Lemma writtenForm="profit and loss account" partOfSpeech="n"/>
@@ -114,7 +114,7 @@
       </Lemma>
       <Sense id="ewn-tariff__1_21_00__" n="0" synset="ewn-13337021-n">
         <SenseRelation relType="derivation" target="ewn-tariff__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-malpractice_insurance-n">
       <Lemma writtenForm="malpractice insurance" partOfSpeech="n"/>
@@ -139,7 +139,7 @@
         <SenseRelation relType="derivation" target="ewn-value__2_31_03__"/>
         <SenseRelation relType="derivation" target="ewn-evaluate__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-valuate__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-certified_check-n">
       <Lemma writtenForm="certified check" partOfSpeech="n"/>
@@ -179,7 +179,7 @@
       <Sense id="ewn-venture__1_21_00__" n="1" synset="ewn-13363707-n">
         <SenseRelation relType="derivation" target="ewn-venturous__5_00_00_adventurous_00"/>
         <SenseRelation relType="derivation" target="ewn-venture__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-seed_grain-n">
       <Lemma writtenForm="seed grain" partOfSpeech="n"/>
@@ -192,7 +192,7 @@
       </Lemma>
       <Sense id="ewn-manor__1_21_00__" n="1" synset="ewn-13273067-n">
         <SenseRelation relType="derivation" target="ewn-manorial__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-benefice-n">
       <Lemma writtenForm="benefice" partOfSpeech="n">
@@ -201,7 +201,7 @@
       <Sense id="ewn-benefice__1_21_00__" n="0" synset="ewn-13268986-n">
         <SenseRelation relType="derivation" target="ewn-beneficiary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-benefice__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-public_debt-n">
       <Lemma writtenForm="public debt" partOfSpeech="n"/>
@@ -221,7 +221,7 @@
       </Lemma>
       <Sense id="ewn-coverage__1_21_00__" n="0" synset="ewn-13365679-n">
         <SenseRelation relType="derivation" target="ewn-cover__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-deposit-n">
       <Lemma writtenForm="deposit" partOfSpeech="n">
@@ -230,7 +230,7 @@
       </Lemma>
       <Sense id="ewn-deposit__1_21_01__" n="3" synset="ewn-13402318-n">
         <SenseRelation relType="derivation" target="ewn-deposit__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-deposit__1_21_00__" n="4" synset="ewn-13370849-n"/>
       <Sense id="ewn-deposit__1_21_02__" n="5" synset="ewn-13370677-n"/>
     </LexicalEntry>
@@ -242,7 +242,7 @@
       <Lemma writtenForm="dowery" partOfSpeech="n"/>
       <Sense id="ewn-dowery__1_21_00__" n="0" synset="ewn-13286324-n">
         <SenseRelation relType="derivation" target="ewn-dower__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tuition_fee-n">
       <Lemma writtenForm="tuition fee" partOfSpeech="n"/>
@@ -257,7 +257,7 @@
       <Sense id="ewn-freightage__1_21_00__" n="0" synset="ewn-13347220-n">
         <SenseRelation relType="derivation" target="ewn-freight__2_38_00__"/>
         <SenseRelation relType="derivation" target="ewn-freight__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-business_deduction-n">
       <Lemma writtenForm="business deduction" partOfSpeech="n"/>
@@ -291,7 +291,7 @@
       <Lemma writtenForm="traineeship" partOfSpeech="n"/>
       <Sense id="ewn-traineeship__1_21_00__" n="0" synset="ewn-13288839-n">
         <SenseRelation relType="derivation" target="ewn-trainee__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bribe-n">
       <Lemma writtenForm="bribe" partOfSpeech="n">
@@ -299,7 +299,7 @@
       </Lemma>
       <Sense id="ewn-bribe__1_21_00__" n="0" synset="ewn-13305585-n">
         <SenseRelation relType="derivation" target="ewn-bribe__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-insurance_premium-n">
       <Lemma writtenForm="insurance premium" partOfSpeech="n"/>
@@ -326,7 +326,7 @@
       </Lemma>
       <Sense id="ewn-pearl__1_21_00__" n="0" synset="ewn-13393576-n">
         <SenseRelation relType="derivation" target="ewn-pearl__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-offsetting_balance-n">
       <Lemma writtenForm="offsetting balance" partOfSpeech="n"/>
@@ -363,7 +363,7 @@
       <Lemma writtenForm="grubstake" partOfSpeech="n"/>
       <Sense id="ewn-grubstake__1_21_00__" n="0" synset="ewn-13308262-n">
         <SenseRelation relType="derivation" target="ewn-grubstake__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sum-n">
       <Lemma writtenForm="sum" partOfSpeech="n"/>
@@ -408,7 +408,7 @@
       <Sense id="ewn-reimbursement__1_21_00__" n="0" synset="ewn-13311025-n">
         <SenseRelation relType="derivation" target="ewn-reimburse__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-reimburse__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-grant-n">
       <Lemma writtenForm="grant" partOfSpeech="n">
@@ -417,10 +417,10 @@
       </Lemma>
       <Sense id="ewn-grant__1_21_00__" n="0" synset="ewn-13287915-n">
         <SenseRelation relType="derivation" target="ewn-grant__2_40_03__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-grant__1_21_02__" n="2" synset="ewn-13275136-n">
         <SenseRelation relType="derivation" target="ewn-grant__2_40_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-backlog-n">
       <Lemma writtenForm="backlog" partOfSpeech="n">
@@ -428,7 +428,7 @@
       </Lemma>
       <Sense id="ewn-backlog__1_21_00__" n="2" synset="ewn-13389225-n">
         <SenseRelation relType="derivation" target="ewn-backlog__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-call_loan-n">
       <Lemma writtenForm="call loan" partOfSpeech="n"/>
@@ -445,10 +445,10 @@
       </Lemma>
       <Sense id="ewn-forfeit__1_21_01__" n="0" synset="ewn-13322197-n">
         <SenseRelation relType="derivation" target="ewn-forfeit__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-forfeit__1_21_00__" n="1" synset="ewn-13321945-n">
         <SenseRelation relType="derivation" target="ewn-forfeit__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-material_resource-n">
       <Lemma writtenForm="material resource" partOfSpeech="n"/>
@@ -464,7 +464,7 @@
       </Lemma>
       <Sense id="ewn-adjustment__1_21_00__" n="4" synset="ewn-13295115-n">
         <SenseRelation relType="derivation" target="ewn-adjust__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fifty_dollar_bill-n">
       <Lemma writtenForm="fifty dollar bill" partOfSpeech="n"/>
@@ -478,7 +478,7 @@
       <Lemma writtenForm="enrichment" partOfSpeech="n"/>
       <Sense id="ewn-enrichment__1_21_00__" n="1" synset="ewn-13292521-n">
         <SenseRelation relType="derivation" target="ewn-enrich__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fivepence-n">
       <Lemma writtenForm="fivepence" partOfSpeech="n"/>
@@ -497,7 +497,7 @@
       <Sense id="ewn-discount__1_21_02__" n="2" synset="ewn-13303298-n"/>
       <Sense id="ewn-discount__1_21_00__" n="3" synset="ewn-13295620-n">
         <SenseRelation relType="derivation" target="ewn-discount__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sickness_benefit-n">
       <Lemma writtenForm="sickness benefit" partOfSpeech="n"/>
@@ -517,7 +517,7 @@
       </Lemma>
       <Sense id="ewn-reversion__1_21_00__" n="0" synset="ewn-13362365-n">
         <SenseRelation relType="derivation" target="ewn-reversionary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-straight-line_method-n">
       <Lemma writtenForm="straight-line method" partOfSpeech="n"/>
@@ -533,7 +533,7 @@
       </Lemma>
       <Sense id="ewn-holding__1_21_00__" n="1" synset="ewn-13265007-n">
         <SenseRelation relType="derivation" target="ewn-hold__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Eurocurrency-n">
       <Lemma writtenForm="Eurocurrency" partOfSpeech="n"/>
@@ -566,7 +566,7 @@
       <Lemma writtenForm="tip" partOfSpeech="n"/>
       <Sense id="ewn-tip__1_21_00__" n="1" synset="ewn-13319724-n">
         <SenseRelation relType="derivation" target="ewn-tip__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-worldly_possessions-n">
       <Lemma writtenForm="worldly possessions" partOfSpeech="n"/>
@@ -585,7 +585,7 @@
       </Lemma>
       <Sense id="ewn-security__1_21_01__" n="1" synset="ewn-13365086-n">
         <SenseRelation relType="derivation" target="ewn-secure__5_00_00_sound_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-security__1_21_04__" n="3" synset="ewn-13437518-n"/>
       <Sense id="ewn-security__1_21_00__" n="4" synset="ewn-13370410-n"/>
     </LexicalEntry>
@@ -595,13 +595,13 @@
       </Lemma>
       <Sense id="ewn-atonement__1_21_00__" n="0" synset="ewn-13313810-n">
         <SenseRelation relType="derivation" target="ewn-atone__2_41_12__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-deductible-n">
       <Lemma writtenForm="deductible" partOfSpeech="n"/>
       <Sense id="ewn-deductible__1_21_00__" n="0" synset="ewn-13294573-n">
         <SenseRelation relType="derivation" target="ewn-deductible__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cover-n">
       <Lemma writtenForm="cover" partOfSpeech="n">
@@ -610,7 +610,7 @@
       </Lemma>
       <Sense id="ewn-cover__1_21_00__" n="7" synset="ewn-13339433-n">
         <SenseRelation relType="derivation" target="ewn-cover__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-baksheesh-n">
       <Lemma writtenForm="baksheesh" partOfSpeech="n">
@@ -638,7 +638,7 @@
       <Sense id="ewn-standard__1_21_00__" n="3" synset="ewn-13394387-n">
         <SenseRelation relType="derivation" target="ewn-standardize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-standardise__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-peppercorn_rent-n">
       <Lemma writtenForm="peppercorn rent" partOfSpeech="n"/>
@@ -650,7 +650,7 @@
       </Lemma>
       <Sense id="ewn-backing__1_21_00__" n="2" synset="ewn-13386871-n">
         <SenseRelation relType="derivation" target="ewn-back__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-subtreasury-n">
       <Lemma writtenForm="subtreasury" partOfSpeech="n"/>
@@ -663,7 +663,7 @@
       </Lemma>
       <Sense id="ewn-community__1_21_00__" n="2" synset="ewn-13261737-n">
         <SenseRelation relType="derivation" target="ewn-communal__5_00_00_common_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-supertax-n">
       <Lemma writtenForm="supertax" partOfSpeech="n"/>
@@ -677,7 +677,7 @@
       <Sense id="ewn-reserve__1_21_00__" n="1" synset="ewn-13389225-n">
         <SenseRelation relType="derivation" target="ewn-reserve__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-reserve__2_40_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-temporality-n">
       <Lemma writtenForm="temporality" partOfSpeech="n"/>
@@ -741,7 +741,7 @@
       <Lemma writtenForm="wager" partOfSpeech="n"/>
       <Sense id="ewn-wager__1_21_00__" n="1" synset="ewn-13364541-n">
         <SenseRelation relType="derivation" target="ewn-wager__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-noncallable_bond-n">
       <Lemma writtenForm="noncallable bond" partOfSpeech="n"/>
@@ -797,7 +797,7 @@
       </Lemma>
       <Sense id="ewn-expenditure__1_21_00__" n="0" synset="ewn-13296311-n">
         <SenseRelation relType="derivation" target="ewn-expend__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-five-spot-n">
       <Lemma writtenForm="five-spot" partOfSpeech="n"/>
@@ -807,13 +807,13 @@
       <Lemma writtenForm="check" partOfSpeech="n"/>
       <Sense id="ewn-check__1_21_00__" n="0" synset="ewn-13402907-n">
         <SenseRelation relType="derivation" target="ewn-check__2_32_07__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-paper_loss-n">
       <Lemma writtenForm="paper loss" partOfSpeech="n"/>
       <Sense id="ewn-paper_loss__1_21_00__" n="0" synset="ewn-13279912-n">
         <SenseRelation relType="antonym" target="ewn-paper_profit__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bill_of_exchange-n">
       <Lemma writtenForm="bill of exchange" partOfSpeech="n"/>
@@ -827,7 +827,7 @@
       <Sense id="ewn-offset__1_21_00__" n="1" synset="ewn-13312212-n">
         <SenseRelation relType="derivation" target="ewn-offset__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-offset__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-credit-n">
       <Lemma writtenForm="credit" partOfSpeech="n">
@@ -837,10 +837,10 @@
       <Sense id="ewn-credit__1_21_01__" n="2" synset="ewn-13426819-n">
         <SenseRelation relType="antonym" target="ewn-debit__1_21_01__"/>
         <SenseRelation relType="derivation" target="ewn-credit__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-credit__1_21_00__" n="4" synset="ewn-13395454-n">
         <SenseRelation relType="antonym" target="ewn-cash__1_21_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-alimony-n">
       <Lemma writtenForm="alimony" partOfSpeech="n">
@@ -856,7 +856,7 @@
       <Sense id="ewn-admission__1_21_00__" n="2" synset="ewn-13342517-n">
         <SenseRelation relType="derivation" target="ewn-admit__2_42_03__"/>
         <SenseRelation relType="derivation" target="ewn-admit__2_41_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-banker-ap-s_draft-n">
       <Lemma writtenForm="banker&apos;s draft" partOfSpeech="n"/>
@@ -896,7 +896,7 @@
       </Lemma>
       <Sense id="ewn-income__1_21_00__" n="0" synset="ewn-13276044-n">
         <SenseRelation relType="antonym" target="ewn-outgo__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-signory-n">
       <Lemma writtenForm="signory" partOfSpeech="n">
@@ -922,7 +922,7 @@
       <Lemma writtenForm="yield" partOfSpeech="n"/>
       <Sense id="ewn-yield__1_21_00__" n="1" synset="ewn-13281089-n">
         <SenseRelation relType="derivation" target="ewn-yield__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ready_cash-n">
       <Lemma writtenForm="ready cash" partOfSpeech="n"/>
@@ -966,7 +966,7 @@
       </Lemma>
       <Sense id="ewn-purchase__1_21_00__" n="1" synset="ewn-13274511-n">
         <SenseRelation relType="derivation" target="ewn-purchase__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-easy_street-n">
       <Lemma writtenForm="easy street" partOfSpeech="n"/>
@@ -1046,7 +1046,7 @@
       <Sense id="ewn-debit__1_21_01__" n="0" synset="ewn-13426980-n">
         <SenseRelation relType="antonym" target="ewn-credit__1_21_01__"/>
         <SenseRelation relType="derivation" target="ewn-debit__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-post_doc-n">
       <Lemma writtenForm="post doc" partOfSpeech="n"/>
@@ -1084,7 +1084,7 @@
       </Lemma>
       <Sense id="ewn-donation__1_21_00__" n="0" synset="ewn-13291061-n">
         <SenseRelation relType="derivation" target="ewn-donate__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hire-purchase-n">
       <Lemma writtenForm="hire-purchase" partOfSpeech="n"/>
@@ -1124,13 +1124,13 @@
       <Lemma writtenForm="surtax" partOfSpeech="n"/>
       <Sense id="ewn-surtax__1_21_00__" n="0" synset="ewn-13336386-n">
         <SenseRelation relType="derivation" target="ewn-surtax__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-accrual_basis-n">
       <Lemma writtenForm="accrual basis" partOfSpeech="n"/>
       <Sense id="ewn-accrual_basis__1_21_00__" n="0" synset="ewn-13427811-n">
         <SenseRelation relType="antonym" target="ewn-cash_basis__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-contingency_fee-n">
       <Lemma writtenForm="contingency fee" partOfSpeech="n"/>
@@ -1160,7 +1160,7 @@
       <Lemma writtenForm="bestowment" partOfSpeech="n"/>
       <Sense id="ewn-bestowment__1_21_00__" n="0" synset="ewn-13292960-n">
         <SenseRelation relType="derivation" target="ewn-bestow__2_40_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-common_stock-n">
       <Lemma writtenForm="common stock" partOfSpeech="n"/>
@@ -1182,7 +1182,7 @@
       <Sense id="ewn-ownership__1_21_00__" n="0" synset="ewn-13261412-n">
         <SenseRelation relType="derivation" target="ewn-owner__1_18_02__"/>
         <SenseRelation relType="derivation" target="ewn-owner__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-replacement_cost-n">
       <Lemma writtenForm="replacement cost" partOfSpeech="n"/>
@@ -1319,7 +1319,7 @@
       <Lemma writtenForm="pipage" partOfSpeech="n"/>
       <Sense id="ewn-pipage__1_21_00__" n="0" synset="ewn-13344124-n">
         <SenseRelation relType="derivation" target="ewn-pipe__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-PAYE-n">
       <Lemma writtenForm="PAYE" partOfSpeech="n"/>
@@ -1343,7 +1343,7 @@
       <Sense id="ewn-buy__1_21_00__" n="0" synset="ewn-13274650-n">
         <SenseRelation relType="derivation" target="ewn-buy__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-buy__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-installment_credit-n">
       <Lemma writtenForm="installment credit" partOfSpeech="n"/>
@@ -1374,7 +1374,7 @@
       </Lemma>
       <Sense id="ewn-insurance__1_21_02__" n="0" synset="ewn-13365819-n">
         <SenseRelation relType="derivation" target="ewn-insure__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-inventory-n">
       <Lemma writtenForm="inventory" partOfSpeech="n">
@@ -1426,7 +1426,7 @@
       <Lemma writtenForm="pavage" partOfSpeech="n"/>
       <Sense id="ewn-pavage__1_21_00__" n="0" synset="ewn-13336540-n">
         <SenseRelation relType="derivation" target="ewn-pave__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-involuntary_trust-n">
       <Lemma writtenForm="involuntary trust" partOfSpeech="n"/>
@@ -1444,7 +1444,7 @@
       <Lemma writtenForm="bet" partOfSpeech="n"/>
       <Sense id="ewn-bet__1_21_00__" n="0" synset="ewn-13364541-n">
         <SenseRelation relType="derivation" target="ewn-bet__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-convertible-n">
       <Lemma writtenForm="convertible" partOfSpeech="n">
@@ -1487,7 +1487,7 @@
       <Lemma writtenForm="remittance" partOfSpeech="n"/>
       <Sense id="ewn-remittance__1_21_00__" n="0" synset="ewn-13320476-n">
         <SenseRelation relType="derivation" target="ewn-remit__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spirituality-n">
       <Lemma writtenForm="spirituality" partOfSpeech="n">
@@ -1516,13 +1516,13 @@
       </Lemma>
       <Sense id="ewn-shelter__1_21_00__" n="3" synset="ewn-13334755-n">
         <SenseRelation relType="derivation" target="ewn-shelter__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-checking_account-n">
       <Lemma writtenForm="checking account" partOfSpeech="n"/>
       <Sense id="ewn-checking_account__1_21_00__" n="0" synset="ewn-13385143-n">
         <SenseRelation relType="domain_region" target="ewn-united_states__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-you-drive-n">
       <Lemma writtenForm="you-drive" partOfSpeech="n"/>
@@ -1547,7 +1547,7 @@
       <Form writtenForm="taxes"/>
       <Sense id="ewn-tax__1_21_00__" n="0" synset="ewn-13330021-n">
         <SenseRelation relType="derivation" target="ewn-tax__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rent-n">
       <Lemma writtenForm="rent" partOfSpeech="n"/>
@@ -1557,7 +1557,7 @@
         <SenseRelation relType="derivation" target="ewn-rent__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-rent__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-rent__2_41_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-rent__1_21_01__" n="2" synset="ewn-13317293-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-municipal_note-n">
@@ -1683,7 +1683,7 @@
       </Lemma>
       <Sense id="ewn-gold__1_21_00__" n="0" synset="ewn-13392933-n">
         <SenseRelation relType="derivation" target="ewn-gold__5_00_00_metallic_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-gold__1_21_01__" n="3" synset="ewn-13374461-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-paysheet-n">
@@ -1701,7 +1701,7 @@
       </Lemma>
       <Sense id="ewn-stockpile__1_21_00__" n="0" synset="ewn-13389225-n">
         <SenseRelation relType="derivation" target="ewn-stockpile__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tax-exempt-n">
       <Lemma writtenForm="tax-exempt" partOfSpeech="n"/>
@@ -1747,7 +1747,7 @@
       <Lemma writtenForm="loot" partOfSpeech="n"/>
       <Sense id="ewn-loot__1_21_00__" n="0" synset="ewn-13283562-n">
         <SenseRelation relType="derivation" target="ewn-loot__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-loot__1_21_01__" n="1" synset="ewn-13406389-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-travel_and_entertainment_account-n">
@@ -1762,13 +1762,13 @@
       <Lemma writtenForm="net" partOfSpeech="n"/>
       <Sense id="ewn-net__1_21_00__" n="2" synset="ewn-13279261-n">
         <SenseRelation relType="derivation" target="ewn-net__2_40_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cash_account-n">
       <Lemma writtenForm="cash account" partOfSpeech="n"/>
       <Sense id="ewn-cash_account__1_21_00__" n="0" synset="ewn-13372695-n">
         <SenseRelation relType="antonym" target="ewn-margin_account__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-goodwill-n">
       <Lemma writtenForm="goodwill" partOfSpeech="n">
@@ -1780,7 +1780,7 @@
       <Lemma writtenForm="share" partOfSpeech="n"/>
       <Sense id="ewn-share__1_21_00__" n="0" synset="ewn-13306199-n">
         <SenseRelation relType="derivation" target="ewn-share__2_40_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-share__1_21_01__" n="1" synset="ewn-13363150-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-installment_plan-n">
@@ -1840,7 +1840,7 @@
       </Lemma>
       <Sense id="ewn-cache__1_21_00__" n="1" synset="ewn-13388085-n">
         <SenseRelation relType="derivation" target="ewn-cache__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bill-n">
       <Lemma writtenForm="bill" partOfSpeech="n"/>
@@ -1887,7 +1887,7 @@
         <SenseRelation relType="derivation" target="ewn-pay__2_40_04__"/>
         <SenseRelation relType="derivation" target="ewn-pay__2_40_02__"/>
         <SenseRelation relType="derivation" target="ewn-pay__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dirty_money-n">
       <Lemma writtenForm="dirty money" partOfSpeech="n"/>
@@ -2068,7 +2068,7 @@
       </Lemma>
       <Sense id="ewn-keep__1_21_00__" n="0" synset="ewn-13386459-n">
         <SenseRelation relType="derivation" target="ewn-keep__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-time_note-n">
       <Lemma writtenForm="time note" partOfSpeech="n"/>
@@ -2133,7 +2133,7 @@
       </Lemma>
       <Sense id="ewn-balance__1_21_00__" n="1" synset="ewn-13430153-n">
         <SenseRelation relType="derivation" target="ewn-balance__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-balance__1_21_01__" n="5" synset="ewn-13430333-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-municipal_bond-n">
@@ -2172,7 +2172,7 @@
       </Lemma>
       <Sense id="ewn-fine__1_21_00__" n="0" synset="ewn-13322350-n">
         <SenseRelation relType="derivation" target="ewn-fine__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-certificate_of_deposit-n">
       <Lemma writtenForm="certificate of deposit" partOfSpeech="n"/>
@@ -2186,16 +2186,16 @@
       <Lemma writtenForm="default" partOfSpeech="n"/>
       <Sense id="ewn-default__1_21_02__" n="1" synset="ewn-13321434-n">
         <SenseRelation relType="derivation" target="ewn-default__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-default__1_21_00__" n="2" synset="ewn-13321164-n">
         <SenseRelation relType="derivation" target="ewn-default__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-listed_security-n">
       <Lemma writtenForm="listed security" partOfSpeech="n"/>
       <Sense id="ewn-listed_security__1_21_00__" n="0" synset="ewn-13442073-n">
         <SenseRelation relType="antonym" target="ewn-unlisted_security__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-admission_fee-n">
       <Lemma writtenForm="admission fee" partOfSpeech="n"/>
@@ -2207,7 +2207,7 @@
       </Lemma>
       <Sense id="ewn-redress__1_21_00__" n="0" synset="ewn-13311699-n">
         <SenseRelation relType="derivation" target="ewn-redress__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-relief-n">
       <Lemma writtenForm="relief" partOfSpeech="n"/>
@@ -2232,7 +2232,7 @@
       <Sense id="ewn-subsidy__1_21_00__" n="0" synset="ewn-13288037-n">
         <SenseRelation relType="derivation" target="ewn-subsidize__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-subsidise__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-transportation-n">
       <Lemma writtenForm="transportation" partOfSpeech="n">
@@ -2365,7 +2365,7 @@
       </Lemma>
       <Sense id="ewn-indemnification__1_21_00__" n="0" synset="ewn-13311699-n">
         <SenseRelation relType="derivation" target="ewn-indemnify__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-payola-n">
       <Lemma writtenForm="payola" partOfSpeech="n">
@@ -2398,7 +2398,7 @@
       </Lemma>
       <Sense id="ewn-porterage__1_21_00__" n="0" synset="ewn-13345732-n">
         <SenseRelation relType="derivation" target="ewn-porter__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-testamentary_trust-n">
       <Lemma writtenForm="testamentary trust" partOfSpeech="n"/>
@@ -2437,7 +2437,7 @@
       <Lemma writtenForm="write-off" partOfSpeech="n"/>
       <Sense id="ewn-write-off__1_21_00__" n="0" synset="ewn-13349875-n">
         <SenseRelation relType="derivation" target="ewn-write_off__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-zero-coupon_security-n">
       <Lemma writtenForm="zero-coupon security" partOfSpeech="n"/>
@@ -2475,7 +2475,7 @@
       <Lemma writtenForm="cash basis" partOfSpeech="n"/>
       <Sense id="ewn-cash_basis__1_21_00__" n="0" synset="ewn-13428025-n">
         <SenseRelation relType="antonym" target="ewn-accrual_basis__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mutual_fund-n">
       <Lemma writtenForm="mutual fund" partOfSpeech="n"/>
@@ -2487,20 +2487,20 @@
       </Lemma>
       <Sense id="ewn-indemnity__1_21_00__" n="2" synset="ewn-13311699-n">
         <SenseRelation relType="derivation" target="ewn-indemnify__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rake-off-n">
       <Lemma writtenForm="rake-off" partOfSpeech="n"/>
       <Sense id="ewn-rake-off__1_21_00__" n="0" synset="ewn-13310329-n">
         <SenseRelation relType="derivation" target="ewn-rake_off__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-assessment-n">
       <Lemma writtenForm="assessment" partOfSpeech="n"/>
       <Sense id="ewn-assessment__1_21_00__" n="1" synset="ewn-13424319-n">
         <SenseRelation relType="derivation" target="ewn-assess__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-assess__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-incidental_expense-n">
       <Lemma writtenForm="incidental expense" partOfSpeech="n"/>
@@ -2544,7 +2544,7 @@
         <SenseRelation relType="derivation" target="ewn-plunder__2_40_02__"/>
         <SenseRelation relType="derivation" target="ewn-plunder__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-plunder__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-degressive_tax-n">
       <Lemma writtenForm="degressive tax" partOfSpeech="n"/>
@@ -2596,7 +2596,7 @@
       <Lemma writtenForm="pool" partOfSpeech="n"/>
       <Sense id="ewn-pool__1_21_00__" n="4" synset="ewn-13391030-n">
         <SenseRelation relType="derivation" target="ewn-pool__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-pool__1_21_01__" n="6" synset="ewn-13390647-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-estate_for_life-n">
@@ -2625,7 +2625,7 @@
       </Lemma>
       <Sense id="ewn-devise__1_21_02__" n="0" synset="ewn-13437414-n">
         <SenseRelation relType="derivation" target="ewn-devise__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-devise__1_21_01__" n="1" synset="ewn-13284975-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-accounting-n">
@@ -2634,10 +2634,10 @@
       </Lemma>
       <Sense id="ewn-accounting__1_21_01__" n="3" synset="ewn-13427135-n">
         <SenseRelation relType="derivation" target="ewn-account__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-accounting__1_21_00__" n="4" synset="ewn-13376000-n">
         <SenseRelation relType="derivation" target="ewn-account__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ETF-n">
       <Lemma writtenForm="ETF" partOfSpeech="n"/>
@@ -2649,13 +2649,13 @@
       </Lemma>
       <Sense id="ewn-investment__1_21_00__" n="1" synset="ewn-13354252-n">
         <SenseRelation relType="derivation" target="ewn-invest__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-proprietorship-n">
       <Lemma writtenForm="proprietorship" partOfSpeech="n"/>
       <Sense id="ewn-proprietorship__1_21_00__" n="0" synset="ewn-13264678-n">
         <SenseRelation relType="derivation" target="ewn-proprietor__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mortgage-n">
       <Lemma writtenForm="mortgage" partOfSpeech="n">
@@ -2664,7 +2664,7 @@
       </Lemma>
       <Sense id="ewn-mortgage__1_21_00__" n="0" synset="ewn-13373153-n">
         <SenseRelation relType="derivation" target="ewn-mortgage__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cash_card-n">
       <Lemma writtenForm="cash card" partOfSpeech="n"/>
@@ -2677,7 +2677,7 @@
       </Lemma>
       <Sense id="ewn-issue__1_21_01__" n="4" synset="ewn-13388766-n">
         <SenseRelation relType="derivation" target="ewn-issue__2_41_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-issue__1_21_00__" n="5" synset="ewn-13281089-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-account-n">
@@ -2774,7 +2774,7 @@
         <SenseRelation relType="derivation" target="ewn-certify__2_40_02__"/>
         <SenseRelation relType="derivation" target="ewn-certificate__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-certificate__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Maundy_money-n">
       <Lemma writtenForm="Maundy money" partOfSpeech="n"/>
@@ -2798,7 +2798,7 @@
       </Lemma>
       <Sense id="ewn-gamble__1_21_00__" n="0" synset="ewn-13364002-n">
         <SenseRelation relType="derivation" target="ewn-gamble__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wage-n">
       <Lemma writtenForm="wage" partOfSpeech="n"/>
@@ -2813,7 +2813,7 @@
       <Sense id="ewn-earnings__1_21_01__" n="0" synset="ewn-13279261-n"/>
       <Sense id="ewn-earnings__1_21_00__" n="1" synset="ewn-13300285-n">
         <SenseRelation relType="derivation" target="ewn-earn__2_40_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-treasure_trove-n">
       <Lemma writtenForm="treasure trove" partOfSpeech="n"/>
@@ -2831,7 +2831,7 @@
       </Lemma>
       <Sense id="ewn-split__1_21_00__" n="2" synset="ewn-13307663-n">
         <SenseRelation relType="derivation" target="ewn-split__2_41_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-breakage-n">
       <Lemma writtenForm="breakage" partOfSpeech="n"/>
@@ -2854,7 +2854,7 @@
       <Sense id="ewn-bimetallism__1_21_00__" n="0" synset="ewn-13394919-n">
         <SenseRelation relType="derivation" target="ewn-bimetallistic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-bimetallist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ante-n">
       <Lemma writtenForm="ante" partOfSpeech="n">
@@ -2862,7 +2862,7 @@
       </Lemma>
       <Sense id="ewn-ante__1_21_00__" n="0" synset="ewn-13364932-n">
         <SenseRelation relType="derivation" target="ewn-ante__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-clobber-n">
       <Lemma writtenForm="clobber" partOfSpeech="n"/>
@@ -2878,7 +2878,7 @@
       </Lemma>
       <Sense id="ewn-savings__1_21_00__" n="0" synset="ewn-13380745-n">
         <SenseRelation relType="derivation" target="ewn-save__2_40_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-matching_funds-n">
       <Lemma writtenForm="matching funds" partOfSpeech="n"/>
@@ -2938,7 +2938,7 @@
       </Lemma>
       <Sense id="ewn-mulct__1_21_00__" n="0" synset="ewn-13322350-n">
         <SenseRelation relType="derivation" target="ewn-mulct__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-paper_gold-n">
       <Lemma writtenForm="paper gold" partOfSpeech="n"/>
@@ -2950,7 +2950,7 @@
       </Lemma>
       <Sense id="ewn-excise__1_21_00__" n="0" synset="ewn-13337354-n">
         <SenseRelation relType="derivation" target="ewn-excise__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dividend_warrant-n">
       <Lemma writtenForm="dividend warrant" partOfSpeech="n"/>
@@ -3057,7 +3057,7 @@
       <Lemma writtenForm="cost" partOfSpeech="n"/>
       <Sense id="ewn-cost__1_21_00__" n="0" synset="ewn-13296870-n">
         <SenseRelation relType="derivation" target="ewn-cost__2_42_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stockholding-n">
       <Lemma writtenForm="stockholding" partOfSpeech="n"/>
@@ -3108,7 +3108,7 @@
       </Lemma>
       <Sense id="ewn-figure__1_21_00__" n="6" synset="ewn-13352649-n">
         <SenseRelation relType="derivation" target="ewn-figure__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tare-n">
       <Lemma writtenForm="tare" partOfSpeech="n"/>
@@ -3168,16 +3168,16 @@
       <Lemma writtenForm="cash" partOfSpeech="n"/>
       <Sense id="ewn-cash__1_21_00__" n="0" synset="ewn-13407787-n">
         <SenseRelation relType="derivation" target="ewn-cash__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cash__1_21_02__" n="1" synset="ewn-13407638-n">
         <SenseRelation relType="antonym" target="ewn-credit__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-remitment-n">
       <Lemma writtenForm="remitment" partOfSpeech="n"/>
       <Sense id="ewn-remitment__1_21_00__" n="0" synset="ewn-13320476-n">
         <SenseRelation relType="derivation" target="ewn-remit__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quick_assets-n">
       <Lemma writtenForm="quick assets" partOfSpeech="n"/>
@@ -3257,11 +3257,11 @@
         <SenseRelation relType="derivation" target="ewn-capitalise__2_31_01__"/>
         <SenseRelation relType="derivation" target="ewn-capitalise__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-capitalise__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-capital__1_21_00__" n="1" synset="ewn-13374622-n">
         <SenseRelation relType="derivation" target="ewn-capitalist__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-capitalise__2_31_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-payback-n">
       <Lemma writtenForm="payback" partOfSpeech="n">
@@ -3307,7 +3307,7 @@
       </Lemma>
       <Sense id="ewn-subvention__1_21_00__" n="0" synset="ewn-13288286-n">
         <SenseRelation relType="derivation" target="ewn-subvent__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ducat-n">
       <Lemma writtenForm="ducat" partOfSpeech="n">
@@ -3343,7 +3343,7 @@
       <Lemma writtenForm="reallocation" partOfSpeech="n"/>
       <Sense id="ewn-reallocation__1_21_00__" n="0" synset="ewn-13310653-n">
         <SenseRelation relType="derivation" target="ewn-reallocate__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ordinary_shares-n">
       <Lemma writtenForm="ordinary shares" partOfSpeech="n"/>
@@ -3361,7 +3361,7 @@
       <Sense id="ewn-present__1_21_00__" n="1" synset="ewn-13289865-n">
         <SenseRelation relType="derivation" target="ewn-present__3_00_02__"/>
         <SenseRelation relType="derivation" target="ewn-present__2_40_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trust_fund-n">
       <Lemma writtenForm="trust fund" partOfSpeech="n"/>
@@ -3397,7 +3397,7 @@
       <Sense id="ewn-ration__1_21_00__" n="1" synset="ewn-13307122-n">
         <SenseRelation relType="derivation" target="ewn-ration__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-ration__2_40_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-workmen-ap-s_compensation-n">
       <Lemma writtenForm="workmen&apos;s compensation" partOfSpeech="n"/>
@@ -3460,7 +3460,7 @@
       <Lemma writtenForm="cabbage" partOfSpeech="n"/>
       <Sense id="ewn-cabbage__1_21_00__" n="1" synset="ewn-13406389-n">
         <SenseRelation relType="derivation" target="ewn-cabbage__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-internal_revenue-n">
       <Lemma writtenForm="internal revenue" partOfSpeech="n"/>
@@ -3508,7 +3508,7 @@
       <Sense id="ewn-subsidization__1_21_00__" n="0" synset="ewn-13406756-n">
         <SenseRelation relType="derivation" target="ewn-subsidize__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-subsidize__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ground_rent-n">
       <Lemma writtenForm="ground rent" partOfSpeech="n"/>
@@ -3532,7 +3532,7 @@
       <Lemma writtenForm="assignment" partOfSpeech="n"/>
       <Sense id="ewn-assignment__1_21_02__" n="3" synset="ewn-13275136-n">
         <SenseRelation relType="derivation" target="ewn-assign__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-convertible_bond-n">
       <Lemma writtenForm="convertible bond" partOfSpeech="n"/>
@@ -3576,7 +3576,7 @@
       <Lemma writtenForm="overcharge" partOfSpeech="n"/>
       <Sense id="ewn-overcharge__1_21_00__" n="0" synset="ewn-13328806-n">
         <SenseRelation relType="derivation" target="ewn-overcharge__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bond_issue-n">
       <Lemma writtenForm="bond issue" partOfSpeech="n"/>
@@ -3609,7 +3609,7 @@
       </Lemma>
       <Sense id="ewn-expiation__1_21_00__" n="0" synset="ewn-13313810-n">
         <SenseRelation relType="derivation" target="ewn-expiate__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-satisfaction-n">
       <Lemma writtenForm="satisfaction" partOfSpeech="n">
@@ -3687,7 +3687,7 @@
       </Lemma>
       <Sense id="ewn-collateral__1_21_00__" n="0" synset="ewn-13373880-n">
         <SenseRelation relType="derivation" target="ewn-collateral__5_00_00_supportive_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pillage-n">
       <Lemma writtenForm="pillage" partOfSpeech="n">
@@ -3695,7 +3695,7 @@
       </Lemma>
       <Sense id="ewn-pillage__1_21_00__" n="0" synset="ewn-13283562-n">
         <SenseRelation relType="derivation" target="ewn-pillage__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-accounting_entry-n">
       <Lemma writtenForm="accounting entry" partOfSpeech="n"/>
@@ -3712,7 +3712,7 @@
       </Lemma>
       <Sense id="ewn-document__1_21_00__" n="2" synset="ewn-13424504-n">
         <SenseRelation relType="derivation" target="ewn-documentary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-unearned_revenue-n">
       <Lemma writtenForm="unearned revenue" partOfSpeech="n"/>
@@ -3804,7 +3804,7 @@
       </Lemma>
       <Sense id="ewn-cheque__1_21_00__" n="0" synset="ewn-13402907-n">
         <SenseRelation relType="derivation" target="ewn-cheque__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-national_income-n">
       <Lemma writtenForm="national income" partOfSpeech="n"/>
@@ -3821,7 +3821,7 @@
         <SenseRelation relType="derivation" target="ewn-stock__2_40_02__"/>
         <SenseRelation relType="derivation" target="ewn-stock__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-stock__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-direct_loan-n">
       <Lemma writtenForm="direct loan" partOfSpeech="n"/>
@@ -3833,7 +3833,7 @@
       </Lemma>
       <Sense id="ewn-sacrifice__1_21_00__" n="2" synset="ewn-13349095-n">
         <SenseRelation relType="derivation" target="ewn-sacrifice__2_40_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-European_plan-n">
       <Lemma writtenForm="European plan" partOfSpeech="n"/>
@@ -3885,7 +3885,7 @@
       <Lemma writtenForm="undercharge" partOfSpeech="n"/>
       <Sense id="ewn-undercharge__1_21_00__" n="0" synset="ewn-13328707-n">
         <SenseRelation relType="derivation" target="ewn-undercharge__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-no_fault_automobile_insurance-n">
       <Lemma writtenForm="no fault automobile insurance" partOfSpeech="n"/>
@@ -3919,7 +3919,7 @@
       <Lemma writtenForm="sparkler" partOfSpeech="n"/>
       <Sense id="ewn-sparkler__1_21_00__" n="0" synset="ewn-13393296-n">
         <SenseRelation relType="derivation" target="ewn-sparkle__2_43_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-meed-n">
       <Lemma writtenForm="meed" partOfSpeech="n"/>
@@ -3962,7 +3962,7 @@
       </Lemma>
       <Sense id="ewn-markup__1_21_00__" n="0" synset="ewn-13324902-n">
         <SenseRelation relType="derivation" target="ewn-mark_up__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cash_advance-n">
       <Lemma writtenForm="cash advance" partOfSpeech="n"/>
@@ -4058,7 +4058,7 @@
       <Sense id="ewn-profit__1_21_00__" n="0" synset="ewn-13279261-n">
         <SenseRelation relType="derivation" target="ewn-profiteer__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-profit__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-megabucks-n">
       <Lemma writtenForm="megabucks" partOfSpeech="n"/>
@@ -4149,16 +4149,16 @@
       </Lemma>
       <Sense id="ewn-dower__1_21_01__" n="0" synset="ewn-13286324-n">
         <SenseRelation relType="derivation" target="ewn-dower__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-dower__1_21_00__" n="1" synset="ewn-13285102-n">
         <SenseRelation relType="derivation" target="ewn-dower__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-unlisted_security-n">
       <Lemma writtenForm="unlisted security" partOfSpeech="n"/>
       <Sense id="ewn-unlisted_security__1_21_00__" n="0" synset="ewn-13442268-n">
         <SenseRelation relType="antonym" target="ewn-listed_security__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-anchorage-n">
       <Lemma writtenForm="anchorage" partOfSpeech="n">
@@ -4310,10 +4310,10 @@
       <Lemma writtenForm="freehold" partOfSpeech="n"/>
       <Sense id="ewn-freehold__1_21_01__" n="0" synset="ewn-13264159-n">
         <SenseRelation relType="derivation" target="ewn-freeholder__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-freehold__1_21_00__" n="1" synset="ewn-13264032-n">
         <SenseRelation relType="derivation" target="ewn-freeholder__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bank_bill-n">
       <Lemma writtenForm="bank bill" partOfSpeech="n"/>
@@ -4333,7 +4333,7 @@
       </Lemma>
       <Sense id="ewn-speculation__1_21_00__" n="2" synset="ewn-13363707-n">
         <SenseRelation relType="derivation" target="ewn-speculate__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-nickel_note-n">
       <Lemma writtenForm="nickel note" partOfSpeech="n"/>
@@ -4345,7 +4345,7 @@
       </Lemma>
       <Sense id="ewn-spoil__1_21_00__" n="0" synset="ewn-13283361-n">
         <SenseRelation relType="derivation" target="ewn-spoil__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-seed_corn-n">
       <Lemma writtenForm="seed corn" partOfSpeech="n"/>
@@ -4398,7 +4398,7 @@
       <Lemma writtenForm="pawn" partOfSpeech="n"/>
       <Sense id="ewn-pawn__1_21_00__" n="0" synset="ewn-13371890-n">
         <SenseRelation relType="derivation" target="ewn-pawn__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-proprietary-n">
       <Lemma writtenForm="proprietary" partOfSpeech="n">
@@ -4427,10 +4427,10 @@
       <Lemma writtenForm="support" partOfSpeech="n"/>
       <Sense id="ewn-support__1_21_00__" n="5" synset="ewn-13386459-n">
         <SenseRelation relType="derivation" target="ewn-support__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-support__1_21_01__" n="10" synset="ewn-13386871-n">
         <SenseRelation relType="derivation" target="ewn-support__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dispensation-n">
       <Lemma writtenForm="dispensation" partOfSpeech="n">
@@ -4439,7 +4439,7 @@
       <Sense id="ewn-dispensation__1_21_00__" n="1" synset="ewn-13306737-n">
         <SenseRelation relType="derivation" target="ewn-dispense__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-dispense__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fee_simple-n">
       <Lemma writtenForm="fee simple" partOfSpeech="n"/>
@@ -4500,7 +4500,7 @@
       </Lemma>
       <Sense id="ewn-stipend__1_21_00__" n="0" synset="ewn-13315158-n">
         <SenseRelation relType="derivation" target="ewn-stipendiary__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-smallholding-n">
       <Lemma writtenForm="smallholding" partOfSpeech="n"/>
@@ -4518,7 +4518,7 @@
       <Lemma writtenForm="amercement" partOfSpeech="n"/>
       <Sense id="ewn-amercement__1_21_00__" n="0" synset="ewn-13322350-n">
         <SenseRelation relType="derivation" target="ewn-amerce__2_41_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-incentive_program-n">
       <Lemma writtenForm="incentive program" partOfSpeech="n"/>
@@ -4536,7 +4536,7 @@
       <Lemma writtenForm="gain" partOfSpeech="n"/>
       <Sense id="ewn-gain__1_21_00__" n="3" synset="ewn-13275704-n">
         <SenseRelation relType="antonym" target="ewn-loss__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pin_money-n">
       <Lemma writtenForm="pin money" partOfSpeech="n">
@@ -4585,7 +4585,7 @@
       </Lemma>
       <Sense id="ewn-rental__1_21_00__" n="0" synset="ewn-13269292-n">
         <SenseRelation relType="derivation" target="ewn-rental__3_01_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wampum-n">
       <Lemma writtenForm="wampum" partOfSpeech="n">
@@ -4607,7 +4607,7 @@
       </Lemma>
       <Sense id="ewn-recompense__1_21_00__" n="0" synset="ewn-13303030-n">
         <SenseRelation relType="derivation" target="ewn-recompense__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-customs_duty-n">
       <Lemma writtenForm="customs duty" partOfSpeech="n"/>
@@ -4661,7 +4661,7 @@
       </Lemma>
       <Sense id="ewn-pension__1_21_00__" n="0" synset="ewn-13405337-n">
         <SenseRelation relType="derivation" target="ewn-pension__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cash_in_hand-n">
       <Lemma writtenForm="cash in hand" partOfSpeech="n"/>
@@ -4701,7 +4701,7 @@
       <Lemma writtenForm="right" partOfSpeech="n"/>
       <Sense id="ewn-right__1_21_00__" n="7" synset="ewn-13362771-n">
         <SenseRelation relType="derivation" target="ewn-right__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sustenance-n">
       <Lemma writtenForm="sustenance" partOfSpeech="n">
@@ -4709,7 +4709,7 @@
       </Lemma>
       <Sense id="ewn-sustenance__1_21_00__" n="1" synset="ewn-13386459-n">
         <SenseRelation relType="derivation" target="ewn-sustain__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bride_price-n">
       <Lemma writtenForm="bride price" partOfSpeech="n"/>
@@ -4721,7 +4721,7 @@
       </Lemma>
       <Sense id="ewn-reparation__1_21_01__" n="0" synset="ewn-13313636-n">
         <SenseRelation relType="derivation" target="ewn-repair__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-reparation__1_21_00__" n="1" synset="ewn-13313413-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-surety-n">
@@ -4745,7 +4745,7 @@
       </Lemma>
       <Sense id="ewn-allocation__1_21_00__" n="0" synset="ewn-13310490-n">
         <SenseRelation relType="derivation" target="ewn-allocate__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-capitation-n">
       <Lemma writtenForm="capitation" partOfSpeech="n">
@@ -4846,7 +4846,7 @@
       <Sense id="ewn-counterbalance__1_21_00__" n="2" synset="ewn-13312212-n">
         <SenseRelation relType="derivation" target="ewn-counterbalance__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-counterbalance__2_42_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wedding_gift-n">
       <Lemma writtenForm="wedding gift" partOfSpeech="n"/>
@@ -4892,7 +4892,7 @@
         <SenseRelation relType="derivation" target="ewn-compensate__2_40_02__"/>
         <SenseRelation relType="derivation" target="ewn-compensate__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-compensate__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-portage-n">
       <Lemma writtenForm="portage" partOfSpeech="n">
@@ -4915,7 +4915,7 @@
       </Lemma>
       <Sense id="ewn-award__1_21_00__" n="2" synset="ewn-13289169-n">
         <SenseRelation relType="derivation" target="ewn-award__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dividend-n">
       <Lemma writtenForm="dividend" partOfSpeech="n">
@@ -4970,7 +4970,7 @@
       <Lemma writtenForm="coinsurance" partOfSpeech="n"/>
       <Sense id="ewn-coinsurance__1_21_00__" n="0" synset="ewn-13367224-n">
         <SenseRelation relType="derivation" target="ewn-coinsure__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-interbank_loan-n">
       <Lemma writtenForm="interbank loan" partOfSpeech="n"/>
@@ -4991,7 +4991,7 @@
       </Lemma>
       <Sense id="ewn-accretion__1_21_00__" n="5" synset="ewn-13284439-n">
         <SenseRelation relType="derivation" target="ewn-accretionary__5_00_00_increasing_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-depreciation_charge-n">
       <Lemma writtenForm="depreciation charge" partOfSpeech="n"/>
@@ -5001,7 +5001,7 @@
       <Lemma writtenForm="sublease" partOfSpeech="n"/>
       <Sense id="ewn-sublease__1_21_00__" n="0" synset="ewn-13269827-n">
         <SenseRelation relType="derivation" target="ewn-sublease__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-arrears-n">
       <Lemma writtenForm="arrears" partOfSpeech="n">
@@ -5032,7 +5032,7 @@
       <Lemma writtenForm="write-down" partOfSpeech="n"/>
       <Sense id="ewn-write-down__1_21_00__" n="0" synset="ewn-13349875-n">
         <SenseRelation relType="derivation" target="ewn-write_down__2_30_10__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dead_hand-n">
       <Lemma writtenForm="dead hand" partOfSpeech="n"/>
@@ -5054,7 +5054,7 @@
       <Sense id="ewn-gross__1_21_00__" n="1" synset="ewn-13277590-n">
         <SenseRelation relType="derivation" target="ewn-gross__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-gross__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-contribution-n">
       <Lemma writtenForm="contribution" partOfSpeech="n">
@@ -5136,7 +5136,7 @@
       <Sense id="ewn-stake__1_21_00__" n="3" synset="ewn-13364541-n">
         <SenseRelation relType="derivation" target="ewn-stake__2_33_00__"/>
         <SenseRelation relType="derivation" target="ewn-stake__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-excise_tax-n">
       <Lemma writtenForm="excise tax" partOfSpeech="n"/>
@@ -5153,7 +5153,7 @@
       </Lemma>
       <Sense id="ewn-bargain__1_21_01__" n="1" synset="ewn-13274650-n">
         <SenseRelation relType="derivation" target="ewn-bargain__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-return-n">
       <Lemma writtenForm="return" partOfSpeech="n">
@@ -5162,13 +5162,13 @@
       </Lemma>
       <Sense id="ewn-return__1_21_00__" n="5" synset="ewn-13281089-n">
         <SenseRelation relType="derivation" target="ewn-return__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trade-in-n">
       <Lemma writtenForm="trade-in" partOfSpeech="n"/>
       <Sense id="ewn-trade-in__1_21_00__" n="0" synset="ewn-13269691-n">
         <SenseRelation relType="derivation" target="ewn-trade_in__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-installment_debt-n">
       <Lemma writtenForm="installment debt" partOfSpeech="n"/>
@@ -5198,7 +5198,7 @@
       </Lemma>
       <Sense id="ewn-usury__1_21_01__" n="0" synset="ewn-13341067-n">
         <SenseRelation relType="derivation" target="ewn-usurious__5_00_00_immoderate_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-landed_estate-n">
       <Lemma writtenForm="landed estate" partOfSpeech="n"/>
@@ -5244,7 +5244,7 @@
       <Lemma writtenForm="bail" partOfSpeech="n"/>
       <Sense id="ewn-bail__1_21_00__" n="0" synset="ewn-13371991-n">
         <SenseRelation relType="derivation" target="ewn-bail__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-entry-n">
       <Lemma writtenForm="entry" partOfSpeech="n">
@@ -5266,7 +5266,7 @@
       </Lemma>
       <Sense id="ewn-refund__1_21_00__" n="0" synset="ewn-13303184-n">
         <SenseRelation relType="derivation" target="ewn-refund__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kite-n">
       <Lemma writtenForm="kite" partOfSpeech="n">
@@ -5274,10 +5274,10 @@
       </Lemma>
       <Sense id="ewn-kite__1_21_01__" n="0" synset="ewn-13403644-n">
         <SenseRelation relType="derivation" target="ewn-kite__2_40_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-kite__1_21_00__" n="1" synset="ewn-13403479-n">
         <SenseRelation relType="derivation" target="ewn-kite__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-budget_deficit-n">
       <Lemma writtenForm="budget deficit" partOfSpeech="n"/>
@@ -5330,7 +5330,7 @@
         <SenseRelation relType="derivation" target="ewn-register__2_41_05__"/>
         <SenseRelation relType="derivation" target="ewn-register__2_32_03__"/>
         <SenseRelation relType="derivation" target="ewn-register__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-compensatory_damages-n">
       <Lemma writtenForm="compensatory damages" partOfSpeech="n"/>
@@ -5356,7 +5356,7 @@
       <Lemma writtenForm="toll" partOfSpeech="n"/>
       <Sense id="ewn-toll__1_21_00__" n="0" synset="ewn-13344771-n">
         <SenseRelation relType="derivation" target="ewn-toll__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-solidus-n">
       <Lemma writtenForm="solidus" partOfSpeech="n">
@@ -5428,7 +5428,7 @@
       </Lemma>
       <Sense id="ewn-outgo__1_21_00__" n="0" synset="ewn-13296311-n">
         <SenseRelation relType="antonym" target="ewn-income__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bracket_creep-n">
       <Lemma writtenForm="bracket creep" partOfSpeech="n"/>
@@ -5473,7 +5473,7 @@
       </Lemma>
       <Sense id="ewn-ransom__1_21_00__" n="0" synset="ewn-13305071-n">
         <SenseRelation relType="derivation" target="ewn-ransom__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-immediate_payment-n">
       <Lemma writtenForm="immediate payment" partOfSpeech="n"/>
@@ -5501,7 +5501,7 @@
       </Lemma>
       <Sense id="ewn-wealth__1_21_02__" n="2" synset="ewn-13374295-n">
         <SenseRelation relType="derivation" target="ewn-wealthy__5_00_00_rich_00"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-wealth__1_21_00__" n="3" synset="ewn-13271297-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-Treasury_bill-n">
@@ -5524,7 +5524,7 @@
       <Lemma writtenForm="lighterage" partOfSpeech="n"/>
       <Sense id="ewn-lighterage__1_21_00__" n="0" synset="ewn-13343542-n">
         <SenseRelation relType="derivation" target="ewn-lighter__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-poll_tax-n">
       <Lemma writtenForm="poll tax" partOfSpeech="n"/>
@@ -5545,7 +5545,7 @@
       <Sense id="ewn-repayment__1_21_00__" n="1" synset="ewn-13320674-n">
         <SenseRelation relType="derivation" target="ewn-repay__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-repay__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-annuity_in_advance-n">
       <Lemma writtenForm="annuity in advance" partOfSpeech="n"/>
@@ -5560,7 +5560,7 @@
       <Sense id="ewn-current_account__1_21_00__" n="0" synset="ewn-13431976-n"/>
       <Sense id="ewn-current_account__1_21_01__" n="1" synset="ewn-13385143-n">
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-balanced_budget-n">
       <Lemma writtenForm="balanced budget" partOfSpeech="n"/>
@@ -5570,7 +5570,7 @@
       <Lemma writtenForm="loan" partOfSpeech="n"/>
       <Sense id="ewn-loan__1_21_00__" n="0" synset="ewn-13420126-n">
         <SenseRelation relType="derivation" target="ewn-loan__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-copyhold-n">
       <Lemma writtenForm="copyhold" partOfSpeech="n"/>
@@ -5600,7 +5600,7 @@
       <Lemma writtenForm="passive trust" partOfSpeech="n"/>
       <Sense id="ewn-passive_trust__1_21_00__" n="0" synset="ewn-13382506-n">
         <SenseRelation relType="antonym" target="ewn-active_trust__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-indirect_tax-n">
       <Lemma writtenForm="indirect tax" partOfSpeech="n"/>
@@ -5610,7 +5610,7 @@
       <Lemma writtenForm="margin account" partOfSpeech="n"/>
       <Sense id="ewn-margin_account__1_21_00__" n="0" synset="ewn-13373001-n">
         <SenseRelation relType="antonym" target="ewn-cash_account__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-audited_account-n">
       <Lemma writtenForm="audited account" partOfSpeech="n"/>
@@ -5694,7 +5694,7 @@
       <Lemma writtenForm="remittal" partOfSpeech="n"/>
       <Sense id="ewn-remittal__1_21_00__" n="0" synset="ewn-13320476-n">
         <SenseRelation relType="derivation" target="ewn-remit__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-unit_cost-n">
       <Lemma writtenForm="unit cost" partOfSpeech="n"/>
@@ -5751,7 +5751,7 @@
       </Lemma>
       <Sense id="ewn-extortion__1_21_00__" n="0" synset="ewn-13328923-n">
         <SenseRelation relType="derivation" target="ewn-extort__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Premium_Bond-n">
       <Lemma writtenForm="Premium Bond" partOfSpeech="n"/>
@@ -5775,7 +5775,7 @@
       <Lemma writtenForm="chequing account" partOfSpeech="n"/>
       <Sense id="ewn-chequing_account__1_21_00__" n="0" synset="ewn-13385143-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hotel_plan-n">
       <Lemma writtenForm="hotel plan" partOfSpeech="n"/>
@@ -5804,7 +5804,7 @@
       <Lemma writtenForm="belongings" partOfSpeech="n"/>
       <Sense id="ewn-belongings__1_21_00__" n="0" synset="ewn-13265007-n">
         <SenseRelation relType="derivation" target="ewn-belong__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-put_option-n">
       <Lemma writtenForm="put option" partOfSpeech="n"/>
@@ -5889,12 +5889,12 @@
       <Sense id="ewn-money__1_21_00__" n="0" synset="ewn-13405730-n">
         <SenseRelation relType="derivation" target="ewn-monetary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-moneyer__1_18_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-money__1_21_02__" n="1" synset="ewn-13271441-n"/>
       <Sense id="ewn-money__1_21_01__" n="2" synset="ewn-13406050-n">
         <SenseRelation relType="derivation" target="ewn-monetary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-moneyer__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trial_balance-n">
       <Lemma writtenForm="trial balance" partOfSpeech="n"/>
@@ -5908,13 +5908,13 @@
       <Sense id="ewn-loss__1_21_01__" n="0" synset="ewn-13348698-n"/>
       <Sense id="ewn-loss__1_21_00__" n="5" synset="ewn-13348253-n">
         <SenseRelation relType="antonym" target="ewn-gain__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-withholding-n">
       <Lemma writtenForm="withholding" partOfSpeech="n"/>
       <Sense id="ewn-withholding__1_21_00__" n="1" synset="ewn-13332390-n">
         <SenseRelation relType="derivation" target="ewn-withhold__2_40_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-incidental-n">
       <Lemma writtenForm="incidental" partOfSpeech="n">
@@ -5937,7 +5937,7 @@
       <Lemma writtenForm="secured bond" partOfSpeech="n"/>
       <Sense id="ewn-secured_bond__1_21_00__" n="0" synset="ewn-13360749-n">
         <SenseRelation relType="antonym" target="ewn-unsecured_bond__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stamp_duty-n">
       <Lemma writtenForm="stamp duty" partOfSpeech="n"/>
@@ -6066,7 +6066,7 @@
       <Sense id="ewn-fund__1_21_00__" n="0" synset="ewn-13379722-n">
         <SenseRelation relType="derivation" target="ewn-fund__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-fund__2_40_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-fund__1_21_01__" n="1" synset="ewn-13388243-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-savings_bank_trust-n">
@@ -6094,7 +6094,7 @@
       <Lemma writtenForm="stash" partOfSpeech="n"/>
       <Sense id="ewn-stash__1_21_00__" n="0" synset="ewn-13388085-n">
         <SenseRelation relType="derivation" target="ewn-stash__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-guarantee-n">
       <Lemma writtenForm="guarantee" partOfSpeech="n">
@@ -6141,10 +6141,10 @@
       </Lemma>
       <Sense id="ewn-taxation__1_21_00__" n="0" synset="ewn-13330021-n">
         <SenseRelation relType="derivation" target="ewn-tax__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-taxation__1_21_01__" n="1" synset="ewn-13282815-n">
         <SenseRelation relType="derivation" target="ewn-tax__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tangible_possession-n">
       <Lemma writtenForm="tangible possession" partOfSpeech="n"/>
@@ -6158,7 +6158,7 @@
       <Lemma writtenForm="venture capital" partOfSpeech="n"/>
       <Sense id="ewn-venture_capital__1_21_00__" n="0" synset="ewn-13375275-n">
         <SenseRelation relType="derivation" target="ewn-venture_capitalist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-penny-n">
       <Lemma writtenForm="penny" partOfSpeech="n">
@@ -6216,7 +6216,7 @@
       </Lemma>
       <Sense id="ewn-endowment__1_21_00__" n="1" synset="ewn-13292343-n">
         <SenseRelation relType="derivation" target="ewn-endow__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spending-n">
       <Lemma writtenForm="spending" partOfSpeech="n"/>
@@ -6291,7 +6291,7 @@
       </Lemma>
       <Sense id="ewn-record__1_21_00__" n="6" synset="ewn-13424816-n">
         <SenseRelation relType="derivation" target="ewn-record__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bestowal-n">
       <Lemma writtenForm="bestowal" partOfSpeech="n"/>
@@ -6316,7 +6316,7 @@
       <Sense id="ewn-depreciation__1_21_00__" n="1" synset="ewn-13349379-n">
         <SenseRelation relType="derivation" target="ewn-depreciate__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-depreciate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-allowance_account-n">
       <Lemma writtenForm="allowance account" partOfSpeech="n"/>
@@ -6328,7 +6328,7 @@
       </Lemma>
       <Sense id="ewn-deflator__1_21_00__" n="0" synset="ewn-13278691-n">
         <SenseRelation relType="derivation" target="ewn-deflate__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-account_statement-n">
       <Lemma writtenForm="account statement" partOfSpeech="n"/>
@@ -6372,7 +6372,7 @@
       </Lemma>
       <Sense id="ewn-remuneration__1_21_00__" n="0" synset="ewn-13300285-n">
         <SenseRelation relType="derivation" target="ewn-remunerate__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-travel_expense-n">
       <Lemma writtenForm="travel expense" partOfSpeech="n"/>
@@ -6407,7 +6407,7 @@
       <Sense id="ewn-lease__1_21_00__" n="0" synset="ewn-13269292-n">
         <SenseRelation relType="derivation" target="ewn-lease__2_40_01__"/>
         <SenseRelation relType="derivation" target="ewn-lease__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-national_debt_ceiling-n">
       <Lemma writtenForm="national debt ceiling" partOfSpeech="n"/>
@@ -6435,7 +6435,7 @@
       </Lemma>
       <Sense id="ewn-provision__1_21_00__" n="3" synset="ewn-13388621-n">
         <SenseRelation relType="derivation" target="ewn-provision__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bank_note-n">
       <Lemma writtenForm="bank note" partOfSpeech="n"/>
@@ -6463,7 +6463,7 @@
       <Lemma writtenForm="levy" partOfSpeech="n"/>
       <Sense id="ewn-levy__1_21_00__" n="0" synset="ewn-13329886-n">
         <SenseRelation relType="derivation" target="ewn-levy__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-installment_rate-n">
       <Lemma writtenForm="installment rate" partOfSpeech="n"/>
@@ -6473,7 +6473,7 @@
       <Lemma writtenForm="disbursement" partOfSpeech="n"/>
       <Sense id="ewn-disbursement__1_21_00__" n="0" synset="ewn-13296518-n">
         <SenseRelation relType="derivation" target="ewn-disburse__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hard_cash-n">
       <Lemma writtenForm="hard cash" partOfSpeech="n"/>
@@ -6499,7 +6499,7 @@
       <Lemma writtenForm="unsecured bond" partOfSpeech="n"/>
       <Sense id="ewn-unsecured_bond__1_21_00__" n="0" synset="ewn-13360859-n">
         <SenseRelation relType="antonym" target="ewn-secured_bond__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-traveler-ap-s_check-n">
       <Lemma writtenForm="traveler&apos;s check" partOfSpeech="n"/>
@@ -6514,16 +6514,16 @@
         <SenseRelation relType="derivation" target="ewn-charge__2_40_03__"/>
         <SenseRelation relType="derivation" target="ewn-charge__2_40_02__"/>
         <SenseRelation relType="derivation" target="ewn-charge__2_31_12__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-charge__1_21_01__" n="7" synset="ewn-13421971-n">
         <SenseRelation relType="derivation" target="ewn-charge__2_40_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-active_trust-n">
       <Lemma writtenForm="active trust" partOfSpeech="n"/>
       <Sense id="ewn-active_trust__1_21_00__" n="0" synset="ewn-13382123-n">
         <SenseRelation relType="antonym" target="ewn-passive_trust__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kickback-n">
       <Lemma writtenForm="kickback" partOfSpeech="n">
@@ -6531,7 +6531,7 @@
       </Lemma>
       <Sense id="ewn-kickback__1_21_00__" n="0" synset="ewn-13305807-n">
         <SenseRelation relType="derivation" target="ewn-kick_back__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-reserve_account-n">
       <Lemma writtenForm="reserve account" partOfSpeech="n"/>
@@ -6549,7 +6549,7 @@
       <Lemma writtenForm="win" partOfSpeech="n"/>
       <Sense id="ewn-win__1_21_00__" n="1" synset="ewn-13280816-n">
         <SenseRelation relType="derivation" target="ewn-win__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fire_insurance-n">
       <Lemma writtenForm="fire insurance" partOfSpeech="n"/>
@@ -6570,7 +6570,7 @@
       <Sense id="ewn-homestead__1_21_00__" n="0" synset="ewn-13270598-n"/>
       <Sense id="ewn-homestead__1_21_01__" n="1" synset="ewn-13270299-n">
         <SenseRelation relType="derivation" target="ewn-homestead__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-filthy_lucre-n">
       <Lemma writtenForm="filthy lucre" partOfSpeech="n"/>
@@ -6645,7 +6645,7 @@
       </Lemma>
       <Sense id="ewn-maintenance__1_21_00__" n="1" synset="ewn-13387484-n">
         <SenseRelation relType="derivation" target="ewn-maintain__2_34_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-maintenance__1_21_01__" n="2" synset="ewn-13304643-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-profit_margin-n">
@@ -6687,7 +6687,7 @@
       <Sense id="ewn-patrimony__1_21_02__" n="0" synset="ewn-13292654-n"/>
       <Sense id="ewn-patrimony__1_21_01__" n="1" synset="ewn-13284819-n">
         <SenseRelation relType="derivation" target="ewn-patrimonial__5_00_00_inheritable_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-treasure-n">
       <Lemma writtenForm="treasure" partOfSpeech="n">
@@ -6698,7 +6698,7 @@
       <Sense id="ewn-treasure__1_21_01__" n="2" synset="ewn-13391621-n">
         <SenseRelation relType="derivation" target="ewn-treasure__2_37_00__"/>
         <SenseRelation relType="derivation" target="ewn-treasure__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tonnage_duty-n">
       <Lemma writtenForm="tonnage duty" partOfSpeech="n"/>
@@ -6753,7 +6753,7 @@
       </Lemma>
       <Sense id="ewn-funding__1_21_00__" n="0" synset="ewn-13386871-n">
         <SenseRelation relType="derivation" target="ewn-fund__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-valuable-n">
       <Lemma writtenForm="valuable" partOfSpeech="n">
@@ -6761,7 +6761,7 @@
       </Lemma>
       <Sense id="ewn-valuable__1_21_00__" n="0" synset="ewn-13392203-n">
         <SenseRelation relType="derivation" target="ewn-valuable__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-opportunity_cost-n">
       <Lemma writtenForm="opportunity cost" partOfSpeech="n"/>
@@ -6793,7 +6793,7 @@
       <Lemma writtenForm="overpayment" partOfSpeech="n"/>
       <Sense id="ewn-overpayment__1_21_00__" n="0" synset="ewn-13300069-n">
         <SenseRelation relType="derivation" target="ewn-overpay__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-automobile_loan-n">
       <Lemma writtenForm="automobile loan" partOfSpeech="n"/>
@@ -6808,7 +6808,7 @@
       <Sense id="ewn-easy_money__1_21_00__" n="0" synset="ewn-13276782-n"/>
       <Sense id="ewn-easy_money__1_21_01__" n="1" synset="ewn-13277202-n">
         <SenseRelation relType="antonym" target="ewn-tight_money__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Clifford_trust-n">
       <Lemma writtenForm="Clifford trust" partOfSpeech="n"/>
@@ -6842,7 +6842,7 @@
       </Lemma>
       <Sense id="ewn-rebate__1_21_00__" n="0" synset="ewn-13303298-n">
         <SenseRelation relType="derivation" target="ewn-rebate__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plastic-n">
       <Lemma writtenForm="plastic" partOfSpeech="n">
@@ -6926,7 +6926,7 @@
       <Lemma writtenForm="paper profit" partOfSpeech="n"/>
       <Sense id="ewn-paper_profit__1_21_00__" n="0" synset="ewn-13279724-n">
         <SenseRelation relType="antonym" target="ewn-paper_loss__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sinking_fund-n">
       <Lemma writtenForm="sinking fund" partOfSpeech="n"/>
@@ -6950,7 +6950,7 @@
         <SenseRelation relType="antonym" target="ewn-winnings__1_21_00__"/>
         <SenseRelation relType="derivation" target="ewn-lose__2_40_06__"/>
         <SenseRelation relType="derivation" target="ewn-lose__2_40_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-annuity-n">
       <Lemma writtenForm="annuity" partOfSpeech="n">
@@ -6994,7 +6994,7 @@
       <Lemma writtenForm="reinsurance" partOfSpeech="n"/>
       <Sense id="ewn-reinsurance__1_21_00__" n="0" synset="ewn-13369471-n">
         <SenseRelation relType="derivation" target="ewn-reinsure__2_32_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-budget_items-n">
       <Lemma writtenForm="budget items" partOfSpeech="n"/>
@@ -7035,7 +7035,7 @@
       </Lemma>
       <Sense id="ewn-audit__1_21_00__" n="0" synset="ewn-13432330-n">
         <SenseRelation relType="derivation" target="ewn-audit__2_31_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-perquisite-n">
       <Lemma writtenForm="perquisite" partOfSpeech="n">
@@ -7083,7 +7083,7 @@
       </Lemma>
       <Sense id="ewn-advance__1_21_00__" n="4" synset="ewn-13397064-n">
         <SenseRelation relType="derivation" target="ewn-advance__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-redemption-n">
       <Lemma writtenForm="redemption" partOfSpeech="n">
@@ -7091,7 +7091,7 @@
       </Lemma>
       <Sense id="ewn-redemption__1_21_00__" n="1" synset="ewn-13320827-n">
         <SenseRelation relType="derivation" target="ewn-redeem__2_40_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gratuity-n">
       <Lemma writtenForm="gratuity" partOfSpeech="n">
@@ -7153,7 +7153,7 @@
       </Lemma>
       <Sense id="ewn-take__1_21_00__" n="0" synset="ewn-13281089-n">
         <SenseRelation relType="derivation" target="ewn-take__2_40_04__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-phone_card-n">
       <Lemma writtenForm="phone card" partOfSpeech="n"/>
@@ -7167,7 +7167,7 @@
       <Lemma writtenForm="bond" partOfSpeech="n"/>
       <Sense id="ewn-bond__1_21_02__" n="1" synset="ewn-13438583-n">
         <SenseRelation relType="derivation" target="ewn-bond__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-bond__1_21_03__" n="3" synset="ewn-13371991-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-line-n">
@@ -7251,7 +7251,7 @@
       </Lemma>
       <Sense id="ewn-store__1_21_00__" n="1" synset="ewn-13388243-n">
         <SenseRelation relType="derivation" target="ewn-store__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dockage-n">
       <Lemma writtenForm="dockage" partOfSpeech="n"/>
@@ -7318,11 +7318,11 @@
       <Sense id="ewn-budget__1_21_02__" n="0" synset="ewn-13443005-n">
         <SenseRelation relType="derivation" target="ewn-budgetary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-budget__2_31_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-budget__1_21_03__" n="1" synset="ewn-13442635-n">
         <SenseRelation relType="derivation" target="ewn-budgetary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-budget__2_31_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-per_capita_income-n">
       <Lemma writtenForm="per capita income" partOfSpeech="n"/>
@@ -7399,7 +7399,7 @@
         <SenseRelation relType="derivation" target="ewn-pricey__5_00_00_expensive_00"/>
         <SenseRelation relType="derivation" target="ewn-price__2_31_00__"/>
         <SenseRelation relType="derivation" target="ewn-price__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-price__1_21_02__" n="5" synset="ewn-13324781-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-salvage-n">
@@ -7407,7 +7407,7 @@
       <Sense id="ewn-salvage__1_21_00__" n="0" synset="ewn-13268453-n">
         <SenseRelation relType="derivation" target="ewn-salvage__2_41_00__"/>
         <SenseRelation relType="derivation" target="ewn-salve__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fee_tail-n">
       <Lemma writtenForm="fee tail" partOfSpeech="n"/>
@@ -7423,7 +7423,7 @@
       </Lemma>
       <Sense id="ewn-coin__1_21_02__" n="0" synset="ewn-13409418-n">
         <SenseRelation relType="derivation" target="ewn-coin__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cumulative_preferred-n">
       <Lemma writtenForm="cumulative preferred" partOfSpeech="n"/>
@@ -7437,7 +7437,7 @@
       <Sense id="ewn-scholarship__1_21_00__" n="0" synset="ewn-13287193-n">
         <SenseRelation relType="derivation" target="ewn-scholar__1_18_02__"/>
         <SenseRelation relType="derivation" target="ewn-scholar__1_18_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-orangery-n">
       <Lemma writtenForm="orangery" partOfSpeech="n"/>
@@ -7468,7 +7468,7 @@
       <Sense id="ewn-nonpayment__1_21_02__" n="0" synset="ewn-13321434-n"/>
       <Sense id="ewn-nonpayment__1_21_00__" n="1" synset="ewn-13321164-n">
         <SenseRelation relType="antonym" target="ewn-payment__1_21_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lagniappe-n">
       <Lemma writtenForm="lagniappe" partOfSpeech="n">
@@ -7494,7 +7494,7 @@
       </Lemma>
       <Sense id="ewn-fisc__1_21_00__" n="0" synset="ewn-13379533-n">
         <SenseRelation relType="derivation" target="ewn-fiscal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-prize_money-n">
       <Lemma writtenForm="prize money" partOfSpeech="n"/>
@@ -7514,7 +7514,7 @@
       </Lemma>
       <Sense id="ewn-benefaction__1_21_00__" n="0" synset="ewn-13291283-n">
         <SenseRelation relType="derivation" target="ewn-benefact__2_41_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-purse_strings-n">
       <Lemma writtenForm="purse strings" partOfSpeech="n"/>
@@ -7533,7 +7533,7 @@
         <SenseRelation relType="derivation" target="ewn-pay__2_40_14__"/>
         <SenseRelation relType="derivation" target="ewn-pay__2_40_04__"/>
         <SenseRelation relType="derivation" target="ewn-pay__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-incentive-n">
       <Lemma writtenForm="incentive" partOfSpeech="n">
@@ -7571,7 +7571,7 @@
       </Lemma>
       <Sense id="ewn-surcharge__1_21_00__" n="0" synset="ewn-13346527-n">
         <SenseRelation relType="derivation" target="ewn-surcharge__2_40_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-trust-n">
       <Lemma writtenForm="trust" partOfSpeech="n">
@@ -7631,7 +7631,7 @@
       <Lemma writtenForm="tight money" partOfSpeech="n"/>
       <Sense id="ewn-tight_money__1_21_00__" n="0" synset="ewn-13277333-n">
         <SenseRelation relType="antonym" target="ewn-easy_money__1_21_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-forfeiture-n">
       <Lemma writtenForm="forfeiture" partOfSpeech="n">
@@ -7640,10 +7640,10 @@
       </Lemma>
       <Sense id="ewn-forfeiture__1_21_01__" n="0" synset="ewn-13322197-n">
         <SenseRelation relType="derivation" target="ewn-forfeit__2_40_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-forfeiture__1_21_00__" n="1" synset="ewn-13321945-n">
         <SenseRelation relType="derivation" target="ewn-forfeit__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hedge-n">
       <Lemma writtenForm="hedge" partOfSpeech="n"/>
@@ -7678,7 +7678,7 @@
       </Lemma>
       <Sense id="ewn-freight__1_21_00__" n="2" synset="ewn-13347220-n">
         <SenseRelation relType="derivation" target="ewn-freight__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fief-n">
       <Lemma writtenForm="fief" partOfSpeech="n">
@@ -7686,7 +7686,7 @@
       </Lemma>
       <Sense id="ewn-fief__1_21_00__" n="0" synset="ewn-13270826-n">
         <SenseRelation relType="derivation" target="ewn-fiefdom__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dollar-n">
       <Lemma writtenForm="dollar" partOfSpeech="n">

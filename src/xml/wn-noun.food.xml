@@ -33,7 +33,7 @@
       </Lemma>
       <Sense id="ewn-pledge__1_13_00__" n="2" synset="ewn-07900388-n">
         <SenseRelation relType="derivation" target="ewn-pledge__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-preserves-n">
       <Lemma writtenForm="preserves" partOfSpeech="n"/>
@@ -205,7 +205,7 @@
       <Lemma writtenForm="intoxicant" partOfSpeech="n"/>
       <Sense id="ewn-intoxicant__1_13_00__" n="0" synset="ewn-07900542-n">
         <SenseRelation relType="derivation" target="ewn-intoxicate__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-stomach_sweetbread-n">
       <Lemma writtenForm="stomach sweetbread" partOfSpeech="n"/>
@@ -238,7 +238,7 @@
       <Lemma writtenForm="bread" partOfSpeech="n"/>
       <Sense id="ewn-bread__1_13_00__" n="0" synset="ewn-07695101-n">
         <SenseRelation relType="derivation" target="ewn-bread__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bermuda_onion-n">
       <Lemma writtenForm="Bermuda onion" partOfSpeech="n"/>
@@ -297,16 +297,16 @@
       </Lemma>
       <Sense id="ewn-treat__1_13_00__" n="0" synset="ewn-07572730-n">
         <SenseRelation relType="derivation" target="ewn-treat__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tart-n">
       <Lemma writtenForm="tart" partOfSpeech="n"/>
       <Sense id="ewn-tart__1_13_00__" n="1" synset="ewn-07639542-n">
         <SenseRelation relType="derivation" target="ewn-tartlet__1_13_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-tart__1_13_01__" n="2" synset="ewn-07639273-n">
         <SenseRelation relType="derivation" target="ewn-tartlet__1_13_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Emmentaler-n">
       <Lemma writtenForm="Emmentaler" partOfSpeech="n">
@@ -343,7 +343,7 @@
         <SenseRelation relType="derivation" target="ewn-dietary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-diet__2_34_01__"/>
         <SenseRelation relType="derivation" target="ewn-diet__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-monkey_bread-n">
       <Lemma writtenForm="monkey bread" partOfSpeech="n"/>
@@ -422,7 +422,7 @@
       </Lemma>
       <Sense id="ewn-gluten__1_13_00__" n="0" synset="ewn-07585802-n">
         <SenseRelation relType="derivation" target="ewn-glutinous__5_00_00_adhesive_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-clarified_butter-n">
       <Lemma writtenForm="clarified butter" partOfSpeech="n"/>
@@ -459,7 +459,7 @@
       <Sense id="ewn-mash__1_13_00__" n="1" synset="ewn-07821230-n">
         <SenseRelation relType="derivation" target="ewn-mash__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-mash__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dill-n">
       <Lemma writtenForm="dill" partOfSpeech="n"/>
@@ -476,7 +476,7 @@
       </Lemma>
       <Sense id="ewn-wad__1_13_00__" n="2" synset="ewn-07594964-n">
         <SenseRelation relType="derivation" target="ewn-wad__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-beverage-n">
       <Lemma writtenForm="beverage" partOfSpeech="n">
@@ -519,7 +519,7 @@
       <Lemma writtenForm="eating apple" partOfSpeech="n"/>
       <Sense id="ewn-eating_apple__1_13_00__" n="0" synset="ewn-07755482-n">
         <SenseRelation relType="antonym" target="ewn-cooking_apple__1_13_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pandowdy-n">
       <Lemma writtenForm="pandowdy" partOfSpeech="n"/>
@@ -674,7 +674,7 @@
       <Lemma writtenForm="flavouring" partOfSpeech="n"/>
       <Sense id="ewn-flavouring__1_13_00__" n="0" synset="ewn-07825344-n">
         <SenseRelation relType="derivation" target="ewn-flavour__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hotpot-n">
       <Lemma writtenForm="hotpot" partOfSpeech="n"/>
@@ -708,7 +708,7 @@
       <Lemma writtenForm="scallion" partOfSpeech="n"/>
       <Sense id="ewn-scallion__1_13_00__" n="1" synset="ewn-07738230-n">
         <SenseRelation relType="domain_region" target="ewn-united_states__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wheatflake-n">
       <Lemma writtenForm="wheatflake" partOfSpeech="n"/>
@@ -837,10 +837,10 @@
       </Lemma>
       <Sense id="ewn-filet__1_13_01__" n="0" synset="ewn-07675810-n">
         <SenseRelation relType="derivation" target="ewn-filet__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-filet__1_13_02__" n="1" synset="ewn-07670946-n">
         <SenseRelation relType="derivation" target="ewn-filet__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-crepe-n">
       <Lemma writtenForm="crepe" partOfSpeech="n">
@@ -857,10 +857,10 @@
       <Lemma writtenForm="scollop" partOfSpeech="n"/>
       <Sense id="ewn-scollop__1_13_00__" n="0" synset="ewn-07813617-n">
         <SenseRelation relType="derivation" target="ewn-scollop__2_33_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-scollop__1_13_02__" n="1" synset="ewn-07670495-n">
         <SenseRelation relType="derivation" target="ewn-scollop__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Bibb_lettuce-n">
       <Lemma writtenForm="Bibb lettuce" partOfSpeech="n"/>
@@ -931,7 +931,7 @@
       <Lemma writtenForm="acetum" partOfSpeech="n"/>
       <Sense id="ewn-acetum__1_13_00__" n="1" synset="ewn-07844963-n">
         <SenseRelation relType="derivation" target="ewn-acetify__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-monkfish-n">
       <Lemma writtenForm="monkfish" partOfSpeech="n"/>
@@ -946,7 +946,7 @@
       <Lemma writtenForm="sweetening" partOfSpeech="n"/>
       <Sense id="ewn-sweetening__1_13_00__" n="0" synset="ewn-07874571-n">
         <SenseRelation relType="derivation" target="ewn-sweeten__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-spoon_bread-n">
       <Lemma writtenForm="spoon bread" partOfSpeech="n"/>
@@ -1027,7 +1027,7 @@
       <Lemma writtenForm="spice" partOfSpeech="n"/>
       <Sense id="ewn-spice__1_13_00__" n="1" synset="ewn-07828160-n">
         <SenseRelation relType="derivation" target="ewn-spice__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bean_dip-n">
       <Lemma writtenForm="bean dip" partOfSpeech="n"/>
@@ -1112,7 +1112,7 @@
       <Lemma writtenForm="Jell-O" partOfSpeech="n"/>
       <Sense id="ewn-jell-o__1_13_00__" n="0" synset="ewn-07629424-n">
         <SenseRelation relType="exemplifies" target="ewn-trademark__1_10_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-elver-n">
       <Lemma writtenForm="elver" partOfSpeech="n">
@@ -1253,7 +1253,7 @@
       <Lemma writtenForm="halal" partOfSpeech="n"/>
       <Sense id="ewn-halal__1_13_00__" n="0" synset="ewn-07680327-n">
         <SenseRelation relType="derivation" target="ewn-halal__5_00_00_clean_04"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Velveeta-n">
       <Lemma writtenForm="Velveeta" partOfSpeech="n"/>
@@ -1272,7 +1272,7 @@
       <Lemma writtenForm="chine" partOfSpeech="n"/>
       <Sense id="ewn-chine__1_13_00__" n="0" synset="ewn-07670147-n">
         <SenseRelation relType="derivation" target="ewn-chine__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-board-n">
       <Lemma writtenForm="board" partOfSpeech="n"/>
@@ -1280,7 +1280,7 @@
         <SenseRelation relType="derivation" target="ewn-board__2_42_00__"/>
         <SenseRelation relType="derivation" target="ewn-board__2_34_01__"/>
         <SenseRelation relType="derivation" target="ewn-board__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-orange_liqueur-n">
       <Lemma writtenForm="orange liqueur" partOfSpeech="n"/>
@@ -1394,7 +1394,7 @@
       </Lemma>
       <Sense id="ewn-frosting__1_13_00__" n="0" synset="ewn-07636431-n">
         <SenseRelation relType="derivation" target="ewn-frost__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-butternut_squash-n">
       <Lemma writtenForm="butternut squash" partOfSpeech="n"/>
@@ -1457,7 +1457,7 @@
       <Lemma writtenForm="port" partOfSpeech="n"/>
       <Sense id="ewn-port__1_13_00__" n="1" synset="ewn-07917065-n">
         <SenseRelation relType="derivation" target="ewn-port__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vinifera_grape-n">
       <Lemma writtenForm="vinifera grape" partOfSpeech="n"/>
@@ -1514,7 +1514,7 @@
       <Lemma writtenForm="farce" partOfSpeech="n"/>
       <Sense id="ewn-farce__1_13_00__" n="1" synset="ewn-07694885-n">
         <SenseRelation relType="derivation" target="ewn-farce__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-moong-n">
       <Lemma writtenForm="moong" partOfSpeech="n">
@@ -1557,7 +1557,7 @@
       </Lemma>
       <Sense id="ewn-irish__1_13_00__" n="1" synset="ewn-07923401-n">
         <SenseRelation relType="derivation" target="ewn-irish__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-walnut-n">
       <Lemma writtenForm="walnut" partOfSpeech="n">
@@ -1588,7 +1588,7 @@
         <SenseRelation relType="derivation" target="ewn-wine__2_34_01__"/>
         <SenseRelation relType="derivation" target="ewn-wine__2_34_00__"/>
         <SenseRelation relType="derivation" target="ewn-vinify__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-angelica-n">
       <Lemma writtenForm="angelica" partOfSpeech="n"/>
@@ -1718,7 +1718,7 @@
       <Lemma writtenForm="seasoning" partOfSpeech="n"/>
       <Sense id="ewn-seasoning__1_13_00__" n="0" synset="ewn-07825344-n">
         <SenseRelation relType="derivation" target="ewn-season__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-leechee-n">
       <Lemma writtenForm="leechee" partOfSpeech="n"/>
@@ -1807,7 +1807,7 @@
       <Lemma writtenForm="drippings" partOfSpeech="n"/>
       <Sense id="ewn-drippings__1_13_00__" n="0" synset="ewn-07688994-n">
         <SenseRelation relType="derivation" target="ewn-drip__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sapodilla-n">
       <Lemma writtenForm="sapodilla" partOfSpeech="n">
@@ -1859,7 +1859,7 @@
       </Lemma>
       <Sense id="ewn-moonshine__1_13_00__" n="1" synset="ewn-07918760-n">
         <SenseRelation relType="derivation" target="ewn-moonshine__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Gouda_cheese-n">
       <Lemma writtenForm="Gouda cheese" partOfSpeech="n"/>
@@ -1933,7 +1933,7 @@
       </Lemma>
       <Sense id="ewn-broiler__1_13_00__" n="1" synset="ewn-07660851-n">
         <SenseRelation relType="derivation" target="ewn-broil__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cider-n">
       <Lemma writtenForm="cider" partOfSpeech="n">
@@ -2172,7 +2172,7 @@
       </Lemma>
       <Sense id="ewn-meat__1_13_01__" n="0" synset="ewn-07665463-n">
         <SenseRelation relType="derivation" target="ewn-meaty__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-jak-n">
       <Lemma writtenForm="jak" partOfSpeech="n"/>
@@ -2241,7 +2241,7 @@
       </Lemma>
       <Sense id="ewn-preserve__1_13_00__" n="2" synset="ewn-07658080-n">
         <SenseRelation relType="derivation" target="ewn-preserve__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-picnic_ham-n">
       <Lemma writtenForm="picnic ham" partOfSpeech="n"/>
@@ -2388,7 +2388,7 @@
       <Sense id="ewn-ambrosia__1_13_02__" n="2" synset="ewn-07626111-n"/>
       <Sense id="ewn-ambrosia__1_13_01__" n="3" synset="ewn-07625904-n">
         <SenseRelation relType="derivation" target="ewn-ambrosial__5_00_00_heavenly_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-junk_food-n">
       <Lemma writtenForm="junk food" partOfSpeech="n"/>
@@ -2400,7 +2400,7 @@
       </Lemma>
       <Sense id="ewn-tipple__1_13_00__" n="0" synset="ewn-07899955-n">
         <SenseRelation relType="derivation" target="ewn-tipple__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-steamer_clam-n">
       <Lemma writtenForm="steamer clam" partOfSpeech="n"/>
@@ -2418,7 +2418,7 @@
       <Lemma writtenForm="takeout" partOfSpeech="n"/>
       <Sense id="ewn-takeout__1_13_00__" n="0" synset="ewn-07610082-n">
         <SenseRelation relType="derivation" target="ewn-take_out__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-corn_chowder-n">
       <Lemma writtenForm="corn chowder" partOfSpeech="n"/>
@@ -2533,7 +2533,7 @@
       <Sense id="ewn-savoury__1_13_01__" n="1" synset="ewn-07610411-n">
         <SenseRelation relType="derivation" target="ewn-savoury__5_00_00_tasty_00"/>
         <SenseRelation relType="derivation" target="ewn-savoury__5_00_00_appetizing_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-liquorice-n">
       <Lemma writtenForm="liquorice" partOfSpeech="n"/>
@@ -2584,7 +2584,7 @@
       </Lemma>
       <Sense id="ewn-mince__1_13_00__" n="0" synset="ewn-07666512-n">
         <SenseRelation relType="derivation" target="ewn-mince__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bartlett-n">
       <Lemma writtenForm="bartlett" partOfSpeech="n">
@@ -2684,7 +2684,7 @@
       </Lemma>
       <Sense id="ewn-stuffing__1_13_00__" n="0" synset="ewn-07694474-n">
         <SenseRelation relType="derivation" target="ewn-stuff__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Christmas_cake-n">
       <Lemma writtenForm="Christmas cake" partOfSpeech="n"/>
@@ -2729,10 +2729,10 @@
       </Lemma>
       <Sense id="ewn-barbecue__1_13_02__" n="0" synset="ewn-07669757-n">
         <SenseRelation relType="derivation" target="ewn-barbecue__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-barbecue__1_13_00__" n="1" synset="ewn-07592346-n">
         <SenseRelation relType="derivation" target="ewn-barbecue__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-alcoholic_drink-n">
       <Lemma writtenForm="alcoholic drink" partOfSpeech="n"/>
@@ -2973,10 +2973,10 @@
       <Lemma writtenForm="toast" partOfSpeech="n"/>
       <Sense id="ewn-toast__1_13_00__" n="0" synset="ewn-07702618-n">
         <SenseRelation relType="derivation" target="ewn-toast__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-toast__1_13_01__" n="3" synset="ewn-07900388-n">
         <SenseRelation relType="derivation" target="ewn-toast__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-triple_cream-n">
       <Lemma writtenForm="triple cream" partOfSpeech="n"/>
@@ -3128,7 +3128,7 @@
       <Lemma writtenForm="spring onion" partOfSpeech="n"/>
       <Sense id="ewn-spring_onion__1_13_00__" n="0" synset="ewn-07738230-n">
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cherry_tomato-n">
       <Lemma writtenForm="cherry tomato" partOfSpeech="n"/>
@@ -3150,7 +3150,7 @@
       <Sense id="ewn-dinner__1_13_00__" n="0" synset="ewn-07591291-n">
         <SenseRelation relType="derivation" target="ewn-dine__2_34_02__"/>
         <SenseRelation relType="derivation" target="ewn-dine__2_34_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-almond_crescent-n">
       <Lemma writtenForm="almond crescent" partOfSpeech="n"/>
@@ -3210,7 +3210,7 @@
       </Lemma>
       <Sense id="ewn-dainty__1_13_00__" n="0" synset="ewn-07572730-n">
         <SenseRelation relType="derivation" target="ewn-dainty__5_00_00_tasty_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hen-n">
       <Lemma writtenForm="hen" partOfSpeech="n"/>
@@ -3305,10 +3305,10 @@
       <Lemma writtenForm="cereal" partOfSpeech="n"/>
       <Sense id="ewn-cereal__1_13_01__" n="1" synset="ewn-07818393-n">
         <SenseRelation relType="derivation" target="ewn-cereal__3_01_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-cereal__1_13_00__" n="2" synset="ewn-07718541-n">
         <SenseRelation relType="derivation" target="ewn-cereal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lunch-n">
       <Lemma writtenForm="lunch" partOfSpeech="n">
@@ -3317,7 +3317,7 @@
       <Sense id="ewn-lunch__1_13_00__" n="0" synset="ewn-07590641-n">
         <SenseRelation relType="derivation" target="ewn-lunch__2_34_01__"/>
         <SenseRelation relType="derivation" target="ewn-lunch__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sucker-n">
       <Lemma writtenForm="sucker" partOfSpeech="n"/>
@@ -3343,7 +3343,7 @@
       <Lemma writtenForm="rabbit" partOfSpeech="n"/>
       <Sense id="ewn-rabbit__1_13_00__" n="2" synset="ewn-07682266-n">
         <SenseRelation relType="derivation" target="ewn-rabbit__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Stilton-n">
       <Lemma writtenForm="Stilton" partOfSpeech="n">
@@ -3631,7 +3631,7 @@
       <Sense id="ewn-roast__1_13_00__" n="0" synset="ewn-07596347-n">
         <SenseRelation relType="derivation" target="ewn-roast__5_00_00_cooked_00"/>
         <SenseRelation relType="derivation" target="ewn-roast__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-salad_cream-n">
       <Lemma writtenForm="salad cream" partOfSpeech="n"/>
@@ -3659,7 +3659,7 @@
       <Lemma writtenForm="flavorer" partOfSpeech="n"/>
       <Sense id="ewn-flavorer__1_13_00__" n="0" synset="ewn-07825344-n">
         <SenseRelation relType="derivation" target="ewn-flavor__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-white_sauce-n">
       <Lemma writtenForm="white sauce" partOfSpeech="n"/>
@@ -3851,7 +3851,7 @@
       <Lemma writtenForm="fare" partOfSpeech="n"/>
       <Sense id="ewn-fare__1_13_00__" n="3" synset="ewn-07576217-n">
         <SenseRelation relType="derivation" target="ewn-fare__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-teatime-n">
       <Lemma writtenForm="teatime" partOfSpeech="n"/>
@@ -3929,10 +3929,10 @@
       <Lemma writtenForm="ginger" partOfSpeech="n"/>
       <Sense id="ewn-ginger__1_13_00__" n="1" synset="ewn-07831139-n">
         <SenseRelation relType="derivation" target="ewn-ginger__2_39_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-ginger__1_13_02__" n="2" synset="ewn-07830901-n">
         <SenseRelation relType="derivation" target="ewn-ginger__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dessert_wine-n">
       <Lemma writtenForm="dessert wine" partOfSpeech="n"/>
@@ -4080,7 +4080,7 @@
       </Lemma>
       <Sense id="ewn-skin__1_13_00__" n="6" synset="ewn-07754329-n">
         <SenseRelation relType="derivation" target="ewn-skin__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-smallmouth_bass-n">
       <Lemma writtenForm="smallmouth bass" partOfSpeech="n"/>
@@ -4142,7 +4142,7 @@
       <Lemma writtenForm="groundnut oil" partOfSpeech="n"/>
       <Sense id="ewn-groundnut_oil__1_13_00__" n="0" synset="ewn-07690494-n">
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pink_lady-n">
       <Lemma writtenForm="pink lady" partOfSpeech="n"/>
@@ -4156,7 +4156,7 @@
       <Lemma writtenForm="whole milk" partOfSpeech="n"/>
       <Sense id="ewn-whole_milk__1_13_00__" n="0" synset="ewn-07862778-n">
         <SenseRelation relType="antonym" target="ewn-skim_milk__1_13_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-yellow_mombin-n">
       <Lemma writtenForm="yellow mombin" partOfSpeech="n"/>
@@ -4181,7 +4181,7 @@
       </Lemma>
       <Sense id="ewn-chaw__1_13_00__" n="0" synset="ewn-07594964-n">
         <SenseRelation relType="derivation" target="ewn-chaw__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cake_mix-n">
       <Lemma writtenForm="cake mix" partOfSpeech="n"/>
@@ -4338,7 +4338,7 @@
       <Lemma writtenForm="alimentation" partOfSpeech="n"/>
       <Sense id="ewn-alimentation__1_13_00__" n="0" synset="ewn-07586285-n">
         <SenseRelation relType="derivation" target="ewn-aliment__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-joint-n">
       <Lemma writtenForm="joint" partOfSpeech="n">
@@ -4367,7 +4367,7 @@
       </Lemma>
       <Sense id="ewn-swill__1_13_00__" n="0" synset="ewn-07820982-n">
         <SenseRelation relType="derivation" target="ewn-swill__2_34_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sweet_orange-n">
       <Lemma writtenForm="sweet orange" partOfSpeech="n"/>
@@ -4441,7 +4441,7 @@
       <Lemma writtenForm="stew" partOfSpeech="n"/>
       <Sense id="ewn-stew__1_13_00__" n="1" synset="ewn-07604518-n">
         <SenseRelation relType="derivation" target="ewn-stew__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mung-n">
       <Lemma writtenForm="mung" partOfSpeech="n">
@@ -4511,7 +4511,7 @@
       <Sense id="ewn-spread__1_13_00__" n="4" synset="ewn-07872246-n">
         <SenseRelation relType="derivation" target="ewn-spread__2_35_13__"/>
         <SenseRelation relType="derivation" target="ewn-spread__2_35_12__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-spread__1_13_01__" n="5" synset="ewn-07593658-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-sockeye-n">
@@ -4526,7 +4526,7 @@
       <Lemma writtenForm="murphy" partOfSpeech="n"/>
       <Sense id="ewn-murphy__1_13_00__" n="0" synset="ewn-07726361-n">
         <SenseRelation relType="exemplifies" target="ewn-slang__1_10_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bloody_shame-n">
       <Lemma writtenForm="bloody shame" partOfSpeech="n"/>
@@ -4585,7 +4585,7 @@
       <Lemma writtenForm="steamer" partOfSpeech="n"/>
       <Sense id="ewn-steamer__1_13_00__" n="0" synset="ewn-07803405-n">
         <SenseRelation relType="derivation" target="ewn-steam__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-produce-n">
       <Lemma writtenForm="produce" partOfSpeech="n">
@@ -4594,7 +4594,7 @@
       </Lemma>
       <Sense id="ewn-produce__1_13_00__" n="0" synset="ewn-07721456-n">
         <SenseRelation relType="derivation" target="ewn-produce__2_36_05__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-vodka-n">
       <Lemma writtenForm="vodka" partOfSpeech="n">
@@ -4661,7 +4661,7 @@
       </Lemma>
       <Sense id="ewn-lemon__1_13_00__" n="0" synset="ewn-07765558-n">
         <SenseRelation relType="derivation" target="ewn-lemony__5_00_00_sour_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-loose-leaf_lettuce-n">
       <Lemma writtenForm="loose-leaf lettuce" partOfSpeech="n"/>
@@ -4787,7 +4787,7 @@
       <Lemma writtenForm="generic wine" partOfSpeech="n"/>
       <Sense id="ewn-generic_wine__1_13_00__" n="0" synset="ewn-07915951-n">
         <SenseRelation relType="antonym" target="ewn-varietal_wine__1_13_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-high-vitamin_diet-n">
       <Lemma writtenForm="high-vitamin diet" partOfSpeech="n"/>
@@ -4861,7 +4861,7 @@
       <Sense id="ewn-concentrate__1_13_00__" n="1" synset="ewn-07582955-n">
         <SenseRelation relType="derivation" target="ewn-concentrate__2_30_03__"/>
         <SenseRelation relType="derivation" target="ewn-concentrate__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-yellow_turnip-n">
       <Lemma writtenForm="yellow turnip" partOfSpeech="n"/>
@@ -4881,7 +4881,7 @@
       <Lemma writtenForm="bitter" partOfSpeech="n"/>
       <Sense id="ewn-bitter__1_13_00__" n="0" synset="ewn-07905789-n">
         <SenseRelation relType="derivation" target="ewn-bitter__5_00_00_tasty_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-scrumpy-n">
       <Lemma writtenForm="scrumpy" partOfSpeech="n">
@@ -4929,7 +4929,7 @@
       </Lemma>
       <Sense id="ewn-helping__1_13_00__" n="0" synset="ewn-07593928-n">
         <SenseRelation relType="derivation" target="ewn-help__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-blueberry-n">
       <Lemma writtenForm="blueberry" partOfSpeech="n">
@@ -5123,7 +5123,7 @@
       </Lemma>
       <Sense id="ewn-mixture__1_13_00__" n="1" synset="ewn-07898472-n">
         <SenseRelation relType="derivation" target="ewn-mix__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-jerked_meat-n">
       <Lemma writtenForm="jerked meat" partOfSpeech="n"/>
@@ -5149,7 +5149,7 @@
       <Sense id="ewn-sauce__1_13_00__" n="0" synset="ewn-07845388-n">
         <SenseRelation relType="derivation" target="ewn-sauce__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-sauce__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-plate-n">
       <Lemma writtenForm="plate" partOfSpeech="n"/>
@@ -5184,7 +5184,7 @@
       </Lemma>
       <Sense id="ewn-citrus__1_13_00__" n="0" synset="ewn-07763031-n">
         <SenseRelation relType="derivation" target="ewn-citrous__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-grape_jelly-n">
       <Lemma writtenForm="grape jelly" partOfSpeech="n"/>
@@ -5199,7 +5199,7 @@
       <Sense id="ewn-feast__1_13_00__" n="2" synset="ewn-07593658-n">
         <SenseRelation relType="derivation" target="ewn-feast__2_34_01__"/>
         <SenseRelation relType="derivation" target="ewn-feast__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-liebfraumilch-n">
       <Lemma writtenForm="liebfraumilch" partOfSpeech="n"/>
@@ -5252,10 +5252,10 @@
       </Lemma>
       <Sense id="ewn-fillet__1_13_01__" n="0" synset="ewn-07675810-n">
         <SenseRelation relType="derivation" target="ewn-fillet__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-fillet__1_13_02__" n="1" synset="ewn-07670946-n">
         <SenseRelation relType="derivation" target="ewn-fillet__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gelatin-n">
       <Lemma writtenForm="gelatin" partOfSpeech="n">
@@ -5288,13 +5288,13 @@
       </Lemma>
       <Sense id="ewn-dish__1_13_00__" n="1" synset="ewn-07572999-n">
         <SenseRelation relType="derivation" target="ewn-dish__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-duck-n">
       <Lemma writtenForm="duck" partOfSpeech="n"/>
       <Sense id="ewn-duck__1_13_00__" n="2" synset="ewn-07662187-n">
         <SenseRelation relType="derivation" target="ewn-duckling__1_13_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cantaloup-n">
       <Lemma writtenForm="cantaloup" partOfSpeech="n"/>
@@ -5366,7 +5366,7 @@
         <SenseRelation relType="derivation" target="ewn-salty__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-salt__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-salt__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-allspice-n">
       <Lemma writtenForm="allspice" partOfSpeech="n"/>
@@ -5498,7 +5498,7 @@
       </Lemma>
       <Sense id="ewn-conserve__1_13_00__" n="0" synset="ewn-07658080-n">
         <SenseRelation relType="derivation" target="ewn-conserve__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Spanish_lime-n">
       <Lemma writtenForm="Spanish lime" partOfSpeech="n"/>
@@ -5541,7 +5541,7 @@
       </Lemma>
       <Sense id="ewn-puree__1_13_00__" n="0" synset="ewn-07666634-n">
         <SenseRelation relType="derivation" target="ewn-puree__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pastry_dough-n">
       <Lemma writtenForm="pastry dough" partOfSpeech="n"/>
@@ -5925,7 +5925,7 @@
       </Lemma>
       <Sense id="ewn-spud__1_13_00__" n="0" synset="ewn-07726361-n">
         <SenseRelation relType="exemplifies" target="ewn-slang__1_10_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gnocchi-n">
       <Lemma writtenForm="gnocchi" partOfSpeech="n">
@@ -5998,7 +5998,7 @@
       <Sense id="ewn-centre__1_13_00__" n="3" synset="ewn-07618221-n">
         <SenseRelation relType="domain_region" target="ewn-canada__1_15_00__"/>
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-suet_pudding-n">
       <Lemma writtenForm="suet pudding" partOfSpeech="n"/>
@@ -6110,7 +6110,7 @@
       </Lemma>
       <Sense id="ewn-nourishment__1_13_00__" n="0" synset="ewn-07586285-n">
         <SenseRelation relType="derivation" target="ewn-nourish__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-string_cheese-n">
       <Lemma writtenForm="string cheese" partOfSpeech="n"/>
@@ -6235,7 +6235,7 @@
       </Lemma>
       <Sense id="ewn-prawn__1_13_00__" n="0" synset="ewn-07810135-n">
         <SenseRelation relType="derivation" target="ewn-prawn__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-calamari-n">
       <Lemma writtenForm="calamari" partOfSpeech="n">
@@ -6304,7 +6304,7 @@
       <Sense id="ewn-slop__1_13_00__" n="0" synset="ewn-07820982-n">
         <SenseRelation relType="derivation" target="ewn-slop__2_35_01__"/>
         <SenseRelation relType="derivation" target="ewn-slop__2_34_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-slop__1_13_01__" n="3" synset="ewn-07954667-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-petfood-n">
@@ -6327,7 +6327,7 @@
       <Lemma writtenForm="colouring" partOfSpeech="n"/>
       <Sense id="ewn-colouring__1_13_00__" n="0" synset="ewn-07582704-n">
         <SenseRelation relType="derivation" target="ewn-colour__2_30_09__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chicken-n">
       <Lemma writtenForm="chicken" partOfSpeech="n"/>
@@ -6634,7 +6634,7 @@
         <SenseRelation relType="derivation" target="ewn-crumb__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-crumb__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-crumb__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-beef_Wellington-n">
       <Lemma writtenForm="beef Wellington" partOfSpeech="n"/>
@@ -6669,7 +6669,7 @@
       <Lemma writtenForm="flavourer" partOfSpeech="n"/>
       <Sense id="ewn-flavourer__1_13_00__" n="0" synset="ewn-07825344-n">
         <SenseRelation relType="derivation" target="ewn-flavour__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pawpaw-n">
       <Lemma writtenForm="pawpaw" partOfSpeech="n"/>
@@ -6733,10 +6733,10 @@
       <Lemma writtenForm="scrag" partOfSpeech="n"/>
       <Sense id="ewn-scrag__1_13_02__" n="1" synset="ewn-07682678-n">
         <SenseRelation relType="derivation" target="ewn-scrag__2_35_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-scrag__1_13_01__" n="2" synset="ewn-07681458-n">
         <SenseRelation relType="derivation" target="ewn-scrag__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-taco_sauce-n">
       <Lemma writtenForm="taco sauce" partOfSpeech="n"/>
@@ -6771,11 +6771,11 @@
       <Sense id="ewn-jelly__1_13_01__" n="0" synset="ewn-07659590-n">
         <SenseRelation relType="derivation" target="ewn-jellify__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-jellify__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-jelly__1_13_00__" n="1" synset="ewn-07658915-n">
         <SenseRelation relType="derivation" target="ewn-jellify__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-jellify__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lemon_curd-n">
       <Lemma writtenForm="lemon curd" partOfSpeech="n"/>
@@ -6886,7 +6886,7 @@
       <Lemma writtenForm="grouse" partOfSpeech="n"/>
       <Sense id="ewn-grouse__1_13_00__" n="0" synset="ewn-07662724-n">
         <SenseRelation relType="derivation" target="ewn-grouse__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-herbal-n">
       <Lemma writtenForm="herbal" partOfSpeech="n">
@@ -6910,7 +6910,7 @@
       <Sense id="ewn-spirits__1_13_00__" n="0" synset="ewn-07917827-n">
         <SenseRelation relType="derivation" target="ewn-spirituous__5_00_00_alcoholic_00"/>
         <SenseRelation relType="derivation" target="ewn-spiritous__5_00_00_alcoholic_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mouthful-n">
       <Lemma writtenForm="mouthful" partOfSpeech="n"/>
@@ -6926,7 +6926,7 @@
       </Lemma>
       <Sense id="ewn-clabber__1_13_00__" n="0" synset="ewn-07866195-n">
         <SenseRelation relType="derivation" target="ewn-clabber__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pecan-n">
       <Lemma writtenForm="pecan" partOfSpeech="n">
@@ -6939,7 +6939,7 @@
       <Lemma writtenForm="oil" partOfSpeech="n"/>
       <Sense id="ewn-oil__1_13_00__" n="3" synset="ewn-07689142-n">
         <SenseRelation relType="derivation" target="ewn-oily__5_00_00_fatty_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Hollands-n">
       <Lemma writtenForm="Hollands" partOfSpeech="n"/>
@@ -6956,7 +6956,7 @@
       <Sense id="ewn-booze__1_13_00__" n="0" synset="ewn-07917827-n">
         <SenseRelation relType="derivation" target="ewn-boozy__5_00_00_intoxicated_00"/>
         <SenseRelation relType="derivation" target="ewn-booze__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-schrod-n">
       <Lemma writtenForm="schrod" partOfSpeech="n"/>
@@ -7010,7 +7010,7 @@
       <Sense id="ewn-savory__1_13_01__" n="3" synset="ewn-07610411-n">
         <SenseRelation relType="derivation" target="ewn-savory__5_00_00_tasty_00"/>
         <SenseRelation relType="derivation" target="ewn-savory__5_00_00_appetizing_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-lasagne-n">
       <Lemma writtenForm="lasagne" partOfSpeech="n">
@@ -7033,7 +7033,7 @@
       </Lemma>
       <Sense id="ewn-snail__1_13_00__" n="1" synset="ewn-07798451-n">
         <SenseRelation relType="derivation" target="ewn-snail__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-onion_salt-n">
       <Lemma writtenForm="onion salt" partOfSpeech="n"/>
@@ -7121,7 +7121,7 @@
       </Lemma>
       <Sense id="ewn-tater__1_13_00__" n="0" synset="ewn-07726361-n">
         <SenseRelation relType="exemplifies" target="ewn-slang__1_10_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-whiskey-n">
       <Lemma writtenForm="whiskey" partOfSpeech="n">
@@ -7137,7 +7137,7 @@
       <Lemma writtenForm="lard" partOfSpeech="n"/>
       <Sense id="ewn-lard__1_13_00__" n="0" synset="ewn-07688166-n">
         <SenseRelation relType="derivation" target="ewn-lard__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pepperoni-n">
       <Lemma writtenForm="pepperoni" partOfSpeech="n">
@@ -7190,7 +7190,7 @@
       <Lemma writtenForm="sup" partOfSpeech="n"/>
       <Sense id="ewn-sup__1_13_00__" n="0" synset="ewn-07594841-n">
         <SenseRelation relType="derivation" target="ewn-sup__2_34_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kippered_herring-n">
       <Lemma writtenForm="kippered herring" partOfSpeech="n"/>
@@ -7226,10 +7226,10 @@
       <Lemma writtenForm="drink" partOfSpeech="n"/>
       <Sense id="ewn-drink__1_13_04__" n="0" synset="ewn-07901198-n">
         <SenseRelation relType="derivation" target="ewn-drink__2_34_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-drink__1_13_00__" n="2" synset="ewn-07897775-n">
         <SenseRelation relType="derivation" target="ewn-drink__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chorizo-n">
       <Lemma writtenForm="chorizo" partOfSpeech="n">
@@ -7267,7 +7267,7 @@
       </Lemma>
       <Sense id="ewn-potable__1_13_00__" n="0" synset="ewn-07897775-n">
         <SenseRelation relType="derivation" target="ewn-potable__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-elixir_of_life-n">
       <Lemma writtenForm="elixir of life" partOfSpeech="n"/>
@@ -7286,7 +7286,7 @@
       <Sense id="ewn-feed__1_13_00__" n="0" synset="ewn-07816067-n">
         <SenseRelation relType="derivation" target="ewn-feed__2_34_02__"/>
         <SenseRelation relType="derivation" target="ewn-feed__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pimiento-n">
       <Lemma writtenForm="pimiento" partOfSpeech="n">
@@ -7454,7 +7454,7 @@
       <Sense id="ewn-sprout__1_13_00__" n="1" synset="ewn-07735182-n">
         <SenseRelation relType="derivation" target="ewn-sprout__2_29_01__"/>
         <SenseRelation relType="derivation" target="ewn-sprout__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sack-n">
       <Lemma writtenForm="sack" partOfSpeech="n"/>
@@ -7491,7 +7491,7 @@
       </Lemma>
       <Sense id="ewn-section__1_13_00__" n="12" synset="ewn-07763431-n">
         <SenseRelation relType="derivation" target="ewn-section__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-grub-n">
       <Lemma writtenForm="grub" partOfSpeech="n">
@@ -7543,7 +7543,7 @@
       </Lemma>
       <Sense id="ewn-sugar__1_13_00__" n="0" synset="ewn-07875260-n">
         <SenseRelation relType="derivation" target="ewn-sugar__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-salad_greens-n">
       <Lemma writtenForm="salad greens" partOfSpeech="n"/>
@@ -7566,7 +7566,7 @@
       <Sense id="ewn-sop__1_13_00__" n="0" synset="ewn-07877397-n">
         <SenseRelation relType="derivation" target="ewn-sop__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-sop__2_35_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-ratafia-n">
       <Lemma writtenForm="ratafia" partOfSpeech="n">
@@ -7581,7 +7581,7 @@
       </Lemma>
       <Sense id="ewn-rhenish__1_13_00__" n="0" synset="ewn-07913175-n">
         <SenseRelation relType="derivation" target="ewn-rhenish__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-yellowtail_flounder-n">
       <Lemma writtenForm="yellowtail flounder" partOfSpeech="n"/>
@@ -7652,7 +7652,7 @@
       </Lemma>
       <Sense id="ewn-forage__1_13_00__" n="0" synset="ewn-07817067-n">
         <SenseRelation relType="derivation" target="ewn-forage__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cola-n">
       <Lemma writtenForm="cola" partOfSpeech="n"/>
@@ -7742,7 +7742,7 @@
       </Lemma>
       <Sense id="ewn-beer__1_13_00__" n="0" synset="ewn-07902824-n">
         <SenseRelation relType="derivation" target="ewn-beery__5_00_00_intoxicated_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gingersnap-n">
       <Lemma writtenForm="gingersnap" partOfSpeech="n"/>
@@ -7770,7 +7770,7 @@
       <Sense id="ewn-ration__1_13_01__" n="0" synset="ewn-07581290-n">
         <SenseRelation relType="derivation" target="ewn-ration__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-ration__2_40_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Turkish_coffee-n">
       <Lemma writtenForm="Turkish coffee" partOfSpeech="n"/>
@@ -7945,7 +7945,7 @@
       </Lemma>
       <Sense id="ewn-ice__1_13_01__" n="3" synset="ewn-07636431-n">
         <SenseRelation relType="derivation" target="ewn-ice__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-ice__1_13_00__" n="4" synset="ewn-07629807-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-draft-n">
@@ -7987,7 +7987,7 @@
         <SenseRelation relType="derivation" target="ewn-alcoholic__3_00_00__"/>
         <SenseRelation relType="derivation" target="ewn-alcoholize__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-alcoholize__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Smitane-n">
       <Lemma writtenForm="Smitane" partOfSpeech="n"/>
@@ -8000,7 +8000,7 @@
       <Sense id="ewn-aliment__1_13_00__" n="0" synset="ewn-07586285-n">
         <SenseRelation relType="derivation" target="ewn-alimentary__5_00_00_wholesome_00"/>
         <SenseRelation relType="derivation" target="ewn-aliment__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mix-n">
       <Lemma writtenForm="mix" partOfSpeech="n"/>
@@ -8220,7 +8220,7 @@
       </Lemma>
       <Sense id="ewn-chips__1_13_01__" n="0" synset="ewn-07726825-n">
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-watermelon-n">
       <Lemma writtenForm="watermelon" partOfSpeech="n">
@@ -8248,7 +8248,7 @@
       <Sense id="ewn-honey__1_13_00__" n="0" synset="ewn-07874954-n">
         <SenseRelation relType="derivation" target="ewn-honey__5_00_00_chromatic_00"/>
         <SenseRelation relType="derivation" target="ewn-honey__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-aperitif-n">
       <Lemma writtenForm="aperitif" partOfSpeech="n"/>
@@ -8488,7 +8488,7 @@
       </Lemma>
       <Sense id="ewn-takeaway__1_13_00__" n="0" synset="ewn-07610082-n">
         <SenseRelation relType="derivation" target="ewn-take_away__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-barley_water-n">
       <Lemma writtenForm="barley water" partOfSpeech="n"/>
@@ -8584,7 +8584,7 @@
       </Lemma>
       <Sense id="ewn-shrimp__1_13_00__" n="1" synset="ewn-07810135-n">
         <SenseRelation relType="derivation" target="ewn-shrimp__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-akvavit-n">
       <Lemma writtenForm="akvavit" partOfSpeech="n"/>
@@ -8634,7 +8634,7 @@
       <Lemma writtenForm="crab" partOfSpeech="n"/>
       <Sense id="ewn-crab__1_13_00__" n="2" synset="ewn-07803691-n">
         <SenseRelation relType="derivation" target="ewn-crab__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-fenugreek_seed-n">
       <Lemma writtenForm="fenugreek seed" partOfSpeech="n"/>
@@ -8693,7 +8693,7 @@
       </Lemma>
       <Sense id="ewn-picnic__1_13_00__" n="2" synset="ewn-07592003-n">
         <SenseRelation relType="derivation" target="ewn-picnic__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-egg_fu_yung-n">
       <Lemma writtenForm="egg fu yung" partOfSpeech="n"/>
@@ -8737,10 +8737,10 @@
       </Lemma>
       <Sense id="ewn-scallop__1_13_00__" n="1" synset="ewn-07813617-n">
         <SenseRelation relType="derivation" target="ewn-scallop__2_33_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-scallop__1_13_02__" n="2" synset="ewn-07670495-n">
         <SenseRelation relType="derivation" target="ewn-scallop__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rutabaga-n">
       <Lemma writtenForm="rutabaga" partOfSpeech="n">
@@ -8910,7 +8910,7 @@
       </Lemma>
       <Sense id="ewn-sandwich__1_13_00__" n="0" synset="ewn-07711710-n">
         <SenseRelation relType="derivation" target="ewn-sandwich__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cheese_sauce-n">
       <Lemma writtenForm="cheese sauce" partOfSpeech="n"/>
@@ -8960,7 +8960,7 @@
       </Lemma>
       <Sense id="ewn-piece__1_13_00__" n="7" synset="ewn-07670276-n">
         <SenseRelation relType="derivation" target="ewn-piece__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rump_steak-n">
       <Lemma writtenForm="rump steak" partOfSpeech="n"/>
@@ -8988,7 +8988,7 @@
       <Sense id="ewn-pasturage__1_13_00__" n="1" synset="ewn-07817067-n">
         <SenseRelation relType="derivation" target="ewn-pasture__2_35_10__"/>
         <SenseRelation relType="derivation" target="ewn-pasture__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-limpa-n">
       <Lemma writtenForm="limpa" partOfSpeech="n"/>
@@ -9240,13 +9240,13 @@
         <SenseRelation relType="derivation" target="ewn-dietician__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-diet__2_34_00__"/>
         <SenseRelation relType="derivation" target="ewn-diet__2_34_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-diet__1_13_01__" n="2" synset="ewn-07576468-n">
         <SenseRelation relType="derivation" target="ewn-dietary__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-dietetic__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-dietetical__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-dietician__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-clear_liquid_diet-n">
       <Lemma writtenForm="clear liquid diet" partOfSpeech="n"/>
@@ -9276,7 +9276,7 @@
         <SenseRelation relType="derivation" target="ewn-creamy__5_00_00_thick_02"/>
         <SenseRelation relType="derivation" target="ewn-cream__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-cream__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Weizenbier-n">
       <Lemma writtenForm="Weizenbier" partOfSpeech="n"/>
@@ -9396,7 +9396,7 @@
       <Lemma writtenForm="whelk" partOfSpeech="n"/>
       <Sense id="ewn-whelk__1_13_00__" n="0" synset="ewn-07798780-n">
         <SenseRelation relType="derivation" target="ewn-whelk__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-artichoke_heart-n">
       <Lemma writtenForm="artichoke heart" partOfSpeech="n"/>
@@ -9408,7 +9408,7 @@
       </Lemma>
       <Sense id="ewn-mushroom__1_13_00__" n="4" synset="ewn-07750720-n">
         <SenseRelation relType="derivation" target="ewn-mushroom__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Rhine_wine-n">
       <Lemma writtenForm="Rhine wine" partOfSpeech="n"/>
@@ -9440,7 +9440,7 @@
       </Lemma>
       <Sense id="ewn-cooler__1_13_00__" n="1" synset="ewn-07930246-n">
         <SenseRelation relType="derivation" target="ewn-cool__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-marmalade_plum-n">
       <Lemma writtenForm="marmalade plum" partOfSpeech="n"/>
@@ -9551,7 +9551,7 @@
       <Sense id="ewn-game__1_13_00__" n="6" synset="ewn-07666058-n">
         <SenseRelation relType="derivation" target="ewn-gamy__5_00_00_malodorous_00"/>
         <SenseRelation relType="derivation" target="ewn-gamey__5_00_00_malodorous_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cochon_de_lait-n">
       <Lemma writtenForm="cochon de lait" partOfSpeech="n"/>
@@ -9602,7 +9602,7 @@
       </Lemma>
       <Sense id="ewn-chew__1_13_00__" n="0" synset="ewn-07594964-n">
         <SenseRelation relType="derivation" target="ewn-chew__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-oyster_stew-n">
       <Lemma writtenForm="oyster stew" partOfSpeech="n"/>
@@ -9667,7 +9667,7 @@
       </Lemma>
       <Sense id="ewn-gastronomy__1_13_02__" n="0" synset="ewn-07587771-n">
         <SenseRelation relType="derivation" target="ewn-gastronomic__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pouf_paste-n">
       <Lemma writtenForm="pouf paste" partOfSpeech="n"/>
@@ -9720,7 +9720,7 @@
       <Lemma writtenForm="cookout" partOfSpeech="n"/>
       <Sense id="ewn-cookout__1_13_00__" n="0" synset="ewn-07592142-n">
         <SenseRelation relType="derivation" target="ewn-cook_out__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-goose-n">
       <Lemma writtenForm="goose" partOfSpeech="n">
@@ -10005,10 +10005,10 @@
       <Lemma writtenForm="mess" partOfSpeech="n"/>
       <Sense id="ewn-mess__1_13_01__" n="2" synset="ewn-07666401-n">
         <SenseRelation relType="derivation" target="ewn-mess__2_34_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-mess__1_13_00__" n="3" synset="ewn-07581173-n">
         <SenseRelation relType="derivation" target="ewn-mess__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-rollmops-n">
       <Lemma writtenForm="rollmops" partOfSpeech="n"/>
@@ -10069,7 +10069,7 @@
       <Sense id="ewn-tartlet__1_13_00__" n="0" synset="ewn-07639948-n">
         <SenseRelation relType="derivation" target="ewn-tart__1_13_01__"/>
         <SenseRelation relType="derivation" target="ewn-tart__1_13_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chili_sauce-n">
       <Lemma writtenForm="chili sauce" partOfSpeech="n"/>
@@ -10093,7 +10093,7 @@
       <Lemma writtenForm="curry" partOfSpeech="n"/>
       <Sense id="ewn-curry__1_13_00__" n="0" synset="ewn-07839927-n">
         <SenseRelation relType="derivation" target="ewn-curry__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-orange_peel-n">
       <Lemma writtenForm="orange peel" partOfSpeech="n"/>
@@ -10166,7 +10166,7 @@
       <Lemma writtenForm="chaser" partOfSpeech="n"/>
       <Sense id="ewn-chaser__1_13_00__" n="1" synset="ewn-07899835-n">
         <SenseRelation relType="derivation" target="ewn-chase__2_38_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Medoc-n">
       <Lemma writtenForm="Medoc" partOfSpeech="n"/>
@@ -10186,7 +10186,7 @@
       <Lemma writtenForm="refresher" partOfSpeech="n"/>
       <Sense id="ewn-refresher__1_13_00__" n="1" synset="ewn-07930368-n">
         <SenseRelation relType="derivation" target="ewn-refresh__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hamburger_steak-n">
       <Lemma writtenForm="hamburger steak" partOfSpeech="n"/>
@@ -10253,7 +10253,7 @@
       </Lemma>
       <Sense id="ewn-treacle__1_13_00__" n="0" synset="ewn-07876184-n">
         <SenseRelation relType="derivation" target="ewn-treacly__5_00_00_sweet_02"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wine_vinegar-n">
       <Lemma writtenForm="wine vinegar" partOfSpeech="n"/>
@@ -10405,7 +10405,7 @@
       </Lemma>
       <Sense id="ewn-taste__1_13_00__" n="4" synset="ewn-07594444-n">
         <SenseRelation relType="derivation" target="ewn-taste__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cilantro-n">
       <Lemma writtenForm="cilantro" partOfSpeech="n">
@@ -10496,7 +10496,7 @@
       <Lemma writtenForm="cooking apple" partOfSpeech="n"/>
       <Sense id="ewn-cooking_apple__1_13_00__" n="0" synset="ewn-07757988-n">
         <SenseRelation relType="antonym" target="ewn-eating_apple__1_13_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-jug_wine-n">
       <Lemma writtenForm="jug wine" partOfSpeech="n"/>
@@ -10613,7 +10613,7 @@
       <Lemma writtenForm="fryer" partOfSpeech="n"/>
       <Sense id="ewn-fryer__1_13_00__" n="0" synset="ewn-07661078-n">
         <SenseRelation relType="derivation" target="ewn-fry__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-carbonado-n">
       <Lemma writtenForm="carbonado" partOfSpeech="n"/>
@@ -10647,17 +10647,17 @@
       <Sense id="ewn-malt__1_13_03__" n="0" synset="ewn-07942882-n">
         <SenseRelation relType="derivation" target="ewn-maltster__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-malt__2_30_03__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-malt__1_13_02__" n="1" synset="ewn-07905249-n">
         <SenseRelation relType="derivation" target="ewn-maltster__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-malt__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-malt__2_30_01__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-malt__1_13_01__" n="2" synset="ewn-07904884-n">
         <SenseRelation relType="derivation" target="ewn-maltster__1_18_00__"/>
         <SenseRelation relType="derivation" target="ewn-malt__2_30_02__"/>
         <SenseRelation relType="derivation" target="ewn-malt__2_30_03__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-self-raising_flour-n">
       <Lemma writtenForm="self-raising flour" partOfSpeech="n"/>
@@ -10710,7 +10710,7 @@
       </Lemma>
       <Sense id="ewn-garlic__1_13_00__" n="1" synset="ewn-07834253-n">
         <SenseRelation relType="derivation" target="ewn-garlicky__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Merlot-n">
       <Lemma writtenForm="Merlot" partOfSpeech="n">
@@ -10775,7 +10775,7 @@
       <Form writtenForm="fishes"/>
       <Sense id="ewn-fish__1_13_00__" n="1" synset="ewn-07791351-n">
         <SenseRelation relType="derivation" target="ewn-fish__2_33_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bean_tostada-n">
       <Lemma writtenForm="bean tostada" partOfSpeech="n"/>
@@ -10807,7 +10807,7 @@
       <Lemma writtenForm="coloring" partOfSpeech="n"/>
       <Sense id="ewn-coloring__1_13_00__" n="0" synset="ewn-07582704-n">
         <SenseRelation relType="derivation" target="ewn-color__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bannock-n">
       <Lemma writtenForm="bannock" partOfSpeech="n">
@@ -10877,7 +10877,7 @@
       </Lemma>
       <Sense id="ewn-sustenance__1_13_00__" n="0" synset="ewn-07586285-n">
         <SenseRelation relType="derivation" target="ewn-sustain__2_34_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tartar_sauce-n">
       <Lemma writtenForm="tartar sauce" partOfSpeech="n"/>
@@ -10911,7 +10911,7 @@
       </Lemma>
       <Sense id="ewn-lamb__1_13_00__" n="3" synset="ewn-07682896-n">
         <SenseRelation relType="derivation" target="ewn-lamb__2_29_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-salmi-n">
       <Lemma writtenForm="salmi" partOfSpeech="n"/>
@@ -10954,7 +10954,7 @@
       <Lemma writtenForm="flavoring" partOfSpeech="n"/>
       <Sense id="ewn-flavoring__1_13_00__" n="0" synset="ewn-07825344-n">
         <SenseRelation relType="derivation" target="ewn-flavor__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chocolate_pudding-n">
       <Lemma writtenForm="chocolate pudding" partOfSpeech="n"/>
@@ -10993,7 +10993,7 @@
       <Lemma writtenForm="ensilage" partOfSpeech="n"/>
       <Sense id="ewn-ensilage__1_13_00__" n="0" synset="ewn-07817318-n">
         <SenseRelation relType="derivation" target="ewn-ensile__2_40_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-iceberg-n">
       <Lemma writtenForm="iceberg" partOfSpeech="n">
@@ -11075,7 +11075,7 @@
       <Lemma writtenForm="dip" partOfSpeech="n"/>
       <Sense id="ewn-dip__1_13_00__" n="3" synset="ewn-07598174-n">
         <SenseRelation relType="derivation" target="ewn-dip__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-quahaug-n">
       <Lemma writtenForm="quahaug" partOfSpeech="n"/>
@@ -11087,7 +11087,7 @@
       </Lemma>
       <Sense id="ewn-glaze__1_13_00__" n="0" synset="ewn-07636610-n">
         <SenseRelation relType="derivation" target="ewn-glaze__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-herb-n">
       <Lemma writtenForm="herb" partOfSpeech="n">
@@ -11095,7 +11095,7 @@
       </Lemma>
       <Sense id="ewn-herb__1_13_00__" n="1" synset="ewn-07827392-n">
         <SenseRelation relType="derivation" target="ewn-herbal__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cinnamon-n">
       <Lemma writtenForm="cinnamon" partOfSpeech="n">
@@ -11237,7 +11237,7 @@
       <Lemma writtenForm="chop" partOfSpeech="n"/>
       <Sense id="ewn-chop__1_13_00__" n="1" synset="ewn-07669591-n">
         <SenseRelation relType="derivation" target="ewn-chop__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sour_gourd-n">
       <Lemma writtenForm="sour gourd" partOfSpeech="n"/>
@@ -11277,7 +11277,7 @@
       <Sense id="ewn-pepper__1_13_01__" n="2" synset="ewn-07831564-n">
         <SenseRelation relType="derivation" target="ewn-peppery__5_00_00_tasty_00"/>
         <SenseRelation relType="derivation" target="ewn-pepper__2_39_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-pepper__1_13_02__" n="3" synset="ewn-07736187-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-lacing-n">
@@ -11286,7 +11286,7 @@
       </Lemma>
       <Sense id="ewn-lacing__1_13_00__" n="0" synset="ewn-07942367-n">
         <SenseRelation relType="derivation" target="ewn-lace__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sand_dab-n">
       <Lemma writtenForm="sand dab" partOfSpeech="n"/>
@@ -11340,7 +11340,7 @@
       </Lemma>
       <Sense id="ewn-veg__1_13_00__" n="0" synset="ewn-07723196-n">
         <SenseRelation relType="domain_region" target="ewn-britain__1_15_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-egg_yolk-n">
       <Lemma writtenForm="egg yolk" partOfSpeech="n"/>
@@ -11350,7 +11350,7 @@
       <Lemma writtenForm="seasoner" partOfSpeech="n"/>
       <Sense id="ewn-seasoner__1_13_00__" n="1" synset="ewn-07825344-n">
         <SenseRelation relType="derivation" target="ewn-season__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-triple_sec-n">
       <Lemma writtenForm="triple sec" partOfSpeech="n"/>
@@ -11362,7 +11362,7 @@
       </Lemma>
       <Sense id="ewn-clam__1_13_00__" n="2" synset="ewn-07802662-n">
         <SenseRelation relType="derivation" target="ewn-clam__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-soft-shell_crab-n">
       <Lemma writtenForm="soft-shell crab" partOfSpeech="n"/>
@@ -11746,7 +11746,7 @@
       <Lemma writtenForm="sweetener" partOfSpeech="n"/>
       <Sense id="ewn-sweetener__1_13_00__" n="0" synset="ewn-07874571-n">
         <SenseRelation relType="derivation" target="ewn-sweeten__2_39_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-porcupine_ball-n">
       <Lemma writtenForm="porcupine ball" partOfSpeech="n"/>
@@ -12019,7 +12019,7 @@
       </Lemma>
       <Sense id="ewn-slice__1_13_00__" n="1" synset="ewn-07670276-n">
         <SenseRelation relType="derivation" target="ewn-slice__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-black_cherry-n">
       <Lemma writtenForm="black cherry" partOfSpeech="n"/>
@@ -12090,7 +12090,7 @@
       <Lemma writtenForm="supper" partOfSpeech="n"/>
       <Sense id="ewn-supper__1_13_00__" n="0" synset="ewn-07591549-n">
         <SenseRelation relType="derivation" target="ewn-sup__2_34_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bowtie_pasta-n">
       <Lemma writtenForm="bowtie pasta" partOfSpeech="n"/>
@@ -12107,7 +12107,7 @@
       <Sense id="ewn-grape__1_13_00__" n="0" synset="ewn-07774656-n">
         <SenseRelation relType="derivation" target="ewn-grapy__5_00_00_tasty_00"/>
         <SenseRelation relType="derivation" target="ewn-grapey__5_00_00_tasty_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-winter_crookneck_squash-n">
       <Lemma writtenForm="winter crookneck squash" partOfSpeech="n"/>
@@ -12192,7 +12192,7 @@
       </Lemma>
       <Sense id="ewn-wassail__1_13_00__" n="0" synset="ewn-07947520-n">
         <SenseRelation relType="derivation" target="ewn-wassail__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-brandy-n">
       <Lemma writtenForm="brandy" partOfSpeech="n">
@@ -12485,7 +12485,7 @@
         <SenseRelation relType="derivation" target="ewn-buttery__5_00_00_fatty_00"/>
         <SenseRelation relType="derivation" target="ewn-butyraceous__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-butter__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-herring-n">
       <Lemma writtenForm="herring" partOfSpeech="n">
@@ -12577,7 +12577,7 @@
       </Lemma>
       <Sense id="ewn-fodder__1_13_00__" n="1" synset="ewn-07816716-n">
         <SenseRelation relType="derivation" target="ewn-fodder__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-choc-ice-n">
       <Lemma writtenForm="choc-ice" partOfSpeech="n"/>
@@ -12732,7 +12732,7 @@
       <Lemma writtenForm="hash" partOfSpeech="n"/>
       <Sense id="ewn-hash__1_13_00__" n="0" synset="ewn-07885367-n">
         <SenseRelation relType="derivation" target="ewn-hash__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-horseflesh-n">
       <Lemma writtenForm="horseflesh" partOfSpeech="n"/>
@@ -12819,7 +12819,7 @@
       </Lemma>
       <Sense id="ewn-eater__1_13_00__" n="1" synset="ewn-07724005-n">
         <SenseRelation relType="derivation" target="ewn-eat__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-coffeecake-n">
       <Lemma writtenForm="coffeecake" partOfSpeech="n"/>
@@ -12852,7 +12852,7 @@
         <SenseRelation relType="derivation" target="ewn-floury__5_00_00_fine_00"/>
         <SenseRelation relType="derivation" target="ewn-flour__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-flour__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-poulet-n">
       <Lemma writtenForm="poulet" partOfSpeech="n"/>
@@ -13065,7 +13065,7 @@
       </Lemma>
       <Sense id="ewn-generic__1_13_00__" n="0" synset="ewn-07915951-n">
         <SenseRelation relType="antonym" target="ewn-varietal__1_13_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-flan-n">
       <Lemma writtenForm="flan" partOfSpeech="n">
@@ -13121,7 +13121,7 @@
       <Lemma writtenForm="peel" partOfSpeech="n"/>
       <Sense id="ewn-peel__1_13_00__" n="0" synset="ewn-07754329-n">
         <SenseRelation relType="derivation" target="ewn-peel__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-wonton-n">
       <Lemma writtenForm="wonton" partOfSpeech="n">
@@ -13148,7 +13148,7 @@
       <Sense id="ewn-brine__1_13_00__" n="1" synset="ewn-07953443-n">
         <SenseRelation relType="derivation" target="ewn-briny__5_00_00_salty_00"/>
         <SenseRelation relType="derivation" target="ewn-brine__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mineral_water-n">
       <Lemma writtenForm="mineral water" partOfSpeech="n"/>
@@ -13198,7 +13198,7 @@
       <Lemma writtenForm="inebriant" partOfSpeech="n"/>
       <Sense id="ewn-inebriant__1_13_00__" n="0" synset="ewn-07900542-n">
         <SenseRelation relType="derivation" target="ewn-inebriate__2_34_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-mould-n">
       <Lemma writtenForm="mould" partOfSpeech="n"/>
@@ -13260,7 +13260,7 @@
       </Lemma>
       <Sense id="ewn-duckling__1_13_00__" n="0" synset="ewn-07662327-n">
         <SenseRelation relType="derivation" target="ewn-duck__1_13_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-caraway_seed_bread-n">
       <Lemma writtenForm="caraway seed bread" partOfSpeech="n"/>
@@ -13343,7 +13343,7 @@
       </Lemma>
       <Sense id="ewn-juice__1_13_00__" n="0" synset="ewn-07939988-n">
         <SenseRelation relType="derivation" target="ewn-juicy__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-sparerib-n">
       <Lemma writtenForm="sparerib" partOfSpeech="n">
@@ -13407,7 +13407,7 @@
       <Lemma writtenForm="rice" partOfSpeech="n"/>
       <Sense id="ewn-rice__1_13_00__" n="0" synset="ewn-07820299-n">
         <SenseRelation relType="derivation" target="ewn-rice__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-oxtail_soup-n">
       <Lemma writtenForm="oxtail soup" partOfSpeech="n"/>
@@ -13551,7 +13551,7 @@
       </Lemma>
       <Sense id="ewn-dough__1_13_00__" n="0" synset="ewn-07876964-n">
         <SenseRelation relType="derivation" target="ewn-doughy__5_00_00_heavy_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-hotdog_bun-n">
       <Lemma writtenForm="hotdog bun" partOfSpeech="n"/>
@@ -13605,7 +13605,7 @@
       </Lemma>
       <Sense id="ewn-claret__1_13_00__" n="1" synset="ewn-07911410-n">
         <SenseRelation relType="derivation" target="ewn-claret__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-reducing_diet-n">
       <Lemma writtenForm="reducing diet" partOfSpeech="n"/>
@@ -13694,7 +13694,7 @@
       <Sense id="ewn-breakfast__1_13_00__" n="0" synset="ewn-07590167-n">
         <SenseRelation relType="derivation" target="ewn-breakfast__2_34_01__"/>
         <SenseRelation relType="derivation" target="ewn-breakfast__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-savoy-n">
       <Lemma writtenForm="savoy" partOfSpeech="n">
@@ -13771,7 +13771,7 @@
       </Lemma>
       <Sense id="ewn-concoction__1_13_00__" n="0" synset="ewn-07898472-n">
         <SenseRelation relType="derivation" target="ewn-concoct__2_36_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-coffee_berry-n">
       <Lemma writtenForm="coffee berry" partOfSpeech="n"/>
@@ -13899,10 +13899,10 @@
       <Lemma writtenForm="dressing" partOfSpeech="n"/>
       <Sense id="ewn-dressing__1_13_01__" n="0" synset="ewn-07848878-n">
         <SenseRelation relType="derivation" target="ewn-dress__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-dressing__1_13_02__" n="1" synset="ewn-07694474-n">
         <SenseRelation relType="derivation" target="ewn-dress__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Victoria_sponge-n">
       <Lemma writtenForm="Victoria sponge" partOfSpeech="n"/>
@@ -13979,7 +13979,7 @@
       <Sense id="ewn-egg__1_13_00__" n="1" synset="ewn-07856780-n">
         <SenseRelation relType="derivation" target="ewn-egg__2_35_00__"/>
         <SenseRelation relType="derivation" target="ewn-egg__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-codfish_cake-n">
       <Lemma writtenForm="codfish cake" partOfSpeech="n"/>
@@ -14039,7 +14039,7 @@
       </Lemma>
       <Sense id="ewn-mush__1_13_00__" n="1" synset="ewn-07719078-n">
         <SenseRelation relType="derivation" target="ewn-mushy__5_00_00_soft_01"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-haricot-n">
       <Lemma writtenForm="haricot" partOfSpeech="n"/>
@@ -14136,7 +14136,7 @@
       </Lemma>
       <Sense id="ewn-nosh__1_13_00__" n="0" synset="ewn-07593103-n">
         <SenseRelation relType="derivation" target="ewn-nosh__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-meatball-n">
       <Lemma writtenForm="meatball" partOfSpeech="n"/>
@@ -14156,7 +14156,7 @@
         <SenseRelation relType="derivation" target="ewn-victual__2_34_00__"/>
         <SenseRelation relType="derivation" target="ewn-victual__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-victual__2_40_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-gin_and_it-n">
       <Lemma writtenForm="gin and it" partOfSpeech="n"/>
@@ -14266,10 +14266,10 @@
         <SenseRelation relType="derivation" target="ewn-milky__5_00_00_opaque_00"/>
         <SenseRelation relType="derivation" target="ewn-milk__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-milk__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-milk__1_13_02__" n="2" synset="ewn-07860580-n">
         <SenseRelation relType="derivation" target="ewn-milk__2_30_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Scotch_pancake-n">
       <Lemma writtenForm="Scotch pancake" partOfSpeech="n"/>
@@ -14367,7 +14367,7 @@
       </Lemma>
       <Sense id="ewn-comestible__1_13_00__" n="0" synset="ewn-07572202-n">
         <SenseRelation relType="derivation" target="ewn-comestible__3_00_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bran_flake-n">
       <Lemma writtenForm="bran flake" partOfSpeech="n"/>
@@ -14399,7 +14399,7 @@
       <Lemma writtenForm="turnover" partOfSpeech="n"/>
       <Sense id="ewn-turnover__1_13_00__" n="1" synset="ewn-07640075-n">
         <SenseRelation relType="derivation" target="ewn-turn_over__2_35_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Valencia_orange-n">
       <Lemma writtenForm="Valencia orange" partOfSpeech="n"/>
@@ -14418,7 +14418,7 @@
       <Sense id="ewn-meal__1_13_00__" n="0" synset="ewn-07589261-n"/>
       <Sense id="ewn-meal__1_13_01__" n="2" synset="ewn-07583272-n">
         <SenseRelation relType="derivation" target="ewn-mealy__3_01_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chuck_short_ribs-n">
       <Lemma writtenForm="chuck short ribs" partOfSpeech="n"/>
@@ -14572,7 +14572,7 @@
       <Sense id="ewn-nectar__1_13_02__" n="1" synset="ewn-07940516-n"/>
       <Sense id="ewn-nectar__1_13_01__" n="2" synset="ewn-07625904-n">
         <SenseRelation relType="derivation" target="ewn-nectarous__5_00_00_tasty_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-tuna_fish-n">
       <Lemma writtenForm="tuna fish" partOfSpeech="n"/>
@@ -14623,7 +14623,7 @@
       </Lemma>
       <Sense id="ewn-garnish__1_13_00__" n="0" synset="ewn-07637227-n">
         <SenseRelation relType="derivation" target="ewn-garnish__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chocolate_fondue-n">
       <Lemma writtenForm="chocolate fondue" partOfSpeech="n"/>
@@ -14652,7 +14652,7 @@
       </Lemma>
       <Sense id="ewn-banquet__1_13_00__" n="1" synset="ewn-07593658-n">
         <SenseRelation relType="derivation" target="ewn-banquet__2_34_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-applesauce_cake-n">
       <Lemma writtenForm="applesauce cake" partOfSpeech="n"/>
@@ -14724,7 +14724,7 @@
       </Lemma>
       <Sense id="ewn-varietal__1_13_00__" n="0" synset="ewn-07916465-n">
         <SenseRelation relType="antonym" target="ewn-generic__1_13_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pea-n">
       <Lemma writtenForm="pea" partOfSpeech="n"/>
@@ -14810,7 +14810,7 @@
       </Lemma>
       <Sense id="ewn-oyster__1_13_00__" n="1" synset="ewn-07802140-n">
         <SenseRelation relType="derivation" target="ewn-oyster__2_35_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-oyster__1_13_01__" n="2" synset="ewn-07664951-n"/>
     </LexicalEntry>
     <LexicalEntry id="ewn-snapper-n">
@@ -14866,13 +14866,13 @@
         <SenseRelation relType="derivation" target="ewn-caramelize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-caramelise__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-caramelise__2_30_00__"/>
-        </Sense>
+      </Sense>
       <Sense id="ewn-caramel__1_13_01__" n="1" synset="ewn-07610751-n">
         <SenseRelation relType="derivation" target="ewn-caramelize__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-caramelize__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-caramelise__2_30_01__"/>
         <SenseRelation relType="derivation" target="ewn-caramelise__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-old_fashioned-n">
       <Lemma writtenForm="old fashioned" partOfSpeech="n"/>
@@ -15404,7 +15404,7 @@
       <Lemma writtenForm="pickle" partOfSpeech="n"/>
       <Sense id="ewn-pickle__1_13_00__" n="0" synset="ewn-07840964-n">
         <SenseRelation relType="derivation" target="ewn-pickle__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-curly_endive-n">
       <Lemma writtenForm="curly endive" partOfSpeech="n"/>
@@ -15471,7 +15471,7 @@
       <Lemma writtenForm="snack" partOfSpeech="n"/>
       <Sense id="ewn-snack__1_13_00__" n="0" synset="ewn-07592939-n">
         <SenseRelation relType="derivation" target="ewn-snack__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-kitambilla-n">
       <Lemma writtenForm="kitambilla" partOfSpeech="n"/>
@@ -15506,7 +15506,7 @@
       <Lemma writtenForm="souse" partOfSpeech="n"/>
       <Sense id="ewn-souse__1_13_00__" n="1" synset="ewn-07694058-n">
         <SenseRelation relType="derivation" target="ewn-souse__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-boeuf_fondu_bourguignon-n">
       <Lemma writtenForm="boeuf fondu bourguignon" partOfSpeech="n"/>
@@ -15651,7 +15651,7 @@
       <Sense id="ewn-brew__1_13_00__" n="0" synset="ewn-07902547-n">
         <SenseRelation relType="derivation" target="ewn-brew__2_36_00__"/>
         <SenseRelation relType="derivation" target="ewn-brew__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-eggshake-n">
       <Lemma writtenForm="eggshake" partOfSpeech="n"/>
@@ -15694,7 +15694,7 @@
       <Lemma writtenForm="varietal wine" partOfSpeech="n"/>
       <Sense id="ewn-varietal_wine__1_13_00__" n="0" synset="ewn-07916465-n">
         <SenseRelation relType="antonym" target="ewn-generic_wine__1_13_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pigwash-n">
       <Lemma writtenForm="pigwash" partOfSpeech="n"/>
@@ -15753,7 +15753,7 @@
       </Lemma>
       <Sense id="ewn-suet__1_13_00__" n="0" synset="ewn-07688535-n">
         <SenseRelation relType="derivation" target="ewn-suety__5_00_00_fatty_00"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cafe_noir-n">
       <Lemma writtenForm="cafe noir" partOfSpeech="n"/>
@@ -15824,7 +15824,7 @@
       </Lemma>
       <Sense id="ewn-serving__1_13_00__" n="0" synset="ewn-07593928-n">
         <SenseRelation relType="derivation" target="ewn-serve__2_34_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-green_groceries-n">
       <Lemma writtenForm="green groceries" partOfSpeech="n"/>
@@ -15854,7 +15854,7 @@
       <Lemma writtenForm="brewage" partOfSpeech="n"/>
       <Sense id="ewn-brewage__1_13_00__" n="0" synset="ewn-07902547-n">
         <SenseRelation relType="derivation" target="ewn-brew__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-pizza_pie-n">
       <Lemma writtenForm="pizza pie" partOfSpeech="n"/>
@@ -15876,7 +15876,7 @@
       <Sense id="ewn-marinade__1_13_00__" n="0" synset="ewn-07840478-n">
         <SenseRelation relType="derivation" target="ewn-marinate__2_30_00__"/>
         <SenseRelation relType="derivation" target="ewn-marinade__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-truffle-n">
       <Lemma writtenForm="truffle" partOfSpeech="n">
@@ -15931,7 +15931,7 @@
       <Lemma writtenForm="icing" partOfSpeech="n"/>
       <Sense id="ewn-icing__1_13_00__" n="1" synset="ewn-07636431-n">
         <SenseRelation relType="derivation" target="ewn-ice__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-brown_bread-n">
       <Lemma writtenForm="brown bread" partOfSpeech="n"/>
@@ -15942,7 +15942,7 @@
       <Lemma writtenForm="frier" partOfSpeech="n"/>
       <Sense id="ewn-frier__1_13_00__" n="0" synset="ewn-07661078-n">
         <SenseRelation relType="derivation" target="ewn-fry__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-multivitamin_pill-n">
       <Lemma writtenForm="multivitamin pill" partOfSpeech="n"/>
@@ -15989,7 +15989,7 @@
       <Lemma writtenForm="skim milk" partOfSpeech="n"/>
       <Sense id="ewn-skim_milk__1_13_00__" n="0" synset="ewn-07862533-n">
         <SenseRelation relType="antonym" target="ewn-whole_milk__1_13_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-farina-n">
       <Lemma writtenForm="farina" partOfSpeech="n"/>
@@ -16314,7 +16314,7 @@
       <Lemma writtenForm="berry" partOfSpeech="n"/>
       <Sense id="ewn-berry__1_13_00__" n="0" synset="ewn-07758680-n">
         <SenseRelation relType="derivation" target="ewn-berry__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Wiener_schnitzel-n">
       <Lemma writtenForm="Wiener schnitzel" partOfSpeech="n"/>
@@ -16398,7 +16398,7 @@
       <Lemma writtenForm="spatchcock" partOfSpeech="n"/>
       <Sense id="ewn-spatchcock__1_13_00__" n="0" synset="ewn-07661495-n">
         <SenseRelation relType="derivation" target="ewn-spatchcock__2_36_01__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-Turkish_Delight-n">
       <Lemma writtenForm="Turkish Delight" partOfSpeech="n"/>
@@ -16457,7 +16457,7 @@
       </Lemma>
       <Sense id="ewn-blackberry__1_13_00__" n="0" synset="ewn-07760787-n">
         <SenseRelation relType="derivation" target="ewn-blackberry__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-souvlakia-n">
       <Lemma writtenForm="souvlakia" partOfSpeech="n"/>
@@ -16620,7 +16620,7 @@
       <Lemma writtenForm="paring" partOfSpeech="n"/>
       <Sense id="ewn-paring__1_13_00__" n="1" synset="ewn-07867030-n">
         <SenseRelation relType="derivation" target="ewn-pare__2_35_02__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-onion_roll-n">
       <Lemma writtenForm="onion roll" partOfSpeech="n"/>
@@ -16645,7 +16645,7 @@
       <Lemma writtenForm="Pernod" partOfSpeech="n"/>
       <Sense id="ewn-pernod__1_13_00__" n="0" synset="ewn-07926896-n">
         <SenseRelation relType="exemplifies" target="ewn-trademark__1_10_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-food-n">
       <Lemma writtenForm="food" partOfSpeech="n">
@@ -16713,7 +16713,7 @@
         <SenseRelation relType="derivation" target="ewn-crisp__5_00_00_tender_01"/>
         <SenseRelation relType="derivation" target="ewn-crispy__5_00_00_tender_01"/>
         <SenseRelation relType="derivation" target="ewn-crisp__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-canola_oil-n">
       <Lemma writtenForm="canola oil" partOfSpeech="n"/>
@@ -16735,7 +16735,7 @@
         <SenseRelation relType="derivation" target="ewn-nutritious__5_00_00_wholesome_00"/>
         <SenseRelation relType="derivation" target="ewn-nutritional__3_01_00__"/>
         <SenseRelation relType="derivation" target="ewn-nutritionist__1_18_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-blood_meal-n">
       <Lemma writtenForm="blood meal" partOfSpeech="n"/>
@@ -17036,7 +17036,7 @@
       </Lemma>
       <Sense id="ewn-quaff__1_13_00__" n="0" synset="ewn-07900157-n">
         <SenseRelation relType="derivation" target="ewn-quaff__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-manna-n">
       <Lemma writtenForm="manna" partOfSpeech="n">
@@ -17096,7 +17096,7 @@
       </Lemma>
       <Sense id="ewn-brunch__1_13_00__" n="0" synset="ewn-07590488-n">
         <SenseRelation relType="derivation" target="ewn-brunch__2_34_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-dasheen-n">
       <Lemma writtenForm="dasheen" partOfSpeech="n">
@@ -17132,7 +17132,7 @@
       <Sense id="ewn-pasture__1_13_00__" n="1" synset="ewn-07817067-n">
         <SenseRelation relType="derivation" target="ewn-pasture__2_35_10__"/>
         <SenseRelation relType="derivation" target="ewn-pasture__2_35_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-chiffon_cake-n">
       <Lemma writtenForm="chiffon cake" partOfSpeech="n"/>
@@ -17143,7 +17143,7 @@
       <Sense id="ewn-bootleg__1_13_00__" n="0" synset="ewn-07918760-n">
         <SenseRelation relType="derivation" target="ewn-bootleg__2_40_00__"/>
         <SenseRelation relType="derivation" target="ewn-bootleg__2_36_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-cockle-n">
       <Lemma writtenForm="cockle" partOfSpeech="n"/>
@@ -17217,7 +17217,7 @@
       <Sense id="ewn-fizz__1_13_00__" n="0" synset="ewn-07935550-n">
         <SenseRelation relType="derivation" target="ewn-fizzy__5_00_00_effervescent_00"/>
         <SenseRelation relType="derivation" target="ewn-fizz__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-bratwurst-n">
       <Lemma writtenForm="bratwurst" partOfSpeech="n"/>
@@ -17329,7 +17329,7 @@
       </Lemma>
       <Sense id="ewn-fricassee__1_13_00__" n="0" synset="ewn-07607665-n">
         <SenseRelation relType="derivation" target="ewn-fricassee__2_30_00__"/>
-        </Sense>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="ewn-calf-ap-s-foot_jelly-n">
       <Lemma writtenForm="calf&apos;s-foot jelly" partOfSpeech="n"/>
